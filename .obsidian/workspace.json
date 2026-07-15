@@ -4,20 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1e1d956c4faac7ab",
+        "id": "75620afee625e6d0",
         "type": "tabs",
         "children": [
           {
-            "id": "afca44ed383eaa8d",
+            "id": "79695f0c593010b8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Codex/TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
         ]
@@ -43,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -132,7 +143,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "标签"
             }
           },
           {
@@ -175,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -183,19 +194,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afca44ed383eaa8d",
+  "active": "79695f0c593010b8",
   "lastOpenFiles": [
     "Untitled.base",
+    "Codex/TODO.md",
+    "Pasted image 20260714131902.png",
+    "Codex/projects/解剖学背诵资料/知识点/04-中轴骨骼-躯干头颈.md",
     "Codex/projects/解剖学背诵资料/README.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
     "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
@@ -205,7 +219,6 @@
     "Codex/notes/SuperMemo 20条知识表述规则.md",
     "Codex/notes/SuperMemo.md",
     "Codex/notes/2026-06-22 上午活动复盘.md",
-    "Pasted image 20260714131902.png",
     "Codex/projects/运动康复政策与行业发展.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
     "Codex/projects/考研英语作文与翻译输出训练/README.md",
@@ -220,8 +233,6 @@
     "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
     "Codex/projects/解剖学学习网站/README.md",
     "Codex/projects/考研学习过程第一性原理拆解.md",
-    "Codex/projects/解剖学背诵资料/知识点/13-真题方向模拟出题规则.md",
-    "Codex/projects/读书伴读/微信读书统计.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
@@ -230,7 +241,6 @@
     "Codex/projects/上海体育大学运动康复系教师科研画像",
     "Codex/projects/解剖学背诵资料/知识点",
     "Codex/projects/解剖学背诵资料",
-    "Codex/projects/读书伴读/笔记导出",
-    "Codex/projects/读书伴读"
+    "Codex/projects/读书伴读/笔记导出"
   ]
 }
