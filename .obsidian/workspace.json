@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/agent/输出纪律.md",
+                "file": "Codex/projects/考研英语作文与翻译输出训练/雅思100句翻译-词伙句子结构对比整理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "输出纪律"
+              "title": "雅思100句翻译-词伙句子结构对比整理"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -207,12 +208,15 @@
   },
   "active": "afca44ed383eaa8d",
   "lastOpenFiles": [
+    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
+    "Codex/projects/考研英语作文与翻译输出训练/雅思100句翻译-词伙句子结构对比整理.md",
+    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
+    "Codex/agent/输出纪律.md",
     "Codex/agent/工作流约定.md",
     "Codex/TODO.md",
     "Codex/AGENTS.md",
     "Untitled.base",
     "Codex/projects/解剖学背诵资料/README.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
     "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
     "Codex/notes/第一性原理.md",
     "Codex/notes/梗库.md",
@@ -222,7 +226,6 @@
     "Codex/notes/2026-06-22 上午活动复盘.md",
     "Pasted image 20260714131902.png",
     "Codex/projects/运动康复政策与行业发展.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
     "Codex/projects/考研英语作文与翻译输出训练/README.md",
     "Codex/projects/考研英语作文与翻译输出训练/writing-system.md",
     "Codex/projects/考研英语作文与翻译输出训练/state.md",
@@ -233,8 +236,6 @@
     "Codex/projects/考研英语作文与翻译输出训练/templates/daily-session.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-13.md",
     "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
-    "Codex/projects/解剖学学习网站/README.md",
-    "Codex/projects/考研学习过程第一性原理拆解.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
