@@ -1,0 +1,4 @@
+interface:
+  display_name: "考研英语一作文陪练"
+  short_description: "每日作文命题、评分批改、重写复写和长期错误追踪管理系统"
+  default_prompt: "使用 $kaoyan-english-writing-coach 读取项目进度并安排今天的作文训练。"

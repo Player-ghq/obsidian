@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "5bc8e2e616e90957",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac19531af07c46a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5c5845f6871e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/解剖学背诵资料/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8de718fb4cec78bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3370b08dd4000a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e98af7c370b13acc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b5707b4b92d229a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4185bf295b2cc74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f3b60a6360b62e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e3fbb2f97941e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "388c23103f277d80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Codex/projects/解剖学背诵资料/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "1914bd67895b91fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Codex/notes/2026-06-22 上午活动复盘.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-22 上午活动复盘"
+            }
+          },
+          {
+            "id": "36ee5163cdd039cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a910922127f01e6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6698c8275356fac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Codex/notes/2026-06-22 上午活动复盘.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2026-06-22 上午活动复盘"
+            }
+          },
+          {
+            "id": "d58023f4bca0d6f9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5b5c5845f6871e9a",
+  "lastOpenFiles": [
+    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
+    "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
+    "Codex/notes/第一性原理.md",
+    "Codex/notes/梗库.md",
+    "Codex/notes/提高记忆与减少遗忘的方法.md",
+    "Codex/notes/SuperMemo 20条知识表述规则.md",
+    "Codex/notes/SuperMemo.md",
+    "Codex/notes/2026-06-22 上午活动复盘.md",
+    "Pasted image 20260714131902.png",
+    "Codex/projects/运动康复政策与行业发展.md",
+    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
+    "Codex/projects/考研英语作文与翻译输出训练/README.md",
+    "Codex/projects/考研英语作文与翻译输出训练/writing-system.md",
+    "Codex/projects/考研英语作文与翻译输出训练/state.md",
+    "Codex/projects/考研英语作文与翻译输出训练/profile.md",
+    "Codex/projects/考研英语作文与翻译输出训练/plan.md",
+    "Codex/projects/考研英语作文与翻译输出训练/AGENTS.md",
+    "Codex/projects/考研英语作文与翻译输出训练/reviews/2026-W28.md",
+    "Codex/projects/考研英语作文与翻译输出训练/templates/daily-session.md",
+    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-13.md",
+    "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
+    "Codex/projects/解剖学学习网站/README.md",
+    "Codex/projects/考研学习过程第一性原理拆解.md",
+    "Codex/projects/解剖学背诵资料/知识点/13-真题方向模拟出题规则.md",
+    "Codex/projects/解剖学背诵资料/README.md",
+    "Codex/projects/读书伴读/微信读书统计.md",
+    "Codex/projects/运动生理学备考/每日任务/README.md",
+    "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
+    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
+    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
+    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师科研成果总表.xlsx",
+    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师科研成果总表.csv",
+    "Codex/projects/上海体育大学运动康复系教师科研画像",
+    "Codex/projects/解剖学背诵资料/知识点",
+    "Codex/projects/解剖学背诵资料",
+    "Codex/projects/读书伴读/笔记导出",
+    "Codex/projects/读书伴读"
+  ]
+}
