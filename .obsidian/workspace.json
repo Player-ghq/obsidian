@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5ac19531af07c46a",
+        "id": "1e1d956c4faac7ab",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5c5845f6871e9a",
+            "id": "afca44ed383eaa8d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Codex/projects/解剖学背诵资料/README.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -194,8 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b5c5845f6871e9a",
+  "active": "afca44ed383eaa8d",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Codex/projects/解剖学背诵资料/README.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
     "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
     "Codex/notes/第一性原理.md",
@@ -220,9 +221,7 @@
     "Codex/projects/解剖学学习网站/README.md",
     "Codex/projects/考研学习过程第一性原理拆解.md",
     "Codex/projects/解剖学背诵资料/知识点/13-真题方向模拟出题规则.md",
-    "Codex/projects/解剖学背诵资料/README.md",
     "Codex/projects/读书伴读/微信读书统计.md",
-    "Codex/projects/运动生理学备考/每日任务/README.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
