@@ -5,8 +5,9 @@
 - 2026-07-20 创建第一版本地 Python MVP。
 - 代码位置：`/Users/HaoQi/Documents/Codex/2026-07-20/new-chat/outputs/werewolf-review`
 - 技术栈：Streamlit + faster-whisper。
-- 当前能力：上传音频/视频，Whisper 转写，手动标注玩家/阶段/备注，保存 JSON 项目，导出 Markdown 复盘。
+- 当前能力：上传音频/视频或浏览器本地录音，Whisper 转写，手动标注玩家/阶段/备注，保存 JSON 项目，导出 Markdown 复盘。
 - 已创建样例项目：`data/sample_project.json`；已验证样例 Markdown 导出：`outputs/sample_export.md`。
+- 2026-07-20 更新：转写页新增「本地录音」入口，侧边栏玩家列表输入框高度增大到 320。
 
 ## 当前限制
 
