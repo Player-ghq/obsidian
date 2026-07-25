@@ -72,3 +72,13 @@
 - 已执行真实本机安装：`/Users/HaoQi/Library/Input Methods/MacAIInput.app`、`/Users/HaoQi/Library/Application Support/MacAIInput/Dictionary.sqlite`、`DoublePinyin.tsv`、`LastImportReport.json` 均已生成，`InputMethodConnectionName = MacAIInputConnection`。
 - 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装 smoke test 通过。
 - 未验证项：还需要用户在 macOS 系统设置中启用 `MacAIInput` 输入源，并在真实文本输入框中检查 `gu`、Return/Tab、Backspace 和候选显示行为。
+
+## 2026-07-26 输入源发现与诊断进展
+
+- 已完成输入源发现/诊断改进，并按用户最新偏好默认选择 1，将 `feature/input-source-discovery` fast-forward 合并回 `main`；`.worktrees/input-source-discovery` 已删除，本地 feature 分支已删除。
+- 新增输入法 icon 资源：`Resources/InputMethod/MacAIInputIcon.pdf`，并在 `Info.plist` 中加入 `tsInputMethodIconFileKey = MacAIInputIcon.pdf`。
+- `scripts/build-inputmethod-app.sh` 现在会复制 icon 资源，并对最终 `.build/MacAIInput.app` 做 ad-hoc bundle 签名；签名后 `codesign` 显示 `Identifier=local.macai.inputmethod`、`Info.plist entries=18`、`Sealed Resources version=2`。
+- 新增诊断脚本：`scripts/check-inputmethod-install.sh`，可检查 app、可执行文件、plist、bundle id、连接名、控制器类、icon、签名、SQLite 词库、双拼方案、导入报告、AppleEnabledInputSources 和 LaunchServices dump。
+- 已重新真实安装：`/Users/HaoQi/Library/Input Methods/MacAIInput.app`，并保留旧版本备份目录。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过。
+- 当前状态：文件、plist、icon、签名、词库均 OK；`MacAIInput` 仍未出现在 `AppleEnabledInputSources`，LaunchServices dump 也暂未列出 `local.macai.inputmethod`。下一步应注销/重新登录 macOS 后重跑 `./scripts/check-inputmethod-install.sh`，再尝试系统设置中启用输入源。
