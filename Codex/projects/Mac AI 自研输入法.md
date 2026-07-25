@@ -82,3 +82,31 @@
 - 已重新真实安装：`/Users/HaoQi/Library/Input Methods/MacAIInput.app`，并保留旧版本备份目录。
 - 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过。
 - 当前状态：文件、plist、icon、签名、词库均 OK；`MacAIInput` 仍未出现在 `AppleEnabledInputSources`，LaunchServices dump 也暂未列出 `local.macai.inputmethod`。下一步应注销/重新登录 macOS 后重跑 `./scripts/check-inputmethod-install.sh`，再尝试系统设置中启用输入源。
+
+## 2026-07-26 Haoqi Pinyin 命名进展
+
+- 用户将输入法正式命名为 `Haoqi Pinyin`，图标要求使用单个 `H`。
+- 已按默认选择 1 将 `feature/haoqi-pinyin-branding` fast-forward 合并回 `main`；`.worktrees/haoqi-pinyin-branding` 已删除，本地 feature 分支已删除。
+- 用户可见名称已改为 `Haoqi Pinyin`：`CFBundleName`、`CFBundleDisplayName`、打包产物 `.build/Haoqi Pinyin.app`、安装目录 `~/Library/Input Methods/Haoqi Pinyin.app`、运行时数据目录 `~/Library/Application Support/Haoqi Pinyin`。
+- 内部 bundle id、连接名和控制器类暂保持不变：`local.macai.inputmethod`、`MacAIInputConnection`、`MacAIInputController`，避免系统集成状态发生无必要变化。
+- 图标资源 `Resources/InputMethod/MacAIInputIcon.pdf` 已从 `AI` 改为单个 `H`。
+- 已执行真实安装：旧 `MacAIInput.app` 被移动到带时间戳的备份目录，新 `Haoqi Pinyin.app` 已安装；词库、双拼方案和导入报告已写入 `~/Library/Application Support/Haoqi Pinyin`。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过。
+
+## 2026-07-26 输入模式 metadata 进展
+
+- 针对 `Haoqi Pinyin` 已安装但系统输入源未识别的问题，对比了本机 `/Library/Input Methods/Squirrel.app/Contents/Info.plist`。
+- 发现成熟 InputMethodKit app 会声明 `TISInputSourceID` 和 `ComponentInputModeDict/tsInputModeListKey`；此前 `Haoqi Pinyin` 只声明了顶层 `tsInputMethod...` 字段。
+- 已按默认选择 1 将 `feature/input-mode-metadata` fast-forward 合并回 `main`；`.worktrees/input-mode-metadata` 已删除，本地 feature 分支已删除。
+- `Resources/InputMethod/Info.plist` 已新增：
+  - `TISInputSourceID = local.macai.inputmethod`
+  - `ComponentInputModeDict`，包含单个可见输入模式 `local.macai.inputmethod.Hans`
+  - `TISIntendedLanguage = zh-Hans`
+  - menu/palette/alternate icon 均为 `MacAIInputIcon.pdf`
+  - `NSPrincipalClass = NSApplication`
+  - `LSUIElement = true`
+  - `LSBackgroundOnly = false`
+- `scripts/check-inputmethod-install.sh` 已扩展检查 app-level TIS id、可见 input mode、Hans mode id 和语言。
+- 已重新真实安装：`~/Library/Input Methods/Haoqi Pinyin.app` 以及 `~/Library/Application Support/Haoqi Pinyin`。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过；真实安装诊断确认 input-mode metadata 存在。
+- 当前状态：诊断仍显示 `Haoqi Pinyin is not enabled in AppleEnabledInputSources`；下一步应注销/重新登录 macOS，重新运行 `./scripts/check-inputmethod-install.sh`，再到系统设置里尝试启用 `Haoqi Pinyin`。
