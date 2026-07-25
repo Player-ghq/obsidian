@@ -39,3 +39,16 @@
 - 已通过的验证：完整 `swift test --disable-sandbox` 通过，17 个 XCTest、0 失败；样例 TSV 可校验、编译为 SQLite、查询 `gu` 返回「股四头肌」、导出回 TSV。
 - Apple 开发者工具 license gate 已由用户处理完成。
 - 已按用户选择将 `feature/dictionary-toolchain` fast-forward 合并回 `main`；合并后在 `main` 再次通过完整测试与 CLI 烟测；`.worktrees/dictionary-toolchain` 已删除，本地 feature 分支已删除。
+
+## 2026-07-26 开发进展
+
+- 已创建第二阶段 worktree：`/Users/HaoQi/Documents/Codex/2026-07-25/mac-ai/.worktrees/double-pinyin-engine`，分支 `feature/double-pinyin-engine`。
+- 已完成双拼配置与输入引擎核心：
+  - `DoublePinyin.sample.tsv` 样例配置。
+  - 双拼方案 TSV 解析与行号错误。
+  - 双拼 raw buffer 到词库查询前缀的转换。
+  - `InputEngine`：维护 raw buffer、翻译 lookup prefix、查询 SQLite、输出排序候选。
+  - CLI：`scheme-validate`、`suggest`。
+  - 用户文档：`docs/user/double-pinyin-scheme.md`，并更新 `docs/user/dictionary-toolchain.md`。
+- 已通过的验证：完整 `swift test --disable-sandbox` 通过，31 个 XCTest、0 失败；样例词库编译后，`suggest --keys "gu"` 返回「股四头肌」。
+- 已按用户选择将 `feature/double-pinyin-engine` fast-forward 合并回 `main`；合并后在 `main` 再次通过完整测试与 CLI 烟测；`.worktrees/double-pinyin-engine` 已删除，本地 feature 分支已删除。
