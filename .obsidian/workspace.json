@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b11c5b2773e10820",
+        "id": "f088d9011c321f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "a708b978036e4f6a",
+            "id": "3e6937214a9546fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/TODO.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "New tab"
             }
           }
         ]
@@ -64,7 +50,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -84,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -205,8 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a708b978036e4f6a",
+  "active": "3e6937214a9546fb",
   "lastOpenFiles": [
+    "Codex/projects/读书伴读/笔记导出/福格行为模型 - B.J.福格.md",
+    "Codex/projects/读书伴读/微信读书统计.md",
+    "Codex/projects/读书伴读/TODO-追加项.md",
+    "Codex/projects/读书伴读/项目概览.md",
+    "Codex/projects/读书伴读/阅读杠杆率分析.md",
+    "Codex/projects/读书伴读/反向修正书单.md",
+    "Codex/TODO.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-21.md",
     "Pasted image 20260714131902.png",
     "Codex/projects/狼人杀语音复盘软件/README.md",
@@ -221,7 +215,6 @@
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
     "Codex/agent/输出纪律.md",
     "Codex/agent/工作流约定.md",
-    "Codex/TODO.md",
     "Codex/AGENTS.md",
     "Untitled.base",
     "Codex/projects/解剖学背诵资料/README.md",
@@ -230,12 +223,6 @@
     "Codex/notes/梗库.md",
     "Codex/notes/提高记忆与减少遗忘的方法.md",
     "Codex/notes/SuperMemo 20条知识表述规则.md",
-    "Codex/notes/SuperMemo.md",
-    "Codex/notes/2026-06-22 上午活动复盘.md",
-    "Codex/projects/运动康复政策与行业发展.md",
-    "Codex/projects/考研英语作文与翻译输出训练/README.md",
-    "Codex/projects/考研英语作文与翻译输出训练/writing-system.md",
-    "Codex/projects/考研英语作文与翻译输出训练/state.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
