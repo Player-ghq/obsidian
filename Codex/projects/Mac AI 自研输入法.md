@@ -110,3 +110,18 @@
 - 已重新真实安装：`~/Library/Input Methods/Haoqi Pinyin.app` 以及 `~/Library/Application Support/Haoqi Pinyin`。
 - 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过；真实安装诊断确认 input-mode metadata 存在。
 - 当前状态：诊断仍显示 `Haoqi Pinyin is not enabled in AppleEnabledInputSources`；下一步应注销/重新登录 macOS，重新运行 `./scripts/check-inputmethod-install.sh`，再到系统设置里尝试启用 `Haoqi Pinyin`。
+
+## 2026-07-26 TIS 注册 helper 进展
+
+- 已完成 TIS 注册辅助命令，并按用户默认选择 1 将 `feature/tis-registration-helper` fast-forward 合并回 `main`；`.worktrees/tis-registration-helper` 已删除，本地 feature 分支已删除。
+- 新增 Swift executable：`haoqi-pinyinctl`，支持 `register [--app <Haoqi Pinyin.app>] [--source-id <id>] [--mode-id <id>] [--no-select]`。
+- 将系统识别 id 从 `local.macai.inputmethod` 调整为更标准的 `local.haoqi.inputmethod.HaoqiPinyin`；Hans input mode id 为 `local.haoqi.inputmethod.HaoqiPinyin.Hans`。
+- `Resources/InputMethod/Info.plist` 已补齐 `CFBundleSupportedPlatforms`、`CFBundleSignature`、`CFBundleIconFile`、`InputMethodServerDelegateClass`、`TISIntendedLanguage`，并将 `tsInputMethodCharacterRepertoireKey` 改为 array。
+- `scripts/build-inputmethod-app.sh` 现在会生成 `Contents/PkgInfo`；`scripts/install-local-inputmethod.sh` 真实 HOME 安装时会调用 `haoqi-pinyinctl register`，fake home smoke test 会跳过注册。
+- code review 后已修正：
+  - helper 选择输入模式后会重新检查 `kTISPropertyInputSourceIsSelected`，避免假报 selected。
+  - 安装脚本不再吞掉 helper 的硬失败；非致命的会话同步/选择 warning 仍由 helper 以 exit 0 表达。
+  - 文档中的手动注册命令显式传入 `--app "$HOME/Library/Input Methods/Haoqi Pinyin.app"`。
+- 已执行真实安装：`/Users/HaoQi/Library/Input Methods/Haoqi Pinyin.app` 为新 bundle id 版本，词库和双拼方案仍在 `/Users/HaoQi/Library/Application Support/Haoqi Pinyin`。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，38 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过；真实安装诊断确认 plist、PkgInfo、签名、词库、双拼方案均 OK。
+- 当前状态：`haoqi-pinyinctl register` 已能找到并注册 `local.haoqi.inputmethod.HaoqiPinyin` 与 `local.haoqi.inputmethod.HaoqiPinyin.Hans`，但当前 Codex/macOS 会话中父级 input source 的 enabled 状态未反映，`AppleEnabledInputSources` 和 LaunchServices dump 仍为 warning。下一步需要注销/重新登录 macOS 后重跑诊断，或在系统设置中手动添加 `Haoqi Pinyin`。
