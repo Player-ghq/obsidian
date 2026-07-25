@@ -52,3 +52,23 @@
   - 用户文档：`docs/user/double-pinyin-scheme.md`，并更新 `docs/user/dictionary-toolchain.md`。
 - 已通过的验证：完整 `swift test --disable-sandbox` 通过，31 个 XCTest、0 失败；样例词库编译后，`suggest --keys "gu"` 返回「股四头肌」。
 - 已按用户选择将 `feature/double-pinyin-engine` fast-forward 合并回 `main`；合并后在 `main` 再次通过完整测试与 CLI 烟测；`.worktrees/double-pinyin-engine` 已删除，本地 feature 分支已删除。
+
+## 2026-07-26 InputMethodKit 外壳进展
+
+- 已完成最小 macOS InputMethodKit 输入法外壳，并按用户选择将 `feature/inputmethodkit-shell` fast-forward 合并回 `main`；`.worktrees/inputmethodkit-shell` 已删除，本地 feature 分支已删除。
+- 新增 `macai-inputmethod` Swift executable，包含 `MacAIInputController`、本地 `InputEngine` 加载、基本字母 buffer、Backspace、Return/Tab 提交，以及候选查询桥接。
+- 新增 `.app` 打包脚本：`scripts/build-inputmethod-app.sh`，产物为 `.build/MacAIInput.app`。
+- 新增 InputMethodKit `Info.plist`：`Resources/InputMethod/Info.plist`，关键字段为 `InputMethodConnectionName = MacAIInputConnection`、`InputMethodServerControllerClass = MacAIInputController`。
+- 新增用户文档：`docs/user/inputmethodkit-shell.md`，说明构建、本地词库路径、手动安装和当前限制。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；运行 `./scripts/build-inputmethod-app.sh` 成功；`plutil -lint .build/MacAIInput.app/Contents/Info.plist` 通过。
+- 未验证项：尚未在 macOS 系统输入源中手动安装和真实输入测试；下一步应做本机安装、候选窗口行为检查和输入体验修正。
+
+## 2026-07-26 本机安装验证进展
+
+- 已完成本机安装辅助脚本，并按用户选择将 `feature/local-install-validation` fast-forward 合并回 `main`；`.worktrees/local-install-validation` 已删除，本地 feature 分支已删除。
+- 新增脚本：`scripts/install-local-inputmethod.sh`，可构建 `.build/MacAIInput.app`、编译样例 TSV 为 SQLite、复制双拼方案、安装到 `~/Library/Input Methods/MacAIInput.app`，并输出安装位置、词库路径、方案路径和导入报告路径。
+- 脚本支持 `MACAI_REAL_HOME` fake home smoke test；fake home 下会跳过刷新 `TextInputMenuAgent`，真实 `HOME` 安装时会刷新。
+- 已更新文档：`docs/user/inputmethodkit-shell.md` 和 `docs/user/dictionary-toolchain.md`，补充自动安装、本机验证清单和导入报告说明。
+- 已执行真实本机安装：`/Users/HaoQi/Library/Input Methods/MacAIInput.app`、`/Users/HaoQi/Library/Application Support/MacAIInput/Dictionary.sqlite`、`DoublePinyin.tsv`、`LastImportReport.json` 均已生成，`InputMethodConnectionName = MacAIInputConnection`。
+- 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，31 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装 smoke test 通过。
+- 未验证项：还需要用户在 macOS 系统设置中启用 `MacAIInput` 输入源，并在真实文本输入框中检查 `gu`、Return/Tab、Backspace 和候选显示行为。
