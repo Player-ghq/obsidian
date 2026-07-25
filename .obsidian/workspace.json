@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f088d9011c321f0f",
+        "id": "fb4a9e59ba97e3a2",
         "type": "tabs",
         "children": [
           {
-            "id": "3e6937214a9546fb",
+            "id": "a6fc1b9a40004400",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/读书伴读/笔记导出/索引.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "索引"
-            }
-          },
-          {
-            "id": "a4294db994b561e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/读书伴读/笔记导出/福格行为模型 - B.J.福格.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "福格行为模型 - B.J.福格"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,10 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4294db994b561e9",
+  "active": "a6fc1b9a40004400",
   "lastOpenFiles": [
-    "Codex/projects/Mac AI 自研输入法.md",
     "Codex/projects/读书伴读/笔记导出/索引.md",
+    "Codex/projects/Mac AI 自研输入法.md",
+    "Codex/projects/考研学习过程第一性原理拆解.md",
     "Codex/projects/读书伴读/笔记导出/福格行为模型 - B.J.福格.md",
     "Codex/projects/读书伴读/笔记导出/鼠疫 - [法]加缪.md",
     "Codex/projects/读书伴读/TODO-追加项.md",
@@ -260,7 +222,6 @@
     "Codex/projects/解剖学背诵资料/README.md",
     "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
     "Codex/notes/第一性原理.md",
-    "Codex/notes/梗库.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
