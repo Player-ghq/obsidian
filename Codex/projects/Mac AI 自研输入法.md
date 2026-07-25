@@ -23,3 +23,19 @@
 ## 产物
 
 - 需求整理文档：`/Users/HaoQi/Documents/Codex/2026-07-25/mac-ai/docs/superpowers/specs/2026-07-25-mac-ai-input-method-requirements.md`
+
+## 2026-07-25 开发进展
+
+- 已在 `/Users/HaoQi/Documents/Codex/2026-07-25/mac-ai` 初始化 git 仓库。
+- 已创建隔离 worktree：`/Users/HaoQi/Documents/Codex/2026-07-25/mac-ai/.worktrees/dictionary-toolchain`，分支 `feature/dictionary-toolchain`。
+- 已完成词库工具链主体：
+  - Swift Package 脚手架。
+  - TSV 词库解析器。
+  - 词库校验器与 JSON 导入报告。
+  - SQLite 编译索引。
+  - 候选词规则排序。
+  - CLI：`validate`、`compile`、`query`、`export`。
+  - 用户文档：`docs/user/dictionary-format.md`、`docs/user/dictionary-toolchain.md`。
+- 已通过的验证：完整 `swift test --disable-sandbox` 通过，17 个 XCTest、0 失败；样例 TSV 可校验、编译为 SQLite、查询 `gu` 返回「股四头肌」、导出回 TSV。
+- Apple 开发者工具 license gate 已由用户处理完成。
+- 已按用户选择将 `feature/dictionary-toolchain` fast-forward 合并回 `main`；合并后在 `main` 再次通过完整测试与 CLI 烟测；`.worktrees/dictionary-toolchain` 已删除，本地 feature 分支已删除。
