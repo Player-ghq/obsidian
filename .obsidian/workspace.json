@@ -11,13 +11,52 @@
             "id": "3e6937214a9546fb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/读书伴读/笔记导出/索引.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "索引"
+            }
+          },
+          {
+            "id": "a4294db994b561e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/读书伴读/笔记导出/福格行为模型 - B.J.福格.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "福格行为模型 - B.J.福格"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,8 +109,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,21 +230,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e6937214a9546fb",
+  "active": "a4294db994b561e9",
   "lastOpenFiles": [
+    "Codex/projects/读书伴读/笔记导出/索引.md",
     "Codex/projects/读书伴读/笔记导出/福格行为模型 - B.J.福格.md",
-    "Codex/projects/读书伴读/微信读书统计.md",
+    "Codex/projects/读书伴读/笔记导出/鼠疫 - [法]加缪.md",
     "Codex/projects/读书伴读/TODO-追加项.md",
+    "Codex/projects/读书伴读/反向修正书单.md",
+    "Codex/projects/读书伴读/微信读书统计.md",
     "Codex/projects/读书伴读/项目概览.md",
     "Codex/projects/读书伴读/阅读杠杆率分析.md",
-    "Codex/projects/读书伴读/反向修正书单.md",
     "Codex/TODO.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-21.md",
     "Pasted image 20260714131902.png",
     "Codex/projects/狼人杀语音复盘软件/README.md",
     "Codex/projects/狼人杀语音复盘软件",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-20.md",
-    "Codex/projects/读书伴读/笔记导出/索引.md",
     "Codex/projects/考研英语作文与翻译输出训练/雅思100句翻译-词伙句子结构对比整理.md",
     "Codex/projects/考研英语作文与翻译输出训练/reviews/2026-W29.md",
     "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-19.md",
@@ -222,7 +261,6 @@
     "Codex/notes/第一性原理.md",
     "Codex/notes/梗库.md",
     "Codex/notes/提高记忆与减少遗忘的方法.md",
-    "Codex/notes/SuperMemo 20条知识表述规则.md",
     "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
     "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
