@@ -11,10 +11,24 @@
             "id": "9020a774276fb081",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "福格行为模型-海绵阅读笔记"
             }
           }
         ]
@@ -69,8 +83,24 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "6698c8275356fac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 福格行为模型-海绵阅读笔记"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,21 +177,6 @@
             }
           },
           {
-            "id": "6698c8275356fac2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Codex/notes/2026-06-22 上午活动复盘.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2026-06-22 上午活动复盘"
-            }
-          },
-          {
             "id": "d58023f4bca0d6f9",
             "type": "leaf",
             "state": {
@@ -172,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,8 +206,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9020a774276fb081",
+  "active": "6698c8275356fac2",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/福格行为模型-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/颈椎腰椎自我保健看这本就够了-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Codex/projects/读书伴读/海绵阅读/腰背维修师-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-幕布式思维导图.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "2026-07-26.md",
+    "Untitled.canvas",
+    "Codex/projects/读书伴读/笔记导出/囚徒健身全集-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/颈椎腰椎自我保健看这本就够了-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读",
+    "Codex/projects/读书伴读/笔记导出/囚徒健身全集-幕布式思维导图.md",
+    "Codex/projects/读书伴读/笔记导出/囚徒健身：用失传的技艺练就强大的生存实力 - 保罗·威德.md",
+    "Codex/projects/读书伴读/笔记导出/不懂带团队，你就自己干到死 - 尚旭东 陈培松.md",
+    "Codex/projects/读书伴读/笔记导出/中共党史十二讲 - 谢春涛等.md",
+    "Codex/projects/读书伴读/笔记导出/一寸河山一寸血（全5册） - 关河五十州.md",
     "Codex/projects/读书伴读/笔记导出/索引.md",
     "Codex/projects/Mac AI 自研输入法.md",
     "Codex/projects/考研学习过程第一性原理拆解.md",
@@ -203,32 +243,7 @@
     "Codex/projects/读书伴读/微信读书统计.md",
     "Codex/projects/读书伴读/项目概览.md",
     "Codex/projects/读书伴读/阅读杠杆率分析.md",
-    "Codex/TODO.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-21.md",
     "Pasted image 20260714131902.png",
-    "Codex/projects/狼人杀语音复盘软件/README.md",
-    "Codex/projects/狼人杀语音复盘软件",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-20.md",
-    "Codex/projects/考研英语作文与翻译输出训练/雅思100句翻译-词伙句子结构对比整理.md",
-    "Codex/projects/考研英语作文与翻译输出训练/reviews/2026-W29.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-19.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-16.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-15.md",
-    "Codex/projects/考研英语作文与翻译输出训练/daily-study/2026-07-14.md",
-    "Codex/agent/输出纪律.md",
-    "Codex/agent/工作流约定.md",
-    "Codex/AGENTS.md",
-    "Untitled.base",
-    "Codex/projects/解剖学背诵资料/README.md",
-    "Codex/projects/解剖学背诵资料/知识点/00-人体解剖学背诵总纲.md",
-    "Codex/notes/第一性原理.md",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.xlsx",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师文献明细表.csv",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师科研成果总表.xlsx",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/运动康复学系教师科研成果总表.csv",
-    "Codex/projects/上海体育大学运动康复系教师科研画像",
-    "Codex/projects/解剖学背诵资料/知识点",
-    "Codex/projects/解剖学背诵资料"
+    "Codex/projects/狼人杀语音复盘软件"
   ]
 }
