@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+                "file": "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "福格行为模型-海绵阅读笔记"
+              "title": "真需求-海绵阅读笔记"
             }
           }
         ]
@@ -90,17 +90,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+                "file": "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 福格行为模型-海绵阅读笔记"
+              "title": "Outline of 真需求-海绵阅读笔记"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,10 +207,12 @@
   },
   "active": "9020a774276fb081",
   "lastOpenFiles": [
+    "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/真需求-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/运动生理学高级教程-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/运动生理学高级教程-海绵阅读笔记.md",
     "Untitled.base",
-    "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/福格行为模型-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/颈椎腰椎自我保健看这本就够了-海绵阅读笔记.md",
@@ -242,8 +243,6 @@
     "Codex/projects/读书伴读/笔记导出/鼠疫 - [法]加缪.md",
     "Codex/projects/读书伴读/TODO-追加项.md",
     "Codex/projects/读书伴读/反向修正书单.md",
-    "Codex/projects/读书伴读/微信读书统计.md",
-    "Codex/projects/读书伴读/项目概览.md",
     "Pasted image 20260714131902.png",
     "Codex/projects/狼人杀语音复盘软件"
   ]
