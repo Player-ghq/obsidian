@@ -125,3 +125,21 @@
 - 已执行真实安装：`/Users/HaoQi/Library/Input Methods/Haoqi Pinyin.app` 为新 bundle id 版本，词库和双拼方案仍在 `/Users/HaoQi/Library/Application Support/Haoqi Pinyin`。
 - 已通过的验证：合并后在 `main` 运行 `swift test --disable-sandbox`，38 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 通过；fake home 安装与诊断通过；真实安装诊断确认 plist、PkgInfo、签名、词库、双拼方案均 OK。
 - 当前状态：`haoqi-pinyinctl register` 已能找到并注册 `local.haoqi.inputmethod.HaoqiPinyin` 与 `local.haoqi.inputmethod.HaoqiPinyin.Hans`，但当前 Codex/macOS 会话中父级 input source 的 enabled 状态未反映，`AppleEnabledInputSources` 和 LaunchServices dump 仍为 warning。下一步需要注销/重新登录 macOS 后重跑诊断，或在系统设置中手动添加 `Haoqi Pinyin`。
+
+## 2026-07-26 用户安装后输入仍为英文的诊断
+
+- 用户反馈已安装但输入仍是英文。
+- 重新运行 `./scripts/check-inputmethod-install.sh`：app、plist、签名、词库、双拼方案均 OK，但 `Haoqi Pinyin is not enabled in AppleEnabledInputSources` 仍存在。
+- `defaults read com.apple.HIToolbox AppleEnabledInputSources` 未包含 `local.haoqi.inputmethod.HaoqiPinyin`；当前选中项也不是 Haoqi Pinyin。
+- 词库和引擎本身可用：`macai-dict suggest --index ~/Library/Application\ Support/Haoqi\ Pinyin/Dictionary.sqlite --scheme ~/Library/Application\ Support/Haoqi\ Pinyin/DoublePinyin.tsv --keys gu` 返回「股四头肌」。
+- 当前判断：问题优先定位为 macOS 输入源未启用/未切换到 Haoqi Pinyin，而不是词库或双拼引擎失效。下一步让用户在系统设置中手动添加并切换到 Haoqi Pinyin；若菜单栏已显示 Haoqi Pinyin 但仍输出英文，再进入 InputMethodKit 事件拦截层调试。
+
+## 2026-07-26 Space 选首候选修正
+
+- 用户截图证明 `Haoqi Pinyin` 已出现在 macOS 输入源设置中；之前只根据 `defaults` 判断未启用不够准确。
+- 发现当前输入外壳只实现了字母 buffer、Backspace、Return/Tab 提交；未实现中文输入法最常见的 Space 选首候选。用户只打 `gu` 时看到英文，很可能是 composing buffer 尚未提交，或空格未被输入法消费。
+- 新增 `CompositionSession` 核心状态机，统一管理字母输入、删除、首候选/原始 buffer 提交。
+- `MacAIInputController` 已改为：字母进入 `CompositionSession`；Space、Return、Tab 提交首候选或 raw buffer；Backspace 删除 buffer。
+- 新增 `CompositionSessionTests`：覆盖 `gu` 提交「股四头肌」、无候选回退 raw buffer、空 buffer 不提交。
+- 验证：新增测试先因 `CompositionSession` 缺失失败；实现后 `CompositionSessionTests` 3 个测试通过；完整 `swift test --disable-sandbox` 41 个 XCTest、0 失败；`./scripts/build-inputmethod-app.sh` 成功生成 `.build/Haoqi Pinyin.app`。
+- 当前限制：Codex 沙箱不能写入 `~/Library/Application Support/Haoqi Pinyin`，所以本轮未能替用户完成真实 HOME 重新安装。用户需在终端运行 `/Users/HaoQi/Documents/Codex/2026-07-25/mac-ai/scripts/install-local-inputmethod.sh`，再切换到 Haoqi Pinyin 测试 `gu` + Space。
