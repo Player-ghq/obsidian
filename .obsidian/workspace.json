@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
-                "mode": "preview",
+                "file": "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "真需求-海绵阅读笔记"
+              "title": "腰背维修师-海绵阅读笔记"
             }
           }
         ]
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
+                "file": "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 真需求-海绵阅读笔记"
+              "title": "Outline of 腰背维修师-海绵阅读笔记"
             }
           }
         ]
@@ -207,13 +207,15 @@
   },
   "active": "9020a774276fb081",
   "lastOpenFiles": [
-    "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
-    "Codex/projects/读书伴读/海绵阅读/真需求-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/运动生理学高级教程-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/腰背维修师-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/福格行为模型-幕布式思维导图.md",
+    "Codex/projects/读书伴读/海绵阅读/真需求-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/运动生理学高级教程-海绵阅读笔记.md",
     "Untitled.base",
-    "Codex/projects/读书伴读/海绵阅读/福格行为模型-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/颈椎腰椎自我保健看这本就够了-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
@@ -222,8 +224,6 @@
     "Untitled 5.base",
     "Untitled 4.base",
     "Untitled 3.base",
-    "Codex/projects/读书伴读/海绵阅读/腰背维修师-幕布式思维导图.md",
-    "Codex/projects/读书伴读/海绵阅读/囚徒健身全集-幕布式思维导图.md",
     "Untitled 2.base",
     "Untitled 1.base",
     "2026-07-26.md",
