@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fb4a9e59ba97e3a2",
+        "id": "699e1cbf65e01542",
         "type": "tabs",
         "children": [
           {
-            "id": "a6fc1b9a40004400",
+            "id": "9020a774276fb081",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fc1b9a40004400",
+  "active": "9020a774276fb081",
   "lastOpenFiles": [
     "Codex/projects/读书伴读/笔记导出/索引.md",
     "Codex/projects/Mac AI 自研输入法.md",
