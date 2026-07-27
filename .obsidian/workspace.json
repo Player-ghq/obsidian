@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/解剖学背诵资料/README.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for 2026-07-27-题目"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codex/notes/2026-06-22 上午活动复盘.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-22 上午活动复盘"
+              "title": "Outgoing links from 2026-07-27-题目"
             }
           },
           {
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9020a774276fb081",
+  "active": "d58023f4bca0d6f9",
   "lastOpenFiles": [
-    "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.pdf",
     "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
     "Codex/projects/运动康复真题与出题系统/每日晨测/README.md",
     "Codex/projects/Mac AI 自研输入法.md",
     "Codex/projects/考研学习过程第一性原理拆解.md",
@@ -240,10 +240,8 @@
     "Untitled 6.base",
     "Untitled 5.base",
     "Untitled 4.base",
-    "Untitled 3.base",
     "2026-07-26.md",
     "Untitled.canvas",
-    "Codex/projects/读书伴读/笔记导出/囚徒健身全集-海绵阅读笔记.md",
     "Pasted image 20260714131902.png"
   ]
 }
