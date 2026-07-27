@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/AGENTS.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AGENTS"
+              "title": "2026-07-27-题目"
             }
           }
         ]
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/AGENTS.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AGENTS"
+              "title": "Outline of 2026-07-27-题目"
             }
           }
         ]
@@ -205,9 +205,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e98af7c370b13acc",
+  "active": "9020a774276fb081",
   "lastOpenFiles": [
+    "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
     "Codex/projects/运动康复真题与出题系统/每日晨测/README.md",
+    "Codex/projects/Mac AI 自研输入法.md",
+    "Codex/projects/考研学习过程第一性原理拆解.md",
+    "Codex/projects/长期目标.md",
+    "Codex/AGENTS.md",
     "Codex/projects/运动康复真题与出题系统/每日晨测/题目",
     "Codex/projects/运动康复真题与出题系统/每日晨测/答案",
     "Codex/projects/运动康复真题与出题系统/每日晨测",
@@ -238,12 +244,6 @@
     "2026-07-26.md",
     "Untitled.canvas",
     "Codex/projects/读书伴读/笔记导出/囚徒健身全集-海绵阅读笔记.md",
-    "Codex/projects/读书伴读/海绵阅读/颈椎腰椎自我保健看这本就够了-幕布式思维导图.md",
-    "Codex/projects/读书伴读/笔记导出/囚徒健身全集-幕布式思维导图.md",
-    "Codex/projects/读书伴读/笔记导出/囚徒健身：用失传的技艺练就强大的生存实力 - 保罗·威德.md",
-    "Codex/projects/读书伴读/笔记导出/不懂带团队，你就自己干到死 - 尚旭东 陈培松.md",
-    "Codex/projects/读书伴读/笔记导出/中共党史十二讲 - 谢春涛等.md",
-    "Codex/projects/读书伴读/笔记导出/一寸河山一寸血（全5册） - 关河五十州.md",
     "Pasted image 20260714131902.png"
   ]
 }
