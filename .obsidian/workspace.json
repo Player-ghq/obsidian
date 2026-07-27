@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
+                "file": "Codex/projects/读书伴读/海绵阅读/福格行为模型-幕布式思维导图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "真需求-海绵阅读笔记"
+              "title": "福格行为模型-幕布式思维导图"
             }
           }
         ]
@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9020a774276fb081",
+  "active": "e98af7c370b13acc",
   "lastOpenFiles": [
-    "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/真需求-海绵阅读笔记.md",
+    "Codex/projects/读书伴读/海绵阅读/腰背维修师-海绵阅读笔记.md",
     "Codex/projects/读书伴读/海绵阅读/运动生理学高级教程-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/腰背维修师-幕布式思维导图.md",
     "Codex/projects/读书伴读/海绵阅读/福格行为模型-海绵阅读笔记.md",
