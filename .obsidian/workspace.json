@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-27-题目"
+              "title": "2026-07-27-答案"
             }
           }
         ]
@@ -90,13 +90,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-27-题目"
+              "title": "Outline of 2026-07-27-答案"
             }
           }
         ]
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-27-题目"
+              "title": "Backlinks for 2026-07-27-答案"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-27-题目"
+              "title": "Outgoing links from 2026-07-27-答案"
             }
           },
           {
@@ -190,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d58023f4bca0d6f9",
+  "active": "9020a774276fb081",
   "lastOpenFiles": [
-    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.pdf",
     "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.pdf",
     "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
     "Codex/projects/运动康复真题与出题系统/每日晨测/README.md",
     "Codex/projects/Mac AI 自研输入法.md",
