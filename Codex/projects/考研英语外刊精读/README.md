@@ -15,6 +15,7 @@
 按外刊精读项目处理这个 PDF
 从推荐第一篇开始精读
 把这篇文章做泛读和精读
+我不知道怎么精读这篇文章
 更新外刊阅读记录
 ```
 
@@ -35,7 +36,7 @@
 
 - Skill：`english-magazine-close-reading`
 - 重点流程：见 [[workflow]]
+- 精读操作手册：见 [[how-to-close-read]]
 - 重点主题：见 [[theme-priority]]
 - 阅读记录：见 [[reading-log]]
 - 当前状态：见 [[state]]
-
