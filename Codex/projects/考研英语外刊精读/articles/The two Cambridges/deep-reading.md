@@ -143,10 +143,11 @@
 
 ## Anki Cards
 
-本篇已按用户指定清单重做词组/句子块 Anki 卡，并完成原型化、具体宾语化和去重合并，共 51 张；标签统一且仅为 `外刊精读`。
+本篇已按用户指定清单重做词组/句子块 Anki 卡，并按考研英语一能力点重新筛选、原型化和去重合并，共 47 张；已补充原文/拓展表达、双语词汇拆解、多义项详解、完整句例句及中文翻译、作文应用；标签统一且仅为 `外刊精读`。
 
 生成文件：
 
 - TSV 导入文件：[anki.tsv](anki/anki.tsv)
 - Excel 编辑版：[anki.xlsx](anki/anki.xlsx)
 - 卡片源数据：[cards.json](anki/cards.json)
+- 考研英语一筛选记录：[kaoyan-filter-report.md](anki/kaoyan-filter-report.md)
