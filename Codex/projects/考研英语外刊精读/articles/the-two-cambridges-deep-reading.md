@@ -2,6 +2,10 @@
 
 来源：The Economist, July 4th-10th 2026, pp.53-54。
 
+原文清理版：[[the-two-cambridges-source-text]]
+
+全文翻译：[[the-two-cambridges-full-translation]]
+
 ## Macro Understanding
 
 1. 文章大意：比较英国 Cambridge 与美国 Cambridge, Massachusetts 两个创新集群，说明二者同名、同源、表面相似，但短板相反。
