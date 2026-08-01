@@ -26,6 +26,8 @@
 
 如果用户无从下手，先使用 [[how-to-close-read]] 的 6 步法带读，不要一次性把全文讲完。
 
+如果用户要求完整精读、全文翻译、段落分片、长难句语法、作文金句或 Anki 卡片，使用 [[full-deep-reading-requirements]]。
+
 ### Extensive Reading
 
 快速提取：

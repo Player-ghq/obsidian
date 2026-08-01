@@ -37,6 +37,7 @@
 - Skill：`english-magazine-close-reading`
 - 重点流程：见 [[workflow]]
 - 精读操作手册：见 [[how-to-close-read]]
+- 完整精读输出需求：见 [[full-deep-reading-requirements]]
 - 重点主题：见 [[theme-priority]]
 - 阅读记录：见 [[reading-log]]
 - 当前状态：见 [[state]]
