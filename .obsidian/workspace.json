@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/state.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "state"
+              "title": "full-translation"
             }
           }
         ]
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5004348754883
+    "width": 210.50260543823242
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -207,23 +207,25 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/第5章肩复合体-学习问题答案.md",
+    "Codex/projects/肌动学与功能解剖学语料库/QA使用说明.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
+    "Codex/projects/考研英语外刊精读/state.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/anki.tsv",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki",
-    "Codex/projects/考研英语外刊精读/articles/The two Cambridges",
-    "Codex/projects/考研英语外刊精读/anki/rules-for-supermodels-anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-source-text.md",
@@ -234,15 +236,12 @@
     "Codex/projects/考研英语外刊精读/readings/economist-20260704-priority-theme-reading-map.md",
     "Codex/projects/考研英语外刊精读/workflow.md",
     "Codex/projects/考研英语外刊精读/theme-priority.md",
-    "Codex/projects/考研英语外刊精读/state.md",
     "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/exam-answer-templates.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/body-region-quick-map.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/answer-routing-map.md",
     "Codex/projects/读书伴读/笔记导出/索引.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第15章行走的运动功能学.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第14章踝关节与足.md",
     "Untitled.canvas",
     "Pasted image 20260714131902.png"
   ]

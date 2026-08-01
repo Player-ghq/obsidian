@@ -52,4 +52,5 @@
 - 进入单篇精读前，默认先把文章全文从 PDF/网页/用户文本中提取出来，清理版保存为 `articles/[Article Title]/source-text.md`，再基于该文本做泛读、精读、翻译和制卡。
 - 单篇精读必须生成全文中文翻译，保存为 `articles/[Article Title]/full-translation.md`，供对照精读使用。
 - 单篇文章产生的词汇、短语、语法和作文表达，默认用 `anki-excel-card-maker` 生成 Anki 可导入 `.tsv`，同时保留 `.xlsx` 编辑版和 `.json` 源数据，统一放入 `articles/[Article Title]/anki/`。
+- Anki 词汇卡必须适合背诵，不做简短词表。每张高价值词卡默认包含：核心义、引申义、熟词辟义、语气色彩、政治意味/暗示意思/讽刺或诙谐意味、文章语境、多个场景例句、考研作文可迁移用法。
 - Anki 标签默认包含 `外刊精读`，并追加文章名标签，方便后续检索。

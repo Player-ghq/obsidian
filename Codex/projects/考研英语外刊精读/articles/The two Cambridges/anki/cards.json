@@ -1,116 +1,121 @@
 {
-  "deck": "考研英语::外刊精读::The Economist",
+  "deck": "英语::外刊精读",
   "notetype": "Basic",
   "html": true,
-  "columns": ["Front", "Back", "Extra", "Tags"],
+  "columns": [
+    "Front",
+    "Back",
+    "Extra",
+    "Tags"
+  ],
   "cards": [
     {
       "Front": "be steeped in",
       "Back": "充满、浸润于；常用于历史、文化、传统、学术或创新氛围。",
       "Extra": "Example: A modern university should be steeped in innovation as well as academic discipline.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "have the edge in",
       "Back": "在某方面占优势。",
       "Extra": "Example: Small cities may have the edge in research quality.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "commercialise research",
       "Back": "将科研成果商业化，把实验室成果转化为产品、公司或产业价值。",
       "Extra": "Kaoyan writing: Universities should learn how to commercialise research responsibly.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "innovation cluster",
       "Back": "创新集群；由大学、人才、资本、企业、医院、基础设施等共同构成的创新生态。",
       "Extra": "Useful topic: technology, education, economy, workplace development.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary topic"
+      "Tags": "外刊精读"
     },
     {
       "Front": "be constrained by",
       "Back": "受制于、被……限制。",
       "Extra": "Example: Many young people are constrained by limited educational resources.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "be starved of",
       "Back": "严重缺乏；比 lack 更形象、更强烈。",
       "Extra": "Example: Rural schools are often starved of qualified teachers.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "proof of concept",
       "Back": "概念验证；证明一个想法、技术或商业模式初步可行。",
       "Extra": "Common context: technology, startups, research commercialisation.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary technology"
+      "Tags": "外刊精读"
     },
     {
       "Front": "risk-averse",
       "Back": "规避风险的、谨慎避险的。",
       "Extra": "Example: Overly risk-averse investors may slow innovation.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "complement one another",
       "Back": "相互补充；强调两个事物不是替代关系，而是互补关系。",
       "Extra": "Writing: Online education and traditional classrooms can complement one another.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "lure talent",
       "Back": "吸引人才；lure 在新闻英语中常表示“吸引、诱使”。",
       "Extra": "Example: Better research funding can lure global talent.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "not so much A as B",
       "Back": "与其说 A，不如说 B；重点强调 B。",
       "Extra": "Example: Online learning has not so much replaced traditional education as expanded its possibilities.",
-      "Tags": "外刊精读 The_two_Cambridges grammar writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "It is no coincidence that...",
       "Back": "主语从句结构：It 是形式主语，that 从句是真正主语。含义：……并非巧合。",
       "Extra": "Writing: It is no coincidence that successful cities often combine education, capital and infrastructure.",
-      "Tags": "外刊精读 The_two_Cambridges grammar writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "The former..., the latter...",
       "Back": "前者……，后者……；用于对前文提到的两个对象进行对比。",
       "Extra": "Example: The former offers flexibility; the latter provides discipline.",
-      "Tags": "外刊精读 The_two_Cambridges grammar writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "Whereas A..., B...",
       "Back": "whereas 引出强对比，常译为“然而/而”。",
       "Extra": "Use it to compare two systems, countries, generations, or education models.",
-      "Tags": "外刊精读 The_two_Cambridges grammar"
+      "Tags": "外刊精读"
     },
     {
       "Front": "a dearth of",
       "Back": "缺乏、匮乏；常接抽象或资源类名词，如 capital, evidence, talent。",
       "Extra": "Example: A dearth of long-term funding can weaken scientific innovation.",
-      "Tags": "外刊精读 The_two_Cambridges vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "The two Cambridges: central argument",
       "Back": "Innovation needs more than excellent universities: it also needs capital, infrastructure, markets and cross-regional cooperation.",
       "Extra": "作文迁移：科技创新、教育发展、经济高质量发展、人才流动。",
-      "Tags": "外刊精读 The_two_Cambridges macro writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "The two Cambridges: priority themes",
       "Back": "Education and learning; economy; technology and everyday life; workplace and career development; cultural exchange.",
       "Extra": "用于考研英语作文素材归类。",
-      "Tags": "外刊精读 The_two_Cambridges topic"
+      "Tags": "外刊精读"
     },
     {
       "Front": "Writing sentence: innovation ecosystem",
       "Back": "A successful innovation ecosystem depends not only on talent, but also on capital, infrastructure and access to markets.",
       "Extra": "适用话题：科技创新、城市发展、教育、经济。",
-      "Tags": "外刊精读 The_two_Cambridges writing"
+      "Tags": "外刊精读"
     }
   ]
 }
