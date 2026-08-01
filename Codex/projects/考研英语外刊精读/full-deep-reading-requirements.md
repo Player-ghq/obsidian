@@ -70,7 +70,7 @@
 ## Anki 卡片格式
 
 ```text
-Front | Back | Tags
+Front | Back | Extra | Tags
 ```
 
 制卡范围：
@@ -83,6 +83,30 @@ Front | Back | Tags
 - 作文金句模板
 - 文章主题观点
 
+制卡正面优先用词组或句子块，例如 `cracking down on distillation`、`slapped with export controls`、`a gulf between A and B`；只有没有自然搭配时才用单词。例句也要尽量词组化，方便背诵搭配和语境。
+
+制卡前先归一化去重：把 `formalising` 归为 `formalise...`，把 `tinker with them` 改成 `tinker with + 具体宾语`，把 `crack down on` 与 `cracking down on distillation` 合并为更具体的词组卡。不要为同一个知识点重复出卡。
+
+高价值表达必须使用“考研深度词卡模板”：
+
+```text
+Back:
+字面含义：...
+考研核心考点：...
+词汇拆解：...
+熟词辟义/一词多义：...
+语气色彩：...
+
+Extra:
+文章语境：...
+暗示意思/政治意味/诙谐意味：...
+特殊考查方式：...
+答题技巧：...
+同义替换/错误选项信号：...
+多场景例句：...
+其他可用地方：...
+```
+
 标签统一为：
 
 ```text
@@ -90,4 +114,3 @@ Front | Back | Tags
 ```
 
 如用户要求导出文件，使用 `anki-excel-card-maker` 生成 Excel/TSV。
-
