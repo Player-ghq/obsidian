@@ -7,7 +7,7 @@ Article label: America's government and AI.
 Extraction note: Text extracted from the user's licensed PDF for personal close-reading study. The article occupies the lower half of page 8. The preceding article ending, page header, image, and layout artifacts have been removed; paragraph order has been checked against the rendered page.
 
 ## Article
-
+  
 ### America's government and AI
 
 # Rules for supermodels

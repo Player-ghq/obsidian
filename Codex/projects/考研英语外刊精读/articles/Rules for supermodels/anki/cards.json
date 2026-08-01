@@ -2,169 +2,264 @@
   "deck": "英语::外刊精读",
   "notetype": "Basic",
   "html": true,
-  "columns": ["Front", "Back", "Extra", "Tags"],
+  "columns": [
+    "Front",
+    "Back",
+    "Extra",
+    "Tags"
+  ],
   "cards": [
     {
       "Front": "calamity",
       "Back": "<b>核心义</b>：大灾难，严重灾祸。<br><b>语气</b>：正式、严重，比 disaster 更书面，比 accident 更灾难化。<br><b>引申义</b>：可指社会、制度、技术或道德层面的重大失败。",
       "Extra": "<b>文章语境</b>：AI has not yet caused a calamity, but it might. 作者用 calamity 把 AI 风险提升到公共灾难级别，为“提前监管”铺垫。<br><b>暗示</b>：不是普通风险，而是可能触发制度性回应的大危机。<br><b>例句1 科技</b>：A powerful technology may bring convenience, but without rules it can also lead to calamity.<br><b>例句2 社会</b>：The spread of misinformation could become a public calamity if citizens lose trust in facts.<br><b>例句3 环境</b>：Climate change is not a distant inconvenience, but a potential calamity for vulnerable communities.<br><b>可用场景</b>：科技伦理、环境保护、公共安全、社会责任。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "come out of disasters",
       "Back": "<b>核心义</b>：从灾难中产生。<br><b>引申义</b>：制度、规则、改革往往由失败或危机倒逼出来。<br><b>语气</b>：带有历史总结意味，适合议论文开头。",
       "Extra": "<b>文章语境</b>：New rules often come out of disasters. 作者用美联储、FDA、SEC 的历史证明监管常在灾后出现。<br><b>暗示</b>：AI 最好不要等灾难发生后才立规矩。<br><b>例句1 教育</b>：Better school rules often come out of painful lessons, but wise educators should act earlier.<br><b>例句2 公共治理</b>：Many safety standards come out of disasters that reveal hidden weaknesses.<br><b>例句3 写作模板</b>：A mature society should not wait for rules to come out of disasters.<br><b>可用场景</b>：社会责任、科技监管、校园安全、环境治理。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "voluntary standards",
       "Back": "<b>核心义</b>：自愿性标准，非强制规范。<br><b>引申义</b>：行业自律、软性监管。<br><b>语气</b>：中性，但在公共风险语境中可能暗示“不够硬”。",
       "Extra": "<b>文章语境</b>：政府与 AI 公司制定 voluntary standards，但作者认为现有努力混乱。<br><b>暗示</b>：只靠企业自愿可能不够，需要制度化 formalise。<br><b>例句1 科技</b>：Voluntary standards can guide innovation, but they cannot replace public accountability.<br><b>例句2 职场</b>：Companies may adopt voluntary standards to protect employee data.<br><b>例句3 作文</b>：When public safety is at stake, voluntary standards should be backed by clear rules.<br><b>可用场景</b>：AI 监管、企业社会责任、食品安全、平台治理。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "guardrailed",
       "Back": "<b>核心义</b>：加了护栏/安全限制的。<br><b>AI 语境</b>：指模型被设置安全边界，不能随意回答危险请求。<br><b>引申义</b>：被制度、规则或技术限制住。",
       "Extra": "<b>文章语境</b>：Fable 是 Mythos 的 guardrailed version。作者暗示即使“加了护栏”，政府仍然不放心。<br><b>暗示</b>：护栏不等于绝对安全，也可能成为政治争论的焦点。<br><b>例句1 AI</b>：A guardrailed model may refuse harmful instructions, but its underlying capability remains powerful.<br><b>例句2 教育</b>：Children need guardrailed access to the internet rather than total isolation from technology.<br><b>例句3 管理</b>：Innovation should be encouraged, but guardrailed by ethical principles.<br><b>可用场景</b>：AI 安全、青少年上网、科技伦理、教育技术。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+      "Tags": "外刊精读"
     },
     {
       "Front": "slap sb/sth with controls",
       "Back": "<b>核心义</b>：突然对某人/某物施加管制或处罚。<br><b>语气</b>：新闻英语，动作感强，常暗示粗暴、突然、行政性强。<br><b>搭配</b>：be slapped with sanctions / fines / export controls。",
       "Extra": "<b>文章语境</b>：Anthropic was slapped with export controls. 作者用 slapped 表示政府动作突然且带惩罚色彩。<br><b>政治意味</b>：不是温和监管，而是行政力量直接压下去。<br><b>例句1 国际关系</b>：The company was slapped with sanctions after violating export rules.<br><b>例句2 社会</b>：Platforms that ignore child safety may be slapped with heavy fines.<br><b>例句3 作文</b>：Punishment alone is not enough; firms also need clear guidance before they are slapped with penalties.<br><b>可用场景</b>：法律监管、国际制裁、平台治理、企业责任。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase"
+      "Tags": "外刊精读"
     },
     {
       "Front": "make up rules on the fly",
       "Back": "<b>核心义</b>：边做边定规则，临时拼凑规则。<br><b>语气</b>：批评性强，暗示不专业、不稳定、缺少制度设计。<br><b>熟词</b>：on the fly = 临时地、现场地、边进行边处理。",
       "Extra": "<b>文章语境</b>：政府似乎在 make up rules on the fly。作者批评其 AI 监管没有清晰原则。<br><b>政治意味</b>：政策不是 rule-based，而是 improvisation。<br><b>例句1 教育</b>：Schools should not make up rules on the fly when dealing with AI homework.<br><b>例句2 政策</b>：A government that makes up rules on the fly will lose public trust.<br><b>例句3 职场</b>：Managers should not make up rules on the fly whenever a problem appears.<br><b>可用场景</b>：公共治理、学校管理、职场制度、AI 监管。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "nationalistic tinge",
       "Back": "<b>核心义</b>：民族主义色彩。<br><b>熟词辟义</b>：tinge 本义是淡淡的颜色，引申为某种意味、倾向、色彩。<br><b>语气</b>：通常带轻微负面，表示某种立场不完全明说但能感觉到。",
       "Extra": "<b>文章语境</b>：AI 政策带有 unpleasant nationalistic tinge。作者批评美国优先主义。<br><b>政治意味</b>：不是纯粹安全监管，而混入“美国人优先”的意识形态。<br><b>例句1 国际关系</b>：The policy has a nationalistic tinge, even though it is presented as a security measure.<br><b>例句2 文化</b>：Patriotism can inspire responsibility, but a nationalistic tinge may narrow people's worldview.<br><b>例句3 作文</b>：Global challenges require cooperation, not policies with a narrow nationalistic tinge.<br><b>可用场景</b>：国际合作、文化交流、科技竞争、全球治理。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary politics"
+      "Tags": "外刊精读"
     },
     {
       "Front": "take precedence over",
       "Back": "<b>核心义</b>：优先于，重要性高于。<br><b>语气</b>：正式、议论文高频，用于排序价值和原则。<br><b>搭配</b>：safety / public interest / education / long-term development takes precedence over profit / convenience。",
       "Extra": "<b>文章语境</b>：Americans' AI access takes precedence over foreigners'. 作者指出美国政府把本国访问权放在外国人之前。<br><b>暗示</b>：表面是安全监管，实际涉及利益排序。<br><b>例句1 作文</b>：Public safety should take precedence over commercial profit.<br><b>例句2 教育</b>：In education, students' long-term growth should take precedence over short-term scores.<br><b>例句3 环境</b>：Environmental protection must take precedence over reckless expansion.<br><b>可用场景</b>：社会责任、教育、环境、科技伦理、公共利益。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "frontier AI",
       "Back": "<b>核心义</b>：前沿人工智能，能力处于最前沿的 AI 系统。<br><b>引申义</b>：代表未知边界、高潜力、高风险。<br><b>语气</b>：技术政策词，常和 regulation, safety, governance 搭配。",
       "Extra": "<b>文章语境</b>：Regulating frontier AI is tricky. 作者承认前沿 AI 很难监管。<br><b>暗示</b>：frontier 不是普通技术，而是靠近能力边界和风险边界。<br><b>例句1 AI</b>：Frontier AI may transform research, but it also requires careful oversight.<br><b>例句2 经济</b>：Countries that lead in frontier AI may gain enormous economic leverage.<br><b>例句3 作文</b>：When frontier technologies enter daily life, ethical rules must keep pace.<br><b>可用场景</b>：科技创新、国家竞争、科技伦理、社会治理。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+      "Tags": "外刊精读"
     },
     {
       "Front": "open-weight",
       "Back": "<b>核心义</b>：开放权重的，模型参数可被获取、运行或改动。<br><b>区分</b>：open-weight 不完全等于 open-source；代码、训练数据、许可证未必完全开放。<br><b>语气</b>：AI 治理关键词。",
       "Extra": "<b>文章语境</b>：中国许多顶尖模型是 open-weight，任何人都能 run or tinker with them。<br><b>暗示</b>：开放降低门槛，也让封锁更难执行。<br><b>例句1 AI</b>：Open-weight models spread quickly because researchers can adapt them to local needs.<br><b>例句2 教育</b>：Open tools can reduce inequality if students are taught how to use them responsibly.<br><b>例句3 政策</b>：A ban on open-weight models is difficult to enforce once the files are widely available.<br><b>可用场景</b>：技术开放、知识共享、风险控制、教育公平。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+      "Tags": "外刊精读"
     },
     {
       "Front": "tinker with",
       "Back": "<b>核心义</b>：摆弄、修修补补、小幅改动。<br><b>语气</b>：比 modify 口语、更随意，暗示非正式实验。<br><b>引申义</b>：也可指对制度或政策做小修小补。",
       "Extra": "<b>文章语境</b>：anyone can run or tinker with open-weight models。开放权重让使用者不只是使用，还能改造。<br><b>例句1 科技</b>：Students learn programming faster when they can tinker with real code.<br><b>例句2 政策</b>：The government keeps tinkering with rules instead of redesigning the system.<br><b>例句3 学习</b>：Instead of memorising blindly, learners should tinker with sentence patterns and use them in new contexts.<br><b>可用场景</b>：技术学习、教育方法、制度改革、产品迭代。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase"
+      "Tags": "外刊精读"
     },
     {
       "Front": "crack down on",
       "Back": "<b>核心义</b>：严厉打击，强力整治。<br><b>语气</b>：政府/执法语境强，带控制、惩罚意味。<br><b>搭配</b>：crack down on illegal trade / data abuse / exam cheating / pollution。",
       "Extra": "<b>文章语境</b>：American labs are cracking down on distillation. 美国实验室打击竞争者用强模型输出训练自己的模型。<br><b>政治意味</b>：不仅是技术问题，也涉及技术垄断和竞争壁垒。<br><b>例句1 社会</b>：Authorities should crack down on companies that misuse personal data.<br><b>例句2 教育</b>：Schools may crack down on cheating, but they also need to teach academic integrity.<br><b>例句3 环境</b>：Governments must crack down on factories that ignore pollution standards.<br><b>可用场景</b>：法律、教育诚信、环境保护、平台治理。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "distillation",
       "Back": "<b>核心义</b>：蒸馏。<br><b>AI 语境</b>：用强模型的输出训练较小或竞争模型。<br><b>引申义</b>：把复杂能力压缩、转移或提炼到另一个系统中。",
       "Extra": "<b>文章语境</b>：美国实验室打击 distillation，因为它可能帮助竞争者追赶。<br><b>暗示</b>：知识一旦可通过输出转移，技术优势就更难长期封锁。<br><b>例句1 AI</b>：Distillation can make powerful AI capabilities cheaper and easier to deploy.<br><b>例句2 学习</b>：Good notes are a form of distillation: they turn complex arguments into usable ideas.<br><b>例句3 写作</b>：Education should help students distil information into judgment, not merely collect facts.<br><b>可用场景</b>：AI、学习方法、知识管理、教育写作。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+      "Tags": "外刊精读"
     },
     {
       "Front": "unworkable",
       "Back": "<b>核心义</b>：行不通的，不可操作的。<br><b>语气</b>：政策评估词，强调方案在现实中无法执行。<br><b>近义</b>：impractical, infeasible；但 unworkable 更像“机制上跑不通”。",
       "Extra": "<b>文章语境</b>：A permanent block is unworkable. 永久封锁 AI 模型不现实。<br><b>暗示</b>：作者不是反对监管，而是反对无效监管。<br><b>例句1 科技</b>：A total ban on smartphones in education may be unworkable.<br><b>例句2 环境</b>：Environmental rules become unworkable if they ignore local economic realities.<br><b>例句3 作文</b>：A policy that sounds strict may still be unworkable in practice.<br><b>可用场景</b>：政策批判、教育改革、技术治理、经济管理。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "malleable",
       "Back": "<b>核心义</b>：可塑的，易调整的。<br><b>本义</b>：金属等可锤打成形。<br><b>引申义</b>：想法、制度、模型、性格或学习方法容易被塑造。",
       "Extra": "<b>文章语境</b>：Chinese models are cheap and malleable. 便宜且容易改造，所以很有吸引力。<br><b>暗示</b>：malleable 不只是“灵活”，还暗示可被不同用户用于不同目的。<br><b>例句1 AI</b>：Malleable models are attractive because firms can adapt them to specific tasks.<br><b>例句2 教育</b>：Young minds are malleable, so good habits should be formed early.<br><b>例句3 写作</b>：A malleable learning system can serve students with different needs.<br><b>可用场景</b>：教育学习、AI 应用、个人品质、制度设计。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+      "Tags": "外刊精读"
     },
     {
       "Front": "a gulf between A and B",
       "Back": "<b>核心义</b>：A 与 B 之间的巨大鸿沟。<br><b>语气</b>：比 gap 更强，常表示难以跨越的差距。<br><b>搭配</b>：a gulf between rich and poor / policy and reality / public and restricted models。",
       "Extra": "<b>文章语境</b>：a gulf between publicly available and restricted models。公开模型与受限模型之间能力差太大，会造成社会适应问题。<br><b>暗示</b>：不平等访问会制造权力集中。<br><b>例句1 教育</b>：There is a gulf between students who can use AI wisely and those who cannot.<br><b>例句2 社会</b>：A gulf between urban and rural education can damage equal opportunity.<br><b>例句3 作文</b>：Technology should narrow, not widen, the gulf between different social groups.<br><b>可用场景</b>：教育公平、数字鸿沟、贫富差距、科技伦理。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "bottle up",
       "Back": "<b>核心义</b>：封存、压住、不让释放。<br><b>熟词辟义</b>：bottle 是瓶子；bottle up 像把东西装进瓶里憋住。<br><b>语气</b>：形象，有压抑后突然爆发的暗示。",
       "Extra": "<b>文章语境</b>：regulators bottled up several generations of AI advances。监管者如果把几代进步都封起来，最终释放会更混乱。<br><b>暗示/诙谐</b>：技术进步像气体或压力，被封住越久越危险。<br><b>例句1 情绪</b>：Students should not bottle up stress before exams.<br><b>例句2 科技</b>：Bottling up innovation may create a sudden and disruptive release later.<br><b>例句3 社会</b>：Public anger was bottled up for years before it finally erupted.<br><b>可用场景</b>：科技治理、心理健康、社会矛盾、教育压力。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase"
+      "Tags": "外刊精读"
     },
     {
       "Front": "staggered release",
       "Back": "<b>核心义</b>：分阶段发布、错峰发布。<br><b>引申义</b>：把风险分散，让社会逐步适应。<br><b>语气</b>：政策设计词，强调节奏控制。",
       "Extra": "<b>文章语境</b>：an evaluation period and a staggered release to trusted institutions。先评估，再分阶段给可信机构使用。<br><b>暗示</b>：作者支持释放模型，但要控制节奏和对象。<br><b>例句1 科技</b>：A staggered release can reduce the shock of powerful new technologies.<br><b>例句2 教育</b>：Schools can introduce AI tools through a staggered release rather than a sudden rollout.<br><b>例句3 公共政策</b>：Major reforms often work better with staggered implementation.<br><b>可用场景</b>：AI 发布、教育改革、公共政策、产品上线。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase"
+      "Tags": "外刊精读"
     },
     {
       "Front": "formalise",
       "Back": "<b>核心义</b>：使正式化，使制度化。<br><b>引申义</b>：把临时做法、默契或自愿规范变成明确规则。<br><b>语气</b>：正式，常用于制度建设。",
       "Extra": "<b>文章语境</b>：分阶段发布是 good start, but it needs formalising。作者认为惯例还不够，要形成制度。<br><b>暗示</b>：临时协商不可靠，制度化才可持续。<br><b>例句1 科技</b>：AI safety practices should be formalised before models become widely available.<br><b>例句2 职场</b>：Flexible work can succeed if expectations are formalised.<br><b>例句3 教育</b>：Schools should formalise rules for the responsible use of AI tools.<br><b>可用场景</b>：制度建设、职场管理、教育规范、科技治理。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "micromanage",
       "Back": "<b>核心义</b>：微观管理，过度干预细节。<br><b>语气</b>：明显负面，表示领导者不懂放权。<br><b>政治意味</b>：政治人物不应干预技术评估细节。",
       "Extra": "<b>文章语境</b>：politicians should not be micromanaging the process。作者区分政治目标与技术执行。<br><b>暗示</b>：民主领导人定目标，专家做评估。<br><b>例句1 教育</b>：Parents should guide children, but not micromanage every minute of their study.<br><b>例句2 职场</b>：A good manager sets goals instead of micromanaging every task.<br><b>例句3 政策</b>：Governments should regulate platforms, but they should not micromanage technical design.<br><b>可用场景</b>：职场、教育、公共治理、科技监管。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "horse-trade",
       "Back": "<b>核心义</b>：讨价还价，政治交易。<br><b>语气</b>：贬义，暗示原则被交易替代。<br><b>诙谐/讽刺</b>：原指买马卖马时讨价还价，转用于政治或商业交易，带粗俗现实感。",
       "Extra": "<b>文章语境</b>：politicians should not be horse-trading with AI companies。作者批评当前监管像政治交易。<br><b>政治意味</b>：技术安全不应被公司利益和政治权力私下交换。<br><b>例句1 政治</b>：Public health should not be reduced to horse-trading between politicians and companies.<br><b>例句2 教育</b>：Education policy needs principles, not horse-trading among interest groups.<br><b>例句3 社会责任</b>：When safety is at stake, horse-trading can undermine public trust.<br><b>可用场景</b>：政治批评、商业伦理、社会责任、公共安全。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary politics"
+      "Tags": "外刊精读"
     },
     {
       "Front": "stand back",
       "Back": "<b>核心义</b>：退后一步，不插手细节。<br><b>引申义</b>：在设定目标后给专家、市场或执行者空间。<br><b>语气</b>：理性克制，常用于治理分工。",
       "Extra": "<b>文章语境</b>：Once those goals are set, politicians should stand back. 政治人物设定风险目标后应让技术评估者工作。<br><b>暗示</b>：好治理不是缺席，而是边界清晰。<br><b>例句1 教育</b>：Once learning goals are clear, teachers should stand back and let students explore.<br><b>例句2 职场</b>：Leaders should stand back after giving teams a clear direction.<br><b>例句3 政策</b>：Politicians should stand back when scientific expertise is required.<br><b>可用场景</b>：教育、职场领导、科技治理、专家决策。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "amalgamate",
       "Back": "<b>核心义</b>：整合、合并。<br><b>语气</b>：正式，常用于把不同来源的信息、机构、资源合并。<br><b>区别</b>：比 combine 更书面，强调融合成一个整体。",
       "Extra": "<b>文章语境</b>：amalgamate knowledge from AI labs, research groups and foreign bodies。AI 监管需要整合多方专业知识。<br><b>例句1 学习</b>：Good writing amalgamates evidence, logic and personal judgment.<br><b>例句2 科技</b>：AI governance should amalgamate expertise from engineers, lawyers and ethicists.<br><b>例句3 职场</b>：A strong team can amalgamate different skills into one practical solution.<br><b>可用场景</b>：知识整合、团队合作、科技治理、作文表达升级。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "build leverage",
       "Back": "<b>核心义</b>：建立筹码，增强议价能力。<br><b>熟词辟义</b>：leverage 本义为杠杆，引申为影响力、筹码、可支配优势。<br><b>语气</b>：战略性强，常用于国家、企业、个人竞争。",
       "Extra": "<b>文章语境</b>：Other countries must build leverage with their own AI sectors and regulations. 其他国家不能完全被美国出口管制牵着走。<br><b>政治意味</b>：技术自主就是谈判筹码。<br><b>例句1 个人发展</b>：Young people can build leverage by mastering skills that are hard to replace.<br><b>例句2 国家竞争</b>：Countries build leverage when they develop independent technologies.<br><b>例句3 职场</b>：A worker with rare expertise has more leverage in the job market.<br><b>可用场景</b>：职场发展、科技自主、国家战略、个人品质。",
-      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "fail-safe",
       "Back": "<b>核心义</b>：失效保护，备用安全机制。<br><b>引申义</b>：当主系统失灵时仍能防止严重损失的备份方案。<br><b>语气</b>：工程、风险管理和公共治理常用。",
       "Extra": "<b>文章语境</b>：find fail-safes for American export controls。其他国家要准备不被美国管制卡死的备用机制。<br><b>暗示</b>：依赖美国比依赖中国好，但单一依赖仍有风险。<br><b>例句1 个人</b>：Students need fail-safes, such as backup plans, when preparing for important exams.<br><b>例句2 经济</b>：Supply chains need fail-safes against political shocks.<br><b>例句3 科技</b>：Critical systems should include fail-safes before they are widely deployed.<br><b>可用场景</b>：风险管理、考研规划、供应链、科技安全。",
-      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "Grammar: The intelligence that... also...",
       "Back": "<b>结构</b>：The intelligence + that 定语从句 + also + 谓语。<br><b>功能</b>：表达“双刃剑”：同一个特征既制造风险，也创造价值。<br><b>适合背诵</b>：科技、教育、社交媒体、基因技术都能套。",
       "Extra": "<b>原文逻辑</b>：The intelligence that makes new models dangerous also makes them tremendously useful. 作者承认风险，同时反对简单封锁。<br><b>例句1 社交媒体</b>：The connectivity that makes social media distracting also makes it valuable for public communication.<br><b>例句2 教育</b>：The pressure that makes exams stressful also makes them a test of discipline.<br><b>例句3 科技</b>：The power that makes new technology disruptive also makes it socially valuable.<br><b>可用场景</b>：考研作文“科技双刃剑”核心句式。",
-      "Tags": "外刊精读 Rules_for_supermodels grammar writing"
+      "Tags": "外刊精读"
     },
     {
       "Front": "Rules for supermodels: central argument",
       "Back": "<b>中心论点</b>：前沿 AI 需要监管，但监管应当正式化、专业化、分阶段，并具备国际韧性；不能靠临时拼凑规则、政治交易或狭隘民族主义。",
       "Extra": "<b>可背作文论点</b>：Powerful technology should be governed by clear rules, expert evaluation and social responsibility.<br><b>例句1</b>：Innovation should not be strangled, but it must be guided by rules that protect the public.<br><b>例句2</b>：A mature society regulates technology before harm becomes irreversible.<br><b>例句3</b>：International cooperation is necessary because digital risks rarely stop at national borders.<br><b>适用话题</b>：科技生活、道德文明、社会责任、国际合作、经济安全。",
-      "Tags": "外刊精读 Rules_for_supermodels macro writing"
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "muckraker",
+      "Back": "<b>核心义</b>：揭黑记者，揭露社会丑闻的人。<br><b>语气</b>：新闻/历史词，带改革时代色彩。<br><b>引申义</b>：揭露制度问题、推动公共改革的人。",
+      "Extra": "<b>文章语境</b>：muckrakers such as Upton Sinclair 促成 FDA。<br><b>暗示</b>：公众监督和媒体揭露能倒逼制度改进。<br><b>例句1</b>：Muckrakers can force society to confront hidden abuses.<br><b>例句2</b>：Good journalism should expose problems rather than entertain the public only.<br><b>可用场景</b>：媒体责任、社会监督、公共伦理。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "bring about",
+      "Back": "<b>核心义</b>：导致，引起，促成。<br><b>语气</b>：中性，考研高频因果动词短语。<br><b>区别</b>：比 cause 更偏“促成某种变化/结果”。",
+      "Extra": "<b>文章语境</b>：Pressure from muckrakers brought about the FDA。<br><b>例句1</b>：Education can bring about long-term social change.<br><b>例句2</b>：Technological progress may bring about new ethical problems.<br><b>例句3</b>：Public pressure can bring about better environmental rules.<br><b>可用场景</b>：因果论证、教育、环境、科技。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "capable adviser",
+      "Back": "<b>核心义</b>：有能力的顾问。<br><b>引申义</b>：不只是能回答问题，而是能提供可操作建议。<br><b>语气</b>：在危险语境中带警惕意味。",
+      "Extra": "<b>文章语境</b>：AI could become capable advisers to bioterrorists。<br><b>暗示</b>：AI 的危险在于能指导行动，而非只提供信息。<br><b>例句1</b>：AI can be a capable adviser for students, but it should not replace independent thinking.<br><b>例句2</b>：A capable adviser helps people make decisions, not merely collect facts.<br><b>可用场景</b>：AI、教育学习、道德责任。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "catastrophe strikes",
+      "Back": "<b>核心义</b>：灾难降临。<br><b>搭配</b>：before catastrophe strikes = 在灾难发生之前。<br><b>语气</b>：强烈、警示，适合风险预防话题。",
+      "Extra": "<b>文章语境</b>：regulate the technology before catastrophe strikes。<br><b>例句1</b>：Governments should act before catastrophe strikes, not after harm is irreversible.<br><b>例句2</b>：Students should correct bad habits before failure strikes.<br><b>可用场景</b>：科技风险、环境保护、健康管理、备考规划。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "a row between A and B",
+      "Back": "<b>核心义</b>：A 与 B 之间的争吵/争端。<br><b>熟词辟义</b>：row 作名词时可表示争吵，读音不同于 row a boat。<br><b>语气</b>：英式新闻常用。",
+      "Extra": "<b>文章语境</b>：a row between the company and the Pentagon。<br><b>例句1</b>：A row between parents and schools can harm students' interests.<br><b>例句2</b>：The policy triggered a row between regulators and technology firms.<br><b>可用场景</b>：新闻阅读、政策争议、教育冲突。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "allay fears",
+      "Back": "<b>核心义</b>：缓解担忧，减轻恐惧。<br><b>语气</b>：正式，新闻和政策报道常用。<br><b>搭配</b>：allay concerns / fears / doubts。",
+      "Extra": "<b>文章语境</b>：Fears of a grudge were allayed。<br><b>例句1</b>：Clear rules can allay public fears about AI.<br><b>例句2</b>：Transparent communication helps allay parents' concerns.<br><b>例句3</b>：Scientific evidence can allay unnecessary panic.<br><b>可用场景</b>：科技治理、教育沟通、公共健康。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "compel sb to do sth",
+      "Back": "<b>核心义</b>：迫使某人做某事。<br><b>语气</b>：正式、强制性强，比 make sb do 更书面。<br><b>政治/法律意味</b>：常用于政府、法律、制度压力。",
+      "Extra": "<b>文章语境</b>：administration appeared to compel OpenAI to limit access。<br><b>例句1</b>：Law can compel companies to protect user data.<br><b>例句2</b>：Exams may compel students to study, but interest keeps them learning.<br><b>可用场景</b>：法律监管、教育、社会责任。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "abruptly lift the ban",
+      "Back": "<b>核心义</b>：突然解除禁令。<br><b>语气</b>：abruptly 暗示决定突兀、缺乏连续性。<br><b>搭配</b>：lift a ban / restriction / lockdown。",
+      "Extra": "<b>文章语境</b>：Commerce Department abruptly lifted the ban on Fable。<br><b>暗示</b>：政策摇摆，缺乏稳定规则。<br><b>例句1</b>：A government should not abruptly lift restrictions without explaining its reasons.<br><b>例句2</b>：Schools should avoid abrupt changes in exam policy.<br><b>可用场景</b>：政策稳定、公共治理、学校管理。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "fiddle with",
+      "Back": "<b>核心义</b>：摆弄，随手调整。<br><b>语气</b>：略随意，可能暗示小修小改、不够根本。<br><b>熟词</b>：fiddle 还可指小提琴，但这里不是。",
+      "Extra": "<b>文章语境</b>：Anthropic fiddled with its safety protections。<br><b>暗示</b>：只是调整保护措施就解除禁令，显得监管不严肃。<br><b>例句1</b>：Do not fiddle with learning methods every day; give one system enough time.<br><b>例句2</b>：Companies often fiddle with settings instead of solving deeper safety problems.<br><b>可用场景</b>：学习方法、产品安全、政策批评。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "de facto ban",
+      "Back": "<b>核心义</b>：事实上的禁令。<br><b>拉丁词</b>：de facto = 实际上存在的，不一定写在法律上。<br><b>政治意味</b>：表面不是禁止，实际效果等于禁止。",
+      "Extra": "<b>文章语境</b>：a wholesale block was a de facto ban。<br><b>例句1</b>：High fees can become a de facto ban on poor students entering good schools.<br><b>例句2</b>：Complex rules may create a de facto barrier to innovation.<br><b>可用场景</b>：教育公平、社会政策、科技监管、经济门槛。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "home market",
+      "Back": "<b>核心义</b>：国内市场，本土市场。<br><b>语气</b>：经济报道常用。<br><b>引申义</b>：一个国家内部需求可支撑企业生存和发展。",
+      "Extra": "<b>文章语境</b>：a vast home market would keep China's model-makers going。<br><b>暗示</b>：外部封锁不一定有效，因为国内市场足够大。<br><b>例句1</b>：A large home market can support local innovation.<br><b>例句2</b>：Companies with a strong home market are less vulnerable to foreign pressure.<br><b>可用场景</b>：经济发展、科技竞争、国际贸易。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "publicly available",
+      "Back": "<b>核心义</b>：公开可获得的。<br><b>语气</b>：正式，常用于数据、资源、模型、信息。<br><b>反义</b>：restricted / private / confidential。",
+      "Extra": "<b>文章语境</b>：a gulf between publicly available and restricted models。<br><b>例句1</b>：Publicly available educational resources can reduce inequality.<br><b>例句2</b>：Not all publicly available information is reliable.<br><b>可用场景</b>：教育资源、信息素养、AI 模型、公共服务。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "unleash chaos",
+      "Back": "<b>核心义</b>：释放混乱，引发大乱。<br><b>语气</b>：强烈，unleash 暗示把原本被压住的力量放出来。<br><b>搭配</b>：unleash creativity / violence / chaos / potential。",
+      "Extra": "<b>文章语境</b>：能力突然跃升 would unleash chaos。<br><b>例句1</b>：A sudden release of powerful technology may unleash chaos.<br><b>例句2</b>：Poorly planned reforms can unleash confusion in schools.<br><b>例句3</b>：Education should unleash potential, not anxiety.<br><b>可用场景</b>：科技风险、教育改革、社会治理、个人潜能。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "trusted institutions",
+      "Back": "<b>核心义</b>：可信机构。<br><b>引申义</b>：被认为有能力、有责任、有规则约束的组织。<br><b>语气</b>：政策/治理语境常用。",
+      "Extra": "<b>文章语境</b>：staggered release to trusted institutions。<br><b>暗示</b>：不是所有人立刻使用，而是先给有责任能力的机构。<br><b>例句1</b>：Sensitive data should be shared only with trusted institutions.<br><b>例句2</b>：Universities can serve as trusted institutions in public debates.<br><b>可用场景</b>：AI 安全、公共卫生、教育机构、社会信任。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "risk to tolerate",
+      "Back": "<b>核心义</b>：可容忍的风险。<br><b>搭配</b>：how much risk to tolerate。<br><b>语气</b>：政策决策词，强调价值判断。",
+      "Extra": "<b>文章语境</b>：how much risk to tolerate belongs to elected leaders。<br><b>暗示</b>：技术专家能评估风险，但社会能接受多少风险是政治问题。<br><b>例句1</b>：A society must decide how much risk to tolerate in exchange for innovation.<br><b>例句2</b>：Students should know how much risk to tolerate when choosing a career path.<br><b>可用场景</b>：科技伦理、职业选择、公共政策。",
+      "Tags": "外刊精读"
     }
   ]
 }
