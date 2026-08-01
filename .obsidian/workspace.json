@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "source-text"
             }
           }
         ]
@@ -207,8 +207,11 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
@@ -220,9 +223,6 @@
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.tsv",
-    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki",

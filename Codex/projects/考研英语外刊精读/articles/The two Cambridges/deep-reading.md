@@ -143,23 +143,10 @@
 
 ## Anki Cards
 
+本篇已按用户指定清单重做词组/句子块 Anki 卡，并完成原型化、具体宾语化和去重合并，共 51 张；标签统一且仅为 `外刊精读`。
+
 生成文件：
 
 - TSV 导入文件：[anki.tsv](anki/anki.tsv)
 - Excel 编辑版：[anki.xlsx](anki/anki.xlsx)
 - 卡片源数据：[cards.json](anki/cards.json)
-
-| Front | Back | Tags |
-|---|---|---|
-| be steeped in | 充满、浸润于；A city steeped in innovation = 充满创新氛围的城市 | 外刊精读 |
-| have the edge in | 在某方面占优势；have the edge in research = 科研上占优势 | 外刊精读 |
-| commercialise research | 将科研成果商业化 | 外刊精读 |
-| innovation cluster | 创新集群；由大学、资本、企业、人才和基础设施组成 | 外刊精读 |
-| be constrained by | 受制于；be constrained by infrastructure = 受基础设施限制 | 外刊精读 |
-| be starved of | 严重缺乏；be starved of capital = 严重缺乏资本 | 外刊精读 |
-| proof of concept | 概念验证；常用于科技、创业、产品落地 | 外刊精读 |
-| risk-averse | 规避风险的、谨慎避险的 | 外刊精读 |
-| complement one another | 相互补充 | 外刊精读 |
-| not so much A as B | 与其说 A，不如说 B | 外刊精读 |
-| It is no coincidence that... | 主语从句结构：It 形式主语，that 从句是真正主语 | 外刊精读 |
-| The former..., the latter... | 前者……，后者……；用于对比两个对象 | 外刊精读 |

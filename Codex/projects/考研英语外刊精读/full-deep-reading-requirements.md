@@ -87,6 +87,8 @@ Front | Back | Extra | Tags
 
 制卡前先归一化去重：把 `formalising` 归为 `formalise...`，把 `tinker with them` 改成 `tinker with + 具体宾语`，把 `crack down on` 与 `cracking down on distillation` 合并为更具体的词组卡。不要为同一个知识点重复出卡。
 
+字段标签不要加粗。使用 `字面含义：...`、`考研核心考点：...` 这种普通文本格式，不使用 `<b>字面含义</b>：` 或 `**字面含义：**`。
+
 高价值表达必须使用“考研深度词卡模板”：
 
 ```text
