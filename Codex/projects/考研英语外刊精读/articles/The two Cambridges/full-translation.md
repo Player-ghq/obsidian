@@ -2,9 +2,9 @@
 
 来源：The Economist, July 4th-10th 2026, Britain, pp.53-54。
 
-原文清理版：[[the-two-cambridges-source-text]]
+原文清理版：[source-text.md](source-text.md)
 
-精读记录：[[the-two-cambridges-deep-reading]]
+精读记录：[deep-reading.md](deep-reading.md)
 
 ## 两个剑桥的故事
 

@@ -48,7 +48,8 @@
 ## 输出约定
 
 - 有用的外刊精读笔记默认写入本知识库，聊天窗口只给简短摘要和文件位置。
-- 进入单篇精读前，默认先把文章全文从 PDF/网页/用户文本中提取出来，清理版保存为 `articles/[article-slug]-source-text.md`，再基于该文本做泛读、精读、翻译和制卡。
-- 单篇精读必须生成全文中文翻译，保存为 `articles/[article-slug]-full-translation.md`，供对照精读使用。
-- 单篇文章产生的词汇、短语、语法和作文表达，默认用 `anki-excel-card-maker` 生成 Anki 可导入 `.tsv`，同时保留 `.xlsx` 编辑版和 `.json` 源数据。
+- 单篇文章默认使用一个独立文件夹，文件夹名称直接使用文章题目，例如 `articles/Rules for supermodels/`。
+- 进入单篇精读前，默认先把文章全文从 PDF/网页/用户文本中提取出来，清理版保存为 `articles/[Article Title]/source-text.md`，再基于该文本做泛读、精读、翻译和制卡。
+- 单篇精读必须生成全文中文翻译，保存为 `articles/[Article Title]/full-translation.md`，供对照精读使用。
+- 单篇文章产生的词汇、短语、语法和作文表达，默认用 `anki-excel-card-maker` 生成 Anki 可导入 `.tsv`，同时保留 `.xlsx` 编辑版和 `.json` 源数据，统一放入 `articles/[Article Title]/anki/`。
 - Anki 标签默认包含 `外刊精读`，并追加文章名标签，方便后续检索。

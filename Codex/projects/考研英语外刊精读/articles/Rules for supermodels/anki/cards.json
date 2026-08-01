@@ -1,0 +1,170 @@
+{
+  "deck": "考研英语::外刊精读::The Economist",
+  "notetype": "Basic",
+  "html": true,
+  "columns": ["Front", "Back", "Extra", "Tags"],
+  "cards": [
+    {
+      "Front": "calamity",
+      "Back": "灾难，严重灾祸；比 disaster 更正式。",
+      "Extra": "Article context: AI has not yet caused a calamity, but it might.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "voluntary standards",
+      "Back": "自愿性标准；指行业或企业自愿遵守的规范。",
+      "Extra": "Writing topic: technology governance and corporate responsibility.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary technology"
+    },
+    {
+      "Front": "guardrailed model",
+      "Back": "加装安全限制或防护栏的模型。",
+      "Extra": "guardrail 在 AI 语境中表示安全边界、限制机制。",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+    },
+    {
+      "Front": "export controls",
+      "Back": "出口管制；政府限制关键技术、产品或服务流向海外。",
+      "Extra": "Useful for topics: technology competition, national security, global trade.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "make up rules on the fly",
+      "Back": "边做边定规则，临时拼凑规则。",
+      "Extra": "Negative policy comment: The government seemed to make up rules on the fly.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase"
+    },
+    {
+      "Front": "nationalistic tinge",
+      "Back": "民族主义色彩；tinge 表示轻微的色彩、意味。",
+      "Extra": "Article context: policy decisions had an unpleasant nationalistic tinge.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase"
+    },
+    {
+      "Front": "take precedence over",
+      "Back": "优先于，重要性高于。",
+      "Extra": "Writing: Public safety should take precedence over private profit.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+    },
+    {
+      "Front": "frontier AI",
+      "Back": "前沿人工智能；通常指能力最强、风险也最高的新一代 AI 模型。",
+      "Extra": "Article context: regulating frontier AI is tricky.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+    },
+    {
+      "Front": "open-weight model",
+      "Back": "开放权重模型；模型参数开放，用户可以运行或改动。",
+      "Extra": "Do not confuse with open-source software; open-weight may not mean all code/data are open.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+    },
+    {
+      "Front": "tinker with",
+      "Back": "摆弄、修补、改动；常指小幅调整。",
+      "Extra": "Article context: anyone can run or tinker with open-weight models.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase"
+    },
+    {
+      "Front": "crack down on",
+      "Back": "严厉打击、加强管制。",
+      "Extra": "Example: Governments may crack down on illegal use of personal data.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+    },
+    {
+      "Front": "distillation",
+      "Back": "蒸馏；AI 中指用强模型输出训练另一个模型。",
+      "Extra": "Article context: American labs are cracking down on distillation.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary AI"
+    },
+    {
+      "Front": "unworkable",
+      "Back": "行不通的，不可操作的。",
+      "Extra": "Writing: A permanent ban on technology is often unworkable.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+    },
+    {
+      "Front": "malleable",
+      "Back": "可塑的，易调整的。",
+      "Extra": "Article context: Chinese models are cheap and malleable.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "a gulf between A and B",
+      "Back": "A 与 B 之间的巨大鸿沟。",
+      "Extra": "Writing: There is a gulf between urban and rural educational resources.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+    },
+    {
+      "Front": "bottle up",
+      "Back": "压住、封存、阻止释放。",
+      "Extra": "Article context: regulators might bottle up several generations of AI advances.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase"
+    },
+    {
+      "Front": "staggered release",
+      "Back": "分阶段发布、错峰发布。",
+      "Extra": "Useful for policy design: an evaluation period and a staggered release.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase technology"
+    },
+    {
+      "Front": "formalise",
+      "Back": "使正式化，使制度化。",
+      "Extra": "Writing: Voluntary standards should be formalised when public safety is at stake.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+    },
+    {
+      "Front": "micromanage",
+      "Back": "微观管理，过度干预细节。",
+      "Extra": "Article view: politicians should not micromanage model evaluation.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "horse-trade",
+      "Back": "讨价还价，政治交易；常带贬义。",
+      "Extra": "Article context: politicians should not horse-trade with AI companies.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "stand back",
+      "Back": "退后，不插手细节。",
+      "Extra": "Writing: Once clear goals are set, leaders should stand back.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+    },
+    {
+      "Front": "amalgamate",
+      "Back": "整合，合并。",
+      "Extra": "Article context: amalgamate knowledge from AI labs, research groups and foreign bodies.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary"
+    },
+    {
+      "Front": "build leverage",
+      "Back": "建立筹码、增强议价能力。",
+      "Extra": "Writing: Young people should build leverage through useful skills.",
+      "Tags": "外刊精读 Rules_for_supermodels phrase writing"
+    },
+    {
+      "Front": "fail-safe",
+      "Back": "失效保护，备用机制。",
+      "Extra": "Writing: Societies need fail-safes against technological and economic shocks.",
+      "Tags": "外刊精读 Rules_for_supermodels vocabulary writing"
+    },
+    {
+      "Front": "Grammar: The intelligence that... also...",
+      "Back": "结构：The intelligence + that 定语从句 + also + 谓语。含义：同一种能力既带来风险，也带来价值。",
+      "Extra": "Imitation: The connectivity that makes social media distracting also makes it valuable for education.",
+      "Tags": "外刊精读 Rules_for_supermodels grammar writing"
+    },
+    {
+      "Front": "Grammar: Once those goals are set, politicians should stand back.",
+      "Back": "Once 引导时间状语从句，表示“一旦……就……”。",
+      "Extra": "Imitation: Once basic rules are set, schools should be given room to innovate.",
+      "Tags": "外刊精读 Rules_for_supermodels grammar writing"
+    },
+    {
+      "Front": "Rules for supermodels: central argument",
+      "Back": "Frontier AI needs regulation, but regulation should be formal, technical, staged and internationally resilient, not improvised or purely nationalistic.",
+      "Extra": "作文迁移：AI 监管、科技伦理、社会责任、国际合作。",
+      "Tags": "外刊精读 Rules_for_supermodels macro writing"
+    }
+  ]
+}

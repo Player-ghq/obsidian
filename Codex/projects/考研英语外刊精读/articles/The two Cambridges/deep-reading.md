@@ -2,9 +2,9 @@
 
 来源：The Economist, July 4th-10th 2026, pp.53-54。
 
-原文清理版：[[the-two-cambridges-source-text]]
+原文清理版：[source-text.md](source-text.md)
 
-全文翻译：[[the-two-cambridges-full-translation]]
+全文翻译：[full-translation.md](full-translation.md)
 
 ## Macro Understanding
 
@@ -145,9 +145,9 @@
 
 生成文件：
 
-- TSV 导入文件：[[../anki/the-two-cambridges-anki.tsv]]
-- Excel 编辑版：[[../anki/the-two-cambridges-anki.xlsx]]
-- 卡片源数据：[[../anki/the-two-cambridges-cards.json]]
+- TSV 导入文件：[anki.tsv](anki/anki.tsv)
+- Excel 编辑版：[anki.xlsx](anki/anki.xlsx)
+- 卡片源数据：[cards.json](anki/cards.json)
 
 | Front | Back | Tags |
 |---|---|---|

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/readings/economist-20260704-priority-theme-reading-map.md",
+                "file": "Codex/projects/考研英语外刊精读/state.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "economist-20260704-priority-theme-reading-map"
+              "title": "state"
             }
           }
         ]
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 432.5004348754883
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -207,42 +207,42 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/anki.xlsx",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.xlsx",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges",
+    "Codex/projects/考研英语外刊精读/anki/rules-for-supermodels-anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/rules-for-supermodels-source-text.md",
+    "Codex/projects/考研英语外刊精读/full-deep-reading-requirements.md",
+    "Codex/projects/考研英语外刊精读/how-to-close-read.md",
+    "Codex/projects/考研英语外刊精读/reading-log.md",
     "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-source-text.md",
-    "Codex/projects/考研英语外刊精读/anki/the-two-cambridges-anki.tsv",
-    "Codex/projects/考研英语外刊精读/anki/the-two-cambridges-anki.xlsx",
-    "Codex/projects/考研英语外刊精读/anki/the-two-cambridges-cards.json",
-    "Codex/projects/考研英语外刊精读/anki",
+    "Codex/projects/考研英语外刊精读/readings/economist-20260704-priority-theme-reading-map.md",
+    "Codex/projects/考研英语外刊精读/workflow.md",
+    "Codex/projects/考研英语外刊精读/theme-priority.md",
+    "Codex/projects/考研英语外刊精读/state.md",
+    "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/exam-answer-templates.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/body-region-quick-map.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/answer-routing-map.md",
-    "Codex/projects/考研英语外刊精读/articles/the-two-cambridges-deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles",
-    "Codex/projects/考研英语外刊精读/full-deep-reading-requirements.md",
-    "Codex/projects/考研英语外刊精读/workflow.md",
-    "Codex/projects/考研英语外刊精读/theme-priority.md",
     "Codex/projects/读书伴读/笔记导出/索引.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第15章行走的运动功能学.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第14章踝关节与足.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第12章髋关节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第7章腕关节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书/第12章人类步行的基本原理.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书/第9章髋关节的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书/第8章脊柱的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书/第5章肘关节和前臂复合体的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书/第1章肌动学的基本原理.md",
-    "Codex/projects/考研英语外刊精读/readings/economist-20260704-priority-theme-reading-map.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第11章咀嚼与通气的运动功能学.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版/第10章中轴骨骼：肌肉与关节间相互作用.md",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest/2026-07-12.md",
-    "Codex/projects/Valorant枪法身体底层能力训练/左右手协调训练.md",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/reading-queue.md",
-    "Codex/projects/上海体育大学运动康复系教师科研画像/daily-digest/2026-07-14.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/骨骼肌肉功能解剖学-第2版",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters/基础肌动学-第3版-肌肉骨骼系统结构功能物理治疗师工具书",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/compiled-chapters",
-    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体",
-    "Codex/projects/肌动学与功能解剖学语料库/concepts",
     "Untitled.canvas",
     "Pasted image 20260714131902.png"
   ]
