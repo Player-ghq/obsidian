@@ -35,9 +35,16 @@
 ## 当前工具
 
 - Skill：`english-magazine-close-reading`
+- Anki 制卡：`anki-excel-card-maker`
 - 重点流程：见 [[workflow]]
 - 精读操作手册：见 [[how-to-close-read]]
 - 完整精读输出需求：见 [[full-deep-reading-requirements]]
 - 重点主题：见 [[theme-priority]]
 - 阅读记录：见 [[reading-log]]
 - 当前状态：见 [[state]]
+
+## 输出约定
+
+- 有用的外刊精读笔记默认写入本知识库，聊天窗口只给简短摘要和文件位置。
+- 单篇文章产生的词汇、短语、语法和作文表达，默认用 `anki-excel-card-maker` 生成 Anki 可导入 `.tsv`，同时保留 `.xlsx` 编辑版和 `.json` 源数据。
+- Anki 标签默认包含 `外刊精读`，并追加文章名标签，方便后续检索。
