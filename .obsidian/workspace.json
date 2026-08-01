@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
-                "mode": "source",
+                "file": "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
-                  "collapseAll": false,
+                  "collapseAll": true,
                   "extraContext": false,
                   "sortOrder": "alphabetical",
                   "showSearch": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "source-text"
             }
           }
         ]
@@ -207,10 +207,10 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",
     "Codex/projects/肌动学与功能解剖学语料库/qa/第5章肩复合体-学习问题答案.md",

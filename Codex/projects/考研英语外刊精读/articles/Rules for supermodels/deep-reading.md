@@ -17,19 +17,19 @@
 
 ## Paragraph Functions
 
-| 分片 | 功能 | 中文意译 |
-|---|---|---|
-| 标题与副标题 | 主题设定 | `supermodels` 双关：既指“超级模型”，也暗示顶级 AI 模型需要规则；副标题提出核心立场：Fable 可开放，但 AI 迫切需要更好监管。 |
-| P1 灾难与监管传统 | 背景/问题 | 历史上美国常在灾难后建立监管机构；AI 尚未造成灾难，但高能力模型可能带来黑客和生物安全风险。 |
-| P2 政府提前监管 | 转折/评价 | 特朗普政府试图灾前监管，这可以理解；但执行混乱。 |
-| P3 Anthropic 与 OpenAI 案例 | 例子/证据 | Fable 被禁又被解禁，OpenAI 也被限制访问，显示政府做法摇摆。 |
-| P4 临时规则与民族主义 | 批评 | 政府像是在边做边定规则，并优先保障美国人访问 AI，带有民族主义倾向。 |
-| P5 中国开源模型挑战 | 原因/现实约束 | 美国一旦许可 AI 发布就难停止，但中国开放权重模型、蒸馏和国内市场使永久封锁很难奏效。 |
-| P6 反对永久封锁 | 论证 | 永久封锁既不可行也不可取，因为模型既危险又有用，能力突然释放会造成更大混乱。 |
-| P7 如何安全释放 | 解决方案 | 应设置评估期并分阶段向可信机构发布；风险容忍度由民选领导人决定，但政治人物不应微观管理。 |
-| P8 专业评估机制 | 解决方案 | 模型评估是技术问题，应由政府监督下的行业机构和专业组织共同完成。 |
-| P9 美国与盟友 | 让步/风险 | 理想上美国应和盟友合作，但特朗普可能不愿放弃控制前沿模型带来的权力。 |
-| P10 其他国家策略 | 结论 | 其他国家应发展本国 AI 和监管能力，并为美国出口管制建立备用方案。 |
+| 分片                       | 功能      | 中文意译                                                                         |
+| ------------------------ | ------- | ---------------------------------------------------------------------------- |
+| 标题与副标题                   | 主题设定    | `supermodels` 双关：既指“超级模型”，也暗示顶级 AI 模型需要规则；副标题提出核心立场：Fable 可开放，但 AI 迫切需要更好监管。 |
+| P1 灾难与监管传统               | 背景/问题   | 历史上美国常在灾难后建立监管机构；AI 尚未造成灾难，但高能力模型可能带来黑客和生物安全风险。                              |
+| P2 政府提前监管                | 转折/评价   | 特朗普政府试图灾前监管，这可以理解；但执行混乱。                                                     |
+| P3 Anthropic 与 OpenAI 案例 | 例子/证据   | Fable 被禁又被解禁，OpenAI 也被限制访问，显示政府做法摇摆。                                         |
+| P4 临时规则与民族主义             | 批评      | 政府像是在边做边定规则，并优先保障美国人访问 AI，带有民族主义倾向。                                          |
+| P5 中国开源模型挑战              | 原因/现实约束 | 美国一旦许可 AI 发布就难停止，但中国开放权重模型、蒸馏和国内市场使永久封锁很难奏效。                                 |
+| P6 反对永久封锁                | 论证      | 永久封锁既不可行也不可取，因为模型既危险又有用，能力突然释放会造成更大混乱。                                       |
+| P7 如何安全释放                | 解决方案    | 应设置评估期并分阶段向可信机构发布；风险容忍度由民选领导人决定，但政治人物不应微观管理。                                 |
+| P8 专业评估机制                | 解决方案    | 模型评估是技术问题，应由政府监督下的行业机构和专业组织共同完成。                                             |
+| P9 美国与盟友                 | 让步/风险   | 理想上美国应和盟友合作，但特朗普可能不愿放弃控制前沿模型带来的权力。                                           |
+| P10 其他国家策略               | 结论      | 其他国家应发展本国 AI 和监管能力，并为美国出口管制建立备用方案。                                           |
 
 ## Grammar and Long-Sentence Bank
 
@@ -126,33 +126,33 @@
 
 ## Core Vocabulary and Phrase Notes
 
-| 表达 | 注解 | 写作迁移 |
-|---|---|---|
-| come out of disasters | 从灾难中产生 | Many public rules come out of painful lessons. |
-| calamity | 灾难，严重灾祸 | 用于替换 disaster，但语气更正式。 |
-| voluntary standards | 自愿性标准 | 科技治理、行业自律话题可用。 |
-| guardrailed | 加装防护限制的 | AI safety 语境：guardrailed model。 |
-| export controls | 出口管制 | 科技竞争、国际贸易、国家安全。 |
-| make up rules on the fly | 临时拼凑规则 | 批评政策缺乏稳定性。 |
-| nationalistic tinge | 民族主义色彩 | `tinge` 表示“淡淡的色彩/意味”。 |
-| take precedence over | 优先于 | Public safety should take precedence over private profit. |
-| frontier AI | 前沿人工智能 | 科技监管高频表达。 |
-| open-weight | 开放权重的 | 指模型参数权重开放，可被运行或修改。 |
-| tinker with | 修修补补，摆弄，改动 | 可用于技术、制度、学习方法。 |
-| crack down on | 严厉打击 | government cracks down on illegal data use |
-| distillation | 蒸馏；用强模型输出训练弱模型 | AI 技术语境。 |
-| unworkable | 行不通的 | A permanent ban is unworkable. |
-| malleable | 可塑的，易调整的 | cheap and malleable models |
-| a gulf between A and B | A 与 B 之间的巨大鸿沟 | a gulf between rich and poor students |
-| bottle up | 压住、封存、阻止释放 | bottle up technological progress |
-| staggered release | 分阶段发布 | policy design / technology governance |
-| formalise | 使制度化，正式化 | formalise voluntary standards |
-| micromanage | 微观管理，过度干预细节 | Politicians should not micromanage technical evaluation. |
-| horse-trade | 讨价还价，政治交易 | negative policy/process word |
-| stand back | 退后，不插手细节 | Once goals are set, leaders should stand back. |
-| amalgamate | 整合，合并 | amalgamate knowledge from different sectors |
-| build leverage | 建立筹码 | Countries must build leverage in strategic industries. |
-| fail-safe | 失效保护，备用机制 | build fail-safes for external shocks |
+| 表达                       | 注解             | 写作迁移                                                      |
+| ------------------------ | -------------- | --------------------------------------------------------- |
+| come out of disasters    | 从灾难中产生         | Many public rules come out of painful lessons.            |
+| calamity                 | 灾难，严重灾祸        | 用于替换 disaster，但语气更正式。                                     |
+| voluntary standards      | 自愿性标准          | 科技治理、行业自律话题可用。                                            |
+| guardrailed              | 加装防护限制的        | AI safety 语境：guardrailed model。                           |
+| export controls          | 出口管制           | 科技竞争、国际贸易、国家安全。                                           |
+| make up rules on the fly | 临时拼凑规则         | 批评政策缺乏稳定性。                                                |
+| nationalistic tinge      | 民族主义色彩         | `tinge` 表示“淡淡的色彩/意味”。                                     |
+| take precedence over     | 优先于            | Public safety should take precedence over private profit. |
+| frontier AI              | 前沿人工智能         | 科技监管高频表达。                                                 |
+| open-weight              | 开放权重的          | 指模型参数权重开放，可被运行或修改。                                        |
+| tinker with              | 修修补补，摆弄，改动     | 可用于技术、制度、学习方法。                                            |
+| crack down on            | 严厉打击           | government cracks down on illegal data use                |
+| distillation             | 蒸馏；用强模型输出训练弱模型 | AI 技术语境。                                                  |
+| unworkable               | 行不通的           | A permanent ban is unworkable.                            |
+| malleable                | 可塑的，易调整的       | cheap and malleable models                                |
+| a gulf between A and B   | A 与 B 之间的巨大鸿沟  | a gulf between rich and poor students                     |
+| bottle up                | 压住、封存、阻止释放     | bottle up technological progress                          |
+| staggered release        | 分阶段发布          | policy design / technology governance                     |
+| formalise                | 使制度化，正式化       | formalise voluntary standards                             |
+| micromanage              | 微观管理，过度干预细节    | Politicians should not micromanage technical evaluation.  |
+| horse-trade              | 讨价还价，政治交易      | negative policy/process word                              |
+| stand back               | 退后，不插手细节       | Once goals are set, leaders should stand back.            |
+| amalgamate               | 整合，合并          | amalgamate knowledge from different sectors               |
+| build leverage           | 建立筹码           | Countries must build leverage in strategic industries.    |
+| fail-safe                | 失效保护，备用机制      | build fail-safes for external shocks                      |
 
 ## Kaoyan Writing Topics
 
