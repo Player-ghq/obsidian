@@ -41,3 +41,19 @@
 - 整理层: `structured/囚徒健身全集-共4册/`
 - 导入脚本: `scripts/import_prisoner_fitness_epub.py`
 - 使用定位: 自重训练动作进阶库、低器械训练组织、HYROX 辅助训练参考；肌肉和关节机制需与本项目解剖/肌动学教材交叉核对。
+
+## 力量训练解剖全书
+
+- 书名: 力量训练解剖全书：肌肉与力量的解剖学认知及科学训练方案
+- 作者: 奥斯卡·莫兰 / Oscar Moran 等
+- PDF: `/Users/HaoQi/Documents/考研/教材/力量训练解剖全书：肌肉与力量的解剖学认知及科学训练方案 (奥斯卡·莫兰 (Óscar Morán) etc.) (Z-Library).pdf`
+- PDF 页数: 355
+- 语料目录: `extracted/力量训练解剖全书/`
+- 知识块目录: `chunks/by-book/力量训练解剖全书/`
+- 清洗目录: `cleaned/by-book/力量训练解剖全书/`
+- 页级索引: `index/strength-training-anatomy-page-index.md`
+- 检索映射: `index/strength-training-anatomy-retrieval-map.jsonl`
+- 整理层: `structured/力量训练解剖全书/`
+- 导入脚本: `scripts/import_strength_training_anatomy_pdf.py`
+- OCR 状态: `OCR待复核`；抽取空文本页数 3；图文混排页存在术语误识别，回答时应使用规范解剖名并按需回查 PDF 图像页。
+- 使用定位: 器械力量训练动作库、所涉肌肉和常见错误参考；肌肉和关节机制需与本项目解剖/肌动学教材交叉核对。
