@@ -1,0 +1,58 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第6章 骨骼肌"
+book_page: 129
+pdf_page: 142
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0129.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.129 第6章 骨骼肌
+
+第六章骨骼肌
+
+一最长肌
+
+最长肌
+
+一骼肋肌
+
+骼肋肌
+
+图6-16
+
+竖脊肌
+
+头后大小直肌一
+
+一头下斜肌
+
+头最长肌-
+
+颈半棘肌一
+
+一回旋肌
+
+棘肌
+
+肋间外肌
+
+一肋提肌
+
+横突间肌
+
+腹横肌一
+
+一腰方肌
+
+多裂肌
+
+臀大肌一
+
+图6-17
+
+背部深层肌
+
+·129.

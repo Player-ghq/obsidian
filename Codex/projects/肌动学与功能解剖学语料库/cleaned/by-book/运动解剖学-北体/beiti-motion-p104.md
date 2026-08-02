@@ -1,0 +1,82 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第5章 骨连结"
+book_page: 104
+pdf_page: 117
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0104.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.104 第5章 骨连结
+
+运动解部学古
+
+关节囊
+
+骼前下棘一
+
+骼股韧带
+
+耻股韧带
+
+骼股韧带-
+
+坐股韧带
+
+大转子
+
+大转子
+
+一转子间
+
+耻骨结节
+
+闭孔膜
+
+坐骨结节
+
+小转子
+
+小转子
+
+股骨颈
+
+前面观
+
+后面观
+
+髋白窝
+
+月状面、
+
+髋白唇
+
+股骨头
+
+股骨颈
+
+大转子
+
+股骨头韧带
+
+前外侧面观（关节囊打开）
+
+图5-43
+
+髋关节的辅助结构
+
+内收
+
+“旋内
+
+外展
+
+旋外
+
+图5-44
+
+髋关节的运动
+
+-104.

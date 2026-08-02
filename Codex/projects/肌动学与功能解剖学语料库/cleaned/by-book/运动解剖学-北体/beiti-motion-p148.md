@@ -1,0 +1,72 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第6章 骨骼肌"
+book_page: 148
+pdf_page: 161
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0148.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.148 第6章 骨骼肌
+
+运动解剖学
+
+三角肌一
+
+长头
+
+一胸大肌
+
+-肩脚下肌
+
+短头一
+
+大圆肌
+
+一脑二头肌一
+
+肌腱
+
+肱桡肌
+
+腱膜
+
+前面浅层
+
+前面深层
+
+冈上肌-
+
+冈上肌-
+
+一三角肌
+
+小圆肌
+
+冈下肌
+
+大圆肌
+
+脑三头肌长头--
+
+脑三头肌
+
+脑三头肌外侧头一—
+
+十一脑桡肌
+
+—-肘肌
+
+尺侧腕屈肌一
+
+后面浅层
+
+后面深层
+
+图6-50
+
+上肢带肌和上臂肌
+
+-148.

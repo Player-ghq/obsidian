@@ -1,0 +1,102 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第4章 骨"
+book_page: 51
+pdf_page: 64
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0051.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.51 第4章 骨
+
+第四章
+
+冠状缝
+
+额骨
+
+翼点
+
+蝶骨大翼
+
+顶骨
+
+泪骨
+
+鼻骨
+
+-筛骨
+
+人字缝一
+
+赖弓
+
+枕骨
+
+-冠突
+
+上颌骨
+
+外耳门！
+
+乳突，茎突
+
+下颌头
+
+下颌角
+
+下颌骨
+
+图4-23
+
+侧面观
+
+切牙孔、
+
+聘正中缝
+
+上颌骨
+
+，聘骨水平板
+
+鼻后孔
+
+一颜弓
+
+犁骨
+
+蝶骨
+
+一卵圆孔
+
+题骨
+
+下颌窝
+
+茎突
+
+-颈动脉管
+
+一外耳门
+
+乳突
+
+一枕
+
+枕骨大孔
+
+枕骨
+
+下项线
+
+上项线
+
+枕外隆凸
+
+图4-24
+
+颅底面观
+
+-51 .

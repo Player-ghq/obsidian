@@ -1,0 +1,62 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第6章 骨骼肌"
+book_page: 125
+pdf_page: 138
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0125.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.125 第6章 骨骼肌
+
+第六章骨骼肌
+
+第二节
+
+躯干肌
+
+若肌肉的主体部分分布于躯干，且至少有一端附着于躯干骨上，则此类肌肉通常称为躯干肌。躯干肌大多扁而阔，按部位分为背肌、胸肌、隔肌、腹肌和盆底肌（图6-11、图6-
+
+12)。
+
+胸锁乳突肌一
+
+胸骨舌骨肌
+
+胸大肌、
+
+斜方肌
+
+三角肌一
+
+胸小肌
+
+前锯肌
+
+背阔肌
+
+腹直肌
+
+腹直肌鞘前层
+
+-腱划
+
+白线-
+
+腹外斜肌一
+
+一腹内斜肌
+
+腹外斜肌腱膜
+
+腹股沟韧带一
+
+-锥状肌
+
+图6-11
+
+躯干肌前面观
+
+-125.

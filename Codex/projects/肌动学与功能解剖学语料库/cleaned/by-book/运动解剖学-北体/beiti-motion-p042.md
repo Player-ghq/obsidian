@@ -1,0 +1,64 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第4章 骨"
+book_page: 42
+pdf_page: 55
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0042.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.42 第4章 骨
+
+运动解剖学
+
+颈椎
+
+颈椎
+
+肋骨
+
+肋骨
+
+胸椎
+
+胸骨
+
+一肋软骨
+
+腰椎
+
+腰椎
+
+尾骨
+
+尾骨
+
+前面观
+
+后面观
+
+图4-8
+
+驱千骨组成
+
+椎体—
+
+上关节突
+
+横突
+
+椎弓根
+
+椎孔
+
+下关节突一
+
+椎弓板
+
+棘突
+
+图4-9
+
+椎骨的一般形态示意图

@@ -1,0 +1,46 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第6章 骨骼肌"
+book_page: 131
+pdf_page: 144
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0131.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.131 第6章 骨骼肌
+
+第六章骨骼肌
+
+2.胸小肌（图6-19)
+
+位置与形态：位于胸大肌深面，呈三角形。
+
+起点：起自第3~5肋骨的前面，肌束向外后上方走行。
+
+止点：止于肩脚骨喙突。
+
+功能：近固定时，拉力方向指向前内下方，其旋转分力使肩脚骨下降、前伸和下回旋。
+
+远固定时，拉力方向指向后外上方，能提肋辅助吸气。
+
+胸小肌一
+
+胸小肌一
+
+图6-19
+
+胸小肌
+
+3.前锯肌（图6-20)
+
+前锯肌一
+
+前锯肌--
+
+图6-20
+
+前锯肌
+
+·131.

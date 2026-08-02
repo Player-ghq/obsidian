@@ -1,30 +1,31 @@
 # 肌动学与功能解剖学语料库
 
-这是一个与其他项目隔离的本地知识库，用于以后回答《基础肌动学 第3版》和《骨骼肌肉功能解剖学 第2版》相关问题。
+这是一个与其他项目隔离的本地知识库，用于以后回答《基础肌动学 第3版》《骨骼肌肉功能解剖学 第2版》以及北体《运动解剖学》运动系统相关问题。
 
 ## 内容范围
 
-- 来源书籍: 2 本
-- 抽取页数: 1130
+- 来源书籍: 3 本，其中北体《运动解剖学》仅整理第4-9章运动系统
+- 抽取页数: 1339
 - 知识块数: 241
 - 未抽取到文字的页数: 2
-- 清洗层知识块数: 241
-- 章节汇编层: 覆盖两本书清洗语料
+- 清洗层知识块数: 450
+- 章节汇编层: 覆盖前两本全书清洗语料，并覆盖北体《运动解剖学》第4-9章 OCR 清洗语料
 - 结构化章节样板: 《骨骼肌肉功能解剖学 第2版》第5章 肩复合体
 - 高效问答入口: 问题路由图、部位章节速查表、考研答题模板
 
 ## 使用方式
 
-以后提问这两本书相关内容时，优先检索本目录：
+以后提问这些教材相关内容时，优先检索本目录：
 
 1. 先看 `index/answer-routing-map.md` 判断问题类型。
 2. 再看 `index/body-region-quick-map.md` 定位身体部位和章节页码。
 3. 考研简答/论述先套 `index/exam-answer-templates.md`。
-4. 具体内容优先查 `structured/` 与 `concepts/`。
-5. 需要顺读整章时打开 `index/compiled-chapter-index.md` 与 `structured/compiled-chapters/`。
-6. 需要核对原文时打开 `cleaned/by-book/`。
-7. OCR 疑似错误时再查看 `chunks/by-book/` 或 `extracted/`。
-8. 回答时说明依据的书名和页码范围。
+4. 北体《运动解剖学》运动系统问题先查 `index/beiti-motion-system-index.md`。
+5. 具体内容优先查 `structured/` 与 `concepts/`。
+6. 需要顺读整章时打开 `index/compiled-chapter-index.md` 与 `structured/compiled-chapters/`。
+7. 需要核对原文时打开 `cleaned/by-book/`。
+8. OCR 疑似错误时再查看 `chunks/by-book/` 或 `extracted/`。
+9. 回答时说明依据的书名和页码范围。
 
 ## 目录说明
 

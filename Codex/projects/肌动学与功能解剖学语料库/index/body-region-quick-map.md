@@ -41,3 +41,13 @@
 - 同一问题优先读功能解剖学对应章节获取机制，再读基础肌动学对应章节补治疗师视角。
 - 若用户问“考试怎么写”，先读 `index/exam-answer-templates.md`，再补本表对应章节。
 
+## 北体《运动解剖学》运动系统补充
+
+| 主题 | 北体《运动解剖学》 | 优先入口 |
+|---|---:|---|
+| 骨 | p.30-66 | `index/beiti-motion-system-index.md`；第4章 |
+| 骨连结 | p.67-112 | `index/beiti-motion-system-index.md`；第5章 |
+| 骨骼肌 | p.113-186 | `index/beiti-motion-system-index.md`；第6章 |
+| 骨骼肌的运动原理 | p.187-206 | `index/beiti-motion-system-index.md`；第7章 |
+| 运动技术动作解剖学分析 | p.207-229 | `index/beiti-motion-system-index.md`；第8章 |
+| 体育运动对运动器官的影响 | p.230-238 | `index/beiti-motion-system-index.md`；第9章 |

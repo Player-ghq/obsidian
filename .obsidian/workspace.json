@@ -11,24 +11,10 @@
             "id": "1d1f61dc6dafcb68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "source-text"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -209,14 +195,14 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/kaoyan-filter-report.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/kaoyan-filter-report.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/The two Cambridges/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",

@@ -1,0 +1,52 @@
+---
+type: cleaned_ocr_page
+book: "运动解剖学 北体"
+chapter: "第6章 骨骼肌"
+book_page: 115
+pdf_page: 128
+source_pdf: "/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf"
+raw_page: "extracted/运动解剖学-北体/page-0115.md"
+cleaning_status: "OCR text cleaned; wording requires source check for precise quotation"
+---
+
+# p.115 第6章 骨骼肌
+
+第六章骨骼肌
+
+斜方肌
+
+三角肌一
+
+小圆肌
+
+冈下肌一
+
+一大圆肌
+
+一脑三头肌
+
+背阔肌
+
+肱桡肌
+
+一指伸肌
+
+尺侧腕屈肌一
+
+--胸腰筋膜
+
+臀大肌
+
+骼胫束
+
+半腱肌一十
+
+一股二头肌
+
+一排肠肌
+
+比目鱼肌
+
+图6-2人体肌肉后面观
+
+-115.

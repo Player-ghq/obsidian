@@ -15,3 +15,14 @@
 - 页数: 720
 - 语料目录: `extracted/骨骼肌肉功能解剖学-第2版/`
 - 知识块目录: `chunks/by-book/骨骼肌肉功能解剖学-第2版/`
+
+## 运动解剖学 北体
+
+- 书名: 运动解剖学 北体
+- PDF: `/Users/HaoQi/Documents/考研/教材/运动解剖学-北体.pdf`
+- PDF 页数: 507
+- 已整理范围: 第4-9章 运动系统，书页 p.30-238，PDF 页 43-251
+- 语料目录: `extracted/运动解剖学-北体/`
+- 清洗目录: `cleaned/by-book/运动解剖学-北体/`
+- 章节汇编目录: `structured/compiled-chapters/运动解剖学-北体/`
+- OCR 状态: `OCR待复核`
