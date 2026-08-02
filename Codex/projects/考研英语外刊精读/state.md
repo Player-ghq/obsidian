@@ -4,16 +4,20 @@
 
 - 项目已建立：2026-07-28
 - 当前使用 skill：`english-magazine-close-reading`
-- 当前优先任务：继续从 The Economist July 4th-10th 2026 中选择高考研价值文章进入单篇泛读与精读；已完成 `Vibe lawyering`。
+- 当前优先任务：按每日计划精读 The Economist 文章；7 月 4 日期已读 3 篇，先补足该期剩余 5 篇，再进入 7 月 11、18、25 三期。
 
 ## 当前推荐精读顺序
 
-1. Optimising sleep, p.79
-2. Are stablecoins money?, p.75
+1. Optimising sleep, p.79, The Economist 2026-07-04
+2. Are stablecoins money?, p.75, The Economist 2026-07-04
+3. Synthetic biology, p.76, The Economist 2026-07-04
+4. Sequencing babies' genomes, p.77, The Economist 2026-07-04
+5. The summer BBQ index, p.68, The Economist 2026-07-04
 
 ## 下一步
 
 - `The two Cambridges` 已完成完整精读，记录见 [[articles/The two Cambridges/deep-reading|The two Cambridges]]。
 - `Rules for supermodels` 已完成完整精读，记录见 [[articles/Rules for supermodels/deep-reading|Rules for supermodels]]。
-- `Vibe lawyering` 已完成完整精读，记录见 [[articles/Vibe lawyering/deep-reading|Vibe lawyering]]；Anki 已按最新词组卡规范生成 41 张卡。
-- 下一篇建议精读 `Optimising sleep`，继续沉淀健康、科技生活与学习效率相关表达。
+- `Vibe lawyering` 已完成完整精读，记录见 [[articles/Vibe lawyering/deep-reading|Vibe lawyering]]；Anki 已按用户自选词表重制为 30 张卡。
+- 2026-08-03 至 2026-08-28 每日一篇规划见 [[readings/economist-20260711-20260725-three-week-close-reading-plan|2026-07-04 至 2026-07-25 每日精读计划]]。
+- 下一篇建议精读 `Optimising sleep`，来源为 The Economist 2026-07-04, p.79；先输出建议制卡清单，等待用户自选词表后再正式制卡。
