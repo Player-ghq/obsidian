@@ -11,24 +11,10 @@
             "id": "1d1f61dc6dafcb68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/旋转肌袖.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "旋转肌袖"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -207,8 +193,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e98af7c370b13acc",
+  "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/旋转肌袖.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/beiti-motion-system-structured-index.md",
     "Codex/projects/肌动学与功能解剖学语料库/concepts/北体运动系统/骨骼肌构造.md",
     "Codex/projects/肌动学与功能解剖学语料库/concepts/北体运动系统/骨骼肌命名.md",
@@ -235,7 +222,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第8章-运动技术动作的解剖学分析.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第7章-骨骼肌的运动原理.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第6章-骨骼肌.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第5章-骨连结.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/The two Cambridges/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/anki/cards.json",
