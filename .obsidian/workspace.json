@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/source-text.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "source-text"
+              "title": "02-骨学总论-完整版"
             }
           }
         ]
@@ -207,14 +207,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d1f61dc6dafcb68",
+  "active": "e98af7c370b13acc",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01-解剖学总论-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
+    "Codex/projects/肌动学与功能解剖学语料库/training/HYROX-2026-08-02-至-08-08-周计划.md",
+    "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/source-text.md",
     "Codex/projects/考研英语外刊精读/readings/economist-20260711-20260725-three-week-close-reading-plan.md",
     "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/力量训练解剖全书/力量训练解剖全书-结构化总览.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/strength-training-anatomy-routing-map.md",
     "Codex/projects/肌动学与功能解剖学语料库/structured/力量训练解剖全书",
-    "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/source-text.md",
     "Codex/projects/肌动学与功能解剖学语料库/index/strength-training-anatomy-retrieval-map.jsonl",
     "Codex/projects/肌动学与功能解剖学语料库/index/strength-training-anatomy-page-index.md",
     "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0089-p0353-0355.md",
@@ -234,9 +237,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0075-p0297-0300.md",
     "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0074-p0293-0296.md",
     "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0073-p0289-0292.md",
-    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0072-p0285-0288.md",
-    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0071-p0281-0284.md",
-    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0070-p0277-0280.md",
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/力量训练解剖全书",
     "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书",
     "Codex/projects/肌动学与功能解剖学语料库/extracted/力量训练解剖全书",
