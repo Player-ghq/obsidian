@@ -10,7 +10,8 @@
 - 未抽取到文字的页数: 2
 - 清洗层知识块数: 450
 - 章节汇编层: 覆盖前两本全书清洗语料，并覆盖北体《运动解剖学》第4-9章 OCR 清洗语料
-- 结构化章节样板: 《骨骼肌肉功能解剖学 第2版》第5章 肩复合体
+- 结构化章节: 《骨骼肌肉功能解剖学 第2版》第5章肩复合体；北体《运动解剖学》第4-9章运动系统
+- 概念卡: 肩复合体 11 张；北体运动系统 20 张
 - 高效问答入口: 问题路由图、部位章节速查表、考研答题模板
 
 ## 使用方式
@@ -20,7 +21,7 @@
 1. 先看 `index/answer-routing-map.md` 判断问题类型。
 2. 再看 `index/body-region-quick-map.md` 定位身体部位和章节页码。
 3. 考研简答/论述先套 `index/exam-answer-templates.md`。
-4. 北体《运动解剖学》运动系统问题先查 `index/beiti-motion-system-index.md`。
+4. 北体《运动解剖学》运动系统问题先查 `index/beiti-motion-system-structured-index.md`。
 5. 具体内容优先查 `structured/` 与 `concepts/`。
 6. 需要顺读整章时打开 `index/compiled-chapter-index.md` 与 `structured/compiled-chapters/`。
 7. 需要核对原文时打开 `cleaned/by-book/`。
@@ -35,7 +36,7 @@
 - `chunks/by-topic/`: 按主题聚合的入口页。
 - `cleaned/`: 去除多余换行后的清洗语料层。
 - `structured/`: 按章节整理后的高效率读取层。
-- `structured/compiled-chapters/`: 两本书按章节自动汇编的清洗语料。
+- `structured/compiled-chapters/`: 按章节自动汇编的清洗语料。
 - `concepts/`: 按知识点整理的概念卡。
 - `index/`: 问答路由、部位速查、答题模板、关键词、考纲主题索引与 JSONL 检索映射。
 - `qa/`: 基于本知识库整理的学习问题答案与复习稿。

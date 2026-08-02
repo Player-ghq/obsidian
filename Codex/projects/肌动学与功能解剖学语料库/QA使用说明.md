@@ -6,7 +6,7 @@
 2. 先查 `index/answer-routing-map.md` 判断问题类型和读取顺序。
 3. 再查 `index/body-region-quick-map.md` 定位身体部位、章节和页码范围。
 4. 考研简答/论述先套 `index/exam-answer-templates.md`。
-5. 北体《运动解剖学》运动系统问题先查 `index/beiti-motion-system-index.md`。
+5. 北体《运动解剖学》运动系统问题先查 `index/beiti-motion-system-structured-index.md`，再按需查 `index/beiti-motion-system-index.md`。
 6. 再查 `structured/`、`concepts/` 获取高效率整理稿和概念级答题素材。
 7. 需要顺读整章时查 `index/compiled-chapter-index.md` 与 `structured/compiled-chapters/`。
 8. 需要核对原文时查 `index/cleaned-retrieval-map.jsonl`、`index/beiti-motion-retrieval-map.jsonl` 或 `cleaned/by-book/`。
