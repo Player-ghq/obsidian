@@ -4,6 +4,7 @@
 
 - 2026-08-03：旧版 `Simple Image Occlusion` 已明确废弃，不再作为基线，不继续扩展，不再使用旧工作区或旧输出目录。
 - 2026-08-03：现在要求重新开发通用图片遮挡制卡增强插件，设计文档位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-03-universal-image-occlusion-design.md`。
+- 2026-08-03：新版 `Universal Image Occlusion` 已从零开发到 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion`，已生成安装包 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`。
 - 新版定位：嵌入 Anki 原生 Add Cards 流程，使用专用笔记类型 `Universal Image Occlusion`，支持单图导入、矩形/多边形遮挡、每个遮挡区域生成一张卡，并为每张卡保存 `Question`、`Hint`、`Answer`、`Extra`、`Source` 等辅助文本。
 - 新版项目根目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion`
 - 新版源码目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/src/universal_image_occlusion`
@@ -17,6 +18,13 @@
 - 旧版交付目录：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion`
 - 旧版安装包：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion_clean.zip`
 - 这些旧版路径只作历史记录。默认不要读取、复用、打包或继续修改旧版代码；除非用户明确要求做对比。
+
+## 新版验证
+
+- 2026-08-03：`PYTHONPATH=universal_image_occlusion/src:universal_image_occlusion python3 -m unittest discover -s universal_image_occlusion/tests -v` 通过 15 个测试。
+- 2026-08-03：`python3 -m compileall -q universal_image_occlusion/src` 通过。
+- 2026-08-03：`PYTHONPATH=universal_image_occlusion/src:universal_image_occlusion python3 universal_image_occlusion/scripts/package_addon.py` 通过。
+- 2026-08-03：当前 shell 环境没有 `aqt`，Add Cards UI 注入、QFileDialog、AnkiWebView 桥接和真实 Anki note 创建仍需在 Anki 桌面端手测。
 
 ## 维护纪律
 
