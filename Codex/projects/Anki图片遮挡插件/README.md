@@ -24,6 +24,9 @@
 - 2026-08-03：`PYTHONPATH=universal_image_occlusion/src:universal_image_occlusion python3 -m unittest discover -s universal_image_occlusion/tests -v` 通过 15 个测试。
 - 2026-08-03：`python3 -m compileall -q universal_image_occlusion/src` 通过。
 - 2026-08-03：`PYTHONPATH=universal_image_occlusion/src:universal_image_occlusion python3 universal_image_occlusion/scripts/package_addon.py` 通过。
+- 2026-08-04：修复安装时报错“无效的插件清单”：根因是 `.ankiaddon` 缺少非 AnkiWeb 分发所需的根目录 `manifest.json`。现打包脚本会写入 `{"package":"universal_image_occlusion","name":"Universal Image Occlusion"}`，重新打包后的安装包位于 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`。
+- 2026-08-04：manifest 修复后 `unittest` 通过 16 个测试，`compileall` 通过，打包通过，并已检查 zip 根目录包含 `manifest.json`、`__init__.py` 和源码文件。
+- 2026-08-04：修复 Anki 26.05 打开 Add Cards/Browse 崩溃：本地 Anki 字节码确认 `Editor._addButton` 签名为 `(icon, cmd, tip, label, id, toggleable, disables, rightside)`，不接收 Python 回调参数。现改为先注册 `editor._links["uio_add_base_image"] = on_click`，再调用 `editor._addButton(None, "uio_add_base_image", "Add Base Image", label="Add Base Image")`。回归测试先复现 `tip must be a string, got function`，修复后全量 `unittest` 通过 17 个测试，`compileall`、打包和 zip 清单检查通过。
 - 2026-08-03：当前 shell 环境没有 `aqt`，Add Cards UI 注入、QFileDialog、AnkiWebView 桥接和真实 Anki note 创建仍需在 Anki 桌面端手测。
 
 ## 维护纪律
