@@ -37,6 +37,7 @@
 - 2026-08-04：修复“正反面预览相同且不显示遮挡”：根因是原始 JSON 放入带引号的 HTML 属性后被 JSON 引号截断，同时前模板依赖 `Hint` 是否存在定位根节点，后模板还通过 `FrontSide` 重复显示图片。新版使用 `b64:` Base64 UTF-8 数据、显式根节点和隐藏 textarea；兼容旧 raw JSON，正反面各仅一张图。
 - 2026-08-04：插件会在 profile open 时原地升级已有 `Universal Image Occlusion` 笔记类型的模板/CSS，保留旧笔记；遮挡弹窗已删除右侧文本面板，改为统一读取 Anki Add Cards 原生字段并复制到每张遮挡卡。
 - 2026-08-04：全量 `unittest` 通过 39 个测试，`compileall` 通过；已用 Anki 26.05 自带 `aqt/PyQt6` 完成导入及 Qt offscreen 像素渲染检查。最终安装包 SHA-256 为 `69d090fe47218492fb5c902cf799bd2c9cf1803b0e9c8817f75a98ee6c15857b`。完整 Add Cards/真实集合制卡仍需在用户 Anki profile 手测。
+- 2026-08-04：已确认下一版改为 IOE 风格原生 Qt 全画布编辑器。遮挡窗口不再创建卡片，`Done` 只把 `Image/OcclusionData` 写回当前 Add Cards 笔记，再由 Anki 原生 Add 保存一条笔记和一张卡。新卡正面覆盖全部有序遮挡，支持按钮依次永久揭示和无频闪 hover 临时揭示；背面一次性全部显示。旧 `MaskIndex` 卡继续保持单遮挡模式。规格位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-04-ioe-style-single-card-sequential-reveal-design.md`。
 
 ## 维护纪律
 
