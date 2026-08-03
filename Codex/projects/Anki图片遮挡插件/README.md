@@ -5,7 +5,7 @@
 - 2026-08-03：旧版 `Simple Image Occlusion` 已明确废弃，不再作为基线，不继续扩展，不再使用旧工作区或旧输出目录。
 - 2026-08-03：现在要求重新开发通用图片遮挡制卡增强插件，设计文档位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-03-universal-image-occlusion-design.md`。
 - 2026-08-03：新版 `Universal Image Occlusion` 已从零开发到 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion`，已生成安装包 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`。
-- 新版定位：嵌入 Anki 原生 Add Cards 流程，使用专用笔记类型 `Universal Image Occlusion`，支持单图导入、矩形/多边形遮挡、每个遮挡区域生成一张卡，并为每张卡保存 `Question`、`Hint`、`Answer`、`Extra`、`Source` 等辅助文本。
+- 新版定位：嵌入 Anki 原生 Add Cards 流程，使用专用笔记类型 `Universal Image Occlusion`，支持单图导入、矩形/多边形遮挡、每个遮挡区域生成一张卡；原生 Add Cards 中的 `Question`、`Hint`、`Answer`、`Extra`、`Source` 会复制到本次生成的每张卡。
 - 新版项目根目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion`
 - 新版源码目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/src/universal_image_occlusion`
 - 新版测试目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/tests`
@@ -34,7 +34,9 @@
 - 2026-08-04：修复原生 Qt 遮挡框只能单击生成固定 `0.08` 大小、无法选择/移动/缩放的问题。新增独立 `geometry.py` 与 `qt_canvas.py`：矩形按实际拖拽创建，矩形和多边形可整体移动并通过 8 个控制点缩放，多边形还可单独拖动顶点，所有坐标限制在图片范围内。编辑器使用不修改原图的透明叠加层，只有遮挡区域不透明；鼠标悬停编辑区遮挡会临时显示底图，复习时无悬停揭示。
 - 2026-08-04：补齐 Select 工具、整组 `Source` 输入和遮挡切换前文本保存，避免切换区域丢失 `Question/Hint/Answer/Extra`。已移除废弃的 `editor_assets.py`、`web/editor.js`、`web/editor.css` 及旧 WebView 测试，安装包只保留原生 Qt 路径。
 - 2026-08-04：最终全量 `unittest` 通过 32 个测试，`compileall` 通过；使用 Anki 26.05 自带 `aqt/PyQt6` 在 Qt offscreen 环境模拟验证矩形创建/移动/缩放、多边形顶点编辑/缩放和悬停命中。最终包仍位于 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`，SHA-256 为 `7a221fc1872fcdfa21a6c387dc834b988c778655455799fbb57ac2ff33cd6efd`。
-- 2026-08-03：当前 shell 环境没有 `aqt`，Add Cards UI 注入、QFileDialog、AnkiWebView 桥接和真实 Anki note 创建仍需在 Anki 桌面端手测。
+- 2026-08-04：修复“正反面预览相同且不显示遮挡”：根因是原始 JSON 放入带引号的 HTML 属性后被 JSON 引号截断，同时前模板依赖 `Hint` 是否存在定位根节点，后模板还通过 `FrontSide` 重复显示图片。新版使用 `b64:` Base64 UTF-8 数据、显式根节点和隐藏 textarea；兼容旧 raw JSON，正反面各仅一张图。
+- 2026-08-04：插件会在 profile open 时原地升级已有 `Universal Image Occlusion` 笔记类型的模板/CSS，保留旧笔记；遮挡弹窗已删除右侧文本面板，改为统一读取 Anki Add Cards 原生字段并复制到每张遮挡卡。
+- 2026-08-04：全量 `unittest` 通过 39 个测试，`compileall` 通过；已用 Anki 26.05 自带 `aqt/PyQt6` 完成导入及 Qt offscreen 像素渲染检查。最终安装包 SHA-256 为 `69d090fe47218492fb5c902cf799bd2c9cf1803b0e9c8817f75a98ee6c15857b`。完整 Add Cards/真实集合制卡仍需在用户 Anki profile 手测。
 
 ## 维护纪律
 
@@ -49,7 +51,7 @@
 - 图片：MVP 只支持单张本地图片导入。
 - 遮挡：支持矩形和多边形；不区分文字遮挡/区域遮挡。
 - 编辑交互：仅制卡编辑时，鼠标悬停某个遮挡区域会临时隐藏该遮挡，方便查看底图；复习时不允许 hover 偷看。
-- 文本：每个遮挡区域可配置 `Question`、`Hint`、`Answer`、`Extra`，整组可记录 `Source`。
+- 文本：在 Anki 原生 Add Cards 字段中填写 `Question`、`Hint`、`Answer`、`Extra`、`Source`；同一次图片编辑生成的所有遮挡卡共享这些文本，遮挡弹窗不重复提供文本输入框。
 - 生成：默认每个遮挡区域生成一张卡；未来可扩展整图多遮挡一起背。
 - 标签/牌组：全部使用 Anki 原生 Add Cards 流程，不做插件标签预设。
 - 非目标：不做 OCR、自动识别、AI 自动挖空、批量导入、移动端编辑、自定义调度/同步/媒体存储。
