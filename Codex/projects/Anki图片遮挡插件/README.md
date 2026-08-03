@@ -31,6 +31,9 @@
 - 2026-08-04：根据终端日志修复 WebView CSP 问题：Anki 26.05 拒绝执行 inline script，导致编辑器 JS 没有运行。现将编辑器 JS/CSS 移至 `web/editor.js` 和 `web/editor.css`，注册 `mw.addonManager.setWebExports("universal_image_occlusion", r"web/.*(css|js)")`，并通过 `stdHtml(css=[...], js=[...])` 从 `/_addons/universal_image_occlusion/web/...` 加载。全量 `unittest` 通过 21 个测试，`compileall`、打包和 zip 内容检查通过。
 - 2026-08-04：继续修复 WebView `Cannot read properties of undefined (reading 'children')`：根因是自定义遮挡弹窗调用 `stdHtml(..., context=editor)`，Anki 26.05 会把页面按 `PageContext.EDITOR` 处理，而自定义页面没有原生 editor DOM。现改为 `context=None`，让它作为 unknown/custom WebView 加载。新增回归测试后全量 `unittest` 通过 22 个测试，`compileall`、打包和 zip 内容检查通过。
 - 2026-08-04：由于 Anki 26.05 仍持续在 `/_anki/legacyPageData` 路径报 `Cannot read properties of undefined (reading 'children')`，已废弃遮挡编辑器 WebView 实现，改为原生 Qt 弹窗：`QPixmap/QPainter/QWidget` 绘制图片与遮挡，`QPushButton/QTextEdit` 处理工具栏和文本字段。`aqt_integration.py` 不再引用 `aqt.webview`、`AnkiWebView` 或 `stdHtml`，也不再注册 `setWebExports`。全量 `unittest` 通过 20 个测试，`compileall`、打包和 zip 内容检查通过。
+- 2026-08-04：修复原生 Qt 遮挡框只能单击生成固定 `0.08` 大小、无法选择/移动/缩放的问题。新增独立 `geometry.py` 与 `qt_canvas.py`：矩形按实际拖拽创建，矩形和多边形可整体移动并通过 8 个控制点缩放，多边形还可单独拖动顶点，所有坐标限制在图片范围内。编辑器使用不修改原图的透明叠加层，只有遮挡区域不透明；鼠标悬停编辑区遮挡会临时显示底图，复习时无悬停揭示。
+- 2026-08-04：补齐 Select 工具、整组 `Source` 输入和遮挡切换前文本保存，避免切换区域丢失 `Question/Hint/Answer/Extra`。已移除废弃的 `editor_assets.py`、`web/editor.js`、`web/editor.css` 及旧 WebView 测试，安装包只保留原生 Qt 路径。
+- 2026-08-04：最终全量 `unittest` 通过 32 个测试，`compileall` 通过；使用 Anki 26.05 自带 `aqt/PyQt6` 在 Qt offscreen 环境模拟验证矩形创建/移动/缩放、多边形顶点编辑/缩放和悬停命中。最终包仍位于 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`，SHA-256 为 `7a221fc1872fcdfa21a6c387dc834b988c778655455799fbb57ac2ff33cd6efd`。
 - 2026-08-03：当前 shell 环境没有 `aqt`，Add Cards UI 注入、QFileDialog、AnkiWebView 桥接和真实 Anki note 创建仍需在 Anki 桌面端手测。
 
 ## 维护纪律
