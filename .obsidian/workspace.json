@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/full-translation.md",
-                "mode": "preview",
+                "file": "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/source-text.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "source-text"
             }
           }
         ]
@@ -209,11 +209,11 @@
   },
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/suggested-anki-candidates.md",
-    "Codex/projects/考研英语外刊精读/articles/Optimising sleep/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/suggested-anki-candidates.md",
+    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Optimising sleep/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money",
     "Codex/projects/考研英语外刊精读/articles/Optimising sleep/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Optimising sleep/anki/anki.xlsx",
