@@ -2,34 +2,36 @@
 
 ## 状态
 
-- 2026-08-03：为替代容易崩溃的 Image Occlusion Enhanced，开发了第一版 `Simple Image Occlusion`。
-- 2026-08-03：发布 `0.1.1`，修复 Anki 26.05 加载插件时 `mw.col is None` 导致的启动崩溃。
-- 第一版定位：稳定优先，只支持矩形遮挡，不做自由形状、箭头、文字、分层、旧卡转换或原地编辑旧卡。
-- 工作区：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/work/simple-image-occlusion`
-- 交付目录：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion`
-- 干净安装包：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion_clean.zip`
+- 2026-08-03：旧版 `Simple Image Occlusion` 已明确废弃，不再作为基线，不继续扩展，不再使用旧工作区或旧输出目录。
+- 2026-08-03：现在要求重新开发通用图片遮挡制卡增强插件，设计文档位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-03-universal-image-occlusion-design.md`。
+- 新版定位：嵌入 Anki 原生 Add Cards 流程，使用专用笔记类型 `Universal Image Occlusion`，支持单图导入、矩形/多边形遮挡、每个遮挡区域生成一张卡，并为每张卡保存 `Question`、`Hint`、`Answer`、`Extra`、`Source` 等辅助文本。
+- 新版项目根目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion`
+- 新版源码目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/src/universal_image_occlusion`
+- 新版测试目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/tests`
+- 新版打包输出：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`
+- 新版 QA 产物：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/artifacts`
 
-## 已实现
+## 旧版记录
 
-- 插件内 README 使用文档，包含安装、使用、限制、测试和迭代纪律。
-- 启动安全：不在插件导入阶段直接访问 `mw.col.models`，等 profile 打开后再创建笔记类型。
-- Anki 编辑器按钮 `SIO`，快捷键 `Ctrl+Shift+I`。
-- 本地选择图片。
-- HTML/JS 矩形遮挡编辑器，支持绘制、选择、删除、清空矩形。
-- 两种模式：`hide_all` 与 `hide_one`。
-- 自动创建 `Simple Image Occlusion` 笔记类型。
-- 为每个遮挡矩形生成一张卡。
-- 背面有 `Toggle Masks` 按钮。
-- 纯逻辑测试使用 `python3 -m unittest`，覆盖矩形校验、SVG 生成、note payload。
-
-## 验证
-
-- 2026-08-03：`0.1.1` 在交付目录通过 7 个测试，新增启动回归测试 `tests/test_startup.py`。
-- 2026-08-03：`python3 -m unittest discover -s tests -v` 在交付目录通过 6 个测试。
-- 2026-08-03：`python3 -m compileall -q outputs/simple_image_occlusion` 通过。
-- 尚未在真实 Anki/AQT 运行时手测。
+- 旧版工作区：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/work/simple-image-occlusion`
+- 旧版交付目录：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion`
+- 旧版安装包：`/Users/HaoQi/Documents/Codex/2026-08-03/new-chat/outputs/simple_image_occlusion_clean.zip`
+- 这些旧版路径只作历史记录。默认不要读取、复用、打包或继续修改旧版代码；除非用户明确要求做对比。
 
 ## 维护纪律
 
 - 每次更新迭代必须同步修改插件内 `README.md`。
 - 涉及功能、安装方式、快捷键、字段、使用流程、限制范围或测试方式的变化，都必须更新 README 后再重新打包。
+- 所有新版源码、测试、文档、构建包和 QA 产物都必须写在 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion` 下。
+
+## 下一版已确认需求
+
+- 入口：用户打开 Anki 原生 Add Cards，并选择插件专用笔记类型。
+- 插件控件：Add Cards 界面出现 `Add Base Image`。
+- 图片：MVP 只支持单张本地图片导入。
+- 遮挡：支持矩形和多边形；不区分文字遮挡/区域遮挡。
+- 编辑交互：仅制卡编辑时，鼠标悬停某个遮挡区域会临时隐藏该遮挡，方便查看底图；复习时不允许 hover 偷看。
+- 文本：每个遮挡区域可配置 `Question`、`Hint`、`Answer`、`Extra`，整组可记录 `Source`。
+- 生成：默认每个遮挡区域生成一张卡；未来可扩展整图多遮挡一起背。
+- 标签/牌组：全部使用 Anki 原生 Add Cards 流程，不做插件标签预设。
+- 非目标：不做 OCR、自动识别、AI 自动挖空、批量导入、移动端编辑、自定义调度/同步/媒体存储。
