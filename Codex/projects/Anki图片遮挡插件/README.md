@@ -11,6 +11,8 @@
 - 新版测试目录：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/tests`
 - 新版打包输出：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/dist/universal_image_occlusion.ankiaddon`
 - 新版 QA 产物：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/artifacts`
+- V1 完整功能说明：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/docs/V1-FUNCTIONAL-SPEC.md`
+- 后续版本路线图：`/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion/docs/ROADMAP.md`
 
 ## 旧版记录
 
@@ -56,6 +58,13 @@
 - 每次更新迭代必须同步修改插件内 `README.md`。
 - 涉及功能、安装方式、快捷键、字段、使用流程、限制范围或测试方式的变化，都必须更新 README 后再重新打包。
 - 所有新版源码、测试、文档、构建包和 QA 产物都必须写在 `/Users/HaoQi/Documents/Codex/anki_modules/universal_image_occlusion` 下。
+
+## 后续版本路线图
+
+- V1.1（P0）：编辑器内部撤销/重做；画布显示遮挡序号；遮挡列表与拖动调整揭示顺序。
+- V1.2（P1）：显示上一个、显示下一个、全部显示、重新遮挡；新增动作全部支持 Config 快捷键；移动端点击遮挡揭示及完整触屏按钮。
+- V1.3（P2）：遮挡透明度、边框颜色、揭示后轮廓颜色；新图导入阶段旋转与裁剪。已有笔记图片变换暂不纳入 V1.3。
+- 后续版本继续保持“一图一卡、多遮挡、默认逐个显示”，并兼容现有 schema-2 `all_sequential` 笔记。
 
 ## 待验收
 
