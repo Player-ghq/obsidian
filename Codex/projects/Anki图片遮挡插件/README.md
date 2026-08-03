@@ -43,6 +43,9 @@
 - 2026-08-04：独立代码审查提出的按钮作用域、媒体写入原子性、重叠遮挡、退化多边形和 schema 1 路由问题均已修复。最终 58 个单元测试、compileall、Anki 26.05 Qt offscreen 画布/图标测试和 21 项归档检查通过。安装包 SHA-256：`eaccc75ea5673b8a588bcb473dada3135a17d66eda7dddfd08254b60aa83ef1b`。
 - 2026-08-04：已确认下一轮设计：所有复习/编辑快捷键通过 Anki `config.json` 配置，默认 `N` 依次揭示；新建 Mask 后自动切换 Select，可立即拖动；当前 schema-2 笔记可从 Add Cards、Browser、Edit Current 重新打开，只编辑 Mask、不替换图片；已有笔记打开时 `Enable mask editing` 默认关闭。规格：`/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-04-configurable-shortcuts-reeditable-masks-design.md`。旧 schema-1 编辑暂不考虑。
 - 2026-08-04：上述规格已确认，实施计划位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/plans/2026-08-04-configurable-shortcuts-reeditable-masks.md`，按快捷键配置、Reviewer 注入、画布锁定、已有会话加载、编辑器入口、原子保存、QA 打包 7 个任务执行。
+- 2026-08-04：可配置快捷键与已有 Mask 重编辑版本已实现并重新打包。默认复习快捷键为 `N`，所有编辑器快捷键均可在 Anki 插件 Config JSON 中修改或置空禁用；矩形/多边形完成后自动切换 Select，可立即拖动。
+- 2026-08-04：schema-2 `all_sequential` 笔记可从 Add Cards、Browser、Edit Current 打开 `Edit Masks`。已有会话默认锁定，勾选 `Enable mask editing` 后可移动、缩放、新增和删除 Mask；不提供图片替换。保存仅修改 `OcclusionData`，使用单个 Anki 撤销事务，保留图片、文本、笔记/卡片 ID、标签、牌组、调度和复习历史。
+- 2026-08-04：最终验证通过 90 个单元测试、`compileall`、Anki 26.05 自带 aqt/PyQt6 的画布与完整对话框 offscreen 冒烟测试，以及 25 项安装包清单检查。最终安装包 SHA-256：`9c35418656e7895478b7f2b600c65b19f346f15ef77658c78d6a250b7c281dc8`。剩余工作只有真实 Anki 26.05 profile 手动验收。
 
 ## 维护纪律
 
@@ -53,6 +56,7 @@
 ## 待验收
 
 - 在用户真实 Anki 26.05 profile 安装最终包并重启。
-- 验证 Add Cards 中按钮仅在专用笔记类型出现，Done 回写后原生 Add 只生成一条笔记和一张卡。
-- 验证 Reviewer 内 hover 无频闪、按钮逐个显示、背面全显及真实旧卡升级。
+- 验证 Add Cards 新建后原生 Add 只生成一条笔记和一张卡；Browser/Edit Current 能打开已有 schema-2 笔记且默认锁定。
+- 验证解锁后移动/缩放/新增/删除 Mask，不产生重复媒体、笔记或卡片，并保持调度与复习历史。
+- 验证 Config 中修改 `reveal_next` 后下一张卡生效，Reviewer hover 无频闪、快捷键逐个显示、背面全显。
 - 非目标仍为 OCR、自动识别、AI 自动挖空、批量导入、移动端编辑、自定义调度/同步/媒体存储。
