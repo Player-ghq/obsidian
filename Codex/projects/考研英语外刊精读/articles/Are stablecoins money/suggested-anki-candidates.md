@@ -2,7 +2,7 @@
 
 - Source text: [[source-text]]
 - Deep reading: [[deep-reading]]
-- Status: 建议清单，等待用户精读后提供自选词表，再合并去重并正式制卡。
+- Status: 已根据用户词表 + Codex 补充完成正式制卡，见 [[anki/anki.tsv]]、[[anki/anki.xlsx]]、[[anki/cards.json]]。
 - Card tag rule for final Anki: only `外刊精读`
 
 ## 建议优先制卡
@@ -121,4 +121,3 @@ What matters most of all is that...
 ```
 
 我会把你的词表和本清单合并，统一转成原型/词组形式，去重后再生成 Anki。
-

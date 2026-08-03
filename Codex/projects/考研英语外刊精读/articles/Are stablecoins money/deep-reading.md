@@ -272,47 +272,47 @@
 
 ## 5. 核心短语注解
 
-| 表达 | 中文 | 考点 |
-| --- | --- | --- |
-| a means of exchange | 交换媒介 | 经济类定义表达 |
-| a store of value | 价值储藏手段 | 经济类定义表达 |
-| a unit of account | 记账单位 | 经济类定义表达 |
-| confidence trick | 信任把戏；骗局 | 熟词组合，含诙谐意味 |
-| mere alloy | 不过是合金 | `mere` 表轻描淡写 |
-| liabilities of the central bank | 中央银行负债 | `liability` 熟词僻义：负债/责任 |
-| at a keystroke | 敲一下键盘即可 | 技术化、轻松创造的语气 |
-| rein in lending | 收紧放贷 | `rein in` 控制、约束 |
-| lender of last resort | 最后贷款人 | 金融危机固定术语 |
-| institutional arrangement | 制度性安排 | 抽象名词短语 |
-| central-bank liquidity | 央行流动性 | 金融政策词组 |
-| for better or worse | 无论好坏；结果可能好也可能坏 | 态度平衡 |
-| pose an awkward question | 提出棘手问题 | 写作可用 |
-| privately issued digital currencies | 私人发行的数字货币 | 科技金融术语 |
-| maintain value against a reference asset | 相对于参考资产维持价值 | 金融定义表达 |
-| be pegged to fiat currencies | 锚定法定货币 | 金融高频 |
-| Treasury bills | 美国短期国库券 | 经济新闻高频 |
-| reverse repos | 逆回购 | 金融术语，理解即可 |
-| reserve assets | 储备资产 | 经济类常用 |
-| trading crypto assets | 交易加密资产 | 科技金融 |
-| financial intermediation | 金融中介 | 抽象名词 |
-| smart contracts | 智能合约 | 科技生活 |
-| settlements and payments | 结算和付款 | 金融搭配 |
-| obviate the need to do | 消除做某事的必要 | 高级动词 |
-| cross-border payments | 跨境支付 | 热点表达 |
-| conventional rails | 传统支付轨道 | `rails` 熟词僻义 |
-| provide exposure to dollars | 获得美元敞口 | `exposure` 熟词僻义 |
-| money-market funds | 货币市场基金 | 金融对比 |
-| illicit activity | 非法活动 | 态度词 |
-| seigniorage | 铸币税收益 | 专有术语，理解为央行造币收益 |
-| monetary-policy levers | 货币政策杠杆 | 政策隐喻 |
-| suffer a run | 遭遇挤兑 | 金融风险表达 |
-| amid a flurry of laws | 在一连串法律浪潮中 | `flurry` 常见外刊词 |
-| seem inclined to do | 似乎倾向于做 | 态度表达 |
-| redemption at par | 按面值赎回 | 金融术语 |
-| short-term liquid assets | 短期流动资产 | 资产安全表达 |
-| be vague about | 对……含糊 | 批判监管不足 |
-| access to central-bank facilities | 使用央行工具/设施 | 政策表达 |
-| formidable competition | 强有力的竞争者 | 写作可用 |
+| 表达                                       | 中文             | 考点                     |
+| ---------------------------------------- | -------------- | ---------------------- |
+| a means of exchange                      | 交换媒介           | 经济类定义表达                |
+| a store of value                         | 价值储藏手段         | 经济类定义表达                |
+| a unit of account                        | 记账单位           | 经济类定义表达                |
+| confidence trick                         | 信任把戏；骗局        | 熟词组合，含诙谐意味             |
+| mere alloy                               | 不过是合金          | `mere` 表轻描淡写           |
+| liabilities of the central bank          | 中央银行负债         | `liability` 熟词僻义：负债/责任 |
+| at a keystroke                           | 敲一下键盘即可        | 技术化、轻松创造的语气            |
+| rein in lending                          | 收紧放贷           | `rein in` 控制、约束        |
+| lender of last resort                    | 最后贷款人          | 金融危机固定术语               |
+| institutional arrangement                | 制度性安排          | 抽象名词短语                 |
+| central-bank liquidity                   | 央行流动性          | 金融政策词组                 |
+| for better or worse                      | 无论好坏；结果可能好也可能坏 | 态度平衡                   |
+| pose an awkward question                 | 提出棘手问题         | 写作可用                   |
+| privately issued digital currencies      | 私人发行的数字货币      | 科技金融术语                 |
+| maintain value against a reference asset | 相对于参考资产维持价值    | 金融定义表达                 |
+| be pegged to fiat currencies             | 锚定法定货币         | 金融高频                   |
+| Treasury bills                           | 美国短期国库券        | 经济新闻高频                 |
+| reverse repos                            | 逆回购            | 金融术语，理解即可              |
+| reserve assets                           | 储备资产           | 经济类常用                  |
+| trading crypto assets                    | 交易加密资产         | 科技金融                   |
+| financial intermediation                 | 金融中介           | 抽象名词                   |
+| smart contracts                          | 智能合约           | 科技生活                   |
+| settlements and payments                 | 结算和付款          | 金融搭配                   |
+| obviate the need to do                   | 消除做某事的必要       | 高级动词                   |
+| cross-border payments                    | 跨境支付           | 热点表达                   |
+| conventional rails                       | 传统支付轨道         | `rails` 熟词僻义           |
+| provide exposure to dollars              | 获得美元敞口         | `exposure` 熟词僻义        |
+| money-market funds                       | 货币市场基金         | 金融对比                   |
+| illicit activity                         | 非法活动           | 态度词                    |
+| seigniorage                              | 铸币税收益          | 专有术语，理解为央行造币收益         |
+| monetary-policy levers                   | 货币政策杠杆         | 政策隐喻                   |
+| suffer a run                             | 遭遇挤兑           | 金融风险表达                 |
+| amid a flurry of laws                    | 在一连串法律浪潮中      | `flurry` 常见外刊词         |
+| seem inclined to do                      | 似乎倾向于做         | 态度表达                   |
+| redemption at par                        | 按面值赎回          | 金融术语                   |
+| short-term liquid assets                 | 短期流动资产         | 资产安全表达                 |
+| be vague about                           | 对……含糊          | 批判监管不足                 |
+| access to central-bank facilities        | 使用央行工具/设施      | 政策表达                   |
+| formidable competition                   | 强有力的竞争者        | 写作可用                   |
 
 ## 6. 考研作文热门话题
 
