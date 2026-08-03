@@ -41,6 +41,8 @@
 - 2026-08-04：上述 IOE 风格一卡多遮挡版本已实现。编辑器支持图标工具栏、适应、指针中心缩放、中键或 Space+左键平移、重叠矩形/多边形创建、选择、移动、8 控制点缩放、顶点编辑和删除。Done 只回写当前笔记的 `Image/OcclusionData/MaskIndex`，写入前先完整检查字段，媒体仅在校验通过后加入。
 - 2026-08-04：复习模板已实现 schema 2 `all_sequential`：正面全部遮挡，hover 临时显示且保持 pointer events 防频闪，按钮按创建顺序逐个永久显示，背面不创建遮挡层。schema 1、raw JSON、Base64 和非空 `MaskIndex` 保持旧单遮挡模式。
 - 2026-08-04：独立代码审查提出的按钮作用域、媒体写入原子性、重叠遮挡、退化多边形和 schema 1 路由问题均已修复。最终 58 个单元测试、compileall、Anki 26.05 Qt offscreen 画布/图标测试和 21 项归档检查通过。安装包 SHA-256：`eaccc75ea5673b8a588bcb473dada3135a17d66eda7dddfd08254b60aa83ef1b`。
+- 2026-08-04：已确认下一轮设计：所有复习/编辑快捷键通过 Anki `config.json` 配置，默认 `N` 依次揭示；新建 Mask 后自动切换 Select，可立即拖动；当前 schema-2 笔记可从 Add Cards、Browser、Edit Current 重新打开，只编辑 Mask、不替换图片；已有笔记打开时 `Enable mask editing` 默认关闭。规格：`/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/specs/2026-08-04-configurable-shortcuts-reeditable-masks-design.md`。旧 schema-1 编辑暂不考虑。
+- 2026-08-04：上述规格已确认，实施计划位于 `/Users/HaoQi/Documents/Codex/anki_modules/docs/superpowers/plans/2026-08-04-configurable-shortcuts-reeditable-masks.md`，按快捷键配置、Reviewer 注入、画布锁定、已有会话加载、编辑器入口、原子保存、QA 打包 7 个任务执行。
 
 ## 维护纪律
 
