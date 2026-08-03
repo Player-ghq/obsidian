@@ -46,6 +46,10 @@
 - 2026-08-04：可配置快捷键与已有 Mask 重编辑版本已实现并重新打包。默认复习快捷键为 `N`，所有编辑器快捷键均可在 Anki 插件 Config JSON 中修改或置空禁用；矩形/多边形完成后自动切换 Select，可立即拖动。
 - 2026-08-04：schema-2 `all_sequential` 笔记可从 Add Cards、Browser、Edit Current 打开 `Edit Masks`。已有会话默认锁定，勾选 `Enable mask editing` 后可移动、缩放、新增和删除 Mask；不提供图片替换。保存仅修改 `OcclusionData`，使用单个 Anki 撤销事务，保留图片、文本、笔记/卡片 ID、标签、牌组、调度和复习历史。
 - 2026-08-04：最终验证通过 90 个单元测试、`compileall`、Anki 26.05 自带 aqt/PyQt6 的画布与完整对话框 offscreen 冒烟测试，以及 25 项安装包清单检查。最终安装包 SHA-256：`9c35418656e7895478b7f2b600c65b19f346f15ef77658c78d6a250b7c281dc8`。剩余工作只有真实 Anki 26.05 profile 手动验收。
+- 2026-08-04：新增首字段 `Index`，仅对 Add Cards 中未保存且为空的新笔记自动生成 `YYYY-MM-DD-NNN`，按本地日期和当日已保存最大编号加一；已有专用笔记类型通过 Anki `reposition_field` 原地升级，但不批量回填旧笔记。
+- 2026-08-04：`config.json` 新增 `appearance.mask_color`，仅接受 `#RRGGBB`，默认 `#202124`，同时控制原生 Qt 编辑器和复习模板遮挡颜色。矩形 `R`、多边形 `P` 快捷键第二次按下切回 Select；工具栏点击仍直接选择。
+- 2026-08-04：修复 macOS 工具图标持续蓝色：关闭 Select/Rectangle/Polygon 的 autoDefault、default 和焦点状态，并通过 QButtonGroup 与显式同步保证仅当前工具选中；已有锁定会话默认 Select。
+- 2026-08-04：本轮最终验证通过 103 个单元测试、`compileall`、真实临时 Anki Collection 索引搜索、Anki 26.05 Qt 画布/对话框测试和 27 项安装包检查。安装包 SHA-256：`5393dd1899635460d279a5f812d918b0d2b62fa5f837bc3a42ffbd8ecf8be4a0`。
 
 ## 维护纪律
 
@@ -59,4 +63,5 @@
 - 验证 Add Cards 新建后原生 Add 只生成一条笔记和一张卡；Browser/Edit Current 能打开已有 schema-2 笔记且默认锁定。
 - 验证解锁后移动/缩放/新增/删除 Mask，不产生重复媒体、笔记或卡片，并保持调度与复习历史。
 - 验证 Config 中修改 `reveal_next` 后下一张卡生效，Reviewer hover 无频闪、快捷键逐个显示、背面全显。
+- 验证同一天连续添加时 Index 依次为 `001/002/003`，`appearance.mask_color` 在编辑器和下一张复习卡同步生效，`R/P` 二次按键切回 Select，三个工具仅一个高亮。
 - 非目标仍为 OCR、自动识别、AI 自动挖空、批量导入、移动端编辑、自定义调度/同步/媒体存储。
