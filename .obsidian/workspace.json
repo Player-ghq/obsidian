@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-骨连结与关节总论-完整版"
+              "title": "full-translation"
             }
           }
         ]
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.32703399658203
+    "width": 285.32703399658203,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -207,14 +208,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e98af7c370b13acc",
+  "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-04-答案.md",
@@ -224,7 +226,6 @@
     "Codex/projects/Anki图片遮挡插件/README.md",
     "Codex/projects/Anki图片遮挡插件",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02A-骨学总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01A-解剖学总论高颗粒度专题.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
@@ -239,7 +240,6 @@
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/source-text.md",
     "Codex/projects/考研英语外刊精读/anki-writing-transfer-card-template.md",
     "Codex/projects/考研英语外刊精读/articles/Optimising sleep/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money",
     "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/deep-reading.md",
     "Codex/projects/考研英语外刊精读/reading-log.md",
