@@ -11,7 +11,7 @@
 | 2026-08-02 | The Economist 2026-07-04 to 2026-07-25 | 跨期每日精读计划 | - | 已完成 2026-08-03 至 2026-08-28 每日一篇规划；7 月 4 日期补足 5 篇待读，7 月 11/18/25 每期 7 篇主读 | [[readings/economist-20260711-20260725-three-week-close-reading-plan\|2026-07-04 至 2026-07-25 每日精读计划]] |
 | 2026-08-02 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Optimising sleep | 79 | 已完成完整精读；Anki 已按用户自选词表生成 20 张卡 | [[articles/Optimising sleep/deep-reading\|Optimising sleep]]；[[articles/Optimising sleep/suggested-anki-candidates\|建议制卡清单]]；[[articles/Optimising sleep/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-03 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Are stablecoins money? | 75 | 已完成完整精读；Anki 已按精简单词/词组模板重制为 47 张卡 | [[articles/Are stablecoins money/deep-reading\|Are stablecoins money?]]；[[articles/Are stablecoins money/anki/anki.tsv\|Anki TSV]] |
-| 2026-08-04 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Synthetic biology / A design for life | 76-77 | 已完成完整精读；Anki 已按精简单词/词组模板生成 66 张卡 | [[articles/Synthetic biology/deep-reading\|Synthetic biology]]；[[articles/Synthetic biology/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-04 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Synthetic biology / A design for life | 76-77 | 已完成完整精读；Anki 已按精简单词/词组模板补充为 77 张卡 | [[articles/Synthetic biology/deep-reading\|Synthetic biology]]；[[articles/Synthetic biology/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
-                "mode": "source",
+                "file": "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "deep-reading"
             }
           }
         ]
@@ -211,12 +211,13 @@
   "active": "1d1f61dc6dafcb68",
   "lastOpenFiles": [
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-04-答案.md",
@@ -234,7 +235,6 @@
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/suggested-anki-candidates.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/source-text.md",
