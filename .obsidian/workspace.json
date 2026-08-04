@@ -11,10 +11,24 @@
             "id": "fe3ca91c6d34ede6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/肌动学与功能解剖学语料库/sources/source-index.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "source-index"
             }
           }
         ]
@@ -193,8 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe3ca91c6d34ede6",
+  "active": "e98af7c370b13acc",
   "lastOpenFiles": [
+    "Codex/projects/解剖学学习网站/README.md",
+    "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-08-02-答案.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-08-02-题目.md",
+    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-08-01-题目.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
@@ -226,10 +245,6 @@
     "Codex/projects/考研英语外刊精读/anki-writing-transfer-card-template.md",
     "Codex/projects/考研英语外刊精读/articles/Optimising sleep/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/Vibe lawyering/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/reading-log.md",
-    "Codex/projects/考研英语外刊精读/articles/Optimising sleep/suggested-anki-candidates.md",
-    "Codex/projects/考研英语外刊精读/articles/Optimising sleep/full-translation.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-notes-preview.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题分类表-preview.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-summary-preview.png",
