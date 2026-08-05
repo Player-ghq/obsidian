@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
-                "mode": "source",
+                "file": "Codex/projects/考研英语外刊精读/articles/The genomic generation/full-translation.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07A-上肢带与肩关节主要肌肉专题"
+              "title": "full-translation"
             }
           }
         ]
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.32703399658203
+    "width": 285.32703399658203,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -209,8 +210,10 @@
   },
   "active": "fe3ca91c6d34ede6",
   "lastOpenFiles": [
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
+    "Codex/projects/考研英语外刊精读/articles/The genomic generation/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/06A-躯干主要肌肉高颗粒度专题.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/05A-头颈主要肌肉高颗粒度专题.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03A-骨连结与关节总论高颗粒度专题.md",
@@ -225,7 +228,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/sources/source-index.md",
     "Codex/projects/解剖学学习网站/README.md",
     "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
@@ -241,7 +243,6 @@
     "Codex/projects/Anki图片遮挡插件/README.md",
     "Codex/projects/Anki图片遮挡插件",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02A-骨学总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/cards.json",
