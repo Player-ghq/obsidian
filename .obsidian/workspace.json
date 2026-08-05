@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "07A-上肢带与肩关节主要肌肉专题"
+              "title": "README"
             }
           }
         ]
@@ -207,8 +207,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bb7cc85c2a4cbec",
+  "active": "e98af7c370b13acc",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目.zip",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-05-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-30-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-28-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/上海体育大学运动康复真题重点校正版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题整理与出题skill说明.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词整理.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-notes-preview.png",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-preview.png",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-summary-preview.png",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-top-preview.png",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
     "Codex/projects/运动生理学备考/项目设计.md",
     "Codex/projects/运动生理学备考/语料索引.md",
@@ -225,16 +239,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0016-66-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0015-60-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0014-56-第-4-章-肩关节复合体的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0013-第-4-章肩关节复合体的结构与功能-51.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0018-84-第-4-章-肩关节复合体的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0025-（-章节大纲.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0029-140-第-6-章-腕关节的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0003-4-第-1-章-肌动学的基本原理.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/运动解剖学-北体/beiti-motion-p030.md",
-    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/前锯肌.md",
-    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/下盂肱韧带复合体.md",
-    "Codex/projects/肌动学与功能解剖学语料库/concepts/北体运动系统/多关节肌功能性特征.md",
-    "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第7章-骨骼肌的运动原理.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
@@ -245,11 +249,7 @@
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/cards.json",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-notes-preview.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题分类表-preview.png",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-summary-preview.png",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-top-preview.png",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-preview.png",
     "Untitled.canvas",
     "Pasted image 20260714131902.png"
   ]
