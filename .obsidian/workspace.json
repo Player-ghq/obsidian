@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/The genomic generation/full-translation.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/The genomic generation/source-text.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "source-text"
             }
           }
         ]
@@ -210,6 +210,7 @@
   },
   "active": "fe3ca91c6d34ede6",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/The genomic generation/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/The genomic generation/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
@@ -242,7 +243,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-03-题目.md",
     "Codex/projects/Anki图片遮挡插件/README.md",
     "Codex/projects/Anki图片遮挡插件",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02A-骨学总论高颗粒度专题.md",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/cards.json",

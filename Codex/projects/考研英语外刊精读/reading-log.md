@@ -12,7 +12,7 @@
 | 2026-08-02 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Optimising sleep | 79 | 已完成完整精读；Anki 已按用户自选词表生成 20 张卡 | [[articles/Optimising sleep/deep-reading\|Optimising sleep]]；[[articles/Optimising sleep/suggested-anki-candidates\|建议制卡清单]]；[[articles/Optimising sleep/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-03 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Are stablecoins money? | 75 | 已完成完整精读；Anki 已按精简单词/词组模板重制为 47 张卡 | [[articles/Are stablecoins money/deep-reading\|Are stablecoins money?]]；[[articles/Are stablecoins money/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-04 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Synthetic biology / A design for life | 76-77 | 已完成完整精读；Anki 已按精简单词/词组模板补充为 77 张卡 | [[articles/Synthetic biology/deep-reading\|Synthetic biology]]；[[articles/Synthetic biology/anki/anki.tsv\|Anki TSV]] |
-| 2026-08-05 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Genetic screening / The genomic generation | 77-78 | 已完成完整精读；Anki 已按精简单词/词组模板生成 59 张卡 | [[articles/The genomic generation/deep-reading\|The genomic generation]]；[[articles/The genomic generation/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-05 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Genetic screening / The genomic generation | 77-78 | 已完成完整精读；Anki 已按精简单词/词组模板补充为 69 张卡 | [[articles/The genomic generation/deep-reading\|The genomic generation]]；[[articles/The genomic generation/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
