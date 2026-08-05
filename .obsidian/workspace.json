@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83ea7b0a6c1147cc",
+        "id": "2b32ccbae37eea41",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3ca91c6d34ede6",
+            "id": "2bb7cc85c2a4cbec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/The genomic generation/source-text.md",
-                "mode": "preview",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "source-text"
+              "title": "07A-上肢带与肩关节主要肌肉专题"
             }
           }
         ]
@@ -105,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.32703399658203,
-    "collapsed": true
+    "width": 427.9756851196289
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -208,40 +207,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe3ca91c6d34ede6",
+  "active": "2bb7cc85c2a4cbec",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/The genomic generation/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/The genomic generation/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/deep-reading.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/06A-躯干主要肌肉高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/05A-头颈主要肌肉高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03A-骨连结与关节总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/上海体育大学运动康复真题重点校正版.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-04-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-05-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-28-题目.md",
-    "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-08-02-答案.md",
-    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-08-02-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-05-答案.md",
-    "Codex/projects/运动康复真题与出题系统/每日晨测/题目/2026-08-01-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/sources/source-index.md",
-    "Codex/projects/解剖学学习网站/README.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
+    "Codex/projects/运动生理学备考/项目设计.md",
+    "Codex/projects/运动生理学备考/语料索引.md",
+    "Codex/projects/运动生理学备考/项目实施计划.md",
+    "Codex/projects/运动生理学备考/README.md",
+    "Codex/projects/解剖学背诵资料/知识点/10-考研问答模板.md",
+    "Codex/projects/解剖学背诵资料/知识点/07-踝足.md",
     "Codex/projects/解剖学背诵资料/知识点/01-肩复合体.md",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/source-text.md",
+    "Codex/projects/解剖学学习网站/README.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/README.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/系统项目记录.md",
+    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0001-p0001-0004.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0017-72-第-4-章-肩关节复合体的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0016-66-第-4-章-肩关节复合体的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0015-60-第-4-章-肩关节复合体的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0014-56-第-4-章-肩关节复合体的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0013-第-4-章肩关节复合体的结构与功能-51.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0018-84-第-4-章-肩关节复合体的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0025-（-章节大纲.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0029-140-第-6-章-腕关节的结构与功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0003-4-第-1-章-肌动学的基本原理.md",
+    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/运动解剖学-北体/beiti-motion-p030.md",
+    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/前锯肌.md",
+    "Codex/projects/肌动学与功能解剖学语料库/concepts/肩复合体/下盂肱韧带复合体.md",
+    "Codex/projects/肌动学与功能解剖学语料库/concepts/北体运动系统/多关节肌功能性特征.md",
+    "Codex/projects/肌动学与功能解剖学语料库/structured/运动解剖学-北体/第7章-骨骼肌的运动原理.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
-    "Codex/projects/考研英语外刊精读/articles/Synthetic biology/full-translation.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-04-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-03-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-03-题目.md",
-    "Codex/projects/Anki图片遮挡插件/README.md",
     "Codex/projects/Anki图片遮挡插件",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
