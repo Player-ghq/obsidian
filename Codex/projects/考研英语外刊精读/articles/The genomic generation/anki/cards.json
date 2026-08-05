@@ -1,0 +1,366 @@
+{
+  "notetype": "Basic",
+  "html": true,
+  "columns": [
+    "Front",
+    "Back",
+    "Extra",
+    "Tags"
+  ],
+  "cards": [
+    {
+      "Front": "genetic screening",
+      "Back": "<b>核心意思</b>：基因筛查；通过遗传信息寻找疾病风险。<br><b>原文句</b>：Similar trials are under way in America, Australia and parts of Europe, to test whether such screening should be offered for all newborns.<br>译：美国、澳大利亚和欧洲部分地区也正在进行类似试验，以检验这种筛查是否应提供给所有新生儿。<br><b>怎么记</b>：screen = 筛查/筛选，不是屏幕；medical screening 常指疾病早筛。<br><b>怎么考</b>：健康类阅读高频；注意 screen for diseases / offer screening to sb.<br><b>真实例句</b>：<br>1. Genetic screening can help doctors detect rare diseases earlier. 译：基因筛查能帮助医生更早发现罕见病。<br>2. Public screening programmes must protect privacy as well as health. 译：公共筛查项目既要保护健康，也要保护隐私。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "have their genomes sequenced",
+      "Back": "<b>核心意思</b>：让其基因组被测序。<br><b>原文句</b>：Should all babies have their genomes sequenced?<br>译：是否应该为所有婴儿测序基因组？<br><b>怎么记</b>：have sth done = 让某事被完成；genome = 全套遗传信息。<br><b>怎么考</b>：标题常考被动结构和核心话题；不要译成婴儿自己测序。<br><b>真实例句</b>：<br>1. Some parents want to have their children's genomes sequenced at birth. 译：一些父母想在孩子出生时为其测序基因组。<br>2. Patients may have their genomes sequenced before receiving targeted treatment. 译：患者可能会在接受靶向治疗前做基因组测序。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "retinoblastoma",
+      "Back": "<b>核心意思</b>：视网膜母细胞瘤；一种罕见眼癌。<br><b>原文句</b>：Shortly after Freddie was born in April 2025, he was diagnosed with retinoblastoma, a rare form of eye cancer.<br>译：2025 年 4 月，Freddie 出生后不久，就被诊断出患有视网膜母细胞瘤，这是一种罕见的眼癌。<br><b>怎么记</b>：专业词不必死背拼写，但要能看出后文 eye cancer 的解释。<br><b>怎么考</b>：阅读中遇到专名，优先找同位语解释；本文同位语是 a rare form of eye cancer。<br><b>真实例句</b>：<br>1. Retinoblastoma can threaten a child's sight if it is not detected early. 译：如果未能早期发现，视网膜母细胞瘤可能威胁儿童视力。<br>2. Doctors use genetic tests to assess the risk of retinoblastoma. 译：医生使用基因检测评估视网膜母细胞瘤风险。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "spotted early and treated promptly",
+      "Back": "<b>核心意思</b>：被早早发现并及时治疗。<br><b>原文句</b>：It was spotted early and treated promptly, which means he has a much better chance of growing up with normal vision.<br>译：它被早早发现并及时治疗，这意味着他长大后保持正常视力的机会大得多。<br><b>怎么记</b>：spot = notice/detect 发现；promptly = without delay 及时地。<br><b>怎么考</b>：熟词 spot 的动词义常考；which 指代前面整个早诊早治事实。<br><b>真实例句</b>：<br>1. The tumour was spotted early and treated promptly. 译：肿瘤被早早发现并及时治疗。<br>2. Safety risks should be spotted early and dealt with promptly. 译：安全风险应被及早发现并及时处理。",
+      "Extra": "<b>作文可用</b>：Social problems should be spotted early and dealt with promptly. 译：社会问题应被及早发现并及时处理。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "no accident",
+      "Back": "<b>核心意思</b>：并非偶然；有原因、有制度支撑。<br><b>原文句</b>：That quick diagnosis was no accident.<br>译：这样的快速诊断并非偶然。<br><b>怎么记</b>：no accident 常用于说明某结果背后有安排、机制或努力。<br><b>怎么考</b>：推理题中提示作者要解释原因；不要只译成交通事故。<br><b>真实例句</b>：<br>1. The city's success was no accident; it followed years of investment. 译：这座城市的成功并非偶然，而是多年投资的结果。<br>2. Good exam performance is no accident but the result of steady practice. 译：好的考试表现并非偶然，而是稳定练习的结果。",
+      "Extra": "<b>作文可用</b>：A healthy society is no accident; it depends on fair rules and public responsibility. 译：健康社会并非偶然，而依赖公平规则和公共责任。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "complete genetic code",
+      "Back": "<b>核心意思</b>：完整遗传密码；完整基因信息。<br><b>原文句</b>：Freddie is part of the Generation Study, an English programme which plans to sequence the complete genetic code of 100,000 babies.<br>译：Freddie 参加了 Generation Study，这是英格兰的一项计划，打算对 10 万名婴儿的完整遗传密码进行测序。<br><b>怎么记</b>：code 在科技文中常指编码/密码；genetic code 是遗传信息表达。<br><b>怎么考</b>：科技阅读中 code 不一定是法律法规，也不一定是计算机代码。<br><b>真实例句</b>：<br>1. A person's complete genetic code may reveal risks that are not yet visible. 译：一个人的完整遗传密码可能揭示尚不可见的风险。<br>2. Researchers compare genetic codes to understand inherited diseases. 译：研究人员比较遗传密码以理解遗传疾病。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "boost medical research",
+      "Back": "<b>核心意思</b>：推动医学研究；促进医学研究发展。<br><b>原文句</b>：The idea is both to screen them for genetic diseases and to use the collected genomic data to boost medical research in future.<br>译：其思路既是为这些婴儿筛查遗传疾病，也是把收集到的基因组数据用于未来的医学研究。<br><b>怎么记</b>：boost = increase/support strongly，常搭配 research, growth, confidence, demand。<br><b>怎么考</b>：完形常考动宾搭配；boost 比 help 更强。<br><b>真实例句</b>：<br>1. Shared data can boost medical research into rare diseases. 译：共享数据可以推动罕见病医学研究。<br>2. Public funding can boost research that private firms ignore. 译：公共资金可以推动私人公司忽视的研究。",
+      "Extra": "<b>作文可用</b>：Open data can boost medical research, but it must be protected by strict privacy rules. 译：开放数据可以推动医学研究，但必须受到严格隐私规则保护。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "under way",
+      "Back": "<b>核心意思</b>：正在进行中。<br><b>原文句</b>：Similar trials are under way in America, Australia and parts of Europe, to test whether such screening should be offered for all newborns.<br>译：美国、澳大利亚和欧洲部分地区也正在进行类似试验，以检验这种筛查是否应提供给所有新生儿。<br><b>怎么记</b>：under way 是固定搭配，常用于 project, trial, reform, investigation。<br><b>怎么考</b>：阅读中定位当前进展；不要译成在路下面。<br><b>真实例句</b>：<br>1. A nationwide debate about data privacy is under way. 译：一场关于数据隐私的全国辩论正在进行。<br>2. Several school reforms are under way in rural areas. 译：数项学校改革正在农村地区推进。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "newborns",
+      "Back": "<b>核心意思</b>：新生儿。<br><b>原文句</b>：Similar trials are under way in America, Australia and parts of Europe, to test whether such screening should be offered for all newborns.<br>译：美国、澳大利亚和欧洲部分地区也正在进行类似试验，以检验这种筛查是否应提供给所有新生儿。<br><b>怎么记</b>：newborn = newly born baby；常与 infants 互换。<br><b>怎么考</b>：健康、人口、家庭话题基础词；注意复数 newborns。<br><b>真实例句</b>：<br>1. Newborns need careful medical protection in the first weeks of life. 译：新生儿在出生最初几周需要细致的医疗保护。<br>2. A policy for newborns must consider parents' consent and children's rights. 译：面向新生儿的政策必须考虑父母同意和儿童权利。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "fret",
+      "Back": "<b>核心意思</b>：担心；焦虑；为某事发愁。<br><b>原文句</b>：Critics fret that genomic sequencing may cause needless worry, and require parents to hand over sensitive data about their children.<br>译：批评者则担心，基因组测序可能造成不必要的焦虑，并要求父母交出关于孩子的敏感数据。<br><b>怎么记</b>：fret 比 worry 更有持续焦虑感；外刊常用 critics fret that... 引出反方。<br><b>怎么考</b>：作者态度和正反观点题常见；看到 critics fret 要定位反对理由。<br><b>真实例句</b>：<br>1. Parents fret that too much screen time may harm children's attention. 译：父母担心过多屏幕时间可能损害孩子注意力。<br>2. Citizens fret that facial-recognition systems may collect too much data. 译：公众担心人脸识别系统可能收集过多数据。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "hand over sensitive data",
+      "Back": "<b>核心意思</b>：交出敏感数据。<br><b>原文句</b>：Critics fret that genomic sequencing may cause needless worry, and require parents to hand over sensitive data about their children.<br>译：批评者则担心，基因组测序可能造成不必要的焦虑，并要求父母交出关于孩子的敏感数据。<br><b>怎么记</b>：hand over = 交出/移交；sensitive data = 隐私、医疗、金融等敏感数据。<br><b>怎么考</b>：隐私伦理高频表达；翻译中 hand over 带有被要求交出的意味。<br><b>真实例句</b>：<br>1. Users should not be forced to hand over sensitive data for basic services. 译：用户不应被迫为基础服务交出敏感数据。<br>2. Schools must be careful when asking parents to hand over sensitive data. 译：学校要求家长交出敏感数据时必须谨慎。",
+      "Extra": "<b>作文可用</b>：No institution should force citizens to hand over sensitive data without clear safeguards. 译：任何机构都不应在缺乏明确保障的情况下强迫公民交出敏感数据。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "markers of conditions",
+      "Back": "<b>核心意思</b>：疾病标志物；显示某疾病风险的指标。<br><b>原文句</b>：Many countries screen infants for diseases already, usually by taking a blood sample and looking for markers of conditions such as sickle-cell anaemia or cystic fibrosis.<br>译：许多国家已经在为婴儿筛查疾病，通常是采集血样，寻找镰状细胞贫血或囊性纤维化等疾病的标志物。<br><b>怎么记</b>：marker = 标志物/指标；condition 在医学中常指疾病或健康状况。<br><b>怎么考</b>：熟词 condition 不只是条件；医学阅读中常译为疾病/病症。<br><b>真实例句</b>：<br>1. Doctors look for markers of heart disease in blood tests. 译：医生在血液检测中寻找心脏病标志物。<br>2. Early markers of stress can help schools support students sooner. 译：压力的早期指标可以帮助学校更早支持学生。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "flag mutations",
+      "Back": "<b>核心意思</b>：标记突变；提示某突变可能重要。<br><b>原文句</b>：Analysing DNA rather than blood can increase that number dramatically, as well as flagging mutations that are not causing problems yet, but might in future.<br>译：分析 DNA 而不是血液，可以大幅增加筛查数量，也可以标记出那些尚未造成问题、但未来可能造成问题的突变。<br><b>怎么记</b>：flag 作动词是“标记、提示注意”，不是旗帜。<br><b>怎么考</b>：熟词僻义；科技和政策文常见 flag risks/problems/users。<br><b>真实例句</b>：<br>1. The system can flag mutations linked to childhood disease. 译：该系统可以标记与儿童疾病相关的突变。<br>2. A good safety system should flag risks before accidents happen. 译：好的安全系统应在事故发生前标记风险。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "genes are not always destiny",
+      "Back": "<b>核心意思</b>：基因并不总是命运；遗传风险不等于必然结果。<br><b>原文句</b>：One is that genes are not always destiny.<br>译：其中之一是：基因并不总是命运。<br><b>怎么记</b>：destiny = fate；这里用简短句作全文关键转折。<br><b>怎么考</b>：主旨和态度题核心句；反驳“基因信息=确定性”。<br><b>真实例句</b>：<br>1. Genes are not always destiny because environment and habits also matter. 译：基因并不总是命运，因为环境和习惯也很重要。<br>2. Talent is not always destiny; effort and guidance can change outcomes. 译：天赋并不总是命运；努力和指导可以改变结果。",
+      "Extra": "<b>作文可用</b>：Technology is not always destiny; what matters is how responsibly people use it. 译：技术并不总是命运，关键在于人们如何负责任地使用它。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "scores of",
+      "Back": "<b>核心意思</b>：大量；许多。<br><b>原文句</b>：The average person carries scores of genetic variants that have been linked to diseases.<br>译：普通人携带大量与疾病有关的遗传变异。<br><b>怎么记</b>：score 作名词可指 20；scores of = many / dozens of。<br><b>怎么考</b>：熟词僻义；不要译成分数。<br><b>真实例句</b>：<br>1. The city has built scores of small libraries in poor communities. 译：这座城市在贫困社区建了许多小图书馆。<br>2. Researchers found scores of factors linked to sleep quality. 译：研究人员发现了许多与睡眠质量相关的因素。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "genetic variants",
+      "Back": "<b>核心意思</b>：遗传变异；基因变体。<br><b>原文句</b>：The average person carries scores of genetic variants that have been linked to diseases.<br>译：普通人携带大量与疾病有关的遗传变异。<br><b>怎么记</b>：variant = 变体；genetic variant 是健康科技文核心词。<br><b>怎么考</b>：阅读中 variants 不一定都是危险因素，要看是否 linked to / risky / disease-causing。<br><b>真实例句</b>：<br>1. Some genetic variants raise disease risk only slightly. 译：一些遗传变异只会略微提高疾病风险。<br>2. Different variants of a virus may spread at different speeds. 译：病毒的不同变体可能以不同速度传播。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "penetrance",
+      "Back": "<b>核心意思</b>：外显率；携带某突变的人实际发病的比例。<br><b>原文句</b>：Geneticists use a concept called \"penetrance\" to describe the proportion of people with a disease-causing mutation who actually go on to become ill.<br>译：遗传学家使用“外显率”这一概念，描述携带致病突变的人中实际继续发病的比例。<br><b>怎么记</b>：penetrate = 穿透；penetrance 可理解为基因风险“显现出来”的比例。<br><b>怎么考</b>：本文核心概念；理解它才能看懂为什么筛查会制造不确定性。<br><b>真实例句</b>：<br>1. A mutation with low penetrance may never lead to disease. 译：低外显率突变可能永远不会导致疾病。<br>2. Doctors must explain penetrance before giving genetic-test results. 译：医生在给出基因检测结果前必须解释外显率。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "go on to become ill",
+      "Back": "<b>核心意思</b>：后来继续发展为患病；最终发病。<br><b>原文句</b>：Geneticists use a concept called \"penetrance\" to describe the proportion of people with a disease-causing mutation who actually go on to become ill.<br>译：遗传学家使用“外显率”这一概念，描述携带致病突变的人中实际继续发病的比例。<br><b>怎么记</b>：go on to do = 接着做/后来发展到做某事。<br><b>怎么考</b>：长句中常表示时间发展，不要译成“继续走”。<br><b>真实例句</b>：<br>1. Only a small number of carriers go on to become ill. 译：只有少数携带者后来会发病。<br>2. Many students who struggle early go on to succeed with proper support. 译：许多早期学习吃力的学生在适当支持下后来会成功。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "working backwards from",
+      "Back": "<b>核心意思</b>：从...倒推；从结果反推原因。<br><b>原文句</b>：Many disease-causing mutations are found by working backwards from people who are already ill, which risks inflating the numbers.<br>译：许多致病突变是通过从已经患病的人倒推发现的，这就有夸大数字的风险。<br><b>怎么记</b>：backwards = 向后；working backwards from = 从已知结果反推。<br><b>怎么考</b>：方法论表达；常用于研究偏差、推理逻辑。<br><b>真实例句</b>：<br>1. Researchers worked backwards from failed cases to find the design flaw. 译：研究人员从失败案例倒推，找出设计缺陷。<br>2. Police worked backwards from the data leak to identify the weak point. 译：警方从数据泄露倒推，识别薄弱环节。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "inflate the numbers",
+      "Back": "<b>核心意思</b>：夸大数字；抬高数据。<br><b>原文句</b>：Many disease-causing mutations are found by working backwards from people who are already ill, which risks inflating the numbers.<br>译：许多致病突变是通过从已经患病的人倒推发现的，这就有夸大数字的风险。<br><b>怎么记</b>：inflate 本义给气球充气，引申为夸大价格、数字、风险。<br><b>怎么考</b>：数据题和态度题高频；通常带负面色彩。<br><b>真实例句</b>：<br>1. Counting only severe cases may inflate the numbers. 译：只统计严重病例可能会夸大数字。<br>2. Some companies inflate the numbers to attract investors. 译：一些公司夸大数字以吸引投资者。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "equate A with B",
+      "Back": "<b>核心意思</b>：把 A 等同于 B。<br><b>原文句</b>：\"I think historically people have equated genetic information with certainty,\" says Caroline Wright.<br>译：Caroline Wright 说：“我认为，过去人们一直把遗传信息等同于确定性。”<br><b>怎么记</b>：equate = treat as equal；介词固定用 with。<br><b>怎么考</b>：观点题高频；常用于批评过度简化。<br><b>真实例句</b>：<br>1. It is wrong to equate high income with happiness. 译：把高收入等同于幸福是错误的。<br>2. We should not equate test scores with real ability. 译：我们不应把考试分数等同于真实能力。",
+      "Extra": "<b>作文可用</b>：It is dangerous to equate technological progress with social progress. 译：把技术进步等同于社会进步是危险的。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "outdated",
+      "Back": "<b>核心意思</b>：过时的；不再适合当前情况的。<br><b>原文句</b>：\"I think historically people have equated genetic information with certainty,\" says Caroline Wright, a geneticist at the University of Exeter, who conducted the study, \"which is quite outdated now.\"<br>译：埃克塞特大学遗传学家 Caroline Wright 进行了这项研究。她说：“我认为，过去人们一直把遗传信息等同于确定性，而这种看法如今已经相当过时了。”<br><b>怎么记</b>：out- + dated = 超出日期；用于 idea, rule, system, view。<br><b>怎么考</b>：态度题中表示作者或引述者否定旧观念。<br><b>真实例句</b>：<br>1. Outdated teaching methods cannot meet students' current needs. 译：过时的教学方法无法满足学生当前需求。<br>2. Some privacy laws are outdated in the age of artificial intelligence. 译：在人工智能时代，一些隐私法律已经过时。",
+      "Extra": "<b>作文可用</b>：Outdated rules should be revised when technology changes society. 译：当技术改变社会时，过时的规则应被修订。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "low or middling penetrance",
+      "Back": "<b>核心意思</b>：低或中等外显率。<br><b>原文句</b>：Testing hundreds of genes with low or middling penetrance could create \"patients-in-waiting\" many of whom will never become ill.<br>译：检测数百个外显率较低或中等的基因，可能会制造出许多“等待成为病人”的人，而其中很多人永远不会发病。<br><b>怎么记</b>：middling = 中等的、一般的；和 low 构成风险等级。<br><b>怎么考</b>：理解程度修饰词；不是所有基因风险都同等严重。<br><b>真实例句</b>：<br>1. A variant with middling penetrance may require monitoring rather than treatment. 译：中等外显率的变异可能需要监测，而不是治疗。<br>2. Policies with low or middling impact should not consume excessive resources. 译：影响较低或中等的政策不应消耗过多资源。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "patients-in-waiting",
+      "Back": "<b>核心意思</b>：“等待成为病人”的人；被风险标签困住但未发病的人。<br><b>原文句</b>：Testing hundreds of genes with low or middling penetrance could create \"patients-in-waiting\" many of whom will never become ill.<br>译：检测数百个外显率较低或中等的基因，可能会制造出许多“等待成为病人”的人，而其中很多人永远不会发病。<br><b>怎么记</b>：in-waiting 常指“候任/等待中的”；这里带批判和讽刺色彩。<br><b>怎么考</b>：作者态度题重点；说明筛查可能把健康人心理上变成病人。<br><b>真实例句</b>：<br>1. Over-testing can turn healthy people into patients-in-waiting. 译：过度检测可能把健康人变成“等待成为病人”的人。<br>2. Constant risk alerts may create citizens-in-waiting for disaster. 译：持续的风险警报可能制造出等待灾难降临的公民。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "diagnostic purgatory",
+      "Back": "<b>核心意思</b>：诊断炼狱；长期处于不确定诊断中的痛苦状态。<br><b>原文句</b>：Such diagnostic purgatory is stressful enough that, in the case of cystic fibrosis, it has a name.<br>译：这种诊断上的炼狱已经足够令人焦虑，以至于在囊性纤维化中，它有了一个名称。<br><b>怎么记</b>：purgatory 本义宗教“炼狱”，外刊用来形容夹在两种状态之间的痛苦等待。<br><b>怎么考</b>：语气强烈，说明作者重视心理伤害；翻译要保留不确定和折磨感。<br><b>真实例句</b>：<br>1. Families may spend years in diagnostic purgatory before getting a clear answer. 译：家庭可能在多年诊断炼狱后才得到明确答案。<br>2. Students can feel trapped in academic purgatory when evaluations are unclear. 译：当评价不清晰时，学生可能感觉被困在学业炼狱中。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "question the worth of",
+      "Back": "<b>核心意思</b>：质疑...是否值得；怀疑...的价值。<br><b>原文句</b>：Parents of CFSPID children often question the worth of getting the test results at all, says Anneke Lucassen.<br>译：Anneke Lucassen 说，CFSPID 儿童的父母常常会质疑，拿到这些检测结果到底是否值得。<br><b>怎么记</b>：worth 在这里是名词“价值”；question 作动词是质疑。<br><b>怎么考</b>：熟词组合；翻译成“质疑...价值”比“问价值”自然。<br><b>真实例句</b>：<br>1. Some parents question the worth of too much homework. 译：一些家长质疑过多家庭作业的价值。<br>2. Citizens may question the worth of surveillance that brings little safety. 译：如果监控几乎不带来安全，公民可能质疑它的价值。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "follow-up",
+      "Back": "<b>核心意思</b>：后续处理；随访；后续行动。<br><b>原文句</b>：But for medullary thyroid cancer caused by mutations in the RET gene, a common follow-up is to surgically remove the thyroid gland.<br>译：但对于由 RET 基因突变导致的甲状腺髓样癌，一种常见后续处理是通过手术切除甲状腺。<br><b>怎么记</b>：follow-up 可作名词或形容词，医学中常指复查或后续治疗。<br><b>怎么考</b>：健康类阅读高频；注意 common follow-up is to do 结构。<br><b>真实例句</b>：<br>1. A follow-up appointment is needed after the operation. 译：手术后需要一次随访预约。<br>2. A useful policy requires follow-up, not just an announcement. 译：有用的政策需要后续行动，而不只是公告。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "dependent on",
+      "Back": "<b>核心意思</b>：依赖于；取决于。<br><b>原文句</b>：That leaves patients dependent on artificial thyroid hormones for the rest of their lives.<br>译：这会让患者在余生都依赖人工甲状腺激素。<br><b>怎么记</b>：leave sb dependent on sth = 使某人依赖某物；dependent 也可指取决于。<br><b>怎么考</b>：结果题常考 leave + 宾语 + 形容词补足语。<br><b>真实例句</b>：<br>1. Some patients are dependent on daily medication. 译：一些患者依赖每日用药。<br>2. Young people should not become dependent on short videos for information. 译：年轻人不应依赖短视频获取信息。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "give rise to",
+      "Back": "<b>核心意思</b>：导致；引起；产生。<br><b>原文句</b>：Results could be given for only genetic variants which give rise to treatable illnesses, and which are known to have high penetrance.<br>译：检测结果可以只告知那些会导致可治疗疾病、且已知具有高外显率的遗传变异。<br><b>怎么记</b>：give rise to 是正式因果表达，后接结果。<br><b>怎么考</b>：完形、翻译、作文都高频；可替代 cause/lead to。<br><b>真实例句</b>：<br>1. Air pollution can give rise to serious health problems. 译：空气污染可能导致严重健康问题。<br>2. Unfair rules can give rise to public distrust. 译：不公平规则可能导致公众不信任。",
+      "Extra": "<b>作文可用</b>：Lack of privacy protection can give rise to public distrust. 译：缺乏隐私保护可能导致公众不信任。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "treatable illnesses",
+      "Back": "<b>核心意思</b>：可治疗疾病。<br><b>原文句</b>：Results could be given for only genetic variants which give rise to treatable illnesses, and which are known to have high penetrance.<br>译：检测结果可以只告知那些会导致可治疗疾病、且已知具有高外显率的遗传变异。<br><b>怎么记</b>：treatable = can be treated；-able 表示“可...的”。<br><b>怎么考</b>：健康政策关键限定：可治疗才值得告知，降低无谓焦虑。<br><b>真实例句</b>：<br>1. Screening is most useful when it identifies treatable illnesses. 译：筛查在识别可治疗疾病时最有用。<br>2. Public health systems should focus on preventable and treatable illnesses. 译：公共卫生系统应关注可预防和可治疗疾病。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "test's limitations",
+      "Back": "<b>核心意思</b>：检测的局限性。<br><b>原文句</b>：Careful communication can improve understanding of a test's limitations.<br>译：谨慎的沟通可以改善人们对检测局限性的理解。<br><b>怎么记</b>：limitation = 局限；常搭配 understand/recognise/acknowledge。<br><b>怎么考</b>：翻译和写作高频抽象名词；科技话题必须承认局限。<br><b>真实例句</b>：<br>1. Doctors should explain a test's limitations before giving results. 译：医生应在给出结果前解释检测的局限性。<br>2. Users need to understand the limitations of artificial intelligence. 译：用户需要理解人工智能的局限。",
+      "Extra": "<b>作文可用</b>：Society should recognise the limitations of technology as well as its benefits. 译：社会既应认识技术的好处，也应认识其局限。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "only half the story",
+      "Back": "<b>核心意思</b>：只是故事的一半；还不是全部问题。<br><b>原文句</b>：But screening is only half the story.<br>译：但筛查只是故事的一半。<br><b>怎么记</b>：story 在外刊中可指“问题全貌/事情的完整情况”。<br><b>怎么考</b>：段落转折信号；提示作者将引出第二层问题。<br><b>真实例句</b>：<br>1. High income is only half the story of a good job. 译：高收入只是好工作的一半。<br>2. Technology is only half the story; governance matters too. 译：技术只是问题的一半，治理同样重要。",
+      "Extra": "<b>作文可用</b>：Efficiency is only half the story; fairness matters too. 译：效率只是问题的一半，公平同样重要。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "store the genomes for use in future research",
+      "Back": "<b>核心意思</b>：储存基因组以供未来研究使用。<br><b>原文句</b>：A second goal of most programmes is to store the genomes for use in future research.<br>译：多数项目的第二个目标，是储存基因组，以便未来研究使用。<br><b>怎么记</b>：for use in = 用于；future research 是研究目的，不等于当下患者利益。<br><b>怎么考</b>：文章伦理分歧核心：筛查和研究储存是两件事。<br><b>真实例句</b>：<br>1. Hospitals may store samples for use in future research. 译：医院可能储存样本以供未来研究使用。<br>2. Schools should not store children's data for future research without clear consent. 译：学校不应在缺乏明确同意的情况下储存儿童数据以供未来研究。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "neurodevelopmental disorder",
+      "Back": "<b>核心意思</b>：神经发育障碍。<br><b>原文句</b>：Data from Britain's 100,000 Genomes Project allowed researchers at Oxford to spot genetic variants that cause a neurodevelopmental disorder in children.<br>译：英国 100,000 Genomes Project 的数据使牛津研究人员发现了会导致儿童神经发育障碍的遗传变异。<br><b>怎么记</b>：neuro- = 神经；developmental = 发育的；disorder = 障碍/疾病。<br><b>怎么考</b>：专业复合词拆解；不必逐字死背，但要能看懂医学语境。<br><b>真实例句</b>：<br>1. Autism is often discussed as a neurodevelopmental disorder. 译：自闭症常被作为神经发育障碍讨论。<br>2. Early support can improve outcomes for children with neurodevelopmental disorders. 译：早期支持可以改善神经发育障碍儿童的结局。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "drug side-effects",
+      "Back": "<b>核心意思</b>：药物副作用。<br><b>原文句</b>：The data could also be used to predict drug side-effects and predict how well a patient will respond to treatment.<br>译：这些数据还可用于预测药物副作用，并预测患者对治疗的反应。<br><b>怎么记</b>：side-effect 是固定合成词；drug 在医学中是药物，不是毒品。<br><b>怎么考</b>：健康类阅读高频；注意 predict A and predict B 并列。<br><b>真实例句</b>：<br>1. Genetic data may help predict drug side-effects. 译：基因数据可能帮助预测药物副作用。<br>2. Patients should be informed about possible drug side-effects. 译：患者应被告知可能的药物副作用。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "respond to treatment",
+      "Back": "<b>核心意思</b>：对治疗有反应；治疗有效。<br><b>原文句</b>：The data could also be used to predict drug side-effects and predict how well a patient will respond to treatment.<br>译：这些数据还可用于预测药物副作用，并预测患者对治疗的反应。<br><b>怎么记</b>：respond to 在医学中常指患者对治疗是否有效反应。<br><b>怎么考</b>：熟词搭配；不要译成“回答治疗”。<br><b>真实例句</b>：<br>1. Some patients respond to treatment within a few weeks. 译：一些患者会在数周内对治疗产生反应。<br>2. Different students respond to feedback in different ways. 译：不同学生对反馈的反应方式不同。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "a massive boost",
+      "Back": "<b>核心意思</b>：巨大推动；大幅提升。<br><b>原文句</b>：\"AI is giving us a massive boost to that.\"<br>译：AI 正在极大地推动这一点。<br><b>怎么记</b>：massive = very large；boost 可作名词，常与 give sb/sth a boost 搭配。<br><b>怎么考</b>：科技文章高频正面评价；注意 boost to sth 的介词。<br><b>真实例句</b>：<br>1. AI has given medical research a massive boost. 译：AI 给医学研究带来了巨大推动。<br>2. Better libraries can give rural education a massive boost. 译：更好的图书馆能极大推动农村教育。",
+      "Extra": "<b>作文可用</b>：Digital tools can give lifelong learning a massive boost. 译：数字工具可以极大推动终身学习。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "among the most personal and sensitive information there is",
+      "Back": "<b>核心意思</b>：属于最私人、最敏感的信息之一。<br><b>原文句</b>：On the other hand, a person's genome is among the most personal and sensitive information there is.<br>译：另一方面，一个人的基因组是最私人、最敏感的信息之一。<br><b>怎么记</b>：among the most... there is 是强调结构，表示“最...之一”。<br><b>怎么考</b>：长句翻译要保留最高级强度；这是隐私论证核心句。<br><b>真实例句</b>：<br>1. Medical records are among the most sensitive information there is. 译：医疗记录属于最敏感的信息之一。<br>2. Children's data are among the most personal information a school can hold. 译：儿童数据属于学校可能持有的最私人信息之一。",
+      "Extra": "<b>作文可用</b>：Personal data are among the most sensitive resources in the digital age. 译：个人数据是数字时代最敏感的资源之一。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "sticking-point",
+      "Back": "<b>核心意思</b>：争议点；障碍点；卡住问题的关键。<br><b>原文句</b>：For some researchers and parents, the idea of storing it indefinitely is a sticking-point.<br>译：对一些研究人员和父母来说，无限期储存基因组这个想法是一个棘手问题。<br><b>怎么记</b>：stick = 卡住；sticking-point = 谈判或争论中卡住的点。<br><b>怎么考</b>：议论文常用，定位争议焦点。<br><b>真实例句</b>：<br>1. Data privacy remains a sticking-point in the debate over smart cities. 译：数据隐私仍是智慧城市争论中的障碍点。<br>2. Funding is the main sticking-point in the school reform plan. 译：资金是学校改革计划中的主要争议点。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "indefinitely",
+      "Back": "<b>核心意思</b>：无限期地；期限不明确地。<br><b>原文句</b>：For some researchers and parents, the idea of storing it indefinitely is a sticking-point.<br>译：对一些研究人员和父母来说，无限期储存基因组这个想法是一个棘手问题。<br><b>怎么记</b>：in- + definite 明确；indefinitely = 没有明确期限。<br><b>怎么考</b>：隐私、法律、政策类高频；常和 store, delay, suspend 搭配。<br><b>真实例句</b>：<br>1. The company should not store users' data indefinitely. 译：公司不应无限期储存用户数据。<br>2. The project was delayed indefinitely after public opposition. 译：公众反对后，该项目被无限期推迟。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "beleaguered",
+      "Back": "<b>核心意思</b>：陷入困境的；受到围攻的。<br><b>原文句</b>：In 2023, for instance, hackers stole the genetic and personal information of 6.9m customers of 23andMe, a beleaguered direct-to-consumer genetic-testing company.<br>译：例如 2023 年，黑客窃取了 23andMe 690 万名客户的遗传和个人信息。23andMe 是一家处境艰难、直接面向消费者的基因检测公司。<br><b>怎么记</b>：beleaguer 原指围攻，引申为被麻烦、批评或危机包围。<br><b>怎么考</b>：态度词，常用于公司、政府、领导者处境不佳。<br><b>真实例句</b>：<br>1. The beleaguered firm faced lawsuits and falling sales. 译：这家陷入困境的公司面临诉讼和销售下滑。<br>2. A beleaguered hospital may struggle to protect patient data. 译：一家处境艰难的医院可能难以保护患者数据。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "direct-to-consumer",
+      "Back": "<b>核心意思</b>：直接面向消费者的。<br><b>原文句</b>：In 2023, for instance, hackers stole the genetic and personal information of 6.9m customers of 23andMe, a beleaguered direct-to-consumer genetic-testing company.<br>译：例如 2023 年，黑客窃取了 23andMe 690 万名客户的遗传和个人信息。23andMe 是一家处境艰难、直接面向消费者的基因检测公司。<br><b>怎么记</b>：direct-to-consumer 常缩写 DTC，表示不经过医生、零售商或中介。<br><b>怎么考</b>：商业和医疗结合文章常见；注意连字符整体作形容词。<br><b>真实例句</b>：<br>1. Direct-to-consumer tests can give people information without a doctor's advice. 译：直接面向消费者的检测可以在没有医生建议的情况下给人信息。<br>2. Direct-to-consumer marketing may weaken professional guidance. 译：直接面向消费者的营销可能削弱专业指导。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "enable new uses outside medicine",
+      "Back": "<b>核心意思</b>：使医学之外的新用途成为可能。<br><b>原文句</b>：The same advances in genetics that enable new treatments are also likely to enable new uses for genetic information outside medicine.<br>译：推动新疗法的同一批遗传学进展，也很可能使遗传信息在医学之外产生新的用途。<br><b>怎么记</b>：enable = make possible；outside medicine 是风险扩展点。<br><b>怎么考</b>：长句主干：advances are likely to enable uses；that 从句修饰 advances。<br><b>真实例句</b>：<br>1. AI can enable new uses of personal data outside education. 译：AI 可以让个人数据在教育之外产生新用途。<br>2. The same technology that improves health care may enable new forms of surveillance. 译：同一种改善医疗的技术也可能使新的监控形式成为可能。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "setting premiums",
+      "Back": "<b>核心意思</b>：设定保费。<br><b>原文句</b>：In America some insurers can already use genetic-test results when setting premiums.<br>译：在美国，一些保险公司在设定保费时已经可以使用基因检测结果。<br><b>怎么记</b>：premium 在保险中是保费，不是“高级的”。<br><b>怎么考</b>：熟词僻义；金融保险语境中 premium 常作名词。<br><b>真实例句</b>：<br>1. Insurers use age and health data when setting premiums. 译：保险公司在设定保费时使用年龄和健康数据。<br>2. Using genetic data when setting premiums may deepen inequality. 译：在设定保费时使用基因数据可能加深不平等。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "blackmail",
+      "Back": "<b>核心意思</b>：勒索；敲诈。<br><b>原文句</b>：Insights from DNA could be used for blackmail, for instance around questions of paternity.<br>译：DNA 洞察还可能被用于勒索，例如围绕亲子关系的问题。<br><b>怎么记</b>：blackmail 是用秘密威胁他人以获利；可作名词或动词。<br><b>怎么考</b>：隐私风险类强负面词；说明信息泄露的非医学后果。<br><b>真实例句</b>：<br>1. Private messages can be used for blackmail if they are leaked. 译：私人信息如果泄露，可能被用于勒索。<br>2. Genetic secrets could become tools for blackmail. 译：遗传秘密可能成为勒索工具。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "paternity",
+      "Back": "<b>核心意思</b>：父亲身份；亲子关系中的父系身份。<br><b>原文句</b>：Insights from DNA could be used for blackmail, for instance around questions of paternity.<br>译：DNA 洞察还可能被用于勒索，例如围绕亲子关系的问题。<br><b>怎么记</b>：paternal = 父亲的；paternity 指法律或生物学上的父亲身份。<br><b>怎么考</b>：家庭、法律、隐私语境可能出现；结合 DNA 判断。<br><b>真实例句</b>：<br>1. A DNA test can raise questions of paternity. 译：DNA 检测可能引发父亲身份问题。<br>2. Paternity disputes can involve sensitive personal information. 译：父亲身份争议可能涉及敏感个人信息。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "mission creep",
+      "Back": "<b>核心意思</b>：任务蔓延；项目目标逐渐扩大并偏离原始边界。<br><b>原文句</b>：Jan Friedman worries that many of the proposed screening programmes suffer from \"mission creep\".<br>译：Jan Friedman 担心，许多拟议中的筛查项目存在“任务蔓延”。<br><b>怎么记</b>：creep = 慢慢爬行；mission creep 指项目目标不知不觉扩张。<br><b>怎么考</b>：政策伦理高频概念；常带批判色彩。<br><b>真实例句</b>：<br>1. A health app may suffer from mission creep if it starts selling users' data. 译：如果健康应用开始出售用户数据，它就可能出现任务蔓延。<br>2. School safety systems can suffer from mission creep when they become tools of surveillance. 译：学校安全系统如果变成监控工具，就可能出现任务蔓延。",
+      "Extra": "<b>作文可用</b>：Digital projects must guard against mission creep. 译：数字项目必须防范任务蔓延。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "sign up to both A and B",
+      "Back": "<b>核心意思</b>：同意同时参加 A 和 B；报名/签署同意两件事。<br><b>原文句</b>：Many of the proposed screening programmes suffer from \"mission creep\", with most requiring parents to sign up to both screening and the long-term storage of their child's data for research.<br>译：许多拟议中的筛查项目存在“任务蔓延”：多数项目要求父母同时同意筛查，以及为研究目的长期储存孩子的数据。<br><b>怎么记</b>：sign up to 在英式英语中可指同意某安排；both A and B 是并列对象。<br><b>怎么考</b>：结构题重点：with + 宾语 + doing 补充说明任务蔓延如何体现。<br><b>真实例句</b>：<br>1. Users should not be forced to sign up to both a service and data sharing. 译：用户不应被迫同时同意服务和数据共享。<br>2. Parents may sign up to both screening and follow-up care. 译：父母可能同时同意筛查和后续护理。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "outweigh the costs",
+      "Back": "<b>核心意思</b>：收益超过成本；利大于弊。<br><b>原文句</b>：Screening programmes are usually judged on whether the benefits to the patients outweigh the costs.<br>译：筛查项目通常根据患者获得的收益是否超过成本来评判。<br><b>怎么记</b>：outweigh = weigh more than，引申为重要性超过。<br><b>怎么考</b>：政策评估、作文高频；常见 benefits outweigh costs/risks。<br><b>真实例句</b>：<br>1. The benefits of vaccination usually outweigh the risks. 译：接种疫苗的收益通常超过风险。<br>2. A reform is worthwhile only if its benefits outweigh the costs. 译：一项改革只有在收益超过成本时才值得推进。",
+      "Extra": "<b>作文可用</b>：A public policy should be judged on whether its long-term benefits outweigh its social costs. 译：公共政策应根据其长期收益是否超过社会成本来评判。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "accrue to other people",
+      "Back": "<b>核心意思</b>：收益归于他人；好处累积到别人那里。<br><b>原文句</b>：Medical research, by contrast, is justified by benefits that are uncertain and often accrue to other people.<br>译：相比之下，医学研究的正当性来自一些不确定、且往往由他人获得的收益。<br><b>怎么记</b>：accrue = accumulate or be received over time；常用于 benefits, interest, advantages。<br><b>怎么考</b>：经济和伦理文章高频；看清收益归属是推理关键。<br><b>真实例句</b>：<br>1. The benefits of basic research often accrue to future generations. 译：基础研究的收益常常归于后代。<br>2. The costs fall on workers while the benefits accrue to shareholders. 译：成本落在工人身上，而收益归于股东。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "incapable of consenting",
+      "Back": "<b>核心意思</b>：无法同意；没有作出知情同意的能力。<br><b>原文句</b>：Current genomic-screening trials for newborns are trying to do both at once, and with patients who are incapable of consenting to boot.<br>译：目前的新生儿基因组筛查试验试图同时做这两件事，而且面对的是无法同意的患者。<br><b>怎么记</b>：be incapable of doing = 无法做某事；consent = 同意/知情同意。<br><b>怎么考</b>：伦理题核心：对象是新生儿，无法为长期数据使用作出同意。<br><b>真实例句</b>：<br>1. Children are incapable of consenting to the long-term sale of their data. 译：儿童无法同意长期出售自己的数据。<br>2. Patients who are incapable of consenting need stronger legal protection. 译：无法作出同意的患者需要更强的法律保护。",
+      "Extra": "<b>作文可用</b>：When people are incapable of consenting, society should offer stronger protection. 译：当人们无法作出同意时，社会应提供更强保护。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "to boot",
+      "Back": "<b>核心意思</b>：此外；而且；更有甚者。<br><b>原文句</b>：Current genomic-screening trials for newborns are trying to do both at once, and with patients who are incapable of consenting to boot.<br>译：目前的新生儿基因组筛查试验试图同时做这两件事，而且面对的是无法同意的患者。<br><b>怎么记</b>：to boot 是外刊常见加强补充，语气偏口语但常用于严肃文章。<br><b>怎么考</b>：阅读中提示作者追加一个更严重的问题。<br><b>真实例句</b>：<br>1. The plan is costly and unfair to boot. 译：这个计划成本高，而且还不公平。<br>2. The app collects too much data and stores it indefinitely to boot. 译：这个应用收集过多数据，而且还无限期储存。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "the ethics look tricky",
+      "Back": "<b>核心意思</b>：伦理问题看起来棘手。<br><b>原文句</b>：The benefits could be enormous. But the ethics look tricky.<br>译：其收益可能巨大。但伦理问题看起来相当棘手。<br><b>怎么记</b>：tricky = difficult/delicate；ethics 作复数常指伦理问题。<br><b>怎么考</b>：结尾态度句；作者承认收益但强调伦理复杂。<br><b>真实例句</b>：<br>1. The technology is powerful, but the ethics look tricky. 译：这项技术很强大，但伦理问题看起来棘手。<br>2. The policy could save money, but the ethics look tricky. 译：这项政策可能省钱，但伦理问题看起来棘手。",
+      "Extra": "<b>作文可用</b>：The benefits of artificial intelligence could be enormous, but the ethics look tricky. 译：人工智能的收益可能巨大，但伦理问题看起来棘手。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"genes are not always destiny\" 写一句健康/个人品质作文句：如何表达“先天因素不等于最终结果”？",
+      "Back": "<b>原文句</b>：One is that genes are not always destiny.<br>译：其中之一是：基因并不总是命运。<br><b>表达功能</b>：反驳决定论，强调后天环境、选择和治理。<br><b>可复用句型</b>：A is not always destiny; B also shapes the final outcome.<br><b>考研作文成句</b>：Genes are not always destiny; lifestyle, education and social support also shape people's health.<br>译：基因并不总是命运；生活方式、教育和社会支持也塑造人的健康。",
+      "Extra": "<b>适配话题</b>：健康、教育、个人品质、社会责任<br><b>替换槽位</b>：A = genes/talent/technology; B = habits/education/governance/support<br><b>多场景改写</b>：<br>1. Talent is not always destiny; discipline and guidance can change a young person's future. 译：天赋并不总是命运；自律和指导可以改变年轻人的未来。<br>2. Technology is not always destiny; responsible governance decides whether it serves society. 译：技术并不总是命运；负责任的治理决定它是否服务社会。<br>3. Family background is not always destiny; fair education can open new possibilities. 译：家庭背景并不总是命运；公平教育可以打开新的可能性。<br><b>常见错误</b>：不要把 destiny 用成 destination；destiny 是命运，destination 是目的地。<br><b>记忆抓手</b>：not always destiny = 不等于必然结果。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"hand over sensitive data\" 写一句数据隐私作文句：如何表达“不应强迫个人交出敏感数据”？",
+      "Back": "<b>原文句</b>：Critics fret that genomic sequencing may cause needless worry, and require parents to hand over sensitive data about their children.<br>译：批评者担心，基因组测序可能造成不必要的焦虑，并要求父母交出关于孩子的敏感数据。<br><b>表达功能</b>：表达隐私保护和制度边界。<br><b>可复用句型</b>：No one should be required to hand over sensitive data unless A.<br><b>考研作文成句</b>：No one should be required to hand over sensitive data unless clear safeguards are in place.<br>译：除非有明确保护措施，否则任何人都不应被要求交出敏感数据。",
+      "Extra": "<b>适配话题</b>：科技生活、道德文明、社会责任、职场生活<br><b>替换槽位</b>：A = safeguards/consent/public interest/legal limits<br><b>多场景改写</b>：<br>1. Students should not be required to hand over sensitive data for ordinary school services. 译：学生不应为普通学校服务交出敏感数据。<br>2. Workers should not be forced to hand over sensitive data unrelated to their jobs. 译：劳动者不应被迫交出与工作无关的敏感数据。<br>3. Citizens should hand over sensitive data only when the public interest is clear and limited. 译：只有当公共利益明确且有限时，公民才应交出敏感数据。<br><b>常见错误</b>：hand over 带有移交控制权的意味，比 provide 更强。<br><b>记忆抓手</b>：data = 敏感资产，hand over = 交出控制。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"outweigh the costs\" 写一句公共政策作文句：如何表达“政策应当利大于弊”？",
+      "Back": "<b>原文句</b>：Screening programmes are usually judged on whether the benefits to the patients outweigh the costs.<br>译：筛查项目通常根据患者获得的收益是否超过成本来评判。<br><b>表达功能</b>：评估政策、改革或技术应用是否值得。<br><b>可复用句型</b>：A should be judged on whether its benefits outweigh its costs/risks.<br><b>考研作文成句</b>：A public policy should be judged on whether its long-term benefits outweigh its social costs.<br>译：公共政策应根据其长期收益是否超过社会成本来评判。",
+      "Extra": "<b>适配话题</b>：公共政策、环保、教育改革、健康<br><b>替换槽位</b>：A = policy/reform/technology/screening programme<br><b>多场景改写</b>：<br>1. A green policy is worthwhile when its long-term benefits outweigh its short-term costs. 译：当长期收益超过短期成本时，绿色政策就是值得的。<br>2. Education reform should be judged on whether its benefits to students outweigh the burden it creates. 译：教育改革应根据其给学生带来的收益是否超过其造成的负担来评判。<br>3. The use of AI in schools should be accepted only when its benefits outweigh its risks. 译：只有当收益超过风险时，学校使用 AI 才应被接受。<br><b>常见错误</b>：outweigh 后直接接 costs/risks，不加 than。<br><b>记忆抓手</b>：天平意象：benefits 更重。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"mission creep\" 写一句科技治理作文句：如何表达“数字项目必须防止目标不断扩张”？",
+      "Back": "<b>原文句</b>：Jan Friedman worries that many of the proposed screening programmes suffer from \"mission creep\".<br>译：Jan Friedman 担心，许多拟议中的筛查项目存在“任务蔓延”。<br><b>表达功能</b>：批评项目从原始目标扩张到更宽、更敏感用途。<br><b>可复用句型</b>：A must guard against mission creep, especially when it involves B.<br><b>考研作文成句</b>：Digital health projects must guard against mission creep, especially when they involve children's data.<br>译：数字健康项目必须防范任务蔓延，尤其是在涉及儿童数据时。",
+      "Extra": "<b>适配话题</b>：科技监管、健康、社会责任、道德文明<br><b>替换槽位</b>：A = digital projects/school platforms/health programmes; B = personal data/children's data/surveillance<br><b>多场景改写</b>：<br>1. School safety platforms must guard against mission creep when they collect students' data. 译：学校安全平台在收集学生数据时必须防范任务蔓延。<br>2. Environmental monitoring systems must guard against mission creep into unnecessary surveillance. 译：环境监测系统必须防范蔓延为不必要的监控。<br>3. Workplace management apps must guard against mission creep when they track employees. 译：职场管理应用在追踪员工时必须防范任务蔓延。<br><b>常见错误</b>：mission creep 是批判性表达，不适合用于赞美项目发展。<br><b>记忆抓手</b>：任务边界慢慢爬出去 = creep。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"incapable of consenting\" 写一句儿童权益作文句：如何表达“儿童无法同意长期数据使用，需要更强保护”？",
+      "Back": "<b>原文句</b>：Current genomic-screening trials for newborns are trying to do both at once, and with patients who are incapable of consenting to boot.<br>译：目前的新生儿基因组筛查试验试图同时做这两件事，而且面对的是无法同意的患者。<br><b>表达功能</b>：强调弱势群体和知情同意。<br><b>可复用句型</b>：When A are incapable of consenting, B should provide stronger protection.<br><b>考研作文成句</b>：When children are incapable of consenting to long-term data use, society should provide stronger protection.<br>译：当儿童无法同意长期数据使用时，社会应提供更强保护。",
+      "Extra": "<b>适配话题</b>：儿童权益、数据隐私、教育、社会责任<br><b>替换槽位</b>：A = children/patients/users; B = schools/governments/society/institutions<br><b>多场景改写</b>：<br>1. When patients are incapable of consenting, hospitals should follow stricter ethical rules. 译：当患者无法作出同意时，医院应遵守更严格的伦理规则。<br>2. When students are incapable of understanding data risks, schools should protect them by default. 译：当学生无法理解数据风险时，学校应默认保护他们。<br>3. When elderly patients are incapable of consenting, families and doctors must act carefully. 译：当老年患者无法作出同意时，家人和医生必须谨慎行动。<br><b>常见错误</b>：consent 是名词/动词“同意”，常指知情同意。<br><b>记忆抓手</b>：无法同意 = 需要保护。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "用 \"the benefits could be enormous, but the ethics look tricky\" 写一句科技伦理作文句：如何表达“收益很大但伦理复杂”？",
+      "Back": "<b>原文句</b>：The benefits could be enormous. But the ethics look tricky.<br>译：其收益可能巨大。但伦理问题看起来相当棘手。<br><b>表达功能</b>：平衡让步：先承认收益，再指出伦理复杂性。<br><b>可复用句型</b>：The benefits of A could be enormous, but the ethics look tricky.<br><b>考研作文成句</b>：The benefits of gene technology could be enormous, but the ethics look tricky.<br>译：基因技术的收益可能巨大，但伦理问题看起来棘手。",
+      "Extra": "<b>适配话题</b>：科技创新、健康、AI、社会责任<br><b>替换槽位</b>：A = artificial intelligence/gene technology/data sharing/new screening tools<br><b>多场景改写</b>：<br>1. The benefits of artificial intelligence could be enormous, but the ethics look tricky. 译：人工智能的收益可能巨大，但伦理问题看起来棘手。<br>2. The benefits of collecting health data could be enormous, but the ethics look tricky. 译：收集健康数据的收益可能巨大，但伦理问题看起来棘手。<br>3. The benefits of facial recognition could be enormous, but the ethics look tricky. 译：人脸识别的收益可能巨大，但伦理问题看起来棘手。<br><b>常见错误</b>：tricky 比 difficult 更口语，但外刊常用；作文中可替换为 complicated。<br><b>记忆抓手</b>：benefits 大，ethics 难。",
+      "Tags": "外刊精读"
+    }
+  ]
+}
