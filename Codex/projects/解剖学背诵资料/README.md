@@ -36,8 +36,10 @@
 - 2026-07-11 已细化第四批步态与动作分析文档，并新增全身主动回忆卡片；当前资料已从“按部位查阅”推进到“可直接抽背”。
 - 2026-07-12 已根据两份真题集整理出题规律和模拟出题规则；以后解剖出题默认按真题方向生成。
 - 2026-07-13 已设置 2026-07-14 至 2026-08-11 每日解剖学背诵推送：每日包含当天背诵范围、闭书掌握点、按知识点分组的小题考察，以及昨天/3 天前/7 天前的复习检验。
+- 2026-08-06 已生成上肢肌肉 Anki 素材整理包：50 个上肢肌肉/肌群、200 条图片采集任务、50 张 Basic 模板卡；输出位置为 `/Users/HaoQi/Documents/Codex/2026-08-06/referenced-chatgpt-conversation-this-is-an/outputs/upper_limb_muscle_anki_package/Upper_Limb_Muscle_Anki_package.zip`。同日已从 Wikimedia Commons 第一轮下载 24 个图片文件，覆盖 23 个肌肉；27 个肌肉因 Commons 限流待后续补图。下载清单在包内 `Tables/downloaded_images_manifest.csv`，失败清单在 `Tables/download_failures.csv`。
 
 ## 下一步
 
 - 根据每日推送反馈，将主动回忆卡片拆成滚动抽背组，并对掌握差的部位增加回炉题。
 - 根据真题规律生成第一套 100 分解剖小测，并根据答题反馈标记薄弱部位。
+- 为上肢肌肉 Anki 包逐步补入可合法使用的图片，逐张记录来源 URL、许可和署名，再导入 Anki 媒体库。

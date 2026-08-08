@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/README.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-07-27-答案"
             }
           }
         ]
@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e98af7c370b13acc",
+  "active": "2bb7cc85c2a4cbec",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/README.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目.zip",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-05-题目.md",
@@ -238,7 +240,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0017-72-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0016-66-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0015-60-第-4-章-肩关节复合体的结构与功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0014-56-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
@@ -248,7 +249,6 @@
     "Codex/projects/Anki图片遮挡插件",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/anki.xlsx",
-    "Codex/projects/考研英语外刊精读/articles/Are stablecoins money/anki/cards.json",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题分类表-preview.png",
     "Untitled.canvas",
     "Pasted image 20260714131902.png"
