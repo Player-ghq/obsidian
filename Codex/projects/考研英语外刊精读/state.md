@@ -8,10 +8,10 @@
 
 ## 当前推荐精读顺序
 
-1. The summer BBQ index, p.68, The Economist 2026-07-04
-2. Dementia / A jab that reduces dementia risk, p.13, The Economist 2026-07-11
-3. Children and the law / Who is capable of evil?, p.10, The Economist 2026-07-11
-4. Gen-Z Luddites, p.19, The Economist 2026-07-11
+1. Dementia / A jab that reduces dementia risk, p.13, The Economist 2026-07-11
+2. Children and the law / Who is capable of evil?, p.10, The Economist 2026-07-11
+3. Gen-Z Luddites, p.19, The Economist 2026-07-11
+4. Social housing / The wrong fix, p.8 / p.44, The Economist 2026-07-11
 
 ## 下一步
 
@@ -22,5 +22,6 @@
 - `Are stablecoins money?` 已完成完整精读，记录见 [[articles/Are stablecoins money/deep-reading|Are stablecoins money?]]；Anki 已按精简单词/词组模板重制为 47 张卡，见 [[articles/Are stablecoins money/anki/anki.tsv|anki.tsv]]。
 - `Synthetic biology / A design for life` 已完成完整精读，记录见 [[articles/Synthetic biology/deep-reading|Synthetic biology]]；Anki 已按精简单词/词组模板补充为 77 张卡，见 [[articles/Synthetic biology/anki/anki.tsv|anki.tsv]]。
 - `Genetic screening / The genomic generation` 已完成完整精读，记录见 [[articles/The genomic generation/deep-reading|The genomic generation]]；Anki 已按精简单词/词组模板补充为 69 张卡，见 [[articles/The genomic generation/anki/anki.tsv|anki.tsv]]。
+- `Our summer BBQ index / Grill, baby, grill` 已完成完整精读，记录见 [[articles/Grill, baby, grill/deep-reading|Grill, baby, grill]]；Anki 已按精简单词/词组模板生成 75 张卡，见 [[articles/Grill, baby, grill/anki/anki.tsv|anki.tsv]]。
 - 2026-08-03 至 2026-08-28 每日一篇规划见 [[readings/economist-20260711-20260725-three-week-close-reading-plan|2026-07-04 至 2026-07-25 每日精读计划]]。
-- 下一篇建议精读 `The summer BBQ index`，来源为 The Economist 2026-07-04, p.68；按当前流程完成精读后直接生成 Anki。
+- 下一篇建议精读 `Dementia / A jab that reduces dementia risk`，来源为 The Economist 2026-07-11, p.13；按当前流程完成精读后直接生成 Anki。
