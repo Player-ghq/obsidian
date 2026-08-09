@@ -48,9 +48,9 @@
     "Tags": "外刊精读"
   },
   {
-    "Front": "staples",
+    "Front": "staple / staples",
     "Back": "<b>核心意思</b>：主食；基本食品；基本必需品。<br><b>原文句</b>：Consumers tend to notice sharp increases in the prices of some staples.<br>译：消费者往往容易注意到一些基本食品价格的大幅上涨。<br><b>怎么记</b>：staple 可指“订书钉”，但食品/经济语境多为“主食、必需品”。<br><b>怎么考</b>：翻译时看语境，rice, bread, beef, energy 等都可被称为 staples。<br><b>真实例句</b>：<br>1. Rice is a staple in many Asian countries. 译：大米是许多亚洲国家的主食。<br>2. Internet access has become a staple of modern life. 译：互联网接入已成为现代生活的基本必需品。",
-    "Extra": "",
+    "Extra": "<b>合并说明</b>：由 `staples` 归一化为 `staple / staples`，避免同义或变体重复制卡。",
     "Tags": "外刊精读"
   },
   {
@@ -78,9 +78,9 @@
     "Tags": "外刊精读"
   },
   {
-    "Front": "toil to afford",
+    "Front": "toil to afford it all",
     "Back": "<b>核心意思</b>：辛苦工作才买得起；费力挣够钱。<br><b>原文句</b>：We compared the cost of our basket with median hourly pay to see how long the typical worker must toil to afford it all.<br>译：我们把这篮子食物的成本与时薪中位数比较，以观察普通工人必须劳动多久才能买得起这些东西。<br><b>怎么记</b>：toil 比 work 更强调辛苦、吃力。<br><b>怎么考</b>：作者态度题中带有对普通劳动者负担的同情。<br><b>真实例句</b>：<br>1. Many parents toil for years to afford their children’s education. 译：许多父母辛苦工作多年，只为负担孩子的教育。<br>2. Young workers toil to afford rent in large cities. 译：年轻劳动者辛苦工作才付得起大城市的租金。",
-    "Extra": "<b>作文可用</b>：Many ordinary people still toil to afford decent housing and education. 译：许多普通人仍要辛苦工作才负担得起体面的住房和教育。",
+    "Extra": "<b>作文可用</b>：Many ordinary people still toil to afford decent housing and education. 译：许多普通人仍要辛苦工作才负担得起体面的住房和教育。<br><b>合并说明</b>：由 `toil to afford` 归一化为 `toil to afford it all`，避免同义或变体重复制卡。",
     "Tags": "外刊精读"
   },
   {
@@ -210,9 +210,9 @@
     "Tags": "外刊精读"
   },
   {
-    "Front": "halt live-cattle imports",
+    "Front": "halt imports",
     "Back": "<b>核心意思</b>：暂停活牛进口。<br><b>原文句</b>：New World screwworm prompted America to halt live-cattle imports from Mexico, further tightening supply.<br>译：新世界螺旋蝇促使美国暂停从墨西哥进口活牛，从而进一步收紧供应。<br><b>怎么记</b>：halt = stop officially；imports 是进口。<br><b>怎么考</b>：政策措施题中常问政府采取了什么行动。<br><b>真实例句</b>：<br>1. The country halted grain imports after the disease was found. 译：发现该疾病后，这个国家暂停了粮食进口。<br>2. Authorities halted live-animal imports to prevent the spread of infection. 译：当局暂停活体动物进口以防感染传播。",
-    "Extra": "",
+    "Extra": "<b>合并说明</b>：由 `halt live-cattle imports` 归一化为 `halt imports`，避免同义或变体重复制卡。",
     "Tags": "外刊精读"
   },
   {
@@ -330,9 +330,9 @@
     "Tags": "外刊精读"
   },
   {
-    "Front": "biofuel mandates",
+    "Front": "mandates / biofuel mandates",
     "Back": "<b>核心意思</b>：生物燃料强制要求；政府规定必须使用一定比例生物燃料。<br><b>原文句</b>：The administration has proposed larger biofuel mandates and shelved plans to ease restrictions on beef imports.<br>译：政府已经提出更大的生物燃料强制掺混要求，并搁置了放宽牛肉进口限制的计划。<br><b>怎么记</b>：mandate = official requirement/order；不是简单“授权”。<br><b>怎么考</b>：政策类阅读中常与 require, regulation, rule 替换。<br><b>真实例句</b>：<br>1. Biofuel mandates can raise demand for corn. 译：生物燃料强制要求会提高对玉米的需求。<br>2. New safety mandates increased costs for small firms. 译：新的安全强制要求增加了小企业成本。",
-    "Extra": "",
+    "Extra": "<b>合并说明</b>：由 `biofuel mandates` 归一化为 `mandates / biofuel mandates`，避免同义或变体重复制卡。",
     "Tags": "外刊精读"
   },
   {
@@ -372,9 +372,9 @@
     "Tags": "外刊精读"
   },
   {
-    "Front": "pay-cheques will catch up",
+    "Front": "pay-cheques / catch up",
     "Back": "<b>核心意思</b>：工资会追上；工资增长赶上价格上涨。<br><b>原文句</b>：Wage growth is slowing, making it less likely that pay-cheques will catch up.<br>译：工资增长正在放缓，使工资追上物价的可能性降低。<br><b>怎么记</b>：catch up = 赶上；pay-cheque 指工资收入。<br><b>怎么考</b>：经济类阅读中常用于工资与物价、技能与需求之间的差距。<br><b>真实例句</b>：<br>1. Wages failed to catch up with rent increases. 译：工资没能追上租金上涨。<br>2. Training helped workers catch up with new technology. 译：培训帮助工人跟上新技术。",
-    "Extra": "<b>作文可用</b>：Education must help workers catch up with technological change. 译：教育必须帮助劳动者跟上技术变化。",
+    "Extra": "<b>作文可用</b>：Education must help workers catch up with technological change. 译：教育必须帮助劳动者跟上技术变化。<br><b>合并说明</b>：由 `pay-cheques will catch up` 归一化为 `pay-cheques / catch up`，避免同义或变体重复制卡。",
     "Tags": "外刊精读"
   },
   {
@@ -447,6 +447,78 @@
     "Front": "X offers a timely measure of Y",
     "Back": "<b>核心意思</b>：作文复用句型：X 为衡量 Y 提供了及时尺度。<br><b>原文句</b>：The Independence Day cookout offers a timely measure of what classic Americana costs.<br>译：独立日户外烧烤提供了一个及时的尺度，用来衡量经典美国生活方式如今要花多少钱。<br><b>怎么记</b>：measure = 衡量标准；可替换 X 为 surveys, public behaviour, air quality。<br><b>怎么考</b>：适合开头引入具体现象，再导向抽象问题。<br><b>真实例句</b>：<br>1. Air quality offers a timely measure of environmental governance. 译：空气质量为衡量环境治理提供了及时尺度。<br>2. Graduate employment offers a timely measure of the pressure facing young people. 译：毕业生就业为衡量年轻人面临的压力提供了及时尺度。",
     "Extra": "<b>作文可用</b>：Public behaviour offers a timely measure of the effectiveness of moral education. 译：公众行为为衡量道德教育的有效性提供了及时尺度。",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "cuisine",
+    "Back": "<b>核心意思</b>：菜系；烹饪风格；某地或某文化的饮食传统。<br><b>原文句</b>：John Updike described the country as \"a hamburger kingdom, one cuisine, under God, indivisible, with pickles and potato chips for all\".<br>译：约翰·厄普代克把这个国家描述为“一个汉堡王国，一种菜系，在上帝之下，不可分割，人人都有腌黄瓜和薯片”。<br><b>怎么记</b>：cuisine 比 food 更正式，常与 French cuisine, local cuisine, national cuisine 搭配。<br><b>怎么考</b>：文化类阅读中常指饮食背后的文化身份，不只是“食物”。<br><b>真实例句</b>：<br>1. Local cuisine often reflects a region’s history and climate. 译：地方菜系往往反映一个地区的历史和气候。<br>2. The city uses its cuisine to attract tourists from around the world. 译：这座城市利用其饮食文化吸引世界各地的游客。",
+    "Extra": "<b>作文可用</b>：Traditional cuisine is an important carrier of cultural identity. 译：传统菜系是文化身份的重要载体。",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "advocacy group",
+    "Back": "<b>核心意思</b>：倡议组织；为某个公共议题发声、游说或推动改变的团体。<br><b>原文句</b>：A recent survey by the Kitchen Table Project, an advocacy group, found groceries to be Americans’ biggest source of financial pressure.<br>译：倡议组织 Kitchen Table Project 最近的一项调查发现，食品杂货是美国人最大的经济压力来源。<br><b>怎么记</b>：advocate = 提倡/支持；advocacy group = organized group that argues for a cause。<br><b>怎么考</b>：社会议题文章中常说明信息来源或立场背景。<br><b>真实例句</b>：<br>1. An advocacy group called for stronger protection of children online. 译：一个倡议组织呼吁加强对儿童上网的保护。<br>2. The advocacy group published a report on food safety. 译：该倡议组织发布了一份关于食品安全的报告。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "ground beef",
+    "Back": "<b>核心意思</b>：碎牛肉；绞牛肉。<br><b>原文句</b>：Our summer BBQ index basket includes rib-eye steak, two pounds of ground beef and of frying chicken, and a pack of pork sausage.<br>译：我们的夏日烧烤指数篮子包括肋眼牛排、两磅碎牛肉和炸鸡肉，以及一包猪肉香肠。<br><b>怎么记</b>：ground 是 grind 的过去分词，这里表示“磨碎的/绞碎的”，不是“地面”。<br><b>怎么考</b>：熟词僻义，食品和生活类文章中要结合名词判断。<br><b>真实例句</b>：<br>1. Ground beef is often used to make hamburgers. 译：碎牛肉常用来做汉堡。<br>2. The price of ground beef rose after cattle supplies tightened. 译：牛群供应趋紧后，碎牛肉价格上涨。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "carbs",
+    "Back": "<b>核心意思</b>：碳水化合物；含碳水的食物。<br><b>原文句</b>：The basket includes carbs: potatoes, potato crisps and a loaf of bread.<br>译：这个篮子包括碳水类食物：土豆、薯片和一条面包。<br><b>怎么记</b>：carbs 是 carbohydrates 的口语缩写，健康饮食文章高频。<br><b>怎么考</b>：健康饮食类阅读中常与 protein, fat, calories 对比。<br><b>真实例句</b>：<br>1. Athletes need enough carbs before a long race. 译：运动员在长距离比赛前需要足够的碳水。<br>2. Many people cut carbs when they try to lose weight. 译：许多人减重时会减少碳水摄入。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "beverages",
+    "Back": "<b>核心意思</b>：饮料；正式说法，常用于商业、食品和统计语境。<br><b>原文句</b>：The basket includes beverages: a two-litre bottle of Coke and a six-pack of beer.<br>译：这个篮子包括饮料：一瓶两升可乐和一组六罐装啤酒。<br><b>怎么记</b>：beverage 比 drink 更正式；soft drinks = 非酒精软饮，carbonated beverages = 碳酸饮料。<br><b>怎么考</b>：食品消费类文章中常作类别词。<br><b>真实例句</b>：<br>1. Sugary beverages can increase the risk of obesity. 译：含糖饮料可能增加肥胖风险。<br>2. The company sells snacks and beverages in several countries. 译：这家公司在多个国家销售零食和饮料。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "the spread",
+    "Back": "<b>核心意思</b>：一桌饭菜；摆开的丰盛食物。<br><b>原文句</b>：The typical worker must now labour 16 minutes longer than in 2020 to afford the spread.<br>译：普通工人现在必须比 2020 年多劳动 16 分钟，才能买得起这一桌食物。<br><b>怎么记</b>：spread 熟词僻义，不是“传播”，在餐饮语境中指“摆开的一桌食物”。<br><b>怎么考</b>：翻译题中看见 afford/pay for/serve + spread，优先译成“一桌饭菜”。<br><b>真实例句</b>：<br>1. The holiday spread included meat, fruit and homemade bread. 译：节日餐桌上有肉、水果和自制面包。<br>2. The family prepared a generous spread for the guests. 译：这家人为客人准备了丰盛的一桌饭菜。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "ranch",
+    "Back": "<b>核心意思</b>：牧场；大农场，尤其用于养牛。<br><b>原文句</b>：The trouble starts on the ranch.<br>译：麻烦始于牧场。<br><b>怎么记</b>：rancher = 牧场主；ranch 常与 cattle, herd, drought 搭配。<br><b>怎么考</b>：农业供应链文章中用于定位食品价格的上游原因。<br><b>真实例句</b>：<br>1. The drought forced many ranches to sell cattle early. 译：干旱迫使许多牧场提前出售牛。<br>2. Life on a ranch depends heavily on water and feed costs. 译：牧场生活高度依赖水源和饲料成本。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "droughts",
+    "Back": "<b>核心意思</b>：干旱；长期缺水造成的自然灾害。<br><b>原文句</b>：Droughts forced ranchers to sell animals early, just as high feed and fuel costs have made rebuilding herds unattractive.<br>译：干旱迫使牧场主提前出售牲畜，而高饲料和高燃料成本又使重建牛群变得缺乏吸引力。<br><b>怎么记</b>：drought 的 gh 不发音；常与 force, damage, reduce, worsen 搭配。<br><b>怎么考</b>：环境与经济交叉文章中常作为供给减少、价格上涨的原因。<br><b>真实例句</b>：<br>1. Severe droughts reduced the harvest in several provinces. 译：严重干旱减少了几个省份的收成。<br>2. Climate change may make droughts more frequent and more costly. 译：气候变化可能使干旱更加频繁、代价更高。",
+    "Extra": "<b>作文可用</b>：Frequent droughts remind us that environmental protection is closely linked to people’s livelihood. 译：频繁干旱提醒我们，环境保护与民生密切相关。",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "the shortage has deepened",
+    "Back": "<b>核心意思</b>：短缺加剧了；问题进一步恶化。<br><b>原文句</b>：The shortage has deepened in the past year.<br>译：过去一年，短缺进一步加剧。<br><b>怎么记</b>：deepen = become deeper/more serious；既可指水变深，也可指危机、矛盾、短缺加深。<br><b>怎么考</b>：阅读中常表示问题升级，后文通常解释新原因。<br><b>真实例句</b>：<br>1. The housing shortage has deepened in large cities. 译：大城市住房短缺已经加剧。<br>2. Public concern deepened after the second safety incident. 译：第二起安全事件后，公众担忧加深。",
+    "Extra": "<b>作文可用</b>：If public support is delayed, inequality may deepen over time. 译：如果公共支持被延迟，不平等可能会随着时间加深。",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "domestically produced",
+    "Back": "<b>核心意思</b>：国内生产的；本国生产的。<br><b>原文句</b>：Nearly half of domestically produced soyabean oil goes into biofuel.<br>译：美国国内生产的豆油中近一半流向了生物燃料。<br><b>怎么记</b>：domestic = 国内的；domestically = 在国内地。用户清单里的 `domestical` 应归一为 `domestically produced`。<br><b>怎么考</b>：经济和贸易文章中常与 imports, exports, supply 搭配。<br><b>真实例句</b>：<br>1. Domestically produced vaccines reduced dependence on imports. 译：国产疫苗减少了对进口的依赖。<br>2. The policy encourages firms to use domestically produced materials. 译：该政策鼓励企业使用国内生产的材料。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "carbonated",
+    "Back": "<b>核心意思</b>：碳酸的；充入二氧化碳的。<br><b>原文句</b>：Producer prices for carbonated soft drinks rose at an annualised rate of nearly 20% in the first quarter.<br>译：第一季度，碳酸软饮料生产者价格的年化涨幅接近 20%。<br><b>怎么记</b>：carbon = 碳；carbonated drinks = 碳酸饮料。<br><b>怎么考</b>：健康饮食或消费品文章中常与 soft drinks, beverages 搭配。<br><b>真实例句</b>：<br>1. Carbonated drinks are popular among teenagers. 译：碳酸饮料在青少年中很受欢迎。<br>2. Some cities have taxed carbonated soft drinks to reduce sugar consumption. 译：一些城市对碳酸软饮料征税，以减少糖摄入。",
+    "Extra": "",
+    "Tags": "外刊精读"
+  },
+  {
+    "Front": "pay-cheques",
+    "Back": "<b>核心意思</b>：工资；薪水收入，尤指工资支票或定期工资。<br><b>原文句</b>：Wage growth is slowing, making it less likely that pay-cheques will catch up.<br>译：工资增长正在放缓，使工资追上物价的可能性降低。<br><b>怎么记</b>：pay-cheque/paycheck 是英美拼写差异；这里不是“支票”本身，而是工资收入。<br><b>怎么考</b>：经济类阅读中常与 inflation, living costs, catch up 搭配。<br><b>真实例句</b>：<br>1. Rising rents take a larger share of workers’ pay-cheques. 译：上涨的租金占用了工人工资中更大的一部分。<br>2. Many families saw their pay-cheques fail to keep up with food prices. 译：许多家庭发现工资跟不上食品价格上涨。",
+    "Extra": "<b>作文可用</b>：When pay-cheques fail to keep up with living costs, social support becomes more important. 译：当工资跟不上生活成本时，社会支持变得更加重要。",
     "Tags": "外刊精读"
   }
 ]
