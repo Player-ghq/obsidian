@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-07-题目.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/full-translation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-07-题目"
+              "title": "full-translation"
             }
           }
         ]
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.9756851196289
+    "width": 273.24478912353516
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -209,9 +209,11 @@
   },
   "active": "2bb7cc85c2a4cbec",
   "lastOpenFiles": [
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+    "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/source-text.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-07-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
     "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/anki",
     "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
@@ -240,8 +242,6 @@
     "Codex/projects/解剖学学习网站/README.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/README.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/系统项目记录.md",
-    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-book/力量训练解剖全书/strength-training-anatomy-0001-p0001-0004.md",
-    "Codex/projects/肌动学与功能解剖学语料库/cleaned/by-book/基础肌动学-第3版/basic-kinesiology-3e-0017-72-第-4-章-肩关节复合体的结构与功能.md",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/~$anki.xlsx",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Synthetic biology/anki/anki.xlsx",
