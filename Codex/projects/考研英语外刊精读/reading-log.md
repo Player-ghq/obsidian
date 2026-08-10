@@ -15,7 +15,7 @@
 | 2026-08-05 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Genetic screening / The genomic generation | 77-78 | 已完成完整精读；Anki 已按精简单词/词组模板补充为 69 张卡 | [[articles/The genomic generation/deep-reading\|The genomic generation]]；[[articles/The genomic generation/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-09 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Our summer BBQ index / Grill, baby, grill | 68-70 | 已完成完整精读；Anki 已按精简单词/词组模板生成 87 张卡 | [[articles/Grill, baby, grill/deep-reading\|Grill, baby, grill]]；[[articles/Grill, baby, grill/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-10 | The Economist 2026-07-11, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260711.pdf` | 整期后续精读计划 | - | 已按用户要求舍弃该期全部未读文章，不再进入待读队列 | - |
-| 2026-08-10 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Governments and AI / Sovereign default | 10-11 | 已完成完整精读；Anki 已按精简单词/词组模板生成 63 张卡 | [[articles/Sovereign default/deep-reading\|Sovereign default]]；[[articles/Sovereign default/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-10 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Governments and AI / Sovereign default | 10-11 | 已完成完整精读；Anki 已按精简单词/词组模板生成 65 张卡 | [[articles/Sovereign default/deep-reading\|Sovereign default]]；[[articles/Sovereign default/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
