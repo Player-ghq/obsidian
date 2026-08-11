@@ -1,7 +1,7 @@
 # The Economist 2026-07-04, 2026-07-18 and 2026-07-25 Close-Reading Plan
 
 Created: 2026-08-02
-Updated: 2026-08-10
+Updated: 2026-08-11
 
 Source PDFs:
 
@@ -12,11 +12,40 @@ Source PDFs:
 ## Planning Principles
 
 - Daily rhythm: one article per day.
+- 2026-08-11 update: add a 4-week Men's Fitness supplementary reading line. The Economist remains the main full-close-reading line; Men's Fitness is used for health, psychology and technology theme transfer.
 - Minimum per issue: at least five close-reading-worthy articles per issue.
 - Actual plan after 2026-08-10 update: July 4th issue has been completed for the current stage; July 11th issue is deliberately abandoned; July 18th and July 25th each have seven main reads.
 - Article choice prioritises: education and learning, technology and everyday life, health and diet, environmental protection, economy and everyday economic life, morality/public ethics, workplace/career development, social responsibility, culture.
 - Anki workflow: first produce a suggested candidate list; user then close-reads independently and provides their selected words/phrases; final Anki cards are generated only after merging both lists.
 - Page numbers come from the PDF contents pages. Before each full close reading, re-check the article boundary.
+
+## Supplementary Men's Fitness Line
+
+Plan file: [[mens-fitness-2026-06-08-4-week-kaoyan-reading-plan|Men's Fitness June and August 2026 4-Week Kaoyan Reading Plan]]
+
+Purpose:
+
+- Add 12 health, psychology and technology-life articles over four weeks.
+- From 2026-08-12 to 2026-08-23, allow selected double-reading days.
+- On double-reading days, the Economist article is the main task and Men's Fitness uses `精读 lite` unless the user asks for full close reading.
+- After the current Economist queue ends, Men's Fitness articles can use the full project workflow.
+
+Supplementary schedule:
+
+| Date | Men's Fitness Article | Mode |
+| --- | --- | --- |
+| 2026-08-12 | Forget 10,000 Steps, Walk Faster Instead | 精读 lite |
+| 2026-08-14 | Do You Have Gym Anxiety? | 精读 lite |
+| 2026-08-16 | Reset Your Screen Time, Reset Your Life | 精读 lite |
+| 2026-08-18 | Playing to Different Strengths | 精读 lite |
+| 2026-08-20 | Sleep Gummies, Super Doses and Side Effects | 精读 lite |
+| 2026-08-22 | The New Stress Relief Tactics Every Man Should Know | 精读 lite |
+| 2026-08-25 | The Unsung Hero - Fibre | Full close reading |
+| 2026-08-27 | Foods That Shift Gut Balance | Full close reading |
+| 2026-08-29 | How to Beat Burnout | Full close reading |
+| 2026-09-01 | The Anti-Ageing Power of Exercise | Full close reading |
+| 2026-09-03 | Train Your Brain | Full close reading |
+| 2026-09-05 | The 2-Hour Fitness Rule | Full close reading |
 
 ## Abandoned Issue
 

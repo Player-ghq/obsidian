@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2b32ccbae37eea41",
+        "id": "c4fd172735c6c256",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb7cc85c2a4cbec",
+            "id": "01b6b2b29d746b96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "New tab"
             }
           }
         ]
@@ -105,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.24478912353516,
-    "collapsed": true
+    "width": 273.24478912353516
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -208,13 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bb7cc85c2a4cbec",
+  "active": "01b6b2b29d746b96",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
+    "Codex/projects/考研英语外刊精读/readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/deep-reading.md",
     "Codex/projects/考研英语外刊精读/readings/economist-20260704-20260718-20260725-close-reading-plan.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/source-text.md",
     "Codex/projects/考研英语外刊精读/anki-writing-transfer-card-template.md",
     "Codex/projects/考研英语外刊精读/workflow.md",
@@ -239,7 +225,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/04-骨骼肌总论-完整版.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00A-人体解剖学已生成内容高颗粒度重整索引.md",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki",
