@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-11-题目.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-11-题目"
+              "title": "full-translation"
             }
           }
         ]
@@ -209,6 +209,7 @@
   },
   "active": "01b6b2b29d746b96",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-11-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/README.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/每日题目汇总.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/README.md",
@@ -237,7 +238,6 @@
     "Codex/projects/考研英语外刊精读/workflow.md",
     "Codex/projects/考研英语外刊精读/state.md",
     "Codex/projects/考研英语外刊精读/README.md",
-    "Codex/projects/考研英语外刊精读/how-to-close-read.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/anki",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki/cards.json",
