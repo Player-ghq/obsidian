@@ -8,13 +8,13 @@
 
 ## 当前推荐精读顺序
 
-1. Sovereign AI, p.47, The Economist 2026-07-18
-2. The risks of Chinese AI, p.50, The Economist 2026-07-18
-3. A new plan to regulate AI, p.52, The Economist 2026-07-18
-4. The dimming of Earth, p.63, The Economist 2026-07-18
-5. Well Informed: Coping with the heat, p.66, The Economist 2026-07-18
-6. Medical schools in the Caribbean, p.24, The Economist 2026-07-18
-7. Preparing for AI, p.9, The Economist 2026-07-25
+1. The risks of Chinese AI, p.50, The Economist 2026-07-18
+2. A new plan to regulate AI, p.52, The Economist 2026-07-18
+3. The dimming of Earth, p.63, The Economist 2026-07-18
+4. Well Informed: Coping with the heat, p.66, The Economist 2026-07-18
+5. Medical schools in the Caribbean, p.24, The Economist 2026-07-18
+6. Preparing for AI, p.9, The Economist 2026-07-25
+7. AI goes rogue, p.70, The Economist 2026-07-25
 
 ## 下一步
 
@@ -27,6 +27,7 @@
 - `Genetic screening / The genomic generation` 已完成完整精读，记录见 [[articles/The genomic generation/deep-reading|The genomic generation]]；Anki 已按精简单词/词组模板补充为 69 张卡，见 [[articles/The genomic generation/anki/anki.tsv|anki.tsv]]。
 - `Our summer BBQ index / Grill, baby, grill` 已完成完整精读，记录见 [[articles/Grill, baby, grill/deep-reading|Grill, baby, grill]]；Anki 已按精简单词/词组模板生成 87 张卡，见 [[articles/Grill, baby, grill/anki/anki.tsv|anki.tsv]]。
 - `Governments and AI / Sovereign default` 已完成完整精读，记录见 [[articles/Sovereign default/deep-reading|Sovereign default]]；Anki 已按精简单词/词组模板生成 65 张卡，见 [[articles/Sovereign default/anki/anki.tsv|anki.tsv]]。
+- `Sovereign AI / Artificial insecurity` 已完成完整精读，记录见 [[articles/Artificial insecurity/deep-reading|Artificial insecurity]]；Anki 已按精简单词/词组模板生成 87 张卡，见 [[articles/Artificial insecurity/anki/anki.tsv|anki.tsv]]。
 - 2026-08-10 至 2026-08-23 每日一篇规划见 [[readings/economist-20260704-20260718-20260725-close-reading-plan|2026-07-04、2026-07-18 与 2026-07-25 精读计划]]。
 - 2026-07-11 期全部文章已按用户要求舍弃，不再进入待读队列。
-- 下一篇建议精读 `Sovereign AI`，来源为 The Economist 2026-07-18, p.47；按当前流程完成精读后直接生成 Anki。
+- 下一篇建议精读 `The risks of Chinese AI`，来源为 The Economist 2026-07-18, p.50；按当前流程完成精读后直接生成 Anki。
