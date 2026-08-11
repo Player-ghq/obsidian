@@ -27,7 +27,7 @@
 - `Genetic screening / The genomic generation` 已完成完整精读，记录见 [[articles/The genomic generation/deep-reading|The genomic generation]]；Anki 已按精简单词/词组模板补充为 69 张卡，见 [[articles/The genomic generation/anki/anki.tsv|anki.tsv]]。
 - `Our summer BBQ index / Grill, baby, grill` 已完成完整精读，记录见 [[articles/Grill, baby, grill/deep-reading|Grill, baby, grill]]；Anki 已按精简单词/词组模板生成 87 张卡，见 [[articles/Grill, baby, grill/anki/anki.tsv|anki.tsv]]。
 - `Governments and AI / Sovereign default` 已完成完整精读，记录见 [[articles/Sovereign default/deep-reading|Sovereign default]]；Anki 已按精简单词/词组模板生成 65 张卡，见 [[articles/Sovereign default/anki/anki.tsv|anki.tsv]]。
-- `Sovereign AI / Artificial insecurity` 已完成完整精读，记录见 [[articles/Artificial insecurity/deep-reading|Artificial insecurity]]；Anki 已按精简单词/词组模板生成 87 张卡，见 [[articles/Artificial insecurity/anki/anki.tsv|anki.tsv]]。
+- `Sovereign AI / Artificial insecurity` 已完成完整精读，记录见 [[articles/Artificial insecurity/deep-reading|Artificial insecurity]]；Anki 已按用户补充词表更新为 112 张卡，见 [[articles/Artificial insecurity/anki/anki.tsv|anki.tsv]]。
 - 2026-08-10 至 2026-08-23 每日一篇规划见 [[readings/economist-20260704-20260718-20260725-close-reading-plan|2026-07-04、2026-07-18 与 2026-07-25 精读计划]]。
 - 2026-08-12 至 2026-09-05 Men's Fitness 四周 12 篇补充计划见 [[readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan|Men's Fitness June and August 2026 4-Week Kaoyan Reading Plan]]；8/12-8/23 可出现一天两篇，Men's Fitness 默认采用 `精读 lite`。
 - 2026-07-11 期全部文章已按用户要求舍弃，不再进入待读队列。
