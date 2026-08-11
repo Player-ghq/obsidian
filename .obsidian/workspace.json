@@ -11,10 +11,24 @@
             "id": "01b6b2b29d746b96",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/每日题目汇总.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "每日题目汇总"
             }
           }
         ]
@@ -91,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.24478912353516
+    "width": 273.24478912353516,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -195,6 +210,23 @@
   },
   "active": "01b6b2b29d746b96",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/README.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/每日题目汇总.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/README.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/系统项目记录.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/10-膝关节-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/update_daily_question_summary.py",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/09A-骨盆与髋关节主要肌肉高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/09-骨盆与髋关节-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/08A-肘前臂腕手主要肌肉高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/08-肘前臂腕手-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/12A-动作分析高颗粒度模板与体表定位专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/12-动作解剖学分析与其他系统整合-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/11A-小腿踝足主要肌肉高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/11-小腿踝足与足弓-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/10A-膝关节主要肌肉高颗粒度专题.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
     "Codex/projects/考研英语外刊精读/readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/deep-reading.md",
@@ -207,30 +239,13 @@
     "Codex/projects/考研英语外刊精读/state.md",
     "Codex/projects/考研英语外刊精读/README.md",
     "Codex/projects/考研英语外刊精读/how-to-close-read.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-11-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-11-题目.md",
-    "Codex/projects/考研英语外刊精读/reading-log.md",
-    "Codex/projects/考研英语外刊精读/articles/Sovereign default/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/anki",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity",
-    "Codex/projects/考研英语外刊精读/articles/Sovereign default/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Sovereign default/full-translation.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/04A-骨骼肌总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-10-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-10-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03A-骨连结与关节总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02A-骨学总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01A-解剖学总论高颗粒度专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/04-骨骼肌总论-完整版.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07A-上肢带与肩关节主要肌肉专题.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/07-上肢带与肩关节-完整版.md",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default/anki",
     "Codex/projects/考研英语外刊精读/articles/Sovereign default",
     "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill/anki",
-    "Codex/projects/考研英语外刊精读/articles/Grill, baby, grill",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-notes-preview.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-preview.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-summary-preview.png",
