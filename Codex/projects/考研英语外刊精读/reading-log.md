@@ -17,7 +17,9 @@
 | 2026-08-10 | The Economist 2026-07-11, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260711.pdf` | 整期后续精读计划 | - | 已按用户要求舍弃该期全部未读文章，不再进入待读队列 | - |
 | 2026-08-10 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Governments and AI / Sovereign default | 10-11 | 已完成完整精读；Anki 已按精简单词/词组模板生成 65 张卡 | [[articles/Sovereign default/deep-reading\|Sovereign default]]；[[articles/Sovereign default/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-11 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Sovereign AI / Artificial insecurity | 47-49 | 已完成完整精读；Anki 已按用户补充词表更新为 112 张卡 | [[articles/Artificial insecurity/deep-reading\|Artificial insecurity]]；[[articles/Artificial insecurity/anki/anki.tsv\|Anki TSV]] |
-| 2026-08-11 | Men's Fitness June/August 2026, user-provided PDFs in referenced conversation | 4 周 12 篇考研英语补充阅读计划 | - | 已加入当前进行中的 Economist 精读计划；8/12-8/23 允许部分日期一天两篇，Men's Fitness 默认 `精读 lite` | [[readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan\|Men's Fitness 4 周计划]] |
+| 2026-08-11 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf`; Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | 4 周 12 篇考研英语补充阅读计划 | - | 已加入当前进行中的 Economist 精读计划；8/12-8/23 允许部分日期一天两篇，Men's Fitness 默认 `精读 lite` | [[readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan\|Men's Fitness 4 周计划]] |
+| 2026-08-12 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Telegram / When China's open-source AI is a trap | 50 | 已完成完整精读；Anki 已生成 55 张卡 | [[articles/When China's open-source AI is a trap/deep-reading\|When China's open-source AI is a trap]]；[[articles/When China's open-source AI is a trap/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-12 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Forget 10,000 steps, Walk faster instead | 16 | 已完成精读 lite；Anki 已生成 34 张卡 | [[articles/Forget 10,000 steps, Walk faster instead/deep-reading\|Forget 10,000 steps, Walk faster instead]]；[[articles/Forget 10,000 steps, Walk faster instead/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
@@ -30,7 +32,7 @@
 | 2026-08-07 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | The summer BBQ index / Grill, baby, grill | 68-70 | 已完成精读与 Anki 制卡 |
 | 2026-08-10 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Governments and AI / Sovereign default | 10-11 | 已完成精读与 Anki 制卡 |
 | 2026-08-11 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Sovereign AI / Artificial insecurity | 47-49 | 已完成精读与 Anki 制卡 |
-| 2026-08-12 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The risks of Chinese AI | 50 | 待读 |
+| 2026-08-12 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Telegram / When China's open-source AI is a trap | 50 | 已完成精读与 Anki 制卡 |
 | 2026-08-13 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | A new plan to regulate AI | 52 | 待读 |
 | 2026-08-14 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The dimming of Earth | 63 | 待读 |
 | 2026-08-15 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed: Coping with the heat | 66 | 待读 |
@@ -47,15 +49,15 @@
 
 | 计划日期 | 杂志来源 | 文章 | 页码 | 状态 |
 | --- | --- | --- | ---: | --- |
-| 2026-08-12 | Men's Fitness June 2026, user-provided PDF in referenced conversation | Forget 10,000 Steps, Walk Faster Instead | 16 | 待读，默认精读 lite |
-| 2026-08-14 | Men's Fitness June 2026, user-provided PDF in referenced conversation | Do You Have Gym Anxiety? | 34-39 | 待读，默认精读 lite |
-| 2026-08-16 | Men's Fitness August 2026, user-provided PDF in referenced conversation | Reset Your Screen Time, Reset Your Life | 40-43 | 待读，默认精读 lite |
-| 2026-08-18 | Men's Fitness June 2026, user-provided PDF in referenced conversation | Playing to Different Strengths | 50-53 | 待读，默认精读 lite |
-| 2026-08-20 | Men's Fitness August 2026, user-provided PDF in referenced conversation | Sleep Gummies, Super Doses and Side Effects | 44-49 | 待读，默认精读 lite |
-| 2026-08-22 | Men's Fitness June 2026, user-provided PDF in referenced conversation | The New Stress Relief Tactics Every Man Should Know | 54-60 | 待读，默认精读 lite |
-| 2026-08-25 | Men's Fitness August 2026, user-provided PDF in referenced conversation | The Unsung Hero - Fibre | 62-65 | 待读，默认完整精读 |
-| 2026-08-27 | Men's Fitness June 2026, user-provided PDF in referenced conversation | Foods That Shift Gut Balance | 62-65 | 待读，默认完整精读 |
-| 2026-08-29 | Men's Fitness August 2026, user-provided PDF in referenced conversation | How to Beat Burnout | 12-13 | 待读，默认完整精读 |
-| 2026-09-01 | Men's Fitness August 2026, user-provided PDF in referenced conversation | The Anti-Ageing Power of Exercise | 16-17 | 待读，默认完整精读 |
-| 2026-09-03 | Men's Fitness June 2026, user-provided PDF in referenced conversation | Train Your Brain | 71 | 待读，默认完整精读 |
-| 2026-09-05 | Men's Fitness August 2026, user-provided PDF in referenced conversation | The 2-Hour Fitness Rule | 71 | 待读，默认完整精读 |
+| 2026-08-12 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Forget 10,000 steps, Walk faster instead | 16 | 已完成精读 lite 与 Anki 制卡 |
+| 2026-08-14 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Do You Have Gym Anxiety? | 34-39 | 待读，默认精读 lite |
+| 2026-08-16 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 待读，默认精读 lite |
+| 2026-08-18 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Playing to Different Strengths | 50-53 | 待读，默认精读 lite |
+| 2026-08-20 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Sleep Gummies, Super Doses and Side Effects | 44-49 | 待读，默认精读 lite |
+| 2026-08-22 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | The New Stress Relief Tactics Every Man Should Know | 54-60 | 待读，默认精读 lite |
+| 2026-08-25 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | The Unsung Hero - Fibre | 62-65 | 待读，默认完整精读 |
+| 2026-08-27 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Foods That Shift Gut Balance | 62-65 | 待读，默认完整精读 |
+| 2026-08-29 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | How to Beat Burnout | 12-13 | 待读，默认完整精读 |
+| 2026-09-01 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | The Anti-Ageing Power of Exercise | 16-17 | 待读，默认完整精读 |
+| 2026-09-03 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Train Your Brain | 71 | 待读，默认完整精读 |
+| 2026-09-05 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | The 2-Hour Fitness Rule | 71 | 待读，默认完整精读 |
