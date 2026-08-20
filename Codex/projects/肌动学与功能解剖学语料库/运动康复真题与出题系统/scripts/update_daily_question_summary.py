@@ -11,7 +11,10 @@ QUESTION_DIR = DAILY_DIR / "题目"
 SUMMARY_PATH = DAILY_DIR / "每日题目汇总.md"
 
 
-ROW_RE = re.compile(r"^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*\|\s*$")
+ROW_RE_LEGACY = re.compile(r"^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*\|\s*$")
+ROW_RE_DETAILED = re.compile(
+    r"^\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*(\d+)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*\|\s*$"
+)
 DATE_RE = re.compile(r"(\d{4}-\d{2}-\d{2})-题目\.md$")
 SUBJECTS = ["解剖", "生理", "康复"]
 
@@ -27,10 +30,18 @@ def parse_question_file(path: Path) -> list[dict[str, str]]:
     date = date_match.group(1)
     rows: list[dict[str, str]] = []
     for line in path.read_text(encoding="utf-8").splitlines():
-        match = ROW_RE.match(line)
-        if not match:
+        detailed_match = ROW_RE_DETAILED.match(line)
+        legacy_match = ROW_RE_LEGACY.match(line)
+        if detailed_match:
+            no, subject, score, outline_module, knowledge_detail, basis, question = [
+                clean_cell(item) for item in detailed_match.groups()
+            ]
+        elif legacy_match:
+            no, subject, score, keywords, basis, question = [clean_cell(item) for item in legacy_match.groups()]
+            outline_module = keywords
+            knowledge_detail = keywords
+        else:
             continue
-        no, subject, score, keywords, basis, question = [clean_cell(item) for item in match.groups()]
         if subject not in SUBJECTS:
             continue
         rows.append(
@@ -39,7 +50,8 @@ def parse_question_file(path: Path) -> list[dict[str, str]]:
                 "no": no,
                 "subject": subject,
                 "score": score,
-                "keywords": keywords,
+                "outline_module": outline_module,
+                "knowledge_detail": knowledge_detail,
                 "basis": basis,
                 "question": question,
                 "source": f"[[题目/{date}-题目|{date} 题目]]",
@@ -65,13 +77,13 @@ def build_markdown(rows: list[dict[str, str]]) -> str:
                 "",
                 f"共 {len(subject_rows)} 题。",
                 "",
-                "| 日期 | 原题号 | 分值 | 模块关键词 | 依据 | 题目 | 来源 |",
-                "|---|---:|---:|---|---|---|---|",
+        "| 日期 | 原题号 | 分值 | 考纲模块 | 知识点明细 | 依据 | 题目 | 来源 |",
+        "|---|---:|---:|---|---|---|---|---|",
             ]
         )
         for row in subject_rows:
             lines.append(
-                "| {date} | {no} | {score} | {keywords} | {basis} | {question} | {source} |".format(**row)
+                "| {date} | {no} | {score} | {outline_module} | {knowledge_detail} | {basis} | {question} | {source} |".format(**row)
             )
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"

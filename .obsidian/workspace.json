@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/chunks/by-topic/上肢.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-19-题目.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "上肢"
+              "title": "2026-08-19-题目"
             }
           }
         ]
@@ -209,8 +209,15 @@
   },
   "active": "e98af7c370b13acc",
   "lastOpenFiles": [
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-05-呼吸机能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/__pycache__/update_daily_question_summary.cpython-313.pyc",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/__pycache__",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-20-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/运动生理学教材目录映射.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-04-循环机能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/QA使用说明.md",
+    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-topic/上肢.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00B-人体解剖学自测题汇总与理解型扩展.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-05-呼吸机能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-03-血液.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-02-骨骼肌机能.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第3章-ocr/manifest.jsonl",
@@ -222,7 +229,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第4章-ocr/text/page-127.txt",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章-ocr/text/page-158.txt",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第2章-ocr/text/page-062.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第3章-ocr/text/page-109.txt",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-185.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-184.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-183.png",
@@ -236,7 +242,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-01-绪论与稳态调节.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/整理进度.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/背诵稿-01-绪论与稳态调节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/运动生理学教材目录映射.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
@@ -250,11 +255,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/tools/mobile_helpers/coreml_supported_neuralnetwork_ops.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/tools/mobile_helpers/coreml_supported_mlprogram_ops.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy/random/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/Privacy.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/上体运康背诵生成依据.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/第5章肩复合体-学习问题答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/11A-小腿踝足主要肌肉高颗粒度专题.md",
     "Untitled.canvas"
   ]
 }
