@@ -11,10 +11,24 @@
             "id": "bc5367f6576f9c24",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "02-骨学总论-完整版"
             }
           }
         ]
@@ -91,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.24478912353516
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -195,6 +210,13 @@
   },
   "active": "bc5367f6576f9c24",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02A-骨学总论高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/03-骨连结与关节总论-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01A-解剖学总论高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01-解剖学总论-完整版.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00A-人体解剖学已生成内容高颗粒度重整索引.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-19-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-19-题目.md",
@@ -216,19 +238,12 @@
     "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead/anki",
     "Codex/projects/考研英语外刊精读/articles/Forget 10,000 steps, Walk faster instead",
-    "Codex/projects/考研英语外刊精读/open-loops.md",
     "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap/anki",
     "Codex/projects/考研英语外刊精读/articles/When China's open-source AI is a trap",
-    "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/full-translation.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/update_daily_question_summary.py",
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/anki/anki.tsv",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/outputs/运动康复考研真题知识点关键词表-notes-preview.png",
