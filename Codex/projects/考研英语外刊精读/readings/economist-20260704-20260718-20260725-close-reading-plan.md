@@ -1,7 +1,7 @@
 # The Economist 2026-07-04, 2026-07-18 and 2026-07-25 Close-Reading Plan
 
 Created: 2026-08-02
-Updated: 2026-08-11
+Updated: 2026-08-20
 
 Source PDFs:
 
@@ -18,6 +18,23 @@ Source PDFs:
 - Article choice prioritises: education and learning, technology and everyday life, health and diet, environmental protection, economy and everyday economic life, morality/public ethics, workplace/career development, social responsibility, culture.
 - Anki workflow: first produce a suggested candidate list; user then close-reads independently and provides their selected words/phrases; final Anki cards are generated only after merging both lists.
 - Page numbers come from the PDF contents pages. Before each full close reading, re-check the article boundary.
+- 2026-08-20 slip update: missed items from 2026-08-13 onward have been shifted forward. `A new plan to regulate AI / Rules and measures` is completed on 2026-08-20; the next Economist article is `The dimming of Earth` on 2026-08-21.
+
+## Current Shifted Queue From 2026-08-20
+
+| Date | Magazine Source | Issue | Article | Page | Status |
+| --- | --- | --- | --- | ---: | --- |
+| 2026-08-20 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Economist 2026-07-18 | Artificial intelligence / Rules and measures | 52-53 | Completed |
+| 2026-08-21 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Economist 2026-07-18 | The dimming of Earth | 63 | Pending |
+| 2026-08-22 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Economist 2026-07-18 | Well Informed: Coping with the heat | 66 | Pending |
+| 2026-08-23 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Economist 2026-07-18 | Medical schools in the Caribbean | 24 | Pending |
+| 2026-08-24 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | Preparing for AI | 9 | Pending |
+| 2026-08-25 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | AI goes rogue | 70 | Pending |
+| 2026-08-26 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | Beating back hunger | 24 | Pending |
+| 2026-08-27 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | The geopolitics of air-conditioning | 49 | Pending |
+| 2026-08-28 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | The surprising benefits of red light | 68 | Pending |
+| 2026-08-29 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | Well Informed: Microdosing GLP-1s | 71 | Pending |
+| 2026-08-30 | `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | The Economist 2026-07-25 | Career advice for Gen Z | 72 | Pending |
 
 ## Supplementary Men's Fitness Line
 
@@ -141,7 +158,9 @@ Secondary options:
 | China’s AI-export drive | 64 | Technology, economy, international comparison. |
 | Rising grocery bills | 58 | Everyday economy and cost of living. |
 
-## Daily Plan
+## Original Daily Plan
+
+Status: superseded by `Current Shifted Queue From 2026-08-20` above. Keep this section only as the original planning record.
 
 Start date after replan: 2026-08-10.  
 Pace: one article per day.

@@ -1,6 +1,7 @@
 # Men's Fitness June and August 2026 4-Week Kaoyan Reading Plan
 
 Created: 2026-08-11
+Updated: 2026-08-20
 
 Source:
 
@@ -25,6 +26,23 @@ This is a 4-week supplementary line added to the current Economist close-reading
 - Put shorter or highly readable articles on days that already have Economist tasks.
 - Avoid making every day a double-reading day.
 - Preserve the current Economist sequence; this plan adds a second line rather than replacing it.
+- 2026-08-20 slip update: missed supplementary articles from 2026-08-14 onward have been shifted forward. `Do You Have Gym Anxiety?` is completed on 2026-08-20; the next supplementary article is `Reset Your Screen Time, Reset Your Life` on 2026-08-22.
+
+## Current Shifted Queue From 2026-08-20
+
+| Date | Article | Source | Page | Mode | Status |
+| --- | --- | --- | ---: | --- | --- |
+| 2026-08-20 | Do You Have Gym Anxiety? | Men's Fitness June 2026 | 34-39 | 精读 lite | Completed |
+| 2026-08-22 | Reset Your Screen Time, Reset Your Life | Men's Fitness August 2026 | 40-43 | 精读 lite | Pending |
+| 2026-08-24 | Playing to Different Strengths | Men's Fitness June 2026 | 50-53 | 精读 lite | Pending |
+| 2026-08-26 | Sleep Gummies, Super Doses and Side Effects | Men's Fitness August 2026 | 44-49 | 精读 lite | Pending |
+| 2026-08-28 | The New Stress Relief Tactics Every Man Should Know | Men's Fitness June 2026 | 54-60 | 精读 lite | Pending |
+| 2026-08-31 | The Unsung Hero - Fibre | Men's Fitness August 2026 | 62-65 | Full close reading | Pending |
+| 2026-09-02 | Foods That Shift Gut Balance | Men's Fitness June 2026 | 62-65 | Full close reading | Pending |
+| 2026-09-04 | How to Beat Burnout | Men's Fitness August 2026 | 12-13 | Full close reading | Pending |
+| 2026-09-07 | The Anti-Ageing Power of Exercise | Men's Fitness August 2026 | 16-17 | Full close reading | Pending |
+| 2026-09-09 | Train Your Brain | Men's Fitness June 2026 | 71 | Full close reading | Pending |
+| 2026-09-11 | The 2-Hour Fitness Rule | Men's Fitness August 2026 | 71 | Full close reading | Pending |
 
 ## Article List
 
@@ -43,7 +61,9 @@ This is a 4-week supplementary line added to the current Economist close-reading
 | 11 | Train Your Brain | Men's Fitness Guides Issue 62 / Men's Fitness June 2026 | 71 | Medium | High | Meditation, neuroscience, study transfer |
 | 12 | The 2-Hour Fitness Rule | Men's Fitness UK August 2026 | 71 | Medium | High | New research, data and conclusion |
 
-## Daily Schedule
+## Original Daily Schedule
+
+Status: superseded by `Current Shifted Queue From 2026-08-20` above. Keep this section only as the original planning record.
 
 ### Week 1: Habit, Anxiety and Digital Life
 

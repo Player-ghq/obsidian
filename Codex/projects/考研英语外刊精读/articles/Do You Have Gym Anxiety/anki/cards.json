@@ -1,0 +1,68 @@
+{
+  "deck": "考研英语::外刊精读",
+  "notetype": "Basic",
+  "html": true,
+  "columns": ["Front", "Back", "Extra", "Tags"],
+  "cards": [
+    {
+      "Front": "self-doubt",
+      "Back": "<b>核心意思</b>：自我怀疑。<br><b>原文句</b>：How to walk into the gym with confidence - and train without self-doubt. 译：如何自信地走进健身房，并在训练时摆脱自我怀疑。<br><b>怎么记</b>：self + doubt，怀疑自己。<br><b>怎么考</b>：心理健康、个人成长主题常见抽象名词。<br><b>真实例句</b>：1. Constant comparison can deepen self-doubt among young people. 译：不断比较会加深年轻人的自我怀疑。<br>2. Good feedback reduces self-doubt and helps workers improve. 译：好的反馈能减少自我怀疑并帮助员工进步。",
+      "Extra": "<b>作文可用</b>：可用于个人品质、教育、心理健康。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "deeply rooted",
+      "Back": "<b>核心意思</b>：根深蒂固的。<br><b>原文句</b>：\"These fears are deeply rooted,\" says Adam Tallamy. 译：Adam Tallamy 说：“这些恐惧根源很深。”<br><b>怎么记</b>：root 是根，deeply rooted 是“根扎得深”。<br><b>怎么考</b>：原因分析，说明问题不是表层现象。<br><b>真实例句</b>：1. Some educational problems are deeply rooted in social inequality. 译：一些教育问题深深植根于社会不平等。<br>2. Deeply rooted habits are hard to change without a clear plan. 译：没有清晰计划，根深蒂固的习惯很难改变。",
+      "Extra": "<b>作文可用</b>：A problem is deeply rooted in A.",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "tap into sth",
+      "Back": "<b>核心意思</b>：触及、利用某种情绪或资源。<br><b>原文句</b>：For men, feeling less strong, less capable or less \"manly\" taps into something primal - hierarchy, competition, survival. 译：对男性来说，觉得自己不够强壮、不够有能力、不够“像男人”，会触及某些原始心理。<br><b>怎么记</b>：tap 是水龙头，tap into 像“接入”一种资源。<br><b>怎么考</b>：熟词僻义，tap 不只是“轻拍”。<br><b>真实例句</b>：1. Good teachers tap into students' curiosity. 译：好老师会激发学生的好奇心。<br>2. Advertising often taps into people's fear of missing out. 译：广告常常利用人们害怕错过的心理。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "vicious circle",
+      "Back": "<b>核心意思</b>：恶性循环。<br><b>原文句</b>：It's a vicious circle. 译：这就形成了恶性循环。<br><b>怎么记</b>：vicious = 有害的，circle = 循环。<br><b>怎么考</b>：因果链和问题机制。<br><b>真实例句</b>：1. Stress and poor sleep can create a vicious circle. 译：压力和睡眠差会形成恶性循环。<br>2. Poverty and low-quality education may reinforce each other in a vicious circle. 译：贫困和低质量教育可能在恶性循环中相互强化。",
+      "Extra": "<b>作文可用</b>：break the vicious circle of A and B.",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "feel out of place",
+      "Back": "<b>核心意思</b>：感到格格不入。<br><b>原文句</b>：...without context, it's easy to feel out of place. 译：如果不了解背景，很容易觉得自己格格不入。<br><b>怎么记</b>：out of place = 不在合适的位置上。<br><b>怎么考</b>：社交心理、归属感主题。<br><b>真实例句</b>：1. New students may feel out of place during their first week. 译：新生在第一周可能会感到格格不入。<br>2. People can feel out of place when technology changes too quickly. 译：技术变化太快时，人们可能会感到不适应。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "second-guess oneself",
+      "Back": "<b>核心意思</b>：怀疑自己的判断或行动。<br><b>原文句</b>：Without a plan, men tend to drift, compare themselves to others, and second-guess what they're doing. 译：没有计划时，男性往往会游荡、拿自己和别人比较，并怀疑自己在做什么。<br><b>怎么记</b>：second-guess = 事后或反复猜测。<br><b>怎么考</b>：心理状态描写。<br><b>真实例句</b>：1. Too much online advice can make beginners second-guess themselves. 译：过多网络建议会让初学者怀疑自己。<br>2. A clear routine helps people stop second-guessing every decision. 译：清晰的常规能帮助人们不再怀疑每个决定。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "non-negotiable",
+      "Back": "<b>核心意思</b>：不可协商的，必须坚持的。<br><b>原文句</b>：Treat training like a work meeting - a lunch break or a morning ritual. Make it non-negotiable. 译：把训练当成工作会议、午休安排或早晨仪式，让它变成不可协商的事项。<br><b>怎么记</b>：negotiate 是协商，non-negotiable 就是没得商量。<br><b>怎么考</b>：个人习惯、纪律、制度要求。<br><b>真实例句</b>：1. Academic honesty should be non-negotiable. 译：学术诚信应当是不可协商的。<br>2. For public safety, basic standards must be non-negotiable. 译：为了公共安全，基本标准必须不可协商。",
+      "Extra": "<b>作文可用</b>：A should be treated as non-negotiable.",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "block out distractions",
+      "Back": "<b>核心意思</b>：隔绝干扰。<br><b>原文句</b>：The right playlist can help block out distractions, reduce self-consciousness, and keep you focused on your workout. 译：合适的播放列表能隔绝干扰、减少自我意识，并让你专注训练。<br><b>怎么记</b>：block out = 挡在外面。<br><b>怎么考</b>：学习效率、注意力主题。<br><b>真实例句</b>：1. Students need quiet spaces to block out distractions. 译：学生需要安静空间来隔绝干扰。<br>2. Turning off notifications can help workers block out distractions. 译：关闭通知能帮助工作人员隔绝干扰。",
+      "Extra": "<b>作文可用</b>：可用于学习效率和数字生活。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "boost accountability",
+      "Back": "<b>核心意思</b>：增强责任感或约束力。<br><b>原文句</b>：Going with a friend not only boosts accountability, but reminds you that everyone started somewhere. 译：和朋友一起去不仅能增强责任感，也能提醒你每个人都是从某个起点开始的。<br><b>怎么记</b>：accountability = 对自己行为负责。<br><b>怎么考</b>：个人品质、习惯养成、管理主题。<br><b>真实例句</b>：1. Public reporting can boost accountability in schools. 译：公开报告可以增强学校问责。<br>2. Training with a partner boosts accountability and consistency. 译：和伙伴一起训练能增强责任感和持续性。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "support is not weakness; it is a strategy",
+      "Back": "<b>原文句</b>：So it's worth remembering that support isn't weakness. It's a strategy. 译：所以值得记住的是，支持不是软弱，而是一种策略。<br><b>表达功能</b>：反转常见偏见，提出价值判断。<br><b>可复用句型</b>：A is not weakness; it is a strategy for B.<br><b>考研作文成句</b>：Asking for help is not weakness; it is a strategy for learning more efficiently. 译：寻求帮助不是软弱，而是更高效学习的一种策略。",
+      "Extra": "<b>适配话题</b>：教育、心理健康、个人成长、职业发展。<br><b>替换槽位</b>：A = asking for help/seeking feedback/taking a break; B = growth/learning/recovery。<br><b>多场景改写</b>：1. Seeking feedback is not weakness; it is a strategy for professional growth. 译：寻求反馈不是软弱，而是职业成长的一种策略。<br>2. Rest is not laziness; it is a strategy for long-term productivity. 译：休息不是懒惰，而是长期保持效率的一种策略。<br>3. Cooperation is not dependence; it is a strategy for solving complex problems. 译：合作不是依赖，而是解决复杂问题的一种策略。<br><b>常见错误</b>：weakness 是不可数或抽象名词时通常不加 a。<br><b>记忆抓手</b>：not A; it is B 适合反驳偏见。",
+      "Tags": "外刊精读"
+    }
+  ]
+}

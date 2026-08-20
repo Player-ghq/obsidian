@@ -8,12 +8,11 @@
 
 ## 当前推荐精读顺序
 
-1. A new plan to regulate AI, p.52, The Economist 2026-07-18
-2. The dimming of Earth, p.63, The Economist 2026-07-18
-3. Well Informed: Coping with the heat, p.66, The Economist 2026-07-18
-4. Medical schools in the Caribbean, p.24, The Economist 2026-07-18
-5. Preparing for AI, p.9, The Economist 2026-07-25
-6. AI goes rogue, p.70, The Economist 2026-07-25
+1. The dimming of Earth, p.63, The Economist 2026-07-18
+2. Well Informed: Coping with the heat, p.66, The Economist 2026-07-18
+3. Medical schools in the Caribbean, p.24, The Economist 2026-07-18
+4. Preparing for AI, p.9, The Economist 2026-07-25
+5. AI goes rogue, p.70, The Economist 2026-07-25
 
 ## 下一步
 
@@ -29,7 +28,9 @@
 - `Sovereign AI / Artificial insecurity` 已完成完整精读，记录见 [[articles/Artificial insecurity/deep-reading|Artificial insecurity]]；Anki 已按用户补充词表更新为 112 张卡，见 [[articles/Artificial insecurity/anki/anki.tsv|anki.tsv]]。
 - `The Telegram / When China's open-source AI is a trap` 已完成完整精读，记录见 [[articles/When China's open-source AI is a trap/deep-reading|When China's open-source AI is a trap]]；Anki 已生成 55 张卡，见 [[articles/When China's open-source AI is a trap/anki/anki.tsv|anki.tsv]]。
 - `Forget 10,000 steps, Walk faster instead` 已完成精读 lite，记录见 [[articles/Forget 10,000 steps, Walk faster instead/deep-reading|Forget 10,000 steps, Walk faster instead]]；Anki 已生成 34 张卡，见 [[articles/Forget 10,000 steps, Walk faster instead/anki/anki.tsv|anki.tsv]]。
+- `A new plan to regulate AI / Rules and measures` 已完成完整精读，记录见 [[articles/Rules and measures/deep-reading|Rules and measures]]；Anki 已生成 15 张卡，见 [[articles/Rules and measures/anki/anki.tsv|anki.tsv]]。
+- `Do You Have Gym Anxiety?` 已完成精读 lite，记录见 [[articles/Do You Have Gym Anxiety/deep-reading|Do You Have Gym Anxiety?]]；Anki 已生成 10 张卡，见 [[articles/Do You Have Gym Anxiety/anki/anki.tsv|anki.tsv]]。
 - 2026-08-10 至 2026-08-23 每日一篇规划见 [[readings/economist-20260704-20260718-20260725-close-reading-plan|2026-07-04、2026-07-18 与 2026-07-25 精读计划]]。
 - 2026-08-12 至 2026-09-05 Men's Fitness 四周 12 篇补充计划见 [[readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan|Men's Fitness June and August 2026 4-Week Kaoyan Reading Plan]]；8/12-8/23 可出现一天两篇，Men's Fitness 默认采用 `精读 lite`。
 - 2026-07-11 期全部文章已按用户要求舍弃，不再进入待读队列。
-- 下一篇建议精读 `A new plan to regulate AI`，来源为 The Economist 2026-07-18, p.52；Men's Fitness `Forget 10,000 steps, Walk faster instead` 已补做完成。
+- 2026-08-20 已按用户要求把此前错过内容顺延：从 `A new plan to regulate AI / Rules and measures` 与 `Do You Have Gym Anxiety?` 开始补入今天。下一篇建议精读 `The dimming of Earth`，来源为 The Economist 2026-07-18, p.63；下一篇 Men's Fitness 补充阅读为 `Reset Your Screen Time, Reset Your Life`。

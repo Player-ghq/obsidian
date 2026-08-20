@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d050e58b0747d964",
+        "id": "76e47d635de269f9",
         "type": "tabs",
         "children": [
           {
-            "id": "bc5367f6576f9c24",
+            "id": "3bcde575746ee2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-19-题目.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-27-晨测补充.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-19-题目"
+              "title": "2026-07-27-晨测补充"
             }
           }
         ]
@@ -51,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -207,28 +207,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e98af7c370b13acc",
+  "active": "3bcde575746ee2d5",
   "lastOpenFiles": [
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/__pycache__/update_daily_question_summary.cpython-313.pyc",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/__pycache__",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-20-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/运动生理学教材目录映射.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-04-循环机能.md",
     "Codex/projects/肌动学与功能解剖学语料库/QA使用说明.md",
-    "Codex/projects/肌动学与功能解剖学语料库/chunks/by-topic/上肢.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00B-人体解剖学自测题汇总与理解型扩展.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-05-呼吸机能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-03-血液.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-02-骨骼肌机能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第3章-ocr/manifest.jsonl",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第3章-ocr/text/page-111.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第4章-ocr/text/page-128.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第2章-ocr/text/page-063.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章-ocr/text/page-159.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第3章-ocr/text/page-110.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第4章-ocr/text/page-127.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章-ocr/text/page-158.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第2章-ocr/text/page-062.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-19-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-19-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-18-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-17-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-16-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-15-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-14-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-13-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-12-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-11-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-10-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-09-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-08-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-07-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-06-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-05-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-04-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-03-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-02-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-01-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-31-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-30-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-29-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-28-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-27-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/backfill_memorization_supplements.py",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki/anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-185.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-184.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-183.png",
@@ -239,22 +255,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-179.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第2章/page-085.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-178.png",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-01-绪论与稳态调节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/整理进度.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/背诵稿-01-绪论与稳态调节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/_core/src/npysort/x86-simd-sort/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/splitmix64/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/sfc64/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/philox/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/pcg64/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/mt19937/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/src/distributions/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/fft/pocketfft/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy-2.5.2.dist-info/licenses/numpy/random/LICENSE.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/tools/mobile_helpers/nnapi_supported_ops.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/tools/mobile_helpers/coreml_supported_neuralnetwork_ops.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/onnxruntime/tools/mobile_helpers/coreml_supported_mlprogram_ops.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pydeps/numpy/random/LICENSE.md",
     "Untitled.canvas"
   ]
 }
