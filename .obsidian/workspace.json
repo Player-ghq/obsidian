@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "db37e1b12c256e08",
+        "id": "d050e58b0747d964",
         "type": "tabs",
         "children": [
           {
-            "id": "7cae497a95bf92f6",
+            "id": "bc5367f6576f9c24",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -193,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cae497a95bf92f6",
+  "active": "bc5367f6576f9c24",
   "lastOpenFiles": [
     "Codex/projects/考研英语外刊精读/articles/Artificial insecurity/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-19-答案.md",
