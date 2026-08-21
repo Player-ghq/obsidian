@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7a1736620c733a13",
+        "id": "e9b1f011bcb4dbee",
         "type": "tabs",
         "children": [
           {
-            "id": "7d33aa32d5cc3117",
+            "id": "a2f03a0e6ded6e3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-07-27-题目"
             }
           }
         ]
@@ -78,20 +92,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-07-27-答案"
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 304.6249771118164
+    "width": 312.4944534301758
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -193,10 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d33aa32d5cc3117",
+  "active": "a2f03a0e6ded6e3f",
   "lastOpenFiles": [
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/每日题目汇总.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/系统项目记录.md",
+    "Untitled",
+    "Untitled 1.base",
+    "Untitled.base",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
     "Codex/projects/bili2text.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-27-晨测补充.md",
@@ -220,7 +239,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-04-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-03-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-02-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-01-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/backfill_memorization_supplements.py",
     "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/cards.json",
@@ -228,9 +246,6 @@
     "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki",
     "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety",
-    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki",
-    "Codex/projects/考研英语外刊精读/articles/Rules and measures",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-185.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-184.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-183.png",
