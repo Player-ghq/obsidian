@@ -123,6 +123,66 @@ def bullets_to_sentence(scoring: str) -> str:
     return "；".join(lines[:7])
 
 
+def strip_generated_appendix(text: str) -> str:
+    markers = [
+        "\n## 答案优化版",
+        "\n## 背诵稿对照与补充",
+    ]
+    cut = len(text)
+    for marker in markers:
+        idx = text.find(marker)
+        if idx != -1:
+            cut = min(cut, idx)
+    return text[:cut].rstrip()
+
+
+def extract_bullet_points(block: str) -> list[str]:
+    points: list[str] = []
+    for raw in block.splitlines():
+        line = raw.strip()
+        if not line:
+            continue
+        line = line.lstrip("-").strip()
+        line = re.sub(r"[，,。；;]?\s*\d+\s*分。?$", "", line)
+        line = re.sub(r"（\d+\s*分）", "", line)
+        line = re.sub(r"\(\d+\s*分\)", "", line)
+        line = line.rstrip("。；;")
+        if line:
+            points.append(line)
+    return points
+
+
+def prose_from_points(points: list[str]) -> str:
+    if not points:
+        return ""
+    sentences = []
+    for point in points:
+        if "：" in point:
+            head, body = point.split("：", 1)
+            sentences.append(f"{head}方面，应说明{body}。")
+        elif ":" in point:
+            head, body = point.split(":", 1)
+            sentences.append(f"{head}方面，应说明{body.strip()}。")
+        else:
+            if any(word in point for word in ("意义", "联系", "应用", "风险", "控制", "预防")):
+                sentences.append(f"还应联系{point.rstrip('。')}。")
+            else:
+                sentences.append(f"还应说明{point.rstrip('。')}。")
+    return "".join(sentences)
+
+
+def missing_note(question: dict[str, str]) -> str:
+    subject = question["subject"]
+    detail = uniq_parts(question["detail"])
+    if subject == "康复":
+        return f"需补成“机制/问题分析-评定指标-治疗训练-分期进阶-风险控制”的方案化表达，重点补 {detail} 的评定、进阶和回归标准。"
+    if subject == "生理":
+        return f"需补成“概念-机制-运动反应/训练适应-评定或处方应用”的机制链，重点补 {detail} 与运动表现、康复安全之间的联系。"
+    if "动作" in detail or "动作分析" in detail:
+        return f"需补成“动作分期-关节运动-肌肉工作-稳定控制-常见代偿-训练康复意义”的动作分析模板，重点补 {detail} 的应用表达。"
+    return f"需补成“结构-功能-运动/训练影响-康复意义”的大题表达链，重点补 {detail} 的机制和应用。"
+
+
 def complete_answer(section: str, question: dict[str, str]) -> str:
     existing = extract_label(section, "完整参考答案")
     if existing:
@@ -130,12 +190,13 @@ def complete_answer(section: str, question: dict[str, str]) -> str:
     framework = extract_label(section, "标准答题框架")
     scoring = extract_label(section, "评分点")
     keywords = extract_label(section, "答案关键词")
-    core = bullets_to_sentence(scoring)
+    points = extract_bullet_points(scoring)
+    core = prose_from_points(points)
     if not core:
-        core = keywords.replace("；", "、").replace("，", "、")
+        core = "答题时应覆盖以下关键词并展开其逻辑关系：" + keywords.replace("；", "、").replace("，", "、") + "。"
     if framework:
-        return f"本题可按“{framework}”展开。具体作答时，先点明{uniq_parts(question['module'])}的核心概念，再围绕{uniq_parts(question['detail'])}依次说明。关键内容包括：{core}。最后要把知识点落到运动训练、康复评定、动作控制或风险管理上，体现上体运动康复大题重视“机制到应用”的答题特点。"
-    return f"本题作答应围绕{uniq_parts(question['module'])}展开，核心知识点为{uniq_parts(question['detail'])}。答案应先解释基本概念和结构或机制，再说明运动、训练或康复情境中的作用。关键内容包括：{core}。结尾应补充临床或训练应用，避免只罗列名词。"
+        return f"本题应按“{framework}”组织。先点明{uniq_parts(question['module'])}的核心概念，再围绕{uniq_parts(question['detail'])}展开机制、结构或功能分析。{core}结尾要把上述内容落到运动训练、康复评定、动作控制或风险管理，体现“基础知识到运动康复应用”的完整链条。"
+    return f"本题作答应围绕{uniq_parts(question['module'])}展开，核心知识点为{uniq_parts(question['detail'])}。先解释基本概念和结构或机制，再说明运动、训练或康复情境中的作用。{core}结尾应补充训练或康复应用，避免只罗列名词。"
 
 
 def target_draft(subject: str, text: str) -> str:
@@ -172,6 +233,28 @@ def supplement_text(section: str, question: dict[str, str]) -> str:
     return (prefix + ans).replace("。。", "。")
 
 
+def answer_keywords(section: str, question: dict[str, str]) -> str:
+    existing = extract_label(section, "答案关键词")
+    if existing:
+        return existing.rstrip("。")
+    return uniq_parts(question["detail"]).replace("；", "；")
+
+
+def scoring_points(section: str, question: dict[str, str]) -> str:
+    existing = extract_label(section, "评分点")
+    if existing:
+        return existing
+    points = question["points"] or "25"
+    return f"- 围绕考纲模块和核心概念作答，约 {points} 分\n- 写出知识点之间的机制链或结构-功能关系\n- 联系运动训练、康复评定或风险控制"
+
+
+def traps(section: str) -> str:
+    existing = extract_label(section, "易丢分点")
+    if existing:
+        return existing.rstrip("。") + "。"
+    return "只罗列关键词，不解释机制；只写理论，不联系运动或康复应用；50 分题未分层作答。"
+
+
 def outline_location(question: dict[str, str]) -> str:
     subject = question["subject"]
     module = uniq_parts(question["module"])
@@ -184,7 +267,7 @@ def outline_location(question: dict[str, str]) -> str:
 
 
 def build_appendix(date: str, questions: dict[int, dict[str, str]], sections: dict[int, str]) -> str:
-    out = ["\n## 背诵稿对照与补充（2026-08-20 补做）\n", "说明：本节按用户已有背诵稿体系补做。若原背诵稿不足，补充内容已同步沉淀到对应日期的晨测补充稿。\n"]
+    out = ["\n## 答案优化版（按当前背诵稿规则补做）\n", "说明：本节按当前要求统一补做。每题包含考纲定位、知识点明细、完整参考答案、评分点、易丢分点、背诵稿够用性和可并入背诵稿内容；补充内容同步沉淀到对应日期的晨测补充稿。\n"]
     for no in range(1, 10):
         q = questions.get(no)
         if not q:
@@ -195,10 +278,13 @@ def build_appendix(date: str, questions: dict[int, dict[str, str]], sections: di
             f"\n### 第 {no} 题｜{q['subject']}｜{q['points']} 分\n",
             f"**考纲定位**：{outline_location(q)}  \n",
             f"**知识点明细**：{q['detail']}  \n",
-            f"**背诵稿够用性**：{sufficiency(q['subject'], q['detail'], q['question'])}。  \n",
-            f"**需要补充**：把本题从零散关键词补成可直接用于 25/50 分大题的表达链，尤其是机制、评定、训练或康复应用。  \n",
-            f"**目标背诵稿**：{target_draft(q['subject'], text)}  \n",
+            f"**答案关键词**：{answer_keywords(sec, q)}  \n",
+            f"**评分点**：\n{scoring_points(sec, q)}\n\n",
             f"**完整参考答案**：{complete_answer(sec, q)}  \n",
+            f"**易丢分点**：{traps(sec)}  \n",
+            f"**背诵稿够用性**：{sufficiency(q['subject'], q['detail'], q['question'])}。  \n",
+            f"**需要补充**：{missing_note(q)}  \n",
+            f"**目标背诵稿**：{target_draft(q['subject'], text)}  \n",
             f"**可直接加入背诵稿**：{supplement_text(sec, q)}\n",
         ])
     return "".join(out).rstrip() + "\n"
@@ -237,7 +323,8 @@ def main() -> None:
             continue
         questions = parse_questions(qpath)
         answer_text = apath.read_text(encoding="utf-8")
-        sections = parse_answer_sections(answer_text)
+        base_answer_text = strip_generated_appendix(answer_text)
+        sections = parse_answer_sections(base_answer_text)
         if len(questions) < 9:
             print(f"warning: {date} parsed {len(questions)} questions")
         supplement = build_supplement(date, questions, sections)
@@ -245,10 +332,7 @@ def main() -> None:
         spath.write_text(supplement, encoding="utf-8")
         written_supp += 1
         appendix = build_appendix(date, questions, sections)
-        marker = "\n## 背诵稿对照与补充"
-        if marker in answer_text:
-            answer_text = answer_text[: answer_text.index(marker)].rstrip()
-        apath.write_text(answer_text.rstrip() + "\n" + appendix, encoding="utf-8")
+        apath.write_text(base_answer_text.rstrip() + "\n" + appendix, encoding="utf-8")
         updated_answers += 1
         processed_questions += len(questions)
     print(f"processed_questions={processed_questions}")
