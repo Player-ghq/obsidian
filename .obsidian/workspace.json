@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Rules and measures/full-translation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-27-题目"
+              "title": "full-translation"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/Rules and measures/full-translation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -101,8 +101,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,6 +209,28 @@
   },
   "active": "a2f03a0e6ded6e3f",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/anki/anki.tsv",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/anki/cards.json",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/anki",
+    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/anki",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-22-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-21-晨测补充.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-22-答案.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-21-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-22-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-21-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
@@ -218,34 +239,12 @@
     "Untitled",
     "Untitled 1.base",
     "Untitled.base",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
     "Codex/projects/bili2text.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-07-27-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/QA使用说明.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-08-19-题目.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-19-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-18-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-17-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-16-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-15-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-14-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-13-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-12-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-11-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-10-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-09-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-08-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-07-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-06-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-05-晨测补充.md",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-04-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/scripts/backfill_memorization_supplements.py",
     "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/anki.tsv",
-    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki/anki.tsv",
-    "Codex/projects/考研英语外刊精读/articles/Rules and measures/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety/anki",
-    "Codex/projects/考研英语外刊精读/articles/Do You Have Gym Anxiety",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-185.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-184.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-183.png",
