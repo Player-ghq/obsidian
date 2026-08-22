@@ -22,6 +22,8 @@
 | 2026-08-12 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Forget 10,000 steps, Walk faster instead | 16 | 已完成精读 lite；Anki 已生成 34 张卡 | [[articles/Forget 10,000 steps, Walk faster instead/deep-reading\|Forget 10,000 steps, Walk faster instead]]；[[articles/Forget 10,000 steps, Walk faster instead/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-20 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Artificial intelligence / Rules and measures | 52-53 | 已完成完整精读；Anki 已生成 15 张卡 | [[articles/Rules and measures/deep-reading\|Rules and measures]]；[[articles/Rules and measures/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-20 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Do You Have Gym Anxiety? | 34-39 | 已完成精读 lite；Anki 已生成 10 张卡 | [[articles/Do You Have Gym Anxiety/deep-reading\|Do You Have Gym Anxiety?]]；[[articles/Do You Have Gym Anxiety/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-22 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed / How to train for a heatwave | 66 | 已完成完整精读；Anki 已生成 11 张卡 | [[articles/How to train for a heatwave/deep-reading\|How to train for a heatwave]]；[[articles/How to train for a heatwave/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-22 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 已完成精读 lite；Anki 已生成 11 张卡 | [[articles/Reset Your Screen Time, Reset Your Life/deep-reading\|Reset Your Screen Time, Reset Your Life]]；[[articles/Reset Your Screen Time, Reset Your Life/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
@@ -37,7 +39,7 @@
 | 2026-08-12 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Telegram / When China's open-source AI is a trap | 50 | 已完成精读与 Anki 制卡 |
 | 2026-08-20 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Artificial intelligence / Rules and measures | 52-53 | 已完成精读与 Anki 制卡 |
 | 2026-08-21 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The dimming of Earth | 63 | 待读，已顺延 |
-| 2026-08-22 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed: Coping with the heat | 66 | 待读，已顺延 |
+| 2026-08-22 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed / How to train for a heatwave | 66 | 已完成精读与 Anki 制卡 |
 | 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Medical schools in the Caribbean | 24 | 待读，已顺延 |
 | 2026-08-24 | The Economist 2026-07-25, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | Preparing for AI | 9 | 待读，已顺延 |
 | 2026-08-25 | The Economist 2026-07-25, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | AI goes rogue | 70 | 待读，已顺延 |
@@ -53,7 +55,7 @@
 | --- | --- | --- | ---: | --- |
 | 2026-08-12 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Forget 10,000 steps, Walk faster instead | 16 | 已完成精读 lite 与 Anki 制卡 |
 | 2026-08-20 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Do You Have Gym Anxiety? | 34-39 | 已完成精读 lite 与 Anki 制卡 |
-| 2026-08-22 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 待读，已顺延，默认精读 lite |
+| 2026-08-22 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 已完成精读 lite 与 Anki 制卡 |
 | 2026-08-24 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | Playing to Different Strengths | 50-53 | 待读，已顺延，默认精读 lite |
 | 2026-08-26 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Sleep Gummies, Super Doses and Side Effects | 44-49 | 待读，已顺延，默认精读 lite |
 | 2026-08-28 | Men's Fitness Guides Issue 62 / Men's Fitness June 2026, `/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` | The New Stress Relief Tactics Every Man Should Know | 54-60 | 待读，已顺延，默认精读 lite |
