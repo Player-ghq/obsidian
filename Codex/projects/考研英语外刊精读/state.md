@@ -27,8 +27,8 @@
 - `Sovereign AI / Artificial insecurity` 已完成完整精读，记录见 [[articles/Artificial insecurity/deep-reading|Artificial insecurity]]；Anki 已按用户补充词表更新为 112 张卡，见 [[articles/Artificial insecurity/anki/anki.tsv|anki.tsv]]。
 - `The Telegram / When China's open-source AI is a trap` 已完成完整精读，记录见 [[articles/When China's open-source AI is a trap/deep-reading|When China's open-source AI is a trap]]；Anki 已生成 55 张卡，见 [[articles/When China's open-source AI is a trap/anki/anki.tsv|anki.tsv]]。
 - `Forget 10,000 steps, Walk faster instead` 已完成精读 lite，记录见 [[articles/Forget 10,000 steps, Walk faster instead/deep-reading|Forget 10,000 steps, Walk faster instead]]；Anki 已生成 34 张卡，见 [[articles/Forget 10,000 steps, Walk faster instead/anki/anki.tsv|anki.tsv]]。
-- `A new plan to regulate AI / Rules and measures` 已完成完整精读，记录见 [[articles/Rules and measures/deep-reading|Rules and measures]]；Anki 已生成 15 张卡，见 [[articles/Rules and measures/anki/anki.tsv|anki.tsv]]。
-- `Do You Have Gym Anxiety?` 已完成精读 lite，记录见 [[articles/Do You Have Gym Anxiety/deep-reading|Do You Have Gym Anxiety?]]；Anki 已生成 10 张卡，见 [[articles/Do You Have Gym Anxiety/anki/anki.tsv|anki.tsv]]。
+- `A new plan to regulate AI / Rules and measures` 已完成完整精读，记录见 [[articles/Rules and measures/deep-reading|Rules and measures]]；Anki 已按用户补充词表更新为 24 张卡，见 [[articles/Rules and measures/anki/anki.tsv|anki.tsv]]。
+- `Do You Have Gym Anxiety?` 已完成精读 lite，记录见 [[articles/Do You Have Gym Anxiety/deep-reading|Do You Have Gym Anxiety?]]；Anki 已按用户补充词表更新为 33 张卡，见 [[articles/Do You Have Gym Anxiety/anki/anki.tsv|anki.tsv]]。
 - `Well Informed / How to train for a heatwave` 已完成完整精读，记录见 [[articles/How to train for a heatwave/deep-reading|How to train for a heatwave]]；Anki 已生成 11 张卡，见 [[articles/How to train for a heatwave/anki/anki.tsv|anki.tsv]]。
 - `Reset Your Screen Time, Reset Your Life` 已完成精读 lite，记录见 [[articles/Reset Your Screen Time, Reset Your Life/deep-reading|Reset Your Screen Time, Reset Your Life]]；Anki 已生成 11 张卡，见 [[articles/Reset Your Screen Time, Reset Your Life/anki/anki.tsv|anki.tsv]]。
 - 2026-08-10 至 2026-08-23 每日一篇规划见 [[readings/economist-20260704-20260718-20260725-close-reading-plan|2026-07-04、2026-07-18 与 2026-07-25 精读计划]]。

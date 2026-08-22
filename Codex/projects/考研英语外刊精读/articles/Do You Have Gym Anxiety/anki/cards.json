@@ -2,7 +2,12 @@
   "deck": "考研英语::外刊精读",
   "notetype": "Basic",
   "html": true,
-  "columns": ["Front", "Back", "Extra", "Tags"],
+  "columns": [
+    "Front",
+    "Back",
+    "Extra",
+    "Tags"
+  ],
   "cards": [
     {
       "Front": "self-doubt",
@@ -62,6 +67,144 @@
       "Front": "support is not weakness; it is a strategy",
       "Back": "<b>原文句</b>：So it's worth remembering that support isn't weakness. It's a strategy. 译：所以值得记住的是，支持不是软弱，而是一种策略。<br><b>表达功能</b>：反转常见偏见，提出价值判断。<br><b>可复用句型</b>：A is not weakness; it is a strategy for B.<br><b>考研作文成句</b>：Asking for help is not weakness; it is a strategy for learning more efficiently. 译：寻求帮助不是软弱，而是更高效学习的一种策略。",
       "Extra": "<b>适配话题</b>：教育、心理健康、个人成长、职业发展。<br><b>替换槽位</b>：A = asking for help/seeking feedback/taking a break; B = growth/learning/recovery。<br><b>多场景改写</b>：1. Seeking feedback is not weakness; it is a strategy for professional growth. 译：寻求反馈不是软弱，而是职业成长的一种策略。<br>2. Rest is not laziness; it is a strategy for long-term productivity. 译：休息不是懒惰，而是长期保持效率的一种策略。<br>3. Cooperation is not dependence; it is a strategy for solving complex problems. 译：合作不是依赖，而是解决复杂问题的一种策略。<br><b>常见错误</b>：weakness 是不可数或抽象名词时通常不加 a。<br><b>记忆抓手</b>：not A; it is B 适合反驳偏见。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "grunt",
+      "Back": "<b>核心意思</b>：发出用力的哼声<br><b>原文句</b>：\"Heavy weights banging, men grunting, ripped guys taking selfies or filming a new PB - without context, it's easy to feel out of place.\" 译：沉重的杠铃声、男性的发力声、身材很好的人自拍或拍摄新的个人纪录。如果不了解背景，很容易觉得自己格格不入。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. The athlete grunted as he lifted the heavy bar. 译：运动员举起沉重杠铃时发出用力的哼声。<br>2. People may grunt during hard physical work. 译：人们在艰苦体力劳动中可能会发出哼声。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "ripped guys",
+      "Back": "<b>核心意思</b>：肌肉线条明显、身材很好的男性<br><b>原文句</b>：\"Heavy weights banging, men grunting, ripped guys taking selfies or filming a new PB - without context, it's easy to feel out of place.\" 译：沉重的杠铃声、男性的发力声、身材很好的人自拍或拍摄新的个人纪录。如果不了解背景，很容易觉得自己格格不入。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Social media often presents ripped guys as the standard of fitness. 译：社交媒体常把肌肉线条明显的男性呈现为健身标准。<br>2. Beginners should not compare themselves with ripped guys online. 译：初学者不应拿自己和网上身材很好的人比较。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "take selfies",
+      "Back": "<b>核心意思</b>：自拍<br><b>原文句</b>：\"Heavy weights banging, men grunting, ripped guys taking selfies or filming a new PB - without context, it's easy to feel out of place.\" 译：沉重的杠铃声、男性的发力声、身材很好的人自拍或拍摄新的个人纪录。如果不了解背景，很容易觉得自己格格不入。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Tourists take selfies in front of famous buildings. 译：游客在著名建筑前自拍。<br>2. Some people take selfies to record their progress. 译：有些人自拍来记录自己的进步。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "every rep",
+      "Back": "<b>核心意思</b>：每一次重复动作<br><b>原文句</b>：\"Add comparison and self-judgement, and suddenly every rep feels like it's being assessed.\" 译：再加上比较和自我评判，每一次重复动作都会像是在被别人评估。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Focus on control in every rep, not just the weight. 译：每一次重复动作都要关注控制，而不只是重量。<br>2. Good technique makes every rep safer. 译：良好技术让每一次重复动作更安全。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "outsmart sth",
+      "Back": "<b>核心意思</b>：智胜，想办法克服<br><b>原文句</b>：The good news is that it's normal to feel nervous - but like a muscle, you can train yourself to outsmart it. 译：好消息是，紧张很正常；而且像训练肌肉一样，你也可以训练自己战胜这种心理。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. A simple routine can help you outsmart procrastination. 译：简单常规可以帮助你战胜拖延。<br>2. Students need strategies to outsmart distraction. 译：学生需要策略来克服干扰。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "cardio machines",
+      "Back": "<b>核心意思</b>：有氧器械<br><b>原文句</b>：\"Cardio machines are a great place to begin - they're simple, effective, and work for everyone.\" 译：有氧器械是很好的开始，因为它们简单、有效，并且适合每个人。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Cardio machines are useful for beginners. 译：有氧器械对初学者很有用。<br>2. Many gyms place cardio machines near the entrance. 译：许多健身房把有氧器械放在入口附近。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "dumbbells",
+      "Back": "<b>核心意思</b>：哑铃<br><b>原文句</b>：\"Or why not grab a couple of dumbbells and head to a quieter corner, where you can stick to a simple full-body workout using dumbbells and bodyweight?\" 译：或者为什么不拿一对哑铃去安静角落，用哑铃和自身体重做简单的全身训练呢？<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Dumbbells allow a wide range of strength exercises. 译：哑铃可以用于多种力量训练动作。<br>2. A pair of dumbbells is enough for a simple home workout. 译：一对哑铃足以完成简单居家训练。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "game-changer",
+      "Back": "<b>核心意思</b>：带来重大改变的因素<br><b>原文句</b>：\"For busy men, blocking out fixed time in your calendar each week can be a game-changer.\" 译：对忙碌的男性来说，每周在日程表中固定留出时间可能会带来重大改变。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Affordable childcare can be a game-changer for working parents. 译：负担得起的托育服务可能会给职场父母带来重大改变。<br>2. A clear plan was a game-changer for his study routine. 译：清晰计划给他的学习常规带来了重大改变。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "drift",
+      "Back": "<b>核心意思</b>：漫无目的地游荡，失去方向<br><b>原文句</b>：\"Without a plan, men tend to drift, compare themselves to others, and second-guess what they're doing...\" 译：没有计划时，男性往往会游荡、拿自己和别人比较，并怀疑自己在做什么。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Without goals, teenagers may drift through their studies. 译：没有目标时，青少年可能在学习中漫无目的。<br>2. The meeting began to drift without a clear agenda. 译：没有清晰议程，会议开始失去方向。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "block out fixed time",
+      "Back": "<b>核心意思</b>：固定留出时间<br><b>原文句</b>：\"For busy men, blocking out fixed time in your calendar each week can be a game-changer.\" 译：对忙碌的男性来说，每周在日程表中固定留出时间可能会带来重大改变。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Block out fixed time for revision every morning. 译：每天早上固定留出复习时间。<br>2. Busy workers should block out fixed time for exercise. 译：忙碌的上班族应固定留出运动时间。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "morning ritual",
+      "Back": "<b>核心意思</b>：早晨仪式，早晨固定习惯<br><b>原文句</b>：\"Treat training like a work meeting - a lunch break or a morning ritual.\" 译：把训练当成工作会议、午休安排或早晨仪式。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Reading became his morning ritual. 译：阅读成了他的早晨固定习惯。<br>2. A short walk can be a healthy morning ritual. 译：短暂散步可以成为健康的早晨仪式。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "flashy",
+      "Back": "<b>核心意思</b>：花哨的，炫耀性的<br><b>原文句</b>：It's not about looking flashy - it's about feeling comfortable and capable. 译：这不是为了看起来花哨，而是为了感到舒服和有能力。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Flashy advertising may hide a weak product. 译：花哨广告可能掩盖产品薄弱。<br>2. A good essay needs clear logic, not flashy words. 译：好作文需要清晰逻辑，而不是花哨词汇。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "changing rooms",
+      "Back": "<b>核心意思</b>：更衣室<br><b>原文句</b>：And if changing rooms feels intimidating, you're not alone. 译：如果更衣室让你感到紧张，你并不是一个人。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Some students feel uncomfortable in changing rooms. 译：有些学生在更衣室感到不自在。<br>2. Clean changing rooms improve the gym experience. 译：干净的更衣室会改善健身房体验。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "tailor your audio to your goal",
+      "Back": "<b>核心意思</b>：根据目标调整音频内容<br><b>原文句</b>：\"You can also tailor your audio to your goal,\" Thompson adds. 译：Thompson 补充说：“你也可以根据目标调整你的音频内容。”<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Tailor your audio to your goal when studying or training. 译：学习或训练时，根据目标调整音频内容。<br>2. Language learners can tailor their audio to their level. 译：语言学习者可以根据自己的水平调整音频内容。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "podcast",
+      "Back": "<b>核心意思</b>：播客<br><b>原文句</b>：\"Create playlists for different sessions - or switch to a podcast if you want something more steady and engaging.\" 译：为不同训练创建播放列表；如果你想要更平稳、更有吸引力的内容，也可以换成播客。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. A podcast can turn commuting time into learning time. 译：播客可以把通勤时间变成学习时间。<br>2. She listens to a health podcast during walks. 译：她散步时听健康类播客。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "thrive on sth",
+      "Back": "<b>核心意思</b>：因...而兴盛，特别依赖/喜欢某事<br><b>原文句</b>：...if there is one thing the gym community thrives on, it's seeing others succeed. 译：如果说健身房社群特别看重什么，那就是看到别人成功。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Some students thrive on competition. 译：有些学生在竞争中表现更好。<br>2. Creative teams thrive on open discussion. 译：创意团队依靠开放讨论而兴盛。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "flawless",
+      "Back": "<b>核心意思</b>：完美无瑕的<br><b>原文句</b>：You don't need flawless technique, huge dumbbells, or a shredded physique to belong in the gym - you need consistency. 译：你不需要完美技术、巨大哑铃或健美身材才属于健身房，你需要的是持续性。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. A useful plan is better than a flawless plan that never starts. 译：有用的计划比永远不开始的完美计划更好。<br>2. No one expects flawless performance from a beginner. 译：没人期待初学者表现完美。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "a shredded physique",
+      "Back": "<b>核心意思</b>：线条分明的健美身材<br><b>原文句</b>：You don't need flawless technique, huge dumbbells, or a shredded physique to belong in the gym - you need consistency. 译：你不需要完美技术、巨大哑铃或健美身材才属于健身房，你需要的是持续性。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. A shredded physique is not the only sign of health. 译：线条分明的身材不是健康的唯一标志。<br>2. The pursuit of a shredded physique can create pressure. 译：追求健美身材可能制造压力。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "train sporadically",
+      "Back": "<b>核心意思</b>：零星地训练，偶尔训练<br><b>原文句</b>：Regular gym-goers report far higher confidence than those who train sporadically. 译：规律去健身房的人报告的自信水平远高于那些零星训练的人。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. People who train sporadically make slower progress. 译：零星训练的人进步更慢。<br>2. It is better to train moderately than to train sporadically and excessively. 译：适度规律训练比零星过量训练更好。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "therapist",
+      "Back": "<b>核心意思</b>：治疗师，心理咨询师<br><b>原文句</b>：\"Working with a coach or therapist can completely change how you see yourself...\" 译：与教练或治疗师合作可以完全改变你看待自己的方式。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. A therapist can help people understand anxiety. 译：心理咨询师可以帮助人们理解焦虑。<br>2. Talking to a therapist is a practical form of support. 译：与心理咨询师交谈是一种实用支持。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "masculinity",
+      "Back": "<b>核心意思</b>：男性气质，男子气概<br><b>原文句</b>：...gym anxiety is tied to deeper pressures around masculinity, performance, and the fear of not being good enough. 译：健身房焦虑与男性气质、表现压力和“不够好”的恐惧有关。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Traditional ideas of masculinity can stop men from seeking help. 译：传统男性气质观念可能阻止男性寻求帮助。<br>2. The article questions a narrow view of masculinity. 译：文章质疑狭隘的男性气质观。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "transformative",
+      "Back": "<b>核心意思</b>：带来重大改变的<br><b>原文句</b>：Investing in a coach can be transformative - not only for learning correct technique, but also for building confidence and removing uncertainty. 译：请教练可能带来很大改变，不仅能学习正确技术，也能建立信心、消除不确定性。<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Good education can be transformative for rural children. 译：良好教育能给农村儿童带来重大改变。<br>2. Small habits can have a transformative effect over time. 译：小习惯随着时间推移会产生重大改变。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "show up without being perfect",
+      "Back": "<b>核心意思</b>：不完美也先出现/开始行动<br><b>原文句</b>：\"If you give yourself permission to show up without being perfect, you'll keep showing up,\" says Tallamy. 译：Tallamy 说：“如果你允许自己不完美地出现，你就会持续出现。”<br><b>怎么记</b>：结合原文语境记忆，优先作为短语整体背。<br><b>怎么考</b>：阅读中常用于心理、习惯、健身或个人成长语境。<br><b>真实例句</b>：1. Students should learn to show up without being perfect. 译：学生应学会不完美也先开始行动。<br>2. Progress begins when people show up without being perfect. 译：当人们不完美也先行动时，进步就开始了。",
+      "Extra": "<b>作文可用</b>：可用于个人成长、心理健康、习惯建立。",
       "Tags": "外刊精读"
     }
   ]
