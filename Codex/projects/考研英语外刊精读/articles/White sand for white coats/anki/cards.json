@@ -2,7 +2,12 @@
   "deck": "考研英语::外刊精读",
   "notetype": "Basic",
   "html": true,
-  "columns": ["Front", "Back", "Extra", "Tags"],
+  "columns": [
+    "Front",
+    "Back",
+    "Extra",
+    "Tags"
+  ],
   "cards": [
     {
       "Front": "post-exam ritual",
@@ -122,6 +127,48 @@
       "Front": "a mainstay of sth",
       "Back": "<b>核心意思</b>：某事物的支柱。<br><b>原文句</b>：His peers at SGU and Ross are a mainstay of America's medical system. 译：他在 SGU 和 Ross 的同龄人已成为美国医疗系统的重要支柱。<br><b>怎么记</b>：mainstay = main support，主要支撑物。<br><b>怎么考</b>：说明某群体对系统的重要性。<br><b>真实例句</b>：1. Public hospitals are a mainstay of the health system. 译：公立医院是医疗系统的支柱。<br>2. Small businesses remain a mainstay of local economies. 译：小企业仍是地方经济的支柱。",
       "Extra": "<b>作文可用</b>：A is a mainstay of B.",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "white coats",
+      "Back": "<b>核心意思</b>：白大褂；医生身份。<br><b>原文句</b>：Article title: White sand for white coats.<br>译：标题：白沙滩与白大褂。<br><b>怎么记</b>：white coat 是医生典型服装，标题用 white sand/white coats 做双关。<br><b>怎么考</b>：标题理解题，既指医学训练，也暗示海岛吸引力。<br><b>真实例句</b>：<br>1. The white coats in the hospital symbolise professional responsibility. 译：医院里的白大褂象征职业责任。<br>2. Many young people dream of wearing white coats. 译：许多年轻人梦想穿上白大褂。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "didn't fancy doing sth",
+      "Back": "<b>核心意思</b>：不想做某事，不乐意做某事。<br><b>原文句</b>：American students in swimwear crowd the seafront bar. This post-exam ritual prompts envy from peers back home, says Daniel Nathan from Virginia. He was rejected by a few medical schools in the United States before he got his place at SGU, and didn't fancy waiting a year to try again.<br>译：穿着泳装的美国学生挤满海滨酒吧。来自弗吉尼亚州的 Daniel Nathan 说，这种考后仪式会让美国国内的同龄人羡慕。他曾被美国几所医学院拒绝，后来拿到了 SGU 的录取，并不想再等一年重新申请。<br><b>怎么记</b>：fancy 在英式英语中可作动词，表示想要。<br><b>怎么考</b>：熟词僻义，不能译成“幻想”。<br><b>真实例句</b>：<br>1. She did not fancy spending another year in preparation. 译：她不想再花一年准备。<br>2. Many workers do not fancy returning to long commutes. 译：许多员工不想重新面对漫长通勤。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "a growing cohort of",
+      "Back": "<b>核心意思</b>：越来越多的一批/一群。<br><b>原文句</b>：Despite this, a growing cohort of would-be doctors is opting for island training.<br>译：尽管如此，越来越多想成为医生的人选择到岛上接受训练。<br><b>怎么记</b>：cohort 原指一组人，常按年龄、身份或经历划分。<br><b>怎么考</b>：趋势描述，常用于教育、社会、职业群体。<br><b>真实例句</b>：<br>1. A growing cohort of young people chooses flexible work. 译：越来越多年轻人选择灵活工作。<br>2. A growing cohort of older adults is learning digital skills. 译：越来越多老年人在学习数字技能。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "love-in is mutual",
+      "Back": "<b>核心意思</b>：双方互相欣赏/双向受益。<br><b>原文句</b>：The love-in is mutual: SGU contributes a good chunk of Grenada's GDP and is the largest private employer.<br>译：这种相互吸引是双向的：SGU 贡献了格林纳达 GDP 的一大部分，也是当地最大的私营雇主。<br><b>怎么记</b>：love-in 带轻微调侃色彩，mutual 表示双向。<br><b>怎么考</b>：作者语气题，说明学校和当地经济彼此受益。<br><b>真实例句</b>：<br>1. The love-in between the city and the university is mutual. 译：城市和大学之间的相互欣赏是双向的。<br>2. The love-in is mutual when companies gain talent and students gain experience. 译：当企业获得人才、学生获得经验时，这种双向受益就成立。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "accreditation",
+      "Back": "<b>核心意思</b>：认证，资质认可。<br><b>原文句</b>：Queen's website says it is listed on the World Directory of Medical Schools, but a listing does not imply accreditation.<br>译：Queen's 的网站称它被列入《世界医学院名录》，但被列入名录并不意味着获得认证。<br><b>怎么记</b>：credit 是信用；accreditation 是正式认可/认证。<br><b>怎么考</b>：教育主题核心词，区分 listing 和 accreditation。<br><b>真实例句</b>：<br>1. Students should check a programme's accreditation before enrolling. 译：学生入学前应检查项目认证。<br>2. Accreditation protects learners from low-quality institutions. 译：认证保护学习者免受低质量机构影响。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "equivalent",
+      "Back": "<b>核心意思</b>：对应物；等同物；同等的。<br><b>原文句</b>：It only certifies graduates of schools that have in turn been accredited by an agency approved by a committee of the US Department of Education, or its international equivalent.<br>译：该委员会只认证那些所在学校已经获得认证的毕业生，而认证学校的机构本身必须由美国教育部某委员会或其国际对应机构批准。<br><b>怎么记</b>：equal 是相等；equivalent 强调功能、价值或地位相当。<br><b>怎么考</b>：熟词多义，这里是“国际对应机构”。<br><b>真实例句</b>：<br>1. A local certificate may not be equivalent to an international degree. 译：本地证书未必等同于国际学位。<br>2. Each country has its own equivalent of a medical board. 译：每个国家都有自己的医学委员会对应机构。",
+      "Extra": "",
+      "Tags": "外刊精读"
+    },
+    {
+      "Front": "fraud",
+      "Back": "<b>核心意思</b>：欺诈。<br><b>原文句</b>：In April, one of the founders appeared in court in Chicago to face federal charges of fraud and embezzlement related to the city's Loretto Hospital.<br>译：今年 4 月，该校一名创始人在芝加哥出庭，面对与该市 Loretto Hospital 有关的联邦欺诈和挪用公款指控。<br><b>怎么记</b>：fraud 指有意欺骗以获利，法律和商业语境常见。<br><b>怎么考</b>：法律风险词，和 embezzlement 区分。<br><b>真实例句</b>：<br>1. Online fraud can cause serious financial losses. 译：网络欺诈会造成严重经济损失。<br>2. Clear rules help reduce fraud in education and finance. 译：清晰规则有助于减少教育和金融领域的欺诈。",
+      "Extra": "",
       "Tags": "外刊精读"
     }
   ]

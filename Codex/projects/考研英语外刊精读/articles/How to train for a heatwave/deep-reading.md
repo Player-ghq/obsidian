@@ -62,22 +62,23 @@
 
 ## 核心表达
 
-| 表达 | 意思 | 考点 |
-| --- | --- | --- |
-| set up camp | 建立营地，驻扎 | 体育/组织行为 |
-| mild climate | 温和气候 | 环境描述 |
-| blistering heat | 酷热 | 环境主题 |
-| blood plasma | 血浆 | 健康科普 |
-| blood flow to the skin | 流向皮肤的血流 | 机制解释 |
-| sweat glands | 汗腺 | 生理机制 |
-| electrolytes | 电解质 | 运动健康 |
-| controlled hyperthermia | 受控性高体温 | 专业术语，理解即可 |
-| core body temperature | 核心体温 | 健康科普 |
-| acclimatisation | 适应，习服 | 本文核心词 |
-| do the trick | 奏效，起作用 | 熟词短语 |
-| adaptive benefits | 适应性收益 | 抽象表达 |
-| lead-up to sth | 某事之前的准备期 | 常用短语 |
-| take the edge off sth | 减轻某事影响 | 写作可用 |
+| 表达                      | 意思       | 考点        |
+| ----------------------- | -------- | --------- |
+| set up camp             | 建立营地，驻扎  | 体育/组织行为   |
+| mild climate            | 温和气候     | 环境描述      |
+| blistering heat         | 酷热       | 环境主题      |
+| blood plasma            | 血浆       | 健康科普      |
+| blood flow to the skin  | 流向皮肤的血流  | 机制解释      |
+| sweat glands            | 汗腺       | 生理机制      |
+| electrolytes            | 电解质      | 运动健康      |
+| controlled hyperthermia | 受控性高体温   | 专业术语，理解即可 |
+| core body temperature   | 核心体温     | 健康科普      |
+| acclimatisation         | 适应，习服    | 本文核心词     |
+| do the trick            | 奏效，起作用   | 熟词短语      |
+| adaptive benefits       | 适应性收益    | 抽象表达      |
+| lead-up to sth          | 某事之前的准备期 | 常用短语      |
+| take the edge off sth   | 减轻某事影响   | 写作可用      |
+|                         |          |           |
 
 ## 考研阅读题感
 

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9b1f011bcb4dbee",
+        "id": "b104617d73667e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "a2f03a0e6ded6e3f",
+            "id": "b001a750ec7110df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/full-translation.md",
-                "mode": "preview",
+                "file": "Codex/projects/考研英语外刊精读/articles/White sand for white coats/deep-reading.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full-translation"
+              "title": "deep-reading"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/full-translation.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/White sand for white coats/deep-reading.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,15 +207,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a2f03a0e6ded6e3f",
+  "active": "b001a750ec7110df",
   "lastOpenFiles": [
-    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/deep-reading.md",
-    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/full-translation.md",
-    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/full-translation.md",
+    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/source-text.md",
+    "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/The dimming of Earth/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/The dimming of Earth/anki/cards.json",
     "Codex/projects/考研英语外刊精读/articles/The dimming of Earth/deep-reading.md",
@@ -228,7 +229,6 @@
     "Codex/notes/医疗健康、健康中国与健身公共API索引.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-23-晨测补充.md",

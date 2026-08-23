@@ -78,31 +78,31 @@
 
 ## 核心表达
 
-| 表达 | 意思 | 考点 |
-| --- | --- | --- |
-| white coats | 白大褂，医生身份 | 标题双关 |
-| post-exam ritual | 考后仪式 | 校园生活 |
-| prompt envy | 引发羡慕 | 动词搭配 |
-| intake | 招生规模，录取人数 | 教育主题熟词僻义 |
-| would-be doctors | 想成为医生的人 | would-be = 未来的/准 |
-| opt for sth | 选择某物 | 常用动词搭配 |
-| island training | 岛上培训 | 具体语境 |
-| legacy system | 传统体系 | 制度评价 |
-| love-in is mutual | 互相欣赏/双向受益 | 讽刺轻口吻 |
-| a good chunk of GDP | GDP 的一大部分 | 经济表达 |
-| endear sth to sb | 使某物受某人喜爱 | 熟词难词 |
-| belie the existence of sth | 掩盖某物的存在 | 高价值阅读词 |
-| less scrupulous actors | 不太讲诚信的参与者 | 态度判断 |
-| legitimate qualifications | 合法资质 | 教育认证 |
-| imply accreditation | 意味着获得认证 | 细节题 |
-| licensed doctor | 持证医生 | 职业资格 |
-| residency | 住院医师培训 | 医学教育 |
-| certify qualifications | 认证学历/资质 | 教育主题 |
-| accredited by an agency | 由机构认证 | 认证流程 |
-| illegitimate operators | 非法/不正规经营者 | 监管主题 |
-| saddled with debt | 背负债务 | 固定搭配 |
-| fraud and embezzlement | 欺诈和挪用公款 | 法律词汇 |
-| a mainstay of sth | 某事物的支柱 | 写作可用 |
+| 表达                         | 意思        | 考点               |
+| -------------------------- | --------- | ---------------- |
+| white coats                | 白大褂，医生身份  | 标题双关             |
+| post-exam ritual           | 考后仪式      | 校园生活             |
+| prompt envy                | 引发羡慕      | 动词搭配             |
+| intake                     | 招生规模，录取人数 | 教育主题熟词僻义         |
+| would-be doctors           | 想成为医生的人   | would-be = 未来的/准 |
+| opt for sth                | 选择某物      | 常用动词搭配           |
+| island training            | 岛上培训      | 具体语境             |
+| legacy system              | 传统体系      | 制度评价             |
+| love-in is mutual          | 互相欣赏/双向受益 | 讽刺轻口吻            |
+| a good chunk of GDP        | GDP 的一大部分 | 经济表达             |
+| endear sth to sb           | 使某物受某人喜爱  | 熟词难词             |
+| belie the existence of sth | 掩盖某物的存在   | 高价值阅读词           |
+| less scrupulous actors     | 不太讲诚信的参与者 | 态度判断             |
+| legitimate qualifications  | 合法资质      | 教育认证             |
+| imply accreditation        | 意味着获得认证   | 细节题              |
+| licensed doctor            | 持证医生      | 职业资格             |
+| residency                  | 住院医师培训    | 医学教育             |
+| certify qualifications     | 认证学历/资质   | 教育主题             |
+| accredited by an agency    | 由机构认证     | 认证流程             |
+| illegitimate operators     | 非法/不正规经营者 | 监管主题             |
+| saddled with debt          | 背负债务      | 固定搭配             |
+| fraud and embezzlement     | 欺诈和挪用公款   | 法律词汇             |
+| a mainstay of sth          | 某事物的支柱    | 写作可用             |
 
 ## 考研阅读题感
 
