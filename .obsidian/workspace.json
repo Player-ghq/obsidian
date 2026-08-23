@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Rules and measures/deep-reading.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/White sand for white coats/full-translation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "deep-reading"
+              "title": "full-translation"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/考研英语外刊精读/articles/Rules and measures/deep-reading.md",
+                "file": "Codex/projects/考研英语外刊精读/articles/White sand for white coats/full-translation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,10 +209,13 @@
   },
   "active": "a2f03a0e6ded6e3f",
   "lastOpenFiles": [
+    "Codex/projects/考研英语外刊精读/articles/The dimming of Earth/anki",
+    "Codex/projects/考研英语外刊精读/articles/The dimming of Earth",
+    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/deep-reading.md",
+    "Codex/projects/考研英语外刊精读/articles/Rules and measures/deep-reading.md",
     "Codex/notes/医疗健康、健康中国与健身公共API索引.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki/anki.tsv",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki/cards.json",
-    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/White sand for white coats/anki",
@@ -234,17 +237,14 @@
     "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/full-translation.md",
     "Codex/projects/考研英语外刊精读/articles/How to train for a heatwave/source-text.md",
-    "Codex/projects/考研英语外刊精读/articles/Rules and measures/deep-reading.md",
     "Codex/projects/考研英语外刊精读/articles/Rules and measures/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life/anki",
-    "Codex/projects/考研英语外刊精读/articles/Reset Your Screen Time, Reset Your Life",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/source-text.md",
     "Codex/projects/考研英语外刊精读/articles/Rules for supermodels/deep-reading.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-22-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-08-21-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-22-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-21-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-185.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-184.png",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第5章/page-183.png",
