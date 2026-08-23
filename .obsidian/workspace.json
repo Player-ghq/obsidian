@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-02-骨骼肌机能.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-10-神经系统机能.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "简答逐字稿-02-骨骼肌机能"
+              "title": "简答逐字稿-10-神经系统机能"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-02-骨骼肌机能.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-10-神经系统机能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,30 +209,35 @@
   },
   "active": "b001a750ec7110df",
   "lastOpenFiles": [
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-07-肾脏功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/manifest.jsonl",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-255.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-254.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-253.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-252.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-01-绪论与稳态调节.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-251.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-250.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/整理进度.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-08-内分泌功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/背诵稿-01-绪论与稳态调节.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-10-神经系统机能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-09-感觉机能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/manifest.jsonl",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-325.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-324.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-323.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-322.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-321.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-320.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-319.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-318.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补-ocr/text/page-317.txt",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-325.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-324.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-323.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-322.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-321.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-320.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-319.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-318.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-317.png",
+    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第10章-续补/page-316.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-02-骨骼肌机能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-07-肾脏功能.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-01-绪论与稳态调节.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-06-物质与能量代谢.md",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-249.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-248.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补-ocr/text/page-247.txt",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-255.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-254.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-253.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-252.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-251.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-250.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-249.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-248.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-247.png",
-    "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第7章-续补/page-246.png",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-23-体能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-22-运动项目的生理学特点.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-21-运动健身与运动处方.md",
@@ -250,11 +255,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-09-感觉机能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-08-内分泌功能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-07-肾脏功能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-06-物质与能量代谢.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-10-神经系统机能.md",
-    "Codex/projects/考研英语外刊精读/articles/White sand for white coats/deep-reading.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-23-体能.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-22-运动项目的生理学特点.md",
     "Untitled.canvas"
   ]
 }
