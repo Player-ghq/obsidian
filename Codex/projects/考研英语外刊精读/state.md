@@ -9,9 +9,8 @@
 ## 当前推荐精读顺序
 
 1. The dimming of Earth, p.63, The Economist 2026-07-18
-2. Medical schools in the Caribbean, p.24, The Economist 2026-07-18
-3. Preparing for AI, p.9, The Economist 2026-07-25
-4. AI goes rogue, p.70, The Economist 2026-07-25
+2. Preparing for AI, p.9, The Economist 2026-07-25
+3. AI goes rogue, p.70, The Economist 2026-07-25
 
 ## 下一步
 
@@ -31,7 +30,9 @@
 - `Do You Have Gym Anxiety?` 已完成精读 lite，记录见 [[articles/Do You Have Gym Anxiety/deep-reading|Do You Have Gym Anxiety?]]；Anki 已按用户补充词表更新为 33 张卡，见 [[articles/Do You Have Gym Anxiety/anki/anki.tsv|anki.tsv]]。
 - `Well Informed / How to train for a heatwave` 已完成完整精读，记录见 [[articles/How to train for a heatwave/deep-reading|How to train for a heatwave]]；Anki 已生成 11 张卡，见 [[articles/How to train for a heatwave/anki/anki.tsv|anki.tsv]]。
 - `Reset Your Screen Time, Reset Your Life` 已完成精读 lite，记录见 [[articles/Reset Your Screen Time, Reset Your Life/deep-reading|Reset Your Screen Time, Reset Your Life]]；Anki 已生成 11 张卡，见 [[articles/Reset Your Screen Time, Reset Your Life/anki/anki.tsv|anki.tsv]]。
+- `Learning to heal / White sand for white coats` 已完成完整精读，记录见 [[articles/White sand for white coats/deep-reading|White sand for white coats]]；Anki 已生成 20 张卡，见 [[articles/White sand for white coats/anki/anki.tsv|anki.tsv]]。
 - 2026-08-10 至 2026-08-23 每日一篇规划见 [[readings/economist-20260704-20260718-20260725-close-reading-plan|2026-07-04、2026-07-18 与 2026-07-25 精读计划]]。
 - 2026-08-12 至 2026-09-05 Men's Fitness 四周 12 篇补充计划见 [[readings/mens-fitness-2026-06-08-4-week-kaoyan-reading-plan|Men's Fitness June and August 2026 4-Week Kaoyan Reading Plan]]；8/12-8/23 可出现一天两篇，Men's Fitness 默认采用 `精读 lite`。
 - 2026-07-11 期全部文章已按用户要求舍弃，不再进入待读队列。
 - 2026-08-22 已完成当天内容：The Economist `How to train for a heatwave` 与 Men's Fitness `Reset Your Screen Time, Reset Your Life`。`The dimming of Earth` 仍是 2026-08-21 顺延队列中的未完成主线文章；下一次如说“补昨天/补漏”，优先处理它。
+- 2026-08-23 已完成当天内容：The Economist `Learning to heal / White sand for white coats`。`The dimming of Earth` 仍是 2026-08-21 顺延队列中的未完成主线文章；下一篇按日期主线为 `Preparing for AI`。
