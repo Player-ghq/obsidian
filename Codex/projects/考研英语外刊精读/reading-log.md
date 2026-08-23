@@ -25,6 +25,7 @@
 | 2026-08-22 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed / How to train for a heatwave | 66 | 已完成完整精读；Anki 已生成 11 张卡 | [[articles/How to train for a heatwave/deep-reading\|How to train for a heatwave]]；[[articles/How to train for a heatwave/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-22 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 已完成精读 lite；Anki 已生成 11 张卡 | [[articles/Reset Your Screen Time, Reset Your Life/deep-reading\|Reset Your Screen Time, Reset Your Life]]；[[articles/Reset Your Screen Time, Reset Your Life/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Learning to heal / White sand for white coats | 24-25 | 已完成完整精读；Anki 已生成 20 张卡 | [[articles/White sand for white coats/deep-reading\|White sand for white coats]]；[[articles/White sand for white coats/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Climate change / Reflections on a warming planet / The dimming of Earth | 63-66 | 已补完顺延项；已完成完整精读；Anki 已生成 47 张卡 | [[articles/The dimming of Earth/deep-reading\|The dimming of Earth]]；[[articles/The dimming of Earth/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
@@ -39,7 +40,7 @@
 | 2026-08-11 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Sovereign AI / Artificial insecurity | 47-49 | 已完成精读与 Anki 制卡 |
 | 2026-08-12 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The Telegram / When China's open-source AI is a trap | 50 | 已完成精读与 Anki 制卡 |
 | 2026-08-20 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Artificial intelligence / Rules and measures | 52-53 | 已完成精读与 Anki 制卡 |
-| 2026-08-21 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | The dimming of Earth | 63 | 待读，已顺延 |
+| 2026-08-21 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Climate change / Reflections on a warming planet / The dimming of Earth | 63-66 | 已补完精读与 Anki 制卡 |
 | 2026-08-22 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Well Informed / How to train for a heatwave | 66 | 已完成精读与 Anki 制卡 |
 | 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Learning to heal / White sand for white coats | 24-25 | 已完成精读与 Anki 制卡 |
 | 2026-08-24 | The Economist 2026-07-25, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260725.pdf` | Preparing for AI | 9 | 待读，已顺延 |
