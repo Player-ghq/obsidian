@@ -26,6 +26,7 @@
 | 2026-08-22 | Men's Fitness UK August 2026, `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf` | Reset Your Screen Time, Reset Your Life | 40-43 | 已完成精读 lite；Anki 已生成 11 张卡 | [[articles/Reset Your Screen Time, Reset Your Life/deep-reading\|Reset Your Screen Time, Reset Your Life]]；[[articles/Reset Your Screen Time, Reset Your Life/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Learning to heal / White sand for white coats | 24-25 | 已完成完整精读；Anki 已按用户补充词表更新为 27 张卡 | [[articles/White sand for white coats/deep-reading\|White sand for white coats]]；[[articles/White sand for white coats/anki/anki.tsv\|Anki TSV]] |
 | 2026-08-23 | The Economist 2026-07-18, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260718.pdf` | Climate change / Reflections on a warming planet / The dimming of Earth | 63-66 | 已补完顺延项；已完成完整精读；Anki 已生成 47 张卡 | [[articles/The dimming of Earth/deep-reading\|The dimming of Earth]]；[[articles/The dimming of Earth/anki/anki.tsv\|Anki TSV]] |
+| 2026-08-24 | Supplemental vocabulary | be eligible for; stay off; indulge; zeal; entitlement | - | 已生成 5 张零散补充词卡 | [[articles/Supplemental vocabulary/anki/anki.tsv\|Anki TSV]] |
 
 ## 待读文章排队
 
