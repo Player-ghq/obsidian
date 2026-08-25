@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00-人体解剖学系统背诵生成计划"
+              "title": "02-骨学总论-完整版"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/02-骨学总论-完整版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.4944534301758
+    "width": 312.4944534301758,
+    "collapsed": true
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -209,6 +210,9 @@
   },
   "active": "b001a750ec7110df",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/01A-解剖学总论高颗粒度专题.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00A-人体解剖学已生成内容高颗粒度重整索引.md",
+    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/00-人体解剖学系统背诵生成计划.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/Anki/00-第4-6章综合-anki.json",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/Anki/06-躯干-anki.json",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/Anki/05-头颈-anki.json",
@@ -219,7 +223,6 @@
     "Codex/projects/考研英语外刊精读/articles/Supplemental vocabulary/anki",
     "Codex/projects/考研英语外刊精读/articles/Supplemental vocabulary",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/Anki/00-第2-10章综合-anki.json",
-    "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/Anki/03-骨连结与关节总论-anki.tsv",
     "Codex/projects/肌动学与功能解剖学语料库/training/HYROX-2026-08-02-至-08-08-周计划.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-10-神经系统机能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-17-运动机能的生理学评定.md",
@@ -253,8 +256,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-23-体能.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-22-运动项目的生理学特点.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-21-运动健身与运动处方.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-20-衰老与运动.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/撤回-未按教材OCR生成-不可使用/简答逐字稿-19-女性的生理特点与体育运动.md",
     "Untitled.canvas"
   ]
 }
