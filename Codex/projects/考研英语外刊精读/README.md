@@ -43,6 +43,7 @@
 - 完整精读输出需求：见 [[full-deep-reading-requirements]]
 - 重点主题：见 [[theme-priority]]
 - 阅读记录：见 [[reading-log]]
+- 历年真题解析：[[真题解析/2014/00-索引|2014]]、[[真题解析/2015/00-索引|2015]]、[[真题解析/2016/00-索引|2016]]、[[真题解析/2017/00-索引|2017]]；跨年总结见 [[真题解析/2014-2017-跨年规律|2014—2017 跨年规律]]。
 - 当前状态：见 [[state]]
 - 单词/词组卡模板：见 [[anki-word-phrase-card-template]]
 - 作文复用卡模板：见 [[anki-writing-transfer-card-template]]

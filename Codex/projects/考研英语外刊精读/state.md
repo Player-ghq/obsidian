@@ -4,7 +4,7 @@
 
 - 项目已建立：2026-07-28
 - 当前使用 skill：`english-magazine-close-reading`
-- 当前优先任务：按每日计划精读 The Economist 文章；7 月 4 日期已补足，2026-07-11 期已按用户要求从后续精读计划中舍弃，下一阶段直接进入 2026-07-18 与 2026-07-25 两期。2026-08-11 起加入 Men's Fitness June/August 2026（来源：`/Users/HaoQi/Downloads/Mens_Fitness_Guides_-_Issue_62_2026.pdf` 与 `/Users/HaoQi/Downloads/Mens_Fitness_UK_-_August_2026.pdf`） 四周 12 篇补充阅读线，Economist 保持主线，Men's Fitness 用于健康、心理、科技生活主题迁移。
+- 当前优先任务：建立 2014—2026 年考研英语一完形与阅读 Part A 解析库；从 2014 年顺序推进，逐年累计题型、干扰项和考点统计。外刊与 Men's Fitness 精读队列保留，但暂不作为本轮主线。
 
 ## 当前推荐精读顺序
 
@@ -12,6 +12,8 @@
 2. AI goes rogue, p.70, The Economist 2026-07-25
 
 ## 下一步
+
+- 2014—2017 年完形与阅读 Part A 首版解析已完成，入口见 [[真题解析/2014/00-索引|2014]]、[[真题解析/2015/00-索引|2015]]、[[真题解析/2016/00-索引|2016]]、[[真题解析/2017/00-索引|2017]]；已建立 [[真题解析/2014-2017-跨年规律|跨年规律]]，下一年为 2018。
 
 - `The two Cambridges` 已完成完整精读，记录见 [[articles/The two Cambridges/deep-reading|The two Cambridges]]。
 - `Rules for supermodels` 已完成完整精读，记录见 [[articles/Rules for supermodels/deep-reading|Rules for supermodels]]。
