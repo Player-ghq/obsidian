@@ -14,6 +14,7 @@
 ## 下一步
 
 - 2014—2017 年完形与阅读 Part A 首版解析已完成，入口见 [[真题解析/2014/00-索引|2014]]、[[真题解析/2015/00-索引|2015]]、[[真题解析/2016/00-索引|2016]]、[[真题解析/2017/00-索引|2017]]；用户词表已制成 [[真题解析/2014/Anki/2014-核心词汇-anki.tsv|2014年30张]]、[[真题解析/2015/Anki/2015-核心词汇-anki.tsv|2015年29张]] Anki 词卡；已建立 [[真题解析/2014-2017-跨年规律|跨年规律]]，下一年为 2018。
+- 真题词卡统一使用牌组 `考研::真题词汇`，标签统一为 `真题词汇`；后续年份沿用。
 
 - `The two Cambridges` 已完成完整精读，记录见 [[articles/The two Cambridges/deep-reading|The two Cambridges]]。
 - `Rules for supermodels` 已完成完整精读，记录见 [[articles/Rules for supermodels/deep-reading|Rules for supermodels]]。
