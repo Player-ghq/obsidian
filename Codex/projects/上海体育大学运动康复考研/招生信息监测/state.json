@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "last_run_at": "2026-09-02T00:02:14.262Z",
+  "last_run_at": "2026-09-03T00:09:36.666Z",
   "sites": {
     "sus_masters_admissions": {
       "url": "https://yjsc.sus.edu.cn/zsxx/ssszs.htm",
       "status": "error",
-      "last_attempt_at": "2026-09-02T00:02:14.262Z",
+      "last_attempt_at": "2026-09-03T00:09:36.666Z",
       "last_success_at": null,
       "error": "网页返回 JavaScript 反自动化校验，未能解析出合理的文章列表；未建立或重置该站点基准。",
       "entries": []
@@ -13,8 +13,8 @@
     "chsi_admissions_policy": {
       "url": "https://yz.chsi.com.cn/zsgs/zsinfo/queryzszc.action",
       "status": "ok",
-      "last_attempt_at": "2026-09-02T00:02:14.262Z",
-      "last_success_at": "2026-09-02T00:02:14.262Z",
+      "last_attempt_at": "2026-09-03T00:09:36.666Z",
+      "last_success_at": "2026-09-03T00:09:36.666Z",
       "error": null,
       "entries": [
         {"title": "《2026年全国硕士研究生招生工作管理规定》", "date": "2025-09-25", "url": "https://yz.chsi.com.cn/kyzx/jybzc/202509/20250925/2293432170.html"},
