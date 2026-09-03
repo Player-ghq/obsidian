@@ -71,10 +71,13 @@ def parse_questions(path: Path) -> dict[int, dict[str, str]]:
 
 
 def parse_answer_sections(text: str) -> dict[int, str]:
-    matches = list(re.finditer(r"(?m)^(?:###\s*第\s*(\d+)\s*题.*|##\s*(\d+)\.\s+.*)$", text))
+    matches = list(re.finditer(
+        r"(?m)^(?:###\s*第\s*(\d+)\s*题.*|##\s*题\s*(\d+)\b.*|##\s*(\d+)\.\s+.*)$",
+        text,
+    ))
     sections: dict[int, str] = {}
     for i, m in enumerate(matches):
-        no = int(m.group(1) or m.group(2))
+        no = int(next(g for g in m.groups() if g))
         start = m.end()
         end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
         body = text[start:end].strip()
@@ -233,6 +236,16 @@ def supplement_text(section: str, question: dict[str, str]) -> str:
     return (prefix + ans).replace("。。", "。")
 
 
+def review_task(question: dict[str, str]) -> str:
+    subject = question["subject"]
+    detail = uniq_parts(question["detail"])
+    if subject == "解剖":
+        return f"用“结构-运动-肌肉工作-训练/康复意义”四步口述 {detail}，再默写 1 遍关键结构和易错点。"
+    if subject == "生理":
+        return f"用“概念-机制-运动反应-训练/康复应用”四步复述 {detail}，补画 1 条机制链。"
+    return f"按“问题评定-目标-分期训练-进阶标准-风险控制”重写 {detail} 的 5 步方案。"
+
+
 def answer_keywords(section: str, question: dict[str, str]) -> str:
     existing = extract_label(section, "答案关键词")
     if existing:
@@ -267,7 +280,7 @@ def outline_location(question: dict[str, str]) -> str:
 
 
 def build_appendix(date: str, questions: dict[int, dict[str, str]], sections: dict[int, str]) -> str:
-    out = ["\n## 答案优化版（按当前背诵稿规则补做）\n", "说明：本节按当前要求统一补做。每题包含考纲定位、知识点明细、完整参考答案、评分点、易丢分点、背诵稿够用性和可并入背诵稿内容；补充内容同步沉淀到对应日期的晨测补充稿。\n"]
+    out = ["\n## 答案优化版（按当前背诵稿规则补做）\n", "说明：本节按当前要求统一补做。每题包含考纲定位、知识点明细、答案关键词、评分点、完整参考答案、易丢分点、背诵稿够用性、需要补充、可并入背诵稿内容和当日复习任务；补充内容同步沉淀到对应日期的晨测补充稿。\n"]
     for no in range(1, 10):
         q = questions.get(no)
         if not q:
@@ -285,7 +298,8 @@ def build_appendix(date: str, questions: dict[int, dict[str, str]], sections: di
             f"**背诵稿够用性**：{sufficiency(q['subject'], q['detail'], q['question'])}。  \n",
             f"**需要补充**：{missing_note(q)}  \n",
             f"**目标背诵稿**：{target_draft(q['subject'], text)}  \n",
-            f"**可直接加入背诵稿**：{supplement_text(sec, q)}\n",
+            f"**可直接加入背诵稿**：{supplement_text(sec, q)}  \n",
+            f"**当日复习任务**：{review_task(q)}\n",
         ])
     return "".join(out).rstrip() + "\n"
 
