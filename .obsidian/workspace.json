@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b104617d73667e6c",
+        "id": "0bc8cd2439c3f9ae",
         "type": "tabs",
         "children": [
           {
-            "id": "b001a750ec7110df",
+            "id": "7cf8766c7c17e508",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
-                "mode": "preview",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-03-血液.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-28-答案"
+              "title": "简答逐字稿-03-血液"
             }
           }
         ]
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
+                "file": "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-03-血液.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.4944534301758
+    "width": 200
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -208,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b001a750ec7110df",
+  "active": "6698c8275356fac2",
   "lastOpenFiles": [
+    "Codex/projects/肌动学与功能解剖学语料库/运动生理学-王瑞元苏全生/简答逐字稿-01-绪论与稳态调节.md",
+    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/qa/背诵稿/晨测补充/2026-09-04-晨测补充.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-09-04-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-09-04-题目.md",
@@ -224,7 +226,6 @@
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-27-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-14-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-08-16-答案.md",
-    "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-07-28-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/答案/2026-09-01-答案.md",
     "Codex/projects/肌动学与功能解剖学语料库/运动康复真题与出题系统/每日晨测/题目/2026-07-29-题目.md",
     "Codex/projects/肌动学与功能解剖学语料库/2026-09-专业课主动回忆执行表.md",
@@ -246,7 +247,6 @@
     "Codex/projects/考研英语外刊精读/真题解析/2017/04-阅读-Text-3.md",
     "Codex/projects/考研英语外刊精读/真题解析/2017/03-阅读-Text-2.md",
     "Codex/projects/考研英语外刊精读/真题解析/2017/02-阅读-Text-1.md",
-    "Codex/projects/考研英语外刊精读/真题解析/2017/01-完形填空.md",
     "Codex/projects/考研英语外刊精读/真题解析/2017",
     "Codex/projects/考研英语外刊精读/真题解析/2016",
     "Codex/projects/肌动学与功能解剖学语料库/work/pdf-ocr/第17章/page-462.png",
