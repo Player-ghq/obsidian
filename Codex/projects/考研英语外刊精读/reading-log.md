@@ -4,6 +4,7 @@
 
 | 日期 | 杂志来源 | 文章 | 页码 | 处理状态 | 记录 |
 | --- | --- | --- | ---: | --- | --- |
+| 2026-09-17 | 2025 全年外刊 PDF，`/Users/HaoQi/Downloads/25全年(26考研)外刊` | 48 篇、55 页逐日精读计划 | - | 已排期：2026-09-18 开始，2026-10-29 完成新文章，10 月 30—31 日缓冲与总复习 | [[readings/2026-09-18-to-2026-10-31-48-pdf-plan\|48 篇外刊精读计划]] |
 | 2026-07-28 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | 整期目录整理与主题优先排序 | - | 已完成 | [[readings/economist-20260704-priority-theme-reading-map\|2026-07-04 主题阅读图谱]] |
 | 2026-07-28 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | The two Cambridges | 53 | 已完成完整精读 | [[articles/The two Cambridges/deep-reading\|The two Cambridges]] |
 | 2026-07-28 | The Economist 2026-07-04, `/Users/HaoQi/Documents/雅思/经济学人/经济学人_20260704.pdf` | Rules for supermodels | 64 | 已完成完整精读 | [[articles/Rules for supermodels/deep-reading\|Rules for supermodels]] |
