@@ -1,0 +1,788 @@
+[
+  {
+    "pdf_page": 85,
+    "printed_page": 70,
+    "roles": [
+      "exercise",
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-085.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "04da264a68875cf03657a446ada53d33a1899983e03509f52f04c866b6d54912",
+    "source_ocr": "来源记录/OCR/pdf-085.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-085.json",
+    "status": "OCR待复核",
+    "line_count": 42,
+    "character_count": 1681
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 71,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-086.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e43bc44b434cb74e9ee3f48d6778dc0a75d3453816307e1460921ca447d13c9e",
+    "source_ocr": "来源记录/OCR/pdf-086.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-086.json",
+    "status": "OCR待复核",
+    "line_count": 61,
+    "character_count": 1518
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 72,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-087.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "78365303df66f8aeb977de1de26b26b205ec4a562ff6e1aada5f1a8e11dac447",
+    "source_ocr": "来源记录/OCR/pdf-087.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-087.json",
+    "status": "OCR待复核",
+    "line_count": 64,
+    "character_count": 1377
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 73,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-088.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b49ca8a39c855bb9adc96d2f25fcf596e8bfe2df8e46285fef47fb3636d62a35",
+    "source_ocr": "来源记录/OCR/pdf-088.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-088.json",
+    "status": "OCR待复核",
+    "line_count": 45,
+    "character_count": 802
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 74,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-089.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d60be6d6a894ca24fb686c8bd8143c12fc16c64df21ee771ad96a60742a4940c",
+    "source_ocr": "来源记录/OCR/pdf-089.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-089.json",
+    "status": "OCR待复核",
+    "line_count": 20,
+    "character_count": 754
+  },
+  {
+    "pdf_page": 147,
+    "printed_page": 132,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-147.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f8d1ac55b11e2ea77f859098ba6b46848d66ebee0898815296c7171c10feed3c",
+    "source_ocr": "来源记录/OCR/pdf-147.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-147.json",
+    "status": "OCR待复核",
+    "line_count": 58,
+    "character_count": 1194
+  },
+  {
+    "pdf_page": 148,
+    "printed_page": 133,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-148.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "05e4150d7372a78e3fec74deb9d07d66bff21aa624a27226f1d11e4871417b58",
+    "source_ocr": "来源记录/OCR/pdf-148.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-148.json",
+    "status": "OCR待复核",
+    "line_count": 75,
+    "character_count": 1091
+  },
+  {
+    "pdf_page": 149,
+    "printed_page": 134,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-149.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "44ed9f400ce6179a156601590506a871d4cd6b2811ee6d59facf7042fbca99e6",
+    "source_ocr": "来源记录/OCR/pdf-149.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-149.json",
+    "status": "OCR待复核",
+    "line_count": 53,
+    "character_count": 1035
+  },
+  {
+    "pdf_page": 150,
+    "printed_page": 135,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-150.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "df7012cdeb6f3366596e465b6d530c688799f36bae1f697b98deba282a843610",
+    "source_ocr": "来源记录/OCR/pdf-150.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-150.json",
+    "status": "OCR待复核",
+    "line_count": 48,
+    "character_count": 1224
+  },
+  {
+    "pdf_page": 151,
+    "printed_page": 136,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-151.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1edcf4aff50075c6f95aadf648bc3ab9056ababfc10e2c800fa0e288311be17d",
+    "source_ocr": "来源记录/OCR/pdf-151.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-151.json",
+    "status": "OCR待复核",
+    "line_count": 22,
+    "character_count": 713
+  },
+  {
+    "pdf_page": 228,
+    "printed_page": 213,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-228.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "49c0dd1f93573a6e2456f233662a6c2ce4f7bbb16517d803fb0374c46299f797",
+    "source_ocr": "来源记录/OCR/pdf-228.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-228.json",
+    "status": "OCR待复核",
+    "line_count": 44,
+    "character_count": 1204
+  },
+  {
+    "pdf_page": 229,
+    "printed_page": 214,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-229.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7d509c79d1e59d2df5203785bafd57d73f04ec1e1666487d805a8d56b4cc3074",
+    "source_ocr": "来源记录/OCR/pdf-229.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-229.json",
+    "status": "OCR待复核",
+    "line_count": 52,
+    "character_count": 1309
+  },
+  {
+    "pdf_page": 230,
+    "printed_page": 215,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-230.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "986cb098ed579544403f33dc401cd42cd5226140a4638935820238e19462369c",
+    "source_ocr": "来源记录/OCR/pdf-230.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-230.json",
+    "status": "OCR待复核",
+    "line_count": 55,
+    "character_count": 1114
+  },
+  {
+    "pdf_page": 231,
+    "printed_page": 216,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-231.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5207095b2eb2a1ab7b5a33a82a8504a5c0ac81fa00e65df25388aa53969aaf7b",
+    "source_ocr": "来源记录/OCR/pdf-231.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-231.json",
+    "status": "OCR待复核",
+    "line_count": 42,
+    "character_count": 937
+  },
+  {
+    "pdf_page": 232,
+    "printed_page": 217,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-232.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "84d8dff3ee250e6457221e2e1a30a86eb73b9798863ae0e68e4c2d31d7e5e378",
+    "source_ocr": "来源记录/OCR/pdf-232.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-232.json",
+    "status": "OCR待复核",
+    "line_count": 48,
+    "character_count": 1173
+  },
+  {
+    "pdf_page": 233,
+    "printed_page": 218,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-233.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e51772445c2ce8a002d9cabc16bb390ac15c76ddd8d4c9d6378d329081aaa957",
+    "source_ocr": "来源记录/OCR/pdf-233.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-233.json",
+    "status": "OCR待复核",
+    "line_count": 33,
+    "character_count": 966
+  },
+  {
+    "pdf_page": 289,
+    "printed_page": 274,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-289.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "42f82707fc6aad017e3664641081701cda3db5cd5fd864e338729db266b1b8e4",
+    "source_ocr": "来源记录/OCR/pdf-289.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-289.json",
+    "status": "OCR待复核",
+    "line_count": 42,
+    "character_count": 1337
+  },
+  {
+    "pdf_page": 290,
+    "printed_page": 275,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-290.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9bbe270f01744a53290c1b686b2b237e4516c0bfab6dd34ac8a70422d335e09e",
+    "source_ocr": "来源记录/OCR/pdf-290.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-290.json",
+    "status": "OCR待复核",
+    "line_count": 44,
+    "character_count": 1037
+  },
+  {
+    "pdf_page": 291,
+    "printed_page": 276,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-291.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0f1aa50d113961a3beda63adda8d7caa8eac8128f709d1fad7a37b238193dd8f",
+    "source_ocr": "来源记录/OCR/pdf-291.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-291.json",
+    "status": "OCR待复核",
+    "line_count": 48,
+    "character_count": 1427
+  },
+  {
+    "pdf_page": 292,
+    "printed_page": 277,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-292.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6676c117b46385d0a247cd2111d873a7a842112062166c598e15aae0cae79aa9",
+    "source_ocr": "来源记录/OCR/pdf-292.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-292.json",
+    "status": "OCR待复核",
+    "line_count": 44,
+    "character_count": 1267
+  },
+  {
+    "pdf_page": 338,
+    "printed_page": 323,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-338.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0e8d4207fc53aa9a7b319f9dcda3d7632a6bcc022b30a2830ea3a8134205705b",
+    "source_ocr": "来源记录/OCR/pdf-338.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-338.json",
+    "status": "OCR待复核",
+    "line_count": 52,
+    "character_count": 751
+  },
+  {
+    "pdf_page": 339,
+    "printed_page": 324,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-339.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0f59b9fe745ffe103376f7503d0ae6406ce096474129ee2e19e1af2eeaf02bf1",
+    "source_ocr": "来源记录/OCR/pdf-339.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-339.json",
+    "status": "OCR待复核",
+    "line_count": 66,
+    "character_count": 1099
+  },
+  {
+    "pdf_page": 340,
+    "printed_page": 325,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-340.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "bb6abe54bb8dec475bf930468a36343272ad291896d8291fe53647c80677d709",
+    "source_ocr": "来源记录/OCR/pdf-340.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-340.json",
+    "status": "OCR待复核",
+    "line_count": 40,
+    "character_count": 986
+  },
+  {
+    "pdf_page": 393,
+    "printed_page": 378,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-393.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fe7892ef81ec52742fe1e0f342dd59081f76aa8bac41fcd1090f94f209e6eb6e",
+    "source_ocr": "来源记录/OCR/pdf-393.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-393.json",
+    "status": "OCR待复核",
+    "line_count": 87,
+    "character_count": 1787
+  },
+  {
+    "pdf_page": 394,
+    "printed_page": 379,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-394.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a0a0a7d828fccbf097a66540d5429d138538c11b1e5efe4512d59f725cea0a6a",
+    "source_ocr": "来源记录/OCR/pdf-394.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-394.json",
+    "status": "OCR待复核",
+    "line_count": 75,
+    "character_count": 893
+  },
+  {
+    "pdf_page": 395,
+    "printed_page": 380,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-395.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "9ce79022b5361bfe070fae78adf0af6a0cd70f9bb360f6a52160d45a950d1dd7",
+    "source_ocr": "来源记录/OCR/pdf-395.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-395.json",
+    "status": "OCR待复核",
+    "line_count": 74,
+    "character_count": 1116
+  },
+  {
+    "pdf_page": 396,
+    "printed_page": 381,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-396.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1a759fe4ba3263604f882ae8e927bd966a622f88ccd6bd418d82dc6b89846295",
+    "source_ocr": "来源记录/OCR/pdf-396.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-396.json",
+    "status": "OCR待复核",
+    "line_count": 51,
+    "character_count": 1083
+  },
+  {
+    "pdf_page": 397,
+    "printed_page": 382,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-397.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d620362731b7155162eb59336cd4d8e94fd0527f0f34a1a0a7127a9331ec3ff5",
+    "source_ocr": "来源记录/OCR/pdf-397.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-397.json",
+    "status": "OCR待复核",
+    "line_count": 14,
+    "character_count": 187
+  },
+  {
+    "pdf_page": 466,
+    "printed_page": 451,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-466.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6f028873f055b29438eab13a3a13046f3e2e620ff3d0313631967eb3fde0d00d",
+    "source_ocr": "来源记录/OCR/pdf-466.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-466.json",
+    "status": "OCR待复核",
+    "line_count": 45,
+    "character_count": 1876
+  },
+  {
+    "pdf_page": 467,
+    "printed_page": 452,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-467.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "55f6c63be7959e8208b721462adbdb6598f83cddcdc8861867d5d005194f7c46",
+    "source_ocr": "来源记录/OCR/pdf-467.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-467.json",
+    "status": "OCR待复核",
+    "line_count": 71,
+    "character_count": 1134
+  },
+  {
+    "pdf_page": 468,
+    "printed_page": 453,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-468.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2efed2dde072548b1171414347484cbf7425efd27f02e95a1405964474ce9c6b",
+    "source_ocr": "来源记录/OCR/pdf-468.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-468.json",
+    "status": "OCR待复核",
+    "line_count": 49,
+    "character_count": 1211
+  },
+  {
+    "pdf_page": 511,
+    "printed_page": 496,
+    "roles": [
+      "exercise",
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-511.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e8066fc10deea6b0e606aee4cfa293e6ddf0842f9c858a1f70f9236cf276a8be",
+    "source_ocr": "来源记录/OCR/pdf-511.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-511.json",
+    "status": "OCR待复核",
+    "line_count": 40,
+    "character_count": 1239
+  },
+  {
+    "pdf_page": 512,
+    "printed_page": 497,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-512.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "de6f4d2ef80082a4b25c7cac69482cacd6dbb1eb211e9781002384469c79a1fc",
+    "source_ocr": "来源记录/OCR/pdf-512.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-512.json",
+    "status": "OCR待复核",
+    "line_count": 44,
+    "character_count": 611
+  },
+  {
+    "pdf_page": 513,
+    "printed_page": 498,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-513.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3211c21dcfdf4103da8a61a44ad14b86a1a141b5b0891dbf39d1e63291e5d9b1",
+    "source_ocr": "来源记录/OCR/pdf-513.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-513.json",
+    "status": "OCR待复核",
+    "line_count": 50,
+    "character_count": 970
+  },
+  {
+    "pdf_page": 514,
+    "printed_page": 499,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-514.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b351925f524da95fc8340a3b5fa65dd2522ca67b7e23f1078bbd1fdc27647cbf",
+    "source_ocr": "来源记录/OCR/pdf-514.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-514.json",
+    "status": "OCR待复核",
+    "line_count": 48,
+    "character_count": 1131
+  },
+  {
+    "pdf_page": 515,
+    "printed_page": 500,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-515.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b75fabf01571e2a6b8bfecd91ddb4325336ddb7664fda508b1b7cbcfe85f5a57",
+    "source_ocr": "来源记录/OCR/pdf-515.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-515.json",
+    "status": "OCR待复核",
+    "line_count": 45,
+    "character_count": 990
+  },
+  {
+    "pdf_page": 516,
+    "printed_page": 501,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-516.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4708f4ef5452fa7df4e64bd1634a3de771057a9ec13e3c76a9c46f5e61b8f4b3",
+    "source_ocr": "来源记录/OCR/pdf-516.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-516.json",
+    "status": "OCR待复核",
+    "line_count": 33,
+    "character_count": 647
+  },
+  {
+    "pdf_page": 594,
+    "printed_page": 579,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-594.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f21122a0be12e8513b5eaab61ca5100733468d8afd6f5ace27f8642e986a7a3e",
+    "source_ocr": "来源记录/OCR/pdf-594.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-594.json",
+    "status": "OCR待复核",
+    "line_count": 52,
+    "character_count": 1572
+  },
+  {
+    "pdf_page": 595,
+    "printed_page": 580,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-595.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1ac567ff18e6c098d3d6efe9b470a07a055dacb80e0866046eaebdbdd2144764",
+    "source_ocr": "来源记录/OCR/pdf-595.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-595.json",
+    "status": "OCR待复核",
+    "line_count": 51,
+    "character_count": 1409
+  },
+  {
+    "pdf_page": 596,
+    "printed_page": 581,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-596.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "df6c0702319ceae99cc8a9859e95281d9a17c9a3b968be6dc49a55f04ae71097",
+    "source_ocr": "来源记录/OCR/pdf-596.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-596.json",
+    "status": "OCR待复核",
+    "line_count": 56,
+    "character_count": 1657
+  },
+  {
+    "pdf_page": 597,
+    "printed_page": 582,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-597.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "838abc4f8d85b078b8ca3a1ae11c545eb12ad295e7491c23c0d3bd96c75d9fe2",
+    "source_ocr": "来源记录/OCR/pdf-597.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-597.json",
+    "status": "OCR待复核",
+    "line_count": 56,
+    "character_count": 1472
+  },
+  {
+    "pdf_page": 598,
+    "printed_page": 583,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-598.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f43c6a2a85dc8bf896682b0affb32811eb306df1e9bcd27b1ba7acdcf19a32ae",
+    "source_ocr": "来源记录/OCR/pdf-598.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-598.json",
+    "status": "OCR待复核",
+    "line_count": 50,
+    "character_count": 1446
+  },
+  {
+    "pdf_page": 664,
+    "printed_page": 649,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-664.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "59836ce92675400cc346a1ab4407d2e24d49849359a4d8ef287be7ae6df51979",
+    "source_ocr": "来源记录/OCR/pdf-664.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-664.json",
+    "status": "OCR待复核",
+    "line_count": 51,
+    "character_count": 1284
+  },
+  {
+    "pdf_page": 665,
+    "printed_page": 650,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-665.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "39d1bc9f1de5fb0f5d476860600b5b3a35536dedda9985701a77f2878183d6c4",
+    "source_ocr": "来源记录/OCR/pdf-665.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-665.json",
+    "status": "OCR待复核",
+    "line_count": 56,
+    "character_count": 1493
+  },
+  {
+    "pdf_page": 666,
+    "printed_page": 651,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-666.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6d71a8d98d2e8a8b2d63e54a5b91d0fb9ec115095ef3eeb77364bcd1fce54759",
+    "source_ocr": "来源记录/OCR/pdf-666.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-666.json",
+    "status": "OCR待复核",
+    "line_count": 47,
+    "character_count": 1315
+  },
+  {
+    "pdf_page": 730,
+    "printed_page": 715,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-730.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cbba606f585c6072ca5092d1d8fb7a39f6b01da7c057440c3d279624bbd08c11",
+    "source_ocr": "来源记录/OCR/pdf-730.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-730.json",
+    "status": "OCR待复核",
+    "line_count": 46,
+    "character_count": 1653
+  },
+  {
+    "pdf_page": 731,
+    "printed_page": 716,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-731.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fcc53d559d83699268972347aa9f288e0e438389a90b48a342a1368180cb59e2",
+    "source_ocr": "来源记录/OCR/pdf-731.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-731.json",
+    "status": "OCR待复核",
+    "line_count": 49,
+    "character_count": 1308
+  },
+  {
+    "pdf_page": 732,
+    "printed_page": 717,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-732.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "32c038ffdf5111d7eefe1c8fa6ed76911a3d7c9b06249832b7fc2115e4ebf98d",
+    "source_ocr": "来源记录/OCR/pdf-732.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-732.json",
+    "status": "OCR待复核",
+    "line_count": 47,
+    "character_count": 1139
+  },
+  {
+    "pdf_page": 733,
+    "printed_page": 718,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-733.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5530db2e814ca9f070de335d0fe7d76cefad6a9901d61df02cb8c3623822f0d8",
+    "source_ocr": "来源记录/OCR/pdf-733.txt",
+    "source_ocr_boxes": "来源记录/OCR/pdf-733.json",
+    "status": "OCR待复核",
+    "line_count": 19,
+    "character_count": 611
+  }
+]

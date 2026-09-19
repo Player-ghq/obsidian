@@ -1,0 +1,20 @@
+{
+  "title": "数字图像处理（第四版）",
+  "authors": [
+    "Rafael C. Gonzalez",
+    "Richard E. Woods"
+  ],
+  "source_filename": "数字图像处理（第四版）Digital Image Processing，Fourth Edition (Rafael C.Gonzalez, Richard E.Woods) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+  "source_pdf_page_count": 750,
+  "source_pdf_sha256": "2a780501ee07f06ab01613babb17b01302701a1ca331bcb8f5f010e69e693cdf",
+  "source_pdf_bytes": 189656171,
+  "printed_to_pdf_offset": 15,
+  "edition_policy": "仅以用户提供的中文版第四版扫描PDF为源，不补写、不改写，不采用其他版本或题库。",
+  "extraction": "原PDF内嵌JPEG字节直接提取；合订PDF直接复制原页。",
+  "date": "2026-09-19",
+  "question_count": 492,
+  "exercise_page_count": 49,
+  "reference_page_count": 509,
+  "reference_count": 334,
+  "ocr_status": "OCR待逐字复核；原页题号及分页完整性已逐页检查"
+}

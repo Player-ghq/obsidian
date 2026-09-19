@@ -1,0 +1,26 @@
+{
+  "date": "2026-09-19",
+  "status": "passed",
+  "question_count": 492,
+  "unique_question_numbers": 492,
+  "all_chapters_contiguous": true,
+  "exercise_pages": 49,
+  "pdf_page_count": 49,
+  "pdf_chapter_bookmarks": 11,
+  "pdf_embedded_images_equal_source": true,
+  "source_images_checked": 562,
+  "source_image_hashes_equal": true,
+  "markdown_files_checked": 538,
+  "relative_links_checked": 4869,
+  "anchors_checked": 1626,
+  "broken_links": 0,
+  "reference_identifiers": 334,
+  "unresolved_original_reference": [
+    "图10.69"
+  ],
+  "not_verified": [
+    "OCR逐字与数学符号正确性",
+    "原书疑似错引的正确更正",
+    "8.23和8.24(b)所需外部网站表格"
+  ]
+}

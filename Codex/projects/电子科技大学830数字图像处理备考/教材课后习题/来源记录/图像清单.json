@@ -1,0 +1,6186 @@
+[
+  {
+    "pdf_page": 11,
+    "printed_page": null,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-011.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f253b9d18e3c7ae11fc4cc857fc7945d6f0a94ffa7b8e058330900a58b3061d2"
+  },
+  {
+    "pdf_page": 12,
+    "printed_page": null,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-012.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "83948825732b49e553875fe174e636652c7e9ffcaee5991dce68b24313ef5fdb"
+  },
+  {
+    "pdf_page": 13,
+    "printed_page": null,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-013.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "75776b5aa9b4a5b9514e3cc32f3582728b004ca151fe2fef92a2563485909959"
+  },
+  {
+    "pdf_page": 14,
+    "printed_page": null,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-014.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cf4d13f62f42ee88deb01fc12f14db903d2b8e97e4e8cbca02a726838d6f645b"
+  },
+  {
+    "pdf_page": 15,
+    "printed_page": null,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-015.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fdb5b217c8473edcb9b6d80bb3a3e5a5ec6b47324895a2453d754f28dab721a9"
+  },
+  {
+    "pdf_page": 33,
+    "printed_page": 18,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-033.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a67d740e58e71c2440649d521bcd828bfbbe4fffd191ea0bbe97543c54651b33"
+  },
+  {
+    "pdf_page": 34,
+    "printed_page": 19,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-034.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "25c530a56e850dd8b2759f44c1cb132d0c0fca76a01e2476330d1fecfcb8d967"
+  },
+  {
+    "pdf_page": 35,
+    "printed_page": 20,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-035.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "33c72066ae9680acebb323de8505ebd63e7efed702e5252ccea6dcf8ce836f76"
+  },
+  {
+    "pdf_page": 37,
+    "printed_page": 22,
+    "roles": [
+      "evidence"
+    ],
+    "source_image": "assets/pages/pdf-037.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ca9ec8edeba3db034e57b5789011e01100304749a58233d1c7b8f42c45d5c603"
+  },
+  {
+    "pdf_page": 38,
+    "printed_page": 23,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-038.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "31699b65820cafc519fb8e8f8902596319abd54d3a82fb56f1aa3b9d58a76e67"
+  },
+  {
+    "pdf_page": 39,
+    "printed_page": 24,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-039.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "20bf48650aceb9aad2a5474e200f0d4890d44401fac7fd8b5a5319cbd28b2adc"
+  },
+  {
+    "pdf_page": 40,
+    "printed_page": 25,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-040.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f212a43ee9329d2c558fa1673331fde1d871d88596cc5e5276e1e34bd6fc8384"
+  },
+  {
+    "pdf_page": 41,
+    "printed_page": 26,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-041.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e9da109d57ac5247c335de6c264d090c99bfa014a5c59f0d791386364893835f"
+  },
+  {
+    "pdf_page": 42,
+    "printed_page": 27,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-042.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "86c3b5a3ea74de595678c4e667657d5c06e5863e8f7e752020ff0b9652e8ef5b"
+  },
+  {
+    "pdf_page": 43,
+    "printed_page": 28,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-043.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "afc20576f7cffdcce4cb7b014358a82dc746c338e8cc96d79e956f1dd01ee152"
+  },
+  {
+    "pdf_page": 44,
+    "printed_page": 29,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-044.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6d00885092cfb99fb3de5acd98f79453b2b33e03878ac97a549ca2555f04b5ec"
+  },
+  {
+    "pdf_page": 45,
+    "printed_page": 30,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-045.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "41d73b6b6e7555d2121c02e8a4d3169ba368e5ded7503aa486cd80bd745f858b"
+  },
+  {
+    "pdf_page": 46,
+    "printed_page": 31,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-046.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "90b27eaac346f80a53b7fe1592c71579de95d3ff95d2e349fe748bd33a3c95c6"
+  },
+  {
+    "pdf_page": 47,
+    "printed_page": 32,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-047.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f3ee29060f146cb4e12df7b770a01b4456a13bd860f92c5c84d18c45f5895ef7"
+  },
+  {
+    "pdf_page": 48,
+    "printed_page": 33,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-048.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3ff1d9054419168bbc8d407c3c73c641e44da882b40f2a6c390ce312aa324fc0"
+  },
+  {
+    "pdf_page": 49,
+    "printed_page": 34,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-049.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1f2a306d8b1ef3a6cbad0681fdf22134116ea09fa93ae97ea865dc9498e5a329"
+  },
+  {
+    "pdf_page": 50,
+    "printed_page": 35,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-050.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ddc857eb7196fe68bbda7f39e7dc3ab016027fd72f0f8849ec94d40fad8a14ea"
+  },
+  {
+    "pdf_page": 51,
+    "printed_page": 36,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-051.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "250d648e4bd8c7171ad88fb65c353833d1dff62e59d0bfbe69883436a5252994"
+  },
+  {
+    "pdf_page": 52,
+    "printed_page": 37,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-052.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3764dc42e603121801e6a8ab992b1febd470c5fa35d3ae6ed566d3a1f1fe5379"
+  },
+  {
+    "pdf_page": 53,
+    "printed_page": 38,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-053.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8b6514a33c47e0d1a44339ebe7cb2de5b2f4f5114deebfd3953489f4717a009c"
+  },
+  {
+    "pdf_page": 54,
+    "printed_page": 39,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-054.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "87cea81d99caf8a178771ad039158765b32403aabe545b46bbdea4790d81fc58"
+  },
+  {
+    "pdf_page": 55,
+    "printed_page": 40,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-055.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d26b96492b8381c17f87ac108869e443c08493b765207ef6261af5f9bc5b1b89"
+  },
+  {
+    "pdf_page": 56,
+    "printed_page": 41,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-056.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3a861612a1f32237d3556b6a13ff433ab49cfae4678b48a9811cb54a7bb47462"
+  },
+  {
+    "pdf_page": 57,
+    "printed_page": 42,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-057.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f11a45f047bae8c52d130fc2326e55fca02f89fc03edd02c5c6472cfdad7971c"
+  },
+  {
+    "pdf_page": 58,
+    "printed_page": 43,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-058.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "599f4e2318d2af59cb6a84897b34e1789f24730a1668ddec3f2906a9339742b8"
+  },
+  {
+    "pdf_page": 59,
+    "printed_page": 44,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-059.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d7265e18778b8a0d8bf1deec5982e15811c27d0e59a7a052d8ed7cec7aaa0e4d"
+  },
+  {
+    "pdf_page": 60,
+    "printed_page": 45,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-060.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2806c55280f640988349719ed1b1ceabb36e7f625dfc0be083ada8e1633bb5fd"
+  },
+  {
+    "pdf_page": 61,
+    "printed_page": 46,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-061.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2357b2a910a13a1eb1a3fcea8f83fb3fbc9a7a34441a90597ab5062b10ec6bbf"
+  },
+  {
+    "pdf_page": 62,
+    "printed_page": 47,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-062.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d3f2c9d559f8fc8142a09b77801bfeeb376d61b5a79e85847617f5292d1d215b"
+  },
+  {
+    "pdf_page": 63,
+    "printed_page": 48,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-063.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e0d46f8a6fea2d21e6200162e69b0ecd525c02be080a49804d401ba10a470fa6"
+  },
+  {
+    "pdf_page": 64,
+    "printed_page": 49,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-064.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ae699204a48e169322fee08e1d055111a503217442b77dc3dd7b15f37ee35ed2"
+  },
+  {
+    "pdf_page": 65,
+    "printed_page": 50,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-065.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bcb593876d705d23a9a2750c249aa06370c5e314357d7ffaba978c43f304a723"
+  },
+  {
+    "pdf_page": 66,
+    "printed_page": 51,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-066.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "14e473076a69be5ba9cad2066f46e4e12d9f0926010e8dbcafc51afa9482e246"
+  },
+  {
+    "pdf_page": 67,
+    "printed_page": 52,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-067.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "eeb860d6e83f6ab1a7c8e8e74d5cf24df97d7d767cb3f6186aa12cc40473f641"
+  },
+  {
+    "pdf_page": 68,
+    "printed_page": 53,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-068.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "aa0b590178051e1797f662c9732daa33fc6e8a8de5e57900127ed13690cf2b6f"
+  },
+  {
+    "pdf_page": 69,
+    "printed_page": 54,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-069.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "acc9f0b8c41c164ece186db2d036280457d01e47993c8f75701a6b1d93b65802"
+  },
+  {
+    "pdf_page": 70,
+    "printed_page": 55,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-070.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "eb38ef0282657f7ff5e6ba48cafd6777599c61b46a75b5d35948aa42872ebf2b"
+  },
+  {
+    "pdf_page": 71,
+    "printed_page": 56,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-071.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "745ca244aa5dbf9328a0241496de5911fc7f51deb7b6c8efe267492d77f2d314"
+  },
+  {
+    "pdf_page": 72,
+    "printed_page": 57,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-072.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8511d42af3ba128e1709284ce7c5ca60d5ebdf4106a32efaced7df8f6efa9c8a"
+  },
+  {
+    "pdf_page": 73,
+    "printed_page": 58,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-073.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a7fae22e81fd90cc357d6e55c902f9adcb72e51d187cb38cf86d9641a62826fb"
+  },
+  {
+    "pdf_page": 74,
+    "printed_page": 59,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-074.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cb5158be1546851a75f4374031268cc56fc6d1b39c678ee6ec55c5104223a65f"
+  },
+  {
+    "pdf_page": 75,
+    "printed_page": 60,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-075.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "142893a97574f92a9219f3c14a5cb76df0a8a68858dca850a010019c6556464c"
+  },
+  {
+    "pdf_page": 76,
+    "printed_page": 61,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-076.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "26fe07cef2cc3a61e172826861ff8aa81bdff6578736c6edda3cd73d8cdce383"
+  },
+  {
+    "pdf_page": 77,
+    "printed_page": 62,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-077.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3c223d4330145e9a397cbe44d7544fb32c134e706f3b916387f0e925b2baf915"
+  },
+  {
+    "pdf_page": 78,
+    "printed_page": 63,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-078.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3ec71bbfbaeace4e67a939b7beeb6eb48db06fa1f63f489c7c9bb1c57bd2f94b"
+  },
+  {
+    "pdf_page": 79,
+    "printed_page": 64,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-079.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0c3c50942fd84c0de9d7597c4c6de098b8da716b7b158ec2fcf441fff7358693"
+  },
+  {
+    "pdf_page": 80,
+    "printed_page": 65,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-080.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "52e3d6b25b7a0adf949446bead73af06f49094679e03a505a12c94f2d6c6cc92"
+  },
+  {
+    "pdf_page": 81,
+    "printed_page": 66,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-081.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "60684a467266f8cb0c32d134ca18b3d354759fa5b7d0b63e47bac005973c171f"
+  },
+  {
+    "pdf_page": 82,
+    "printed_page": 67,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-082.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8a00cc35ba3af44ea1fed9c5c28fd16617ef959b1e38a0801ce15eefe282c825"
+  },
+  {
+    "pdf_page": 83,
+    "printed_page": 68,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-083.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6831ea9db65116f2401a77b622722753714e95607c3ca48e15a2bc29770c42b0"
+  },
+  {
+    "pdf_page": 84,
+    "printed_page": 69,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-084.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1b8d9874a08f306076ad179fdded3f893b1c5be17b6d4be0dd4d62ebc355f139"
+  },
+  {
+    "pdf_page": 85,
+    "printed_page": 70,
+    "roles": [
+      "exercise",
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-085.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "04da264a68875cf03657a446ada53d33a1899983e03509f52f04c866b6d54912"
+  },
+  {
+    "pdf_page": 86,
+    "printed_page": 71,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-086.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e43bc44b434cb74e9ee3f48d6778dc0a75d3453816307e1460921ca447d13c9e"
+  },
+  {
+    "pdf_page": 87,
+    "printed_page": 72,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-087.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "78365303df66f8aeb977de1de26b26b205ec4a562ff6e1aada5f1a8e11dac447"
+  },
+  {
+    "pdf_page": 88,
+    "printed_page": 73,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-088.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b49ca8a39c855bb9adc96d2f25fcf596e8bfe2df8e46285fef47fb3636d62a35"
+  },
+  {
+    "pdf_page": 89,
+    "printed_page": 74,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-089.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d60be6d6a894ca24fb686c8bd8143c12fc16c64df21ee771ad96a60742a4940c"
+  },
+  {
+    "pdf_page": 91,
+    "printed_page": 76,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-091.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "dc920d6fe72cf465f82bf990cd71b49039ca33e73a0ea7a6c848434b6ea686be"
+  },
+  {
+    "pdf_page": 92,
+    "printed_page": 77,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-092.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "613ba1a0f4f25db477f15fa37a5719f409037f46064a8f630f7e5a92de92fb6e"
+  },
+  {
+    "pdf_page": 93,
+    "printed_page": 78,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-093.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "862aa12a255eb81cab23f691c000a98963db7b7ee7fed01f817f222df4c48155"
+  },
+  {
+    "pdf_page": 94,
+    "printed_page": 79,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-094.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "62eb57fa1ea8b53c9c659e2dc00fbf8bb691c36bca434c20367b3ab59d2fd972"
+  },
+  {
+    "pdf_page": 95,
+    "printed_page": 80,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-095.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "73b8e3f7fc2a9ec40be6459589c3b8aa4e6df5db8165b6023c4202369e02cef3"
+  },
+  {
+    "pdf_page": 96,
+    "printed_page": 81,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-096.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "88feb43c2f2b211fba7d1df33dced5ae746d7638a922fd60310bf88995a6359c"
+  },
+  {
+    "pdf_page": 97,
+    "printed_page": 82,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-097.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "367661efee5a9d4a081f6c290e8719f503939cfcdb96aa0fd6e6d22c01e3bf7a"
+  },
+  {
+    "pdf_page": 98,
+    "printed_page": 83,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-098.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9fb683d9d38cc5fb1d4113f0427100899d707ce9bb47748a1c8a18109b725726"
+  },
+  {
+    "pdf_page": 99,
+    "printed_page": 84,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-099.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d54f7cb995f73aa73ed53d0f74d8b4d5f21ee27886c60512ea7af850206d1a2d"
+  },
+  {
+    "pdf_page": 100,
+    "printed_page": 85,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-100.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "56856109e127804c3b496d96449cb5fd88f15050b2727122214ea2a02d304715"
+  },
+  {
+    "pdf_page": 101,
+    "printed_page": 86,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-101.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0f703bd4d610f37a45c940da63972895bbbe003e8c806755cf258bd1701aa064"
+  },
+  {
+    "pdf_page": 102,
+    "printed_page": 87,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-102.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0be398decd89acdb43214d2652f691d1ec91fabd5c71665232df0cee399e279b"
+  },
+  {
+    "pdf_page": 103,
+    "printed_page": 88,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-103.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "4d3e2a67916d6448262a57a34e7373ca6fd2d5adacc94d86208d7444cd7ac5f1"
+  },
+  {
+    "pdf_page": 104,
+    "printed_page": 89,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-104.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "099db5e69d1122dd853b51998e5ffd57626a1e1f90ac2e247bf5c49a203b8c55"
+  },
+  {
+    "pdf_page": 105,
+    "printed_page": 90,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-105.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f2e9dba0d43bf5273573caa89ab71c923172c4eb356c74a8c662f07b573263f0"
+  },
+  {
+    "pdf_page": 106,
+    "printed_page": 91,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-106.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "360604e6a5f488a0f21b5d7849f8741de0e29cdfbe7460fbfe80d0d77c5b4f96"
+  },
+  {
+    "pdf_page": 107,
+    "printed_page": 92,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-107.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "292646e8fd5c951ec6c1b14f963a401b4c7cb6ae0ca5a3fa30176fe92e0a2f3e"
+  },
+  {
+    "pdf_page": 108,
+    "printed_page": 93,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-108.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2fbb420ba486d26501fdc4383daa1df4c127d5d4ba1dd94d666a2cef1dd758bc"
+  },
+  {
+    "pdf_page": 109,
+    "printed_page": 94,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-109.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3b194bb89aa297e55d3aed633459a0ce6dde4a6580750f7eba0dd20ba282bb26"
+  },
+  {
+    "pdf_page": 110,
+    "printed_page": 95,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-110.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "67e1811aea3c3e53e2394df3877d636799103c5bea300b648d686a0564fe19b8"
+  },
+  {
+    "pdf_page": 111,
+    "printed_page": 96,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-111.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a7dcaa99de3933467a2ca89e85ed8bef8c68eb323a04fb86077a64c7373fd1d2"
+  },
+  {
+    "pdf_page": 112,
+    "printed_page": 97,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-112.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d7dd34b540404b05988dec61bd674ed140a16bf5694edc2cd97e302f022917a6"
+  },
+  {
+    "pdf_page": 113,
+    "printed_page": 98,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-113.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b228dab1402a72bb11c0f0bb7e14c67d467283008199e5c0ee09d2f445c23c5d"
+  },
+  {
+    "pdf_page": 114,
+    "printed_page": 99,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-114.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "189d36d88693ccd52375e77e96a1d332de85c56f76efa1562f2890bab13fadae"
+  },
+  {
+    "pdf_page": 115,
+    "printed_page": 100,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-115.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f3594de11e3e10159d6f89e8f9d34bb40c86197668bb30f42feeeff72b73c369"
+  },
+  {
+    "pdf_page": 116,
+    "printed_page": 101,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-116.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d645a924f756d1599e778fa46f2c73434936b504c94c83c666b8bef0ff7e3d40"
+  },
+  {
+    "pdf_page": 117,
+    "printed_page": 102,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-117.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ab3ed2949202cda433174b974beaad3e1711902751fa3fc1d6b6bec694a620bb"
+  },
+  {
+    "pdf_page": 118,
+    "printed_page": 103,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-118.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b85b098d83e63cb0fdf7b932e27ce672b1454342341911c34a59ec37fe28d36e"
+  },
+  {
+    "pdf_page": 119,
+    "printed_page": 104,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-119.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "4813913de78a33895e4831e27b98bc4b02909c1121058b7d008c83024d607330"
+  },
+  {
+    "pdf_page": 120,
+    "printed_page": 105,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-120.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5ae6566555bf669972f68b0ec10f25d71bb16096335f9c38fc6e1b76ef7449ef"
+  },
+  {
+    "pdf_page": 121,
+    "printed_page": 106,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-121.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "9042a01dd7140a8a20f678a5cb728bbaad719d5aff5ce9b593f614a12b57aadc"
+  },
+  {
+    "pdf_page": 122,
+    "printed_page": 107,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-122.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "afe63facb51581047252f777d42a0b6f243455e3acd08f548748327c8b9df6f6"
+  },
+  {
+    "pdf_page": 123,
+    "printed_page": 108,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-123.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "188ec5357e8fd57230eb6f1a86d9be69481a82c19bda12f61bd03538b10375b4"
+  },
+  {
+    "pdf_page": 124,
+    "printed_page": 109,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-124.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "17a49fc1d4ef6206508e1ec303779a59fc40dc247bb9ee8c30f6b671912dcd75"
+  },
+  {
+    "pdf_page": 125,
+    "printed_page": 110,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-125.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6db58727ed3936b3cd7bd8bcf04e67322e79bde2fb651d8b542490de972c7da3"
+  },
+  {
+    "pdf_page": 126,
+    "printed_page": 111,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-126.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1dc211abb65bcf859405438051128d2a10f84a894e0cb0cba3b68db9e6b292b3"
+  },
+  {
+    "pdf_page": 127,
+    "printed_page": 112,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-127.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f412cd1d7d5ef89431bc581f43deb3731dfe06c81f943b24dada05cb90c51318"
+  },
+  {
+    "pdf_page": 128,
+    "printed_page": 113,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-128.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "57a20ee1c321cf701d5e567f3a23e2800f6b7944da5eab8340a7a8b2beab34b2"
+  },
+  {
+    "pdf_page": 129,
+    "printed_page": 114,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-129.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ab0e43e52271836808cdd1e3664e48a7a6b84d8b298a679f44298bea6097e801"
+  },
+  {
+    "pdf_page": 130,
+    "printed_page": 115,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-130.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "223317fb9a8c91e093ddf8ccaed35f7b36a2b2771dc73f9a7684dc3ad396f2f6"
+  },
+  {
+    "pdf_page": 131,
+    "printed_page": 116,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-131.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "07c2a37096dc7da363132fa7ac9210c0bfd221645a618265779d2145d992ab4a"
+  },
+  {
+    "pdf_page": 132,
+    "printed_page": 117,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-132.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c5bf6e9b9ecd62e75bed628535bf110796dad30e4f8b6beb4bb69099b2480ec4"
+  },
+  {
+    "pdf_page": 133,
+    "printed_page": 118,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-133.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "db63e3a4a264cf4dc82a1b1536625e39c619e3f0399242c1c1b9bc60af528d8f"
+  },
+  {
+    "pdf_page": 134,
+    "printed_page": 119,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-134.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c714335a64228f51d52cf2d5a219e4f3906e73677745b56a7d75cf4bc560932a"
+  },
+  {
+    "pdf_page": 135,
+    "printed_page": 120,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-135.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "eb9b3743ee9d90b0c9d0225ce34baf80e225abf4f963c3df4b3b93fc1f446104"
+  },
+  {
+    "pdf_page": 136,
+    "printed_page": 121,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-136.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f7748311dd0ba2a4ec2f9c52a0bd0254a109be1b0b3ff28d7517b52bb608cf3b"
+  },
+  {
+    "pdf_page": 137,
+    "printed_page": 122,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-137.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e8a7c009316058ba8c25734a1d78d9978bcb2ef58ac27065729850817517007f"
+  },
+  {
+    "pdf_page": 138,
+    "printed_page": 123,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-138.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "423c0b76eeb2454947588cc8f046ad8eaff577688e36ca290f8c6bbda5e4251e"
+  },
+  {
+    "pdf_page": 139,
+    "printed_page": 124,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-139.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b01ed3e64023cb57b4dd904120e25afbbf68d4f216ca8e9293b54cab25b1302b"
+  },
+  {
+    "pdf_page": 140,
+    "printed_page": 125,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-140.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cff14701ca5f8d4fe4ca509376d73aae6639acb19fefd9ac422fd9129bc94d91"
+  },
+  {
+    "pdf_page": 141,
+    "printed_page": 126,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-141.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a1d765e026fa85c23a3d4c61393a6fe7eae6b02d0d58b800cf9f5c7c616aabdf"
+  },
+  {
+    "pdf_page": 147,
+    "printed_page": 132,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-147.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f8d1ac55b11e2ea77f859098ba6b46848d66ebee0898815296c7171c10feed3c"
+  },
+  {
+    "pdf_page": 148,
+    "printed_page": 133,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-148.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "05e4150d7372a78e3fec74deb9d07d66bff21aa624a27226f1d11e4871417b58"
+  },
+  {
+    "pdf_page": 149,
+    "printed_page": 134,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-149.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "44ed9f400ce6179a156601590506a871d4cd6b2811ee6d59facf7042fbca99e6"
+  },
+  {
+    "pdf_page": 150,
+    "printed_page": 135,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-150.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "df7012cdeb6f3366596e465b6d530c688799f36bae1f697b98deba282a843610"
+  },
+  {
+    "pdf_page": 151,
+    "printed_page": 136,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-151.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1edcf4aff50075c6f95aadf648bc3ab9056ababfc10e2c800fa0e288311be17d"
+  },
+  {
+    "pdf_page": 155,
+    "printed_page": 140,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-155.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2145425d12ca9e27cafdd612ec988832a82fe1b70c7396fd58bb2948406738f7"
+  },
+  {
+    "pdf_page": 156,
+    "printed_page": 141,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-156.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6d1ab1f899733ba111f2a93e311bc3751ad5cfca6a1cac652ea1d49bc3ffae96"
+  },
+  {
+    "pdf_page": 157,
+    "printed_page": 142,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-157.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2b25e9cc65017b23c9fb8e7df9376c1bec7f11e4ea14504c693852c569bdce4a"
+  },
+  {
+    "pdf_page": 158,
+    "printed_page": 143,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-158.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6b271e45cf46533b0cbcaf82677338240c27df84bd05dea4624bf3baff928533"
+  },
+  {
+    "pdf_page": 159,
+    "printed_page": 144,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-159.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d13bf95ddff78e888d76378f38dda0273ac2c228b7eb7a97d19272e98bcf840a"
+  },
+  {
+    "pdf_page": 160,
+    "printed_page": 145,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-160.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "851d02156912e3583925e20d498cbeeb10f28e85bee0e7cea9329d2d7a5bf439"
+  },
+  {
+    "pdf_page": 161,
+    "printed_page": 146,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-161.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "efc098c0c731c780aa33814777f19fcf564d2c40eb0634844fdaa40af4bb4fd1"
+  },
+  {
+    "pdf_page": 162,
+    "printed_page": 147,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-162.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "552beddca3ec8634a84417ad634fc1605d39e89ebdafd08cc29e20980664bfb8"
+  },
+  {
+    "pdf_page": 163,
+    "printed_page": 148,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-163.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e82f1c68e212e28f598c25f013005ebf9fc47d58f9a92c2940d8801789df5b9e"
+  },
+  {
+    "pdf_page": 164,
+    "printed_page": 149,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-164.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ad4741ce8776e32876a03f991ad8693796b6f2ca741c62282439ad928f069ac7"
+  },
+  {
+    "pdf_page": 165,
+    "printed_page": 150,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-165.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0fb678feb3dc4e2b8c9508f47c4f83015a1f27abcfc7cf6f7e78a72a76bfdc86"
+  },
+  {
+    "pdf_page": 166,
+    "printed_page": 151,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-166.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "63a523e65ac8e6194278547aed3744156315612b852a8e4600c864ef71357730"
+  },
+  {
+    "pdf_page": 167,
+    "printed_page": 152,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-167.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "97cf5f2726779bf2f2db9d32d7b410458cde4906d6c2a2b75d53f1ec0962137a"
+  },
+  {
+    "pdf_page": 168,
+    "printed_page": 153,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-168.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b450ed855034e286cde22b44854fc6454483730197174824ada95d79f02f70b4"
+  },
+  {
+    "pdf_page": 169,
+    "printed_page": 154,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-169.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f4eecd8786cbd41df303b8d07d9a337faf64b47a4af2c14e3117f729dcff61d8"
+  },
+  {
+    "pdf_page": 170,
+    "printed_page": 155,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-170.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "289c113d08b497d2a4dce66f84e146a1c9fbd6b2af371936a6d9418b5019b619"
+  },
+  {
+    "pdf_page": 171,
+    "printed_page": 156,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-171.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "c90663b6f6fecdbbf013b5da94effddbc58da66b8ef4b8cb3f9d234568bf6924"
+  },
+  {
+    "pdf_page": 172,
+    "printed_page": 157,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-172.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a5bd450e8584ff22d15dacb92639210c80d64b6a2cc1bacd29f1990114878a54"
+  },
+  {
+    "pdf_page": 173,
+    "printed_page": 158,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-173.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ca8b791f46cfd5bb41c8d43ee4a6ef53365dc25bf9464de909fcf323b4a0bca3"
+  },
+  {
+    "pdf_page": 174,
+    "printed_page": 159,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-174.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "63c9e26952125372f148f1226d9085a4718bbd57ee4d682c926e451836b32013"
+  },
+  {
+    "pdf_page": 175,
+    "printed_page": 160,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-175.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f22bb26d33e25a99884a8ce5b9102213c195b60bd1e35f9dff290f85a7951e2c"
+  },
+  {
+    "pdf_page": 176,
+    "printed_page": 161,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-176.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e5a56087958088b5c3a9ae73dc9c7938518cc2fcc5a42ebff8d4ba1d8add1277"
+  },
+  {
+    "pdf_page": 177,
+    "printed_page": 162,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-177.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d7e4aafdeb2627b44f16204aca9779bdd9241e6aa4f55b781110f5649759edd8"
+  },
+  {
+    "pdf_page": 178,
+    "printed_page": 163,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-178.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1a13d0241388b24489c737bdc710308b659941ba6a63539822dffc2e9d82d2a4"
+  },
+  {
+    "pdf_page": 179,
+    "printed_page": 164,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-179.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3f67f73c661d332c3064bd9946b1351ba7b6a7690be5405aaddf2b40d9516745"
+  },
+  {
+    "pdf_page": 180,
+    "printed_page": 165,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-180.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ee0a84a6051b154b3661fc5eb8073e990404a88f54ab7361930e78d5fc8d1254"
+  },
+  {
+    "pdf_page": 181,
+    "printed_page": 166,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-181.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fbd3a859bba59bb32d597bfa339ff0a6641324b835b2382bb63c5f89174c09ff"
+  },
+  {
+    "pdf_page": 182,
+    "printed_page": 167,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-182.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1cba7a89aef677e90e4922a37b934e7bc044a08a25963f8ca82e63fa98a0e960"
+  },
+  {
+    "pdf_page": 183,
+    "printed_page": 168,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-183.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "03cf00aa1b84c1a2d5069661302fe00eb87ecf7cb66ee021c8ff1836e79c73f3"
+  },
+  {
+    "pdf_page": 184,
+    "printed_page": 169,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-184.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "61a73e0afbd60c6bd036cd55e8ce337784d8eff8b47795f41e1ed116c25bf3b4"
+  },
+  {
+    "pdf_page": 185,
+    "printed_page": 170,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-185.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "4ff8ea69add97526b63cbfd8857139bfe5fd4acde79c2fdd3f4c8f01c02e9b42"
+  },
+  {
+    "pdf_page": 186,
+    "printed_page": 171,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-186.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "443b6ea30086bee3bf815e1cdcb49dffdf8813d56a5e20946fd2516bcd7415c9"
+  },
+  {
+    "pdf_page": 187,
+    "printed_page": 172,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-187.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "88f666f09f6feb30cc4648db56d3c4016c37cc4126d03817bf11688a85133025"
+  },
+  {
+    "pdf_page": 188,
+    "printed_page": 173,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-188.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a5a66554870b33cb7fa080f9ab6e5104d7504e4215c162f02dc31ebed36bda6f"
+  },
+  {
+    "pdf_page": 189,
+    "printed_page": 174,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-189.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "dffd07c8e22b4f66846b82b877da816acf2a401f80ffa7438af632dfaf42961e"
+  },
+  {
+    "pdf_page": 190,
+    "printed_page": 175,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-190.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c1e455d6ea7037eb509fe50c17733b4a0c3ef216d0921a4d6f1c74c3fcf46621"
+  },
+  {
+    "pdf_page": 191,
+    "printed_page": 176,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-191.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "273ca10ac73d127e94fe5788a992a9775938d3f1dcc464247f4cb5fc24cb39df"
+  },
+  {
+    "pdf_page": 192,
+    "printed_page": 177,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-192.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "504f72eff7865ff37ac44287cf028506ad4c44639d393098a320f948711f5cb8"
+  },
+  {
+    "pdf_page": 196,
+    "printed_page": 181,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-196.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "428ae148b9ca344c4ed8febe1d8649f5a6355621fc6af48f68efc4112c8a66c5"
+  },
+  {
+    "pdf_page": 197,
+    "printed_page": 182,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-197.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "83d542e80b27be0d0b2f8e50aa61ccd3f5ad3d980b20463f6f9250defd94cc1c"
+  },
+  {
+    "pdf_page": 198,
+    "printed_page": 183,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-198.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5589c00f4ccdf433b28c87a8e528459dc36cbb6d86379c32c642f855c0c5f432"
+  },
+  {
+    "pdf_page": 202,
+    "printed_page": 187,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-202.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "bba71f967fb41e2ae761da289eddbf5e1525cffc184f2de32eaee3e29e729a80"
+  },
+  {
+    "pdf_page": 203,
+    "printed_page": 188,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-203.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a1f7289b03255a5eecc9e0d6f17aac6aadc199751b06873a8097f86b64a76075"
+  },
+  {
+    "pdf_page": 204,
+    "printed_page": 189,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-204.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4c41427f5b9ac432d91d2267c19ee3673cf737ea12e4f72a2eb4dd547c9fac29"
+  },
+  {
+    "pdf_page": 205,
+    "printed_page": 190,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-205.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1349108d6df8fe4926a767755e8c5f3e97f633f811ac7d863840b93ddc72b084"
+  },
+  {
+    "pdf_page": 206,
+    "printed_page": 191,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-206.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "434e3d2b5a17b31ea0cd7e68dbcc015fed71a88a0e67c9535ae78de0f5eb979f"
+  },
+  {
+    "pdf_page": 207,
+    "printed_page": 192,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-207.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0a1c44c2f336ed626cf90acf35d5328e47916ad0d42f705df9d9463933d48c9e"
+  },
+  {
+    "pdf_page": 209,
+    "printed_page": 194,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-209.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "50126e19c61ce7c81f3e223e4acfb5a314470883abab9f03b659684506b138ab"
+  },
+  {
+    "pdf_page": 210,
+    "printed_page": 195,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-210.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f3e22cc2094ee5df9b315641986c26ed80a9f332804457656b74f4ca9ca70574"
+  },
+  {
+    "pdf_page": 211,
+    "printed_page": 196,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-211.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "072eab521ecada885842b779a81fe2e0288d2467f15aa7b67d2ee924592101f1"
+  },
+  {
+    "pdf_page": 212,
+    "printed_page": 197,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-212.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5e5b1c0d39a45ebaf8b52a345d5520d6a40aac3ae0113459faf94d7a1b7b7000"
+  },
+  {
+    "pdf_page": 213,
+    "printed_page": 198,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-213.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8bcb2c96dacc7e6eb786dbf92b7e8a9d66096653c6c91e5a228385f430d24ca2"
+  },
+  {
+    "pdf_page": 214,
+    "printed_page": 199,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-214.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "de8836840acf3c1224e96cd3d8f6a1dac6bad4a40f01863545704234c40c732c"
+  },
+  {
+    "pdf_page": 215,
+    "printed_page": 200,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-215.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2d9d8d813fa758e4060a100b41d549ea8a75017e81a7332e44e6a65663d31321"
+  },
+  {
+    "pdf_page": 216,
+    "printed_page": 201,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-216.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "653adedb6cca9e430687dc6c0d46b1d304ebd29a2c5bd34ea3c21458a4e30b84"
+  },
+  {
+    "pdf_page": 217,
+    "printed_page": 202,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-217.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "19ff7eb572a568c34ba6fcdcb7313b62824a08a3c6c8e017f1ddbd5f603ae8e6"
+  },
+  {
+    "pdf_page": 218,
+    "printed_page": 203,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-218.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a998f05396defb8695b41a99b1a5375a421544a9419543cfb7b29d2edf54d667"
+  },
+  {
+    "pdf_page": 219,
+    "printed_page": 204,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-219.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b08f21f553109d45119e9a4c5fbec121c944a38bbbbaebf2edb7e42411afa5c9"
+  },
+  {
+    "pdf_page": 220,
+    "printed_page": 205,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-220.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6c206c2972a6d2a9d22ea146fcb716d0293b331ef2cffd069b225d79dad65113"
+  },
+  {
+    "pdf_page": 221,
+    "printed_page": 206,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-221.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5e21d04eae7e6d59a192b2492694199a57c5324c21f70ca06161cc8b34ae5df5"
+  },
+  {
+    "pdf_page": 222,
+    "printed_page": 207,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-222.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f9b8e252c25390e5590a3bc4a22168bd687af83b016494b39d3fd39c05bd290d"
+  },
+  {
+    "pdf_page": 223,
+    "printed_page": 208,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-223.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8e70988b9427dbf6b3a8e74d637d6cbcfec1ea4ac1f3654bd7db92424e983bfd"
+  },
+  {
+    "pdf_page": 224,
+    "printed_page": 209,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-224.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "167e1cc632ee3a9a6137d99d270513319507b29a0aa59d9ff1b9e7941965f7d8"
+  },
+  {
+    "pdf_page": 226,
+    "printed_page": 211,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-226.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5014d9ad17f495081c4888e9bf6d9a691be2868c789453f852c72761d3e134d4"
+  },
+  {
+    "pdf_page": 227,
+    "printed_page": 212,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-227.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6d6258c337104823914e8861785e0ebb4f0dd33f104c4c4d04a29f7d527df611"
+  },
+  {
+    "pdf_page": 228,
+    "printed_page": 213,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-228.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "49c0dd1f93573a6e2456f233662a6c2ce4f7bbb16517d803fb0374c46299f797"
+  },
+  {
+    "pdf_page": 229,
+    "printed_page": 214,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-229.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7d509c79d1e59d2df5203785bafd57d73f04ec1e1666487d805a8d56b4cc3074"
+  },
+  {
+    "pdf_page": 230,
+    "printed_page": 215,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-230.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "986cb098ed579544403f33dc401cd42cd5226140a4638935820238e19462369c"
+  },
+  {
+    "pdf_page": 231,
+    "printed_page": 216,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-231.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5207095b2eb2a1ab7b5a33a82a8504a5c0ac81fa00e65df25388aa53969aaf7b"
+  },
+  {
+    "pdf_page": 232,
+    "printed_page": 217,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-232.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "84d8dff3ee250e6457221e2e1a30a86eb73b9798863ae0e68e4c2d31d7e5e378"
+  },
+  {
+    "pdf_page": 233,
+    "printed_page": 218,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-233.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e51772445c2ce8a002d9cabc16bb390ac15c76ddd8d4c9d6378d329081aaa957"
+  },
+  {
+    "pdf_page": 234,
+    "printed_page": 219,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-234.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2c9328739905811c69963029bbfd04bbc4ebb2db369ebf46a337d7108cd61ad2"
+  },
+  {
+    "pdf_page": 235,
+    "printed_page": 220,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-235.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ebb8de1fc34ff0ff410e2a552329274d4d12e75c579ada4be609f61874c86202"
+  },
+  {
+    "pdf_page": 236,
+    "printed_page": 221,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-236.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3f2932ce160f4d8d6e4b2a2913cb1c1013905a761c991491a37a801d584190fe"
+  },
+  {
+    "pdf_page": 241,
+    "printed_page": 226,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-241.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "43affcff5ee6a29c555fdfcc6ffed1ddb8dfe09d9d7e22caad9b1d2ab5b5e204"
+  },
+  {
+    "pdf_page": 242,
+    "printed_page": 227,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-242.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e07f7f12f3a64c5bdb5d23770870c153b75bd8339edad908ab4400f7727b7000"
+  },
+  {
+    "pdf_page": 243,
+    "printed_page": 228,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-243.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "18ce57577ef4053cc673d0f64f27cfd54cb63760ae10887e0f6498648fcfeefd"
+  },
+  {
+    "pdf_page": 244,
+    "printed_page": 229,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-244.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "031d6b2abe85256de17d99dc6268b315c52773c687db3f87070732ce17bff167"
+  },
+  {
+    "pdf_page": 245,
+    "printed_page": 230,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-245.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8c2c0a2ce95e0aa8a5aa4e87baa3548e5f3f35473ba9c676b10f20041dd1bfa4"
+  },
+  {
+    "pdf_page": 246,
+    "printed_page": 231,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-246.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4ca9e562d1d2d208a2501ac235cf0d119ce254baebdcbb5cc7be0fa92fbf6f24"
+  },
+  {
+    "pdf_page": 250,
+    "printed_page": 235,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-250.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2ea0c1f0e3937b2113baeaf819c6dc900613f00058ca3cce1fc0adfc5cb7dcbc"
+  },
+  {
+    "pdf_page": 251,
+    "printed_page": 236,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-251.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d4fd5d75d7ef16bdeb2300c9618943de9cea44ecb542adca9dc5525198b20b59"
+  },
+  {
+    "pdf_page": 252,
+    "printed_page": 237,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-252.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "612b09e47d8c2bc2ced2d77212c70ca78762f2756f8959e5be2e2544ef1b115c"
+  },
+  {
+    "pdf_page": 255,
+    "printed_page": 240,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-255.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b0db4e5447d30ad169d02d2006fdb925dbbb036596e4964a3f25c5ac748c6a52"
+  },
+  {
+    "pdf_page": 256,
+    "printed_page": 241,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-256.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d0acdc60a6c26efd369c75788c7d8cf419ce450970b849374f4e4e9f7f11b780"
+  },
+  {
+    "pdf_page": 257,
+    "printed_page": 242,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-257.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "302cb10a59c55ea2527d5534260df87513654089e378b1a47f56d0013459a97d"
+  },
+  {
+    "pdf_page": 258,
+    "printed_page": 243,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-258.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "18a6dec33a4861a09925e0cc519b2d0a0c32b1afe9e629dd84e13b69837d67f5"
+  },
+  {
+    "pdf_page": 259,
+    "printed_page": 244,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-259.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8c36642eddd3f7a97efdd4a649dba22518a93cfa5fe9eee74b7f221373b7de2f"
+  },
+  {
+    "pdf_page": 260,
+    "printed_page": 245,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-260.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "72bd9e7199c5beba81bee7963c7647d507d136e5b9e5fd0159b544835553ac5b"
+  },
+  {
+    "pdf_page": 261,
+    "printed_page": 246,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-261.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2b3dd0e0807538f7fa1e625e6faf5b261163fe490f322f5b156cf4d3dfd92aba"
+  },
+  {
+    "pdf_page": 262,
+    "printed_page": 247,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-262.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "578dd97926eec3f3d1bad8410b37c43377568f260371ada07bd1d0b3fa37a151"
+  },
+  {
+    "pdf_page": 263,
+    "printed_page": 248,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-263.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "702a4a1709306d778ce42c1fefd64180591560497d1c930e296fa2d29656ac63"
+  },
+  {
+    "pdf_page": 264,
+    "printed_page": 249,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-264.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5b1ca445d1c090549c80463751f2557a12d194e3d770856220ade4dd68e3587f"
+  },
+  {
+    "pdf_page": 265,
+    "printed_page": 250,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-265.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "57352c29202d5afbce0d0d6d182674f23421bae9213a95d91ea74097f8987bad"
+  },
+  {
+    "pdf_page": 266,
+    "printed_page": 251,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-266.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "266cb343c43c9c90d0d5889a66c9d2e92bd101a8e4b1221cd5d84f2e0b40c279"
+  },
+  {
+    "pdf_page": 267,
+    "printed_page": 252,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-267.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7fff442fae84675280ff82a252005ab7977ba9c9fa934deb5aa63895cc6ccb86"
+  },
+  {
+    "pdf_page": 268,
+    "printed_page": 253,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-268.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "084c6ea1b9c15d13bb130b10be7fcfae95c66d2b7415dc56e087784f3680078b"
+  },
+  {
+    "pdf_page": 269,
+    "printed_page": 254,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-269.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f74e2456e0386558250d7a96401b1e92a15c1d45d26ae5ee17260fd27c0901ed"
+  },
+  {
+    "pdf_page": 270,
+    "printed_page": 255,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-270.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "36c448701dd276fef4b7beebb0ce50b47eeae5844d2897232b6110aee0ccb8d2"
+  },
+  {
+    "pdf_page": 271,
+    "printed_page": 256,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-271.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ed57fc1e584f6e4f091874135e1768cc9af18e5063d2708bd5e4a5c40318d632"
+  },
+  {
+    "pdf_page": 272,
+    "printed_page": 257,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-272.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "79ee27ebf5ba18b576a8e927d8ab1a398c48210a48e4ce08e21682bf14c6c2db"
+  },
+  {
+    "pdf_page": 275,
+    "printed_page": 260,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-275.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "db2b0c4af4e64e85fef6982aa9ba8f2c93ad0169e873cef6f4875e69495e026c"
+  },
+  {
+    "pdf_page": 276,
+    "printed_page": 261,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-276.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "bcf0ebf4b8ea81c673159b60000e3eeb8b2d0c97b87645c1482d3af710c2c022"
+  },
+  {
+    "pdf_page": 277,
+    "printed_page": 262,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-277.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b0191abde2338b40db1f6ab281e13a02c7052a8fc4adfccf1aa1a5faa26cdd9a"
+  },
+  {
+    "pdf_page": 278,
+    "printed_page": 263,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-278.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8d60413a8e57584a760c92a127d7ee9f1e4540ff86f50c7f6a3fd493694b096d"
+  },
+  {
+    "pdf_page": 279,
+    "printed_page": 264,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-279.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e42ef871015cf085a2c86df08a34912618b64c6fff4a369eccaeffefa5d17327"
+  },
+  {
+    "pdf_page": 280,
+    "printed_page": 265,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-280.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c1370deef3f5bf0d6a55a5d0e4d23aa2b917503f8169701e1abd09f80bf1f164"
+  },
+  {
+    "pdf_page": 281,
+    "printed_page": 266,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-281.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "839e5a2814ff3d7c2adadff8eca3ced75c1691cb833862377d8be1ddbad8fd4c"
+  },
+  {
+    "pdf_page": 285,
+    "printed_page": 270,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-285.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d9e25f2c7b0594ec2d0207d8611e3e155a47586ef4c1c9656bdc37aff592a532"
+  },
+  {
+    "pdf_page": 286,
+    "printed_page": 271,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-286.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "7802e0dd7839e5683cfa3cc815c28dc602330e7ece727791eccd827a553b3942"
+  },
+  {
+    "pdf_page": 287,
+    "printed_page": 272,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-287.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "acc0d5061d938cf52c9d6917c173bdc09b70553b8faf32a167ed3ccef27123bf"
+  },
+  {
+    "pdf_page": 289,
+    "printed_page": 274,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-289.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "42f82707fc6aad017e3664641081701cda3db5cd5fd864e338729db266b1b8e4"
+  },
+  {
+    "pdf_page": 290,
+    "printed_page": 275,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-290.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9bbe270f01744a53290c1b686b2b237e4516c0bfab6dd34ac8a70422d335e09e"
+  },
+  {
+    "pdf_page": 291,
+    "printed_page": 276,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-291.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0f1aa50d113961a3beda63adda8d7caa8eac8128f709d1fad7a37b238193dd8f"
+  },
+  {
+    "pdf_page": 292,
+    "printed_page": 277,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-292.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6676c117b46385d0a247cd2111d873a7a842112062166c598e15aae0cae79aa9"
+  },
+  {
+    "pdf_page": 293,
+    "printed_page": 278,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-293.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "92170066ae86cf2a9a477a3ecd45fc11671bfccfde173816a5477a29a22c3bfc"
+  },
+  {
+    "pdf_page": 294,
+    "printed_page": 279,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-294.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "477a7ea6066cb2430d576a2b78ecdab66a0db23650b1bfe4ed869f2284f10853"
+  },
+  {
+    "pdf_page": 295,
+    "printed_page": 280,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-295.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f6f6076a52cc3a9f5b1f2cc1f35406305565f714ac04d2150726b29a6966eee1"
+  },
+  {
+    "pdf_page": 296,
+    "printed_page": 281,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-296.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e7797984b0128888ade43a833caef007e050c2c67b69163066090d0c59317d32"
+  },
+  {
+    "pdf_page": 297,
+    "printed_page": 282,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-297.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b8ecd55bd2fead9229be06bd7baef37f6b76b809e3fd80928b52b901e05af287"
+  },
+  {
+    "pdf_page": 298,
+    "printed_page": 283,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-298.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a3fef3908ab299de61a16b8b67b519ca7bbcc2fdd8af830402010e57858c5280"
+  },
+  {
+    "pdf_page": 299,
+    "printed_page": 284,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-299.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "41a52022474b2909403b077960b3a14e2ed95b67c56390da1506e2da5eae3cb1"
+  },
+  {
+    "pdf_page": 300,
+    "printed_page": 285,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-300.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "dd34f4445c44b4be8aab7f1b8fb0c556c0e43b83e5d71ce58dbe140d7003f536"
+  },
+  {
+    "pdf_page": 301,
+    "printed_page": 286,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-301.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "74d6396f82ce12afeefc836cc67528b9975fe437bd854f84cc4f86ddc45d8dc7"
+  },
+  {
+    "pdf_page": 302,
+    "printed_page": 287,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-302.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8591889170f5a8ec1bbeef89dbc3d2328a7476f4bef3e55439fd34b19949a8fb"
+  },
+  {
+    "pdf_page": 303,
+    "printed_page": 288,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-303.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e9305f93b587b6978b09633f734a898f85c8be3cae96c5972da23b0d62c02452"
+  },
+  {
+    "pdf_page": 304,
+    "printed_page": 289,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-304.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3dc2e98ae88d861a75044ae600a7c7a03adaaa7136b7cc200ab6a6dda97e9f8d"
+  },
+  {
+    "pdf_page": 305,
+    "printed_page": 290,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-305.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b4a67ee19d06bf56fa00a8500e96ec91978d5592bb3e821707d63ad25f27b54c"
+  },
+  {
+    "pdf_page": 306,
+    "printed_page": 291,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-306.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "56257651f185a13eac3720d85d900759ef122fc86173b83ccd092824d58872a3"
+  },
+  {
+    "pdf_page": 307,
+    "printed_page": 292,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-307.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8935bf3efa9e2a2e49a18ee6247792ddd2e0a8bf7fe7d3b3e5b952718c0c95cf"
+  },
+  {
+    "pdf_page": 308,
+    "printed_page": 293,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-308.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "043ea31a317fab1279d523613d76001e3958ccb7017c000813ef265b4bec53de"
+  },
+  {
+    "pdf_page": 312,
+    "printed_page": 297,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-312.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6120fec000fc3c73f33924263fd57f648342db58f252f792382187450402e281"
+  },
+  {
+    "pdf_page": 313,
+    "printed_page": 298,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-313.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1f0eb5bdc938b42817b129d463b6286a44a883ac63e1ce2bf7c3d2742152984a"
+  },
+  {
+    "pdf_page": 314,
+    "printed_page": 299,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-314.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "724f0d7bab4852cb510abfc3dbfc144aa5eeccf9553922aeb294c9e650ffce39"
+  },
+  {
+    "pdf_page": 315,
+    "printed_page": 300,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-315.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "c8fef5496076b636921ea65b1177a5eea7522fef00e99e3a3ee9b26c2de083bc"
+  },
+  {
+    "pdf_page": 317,
+    "printed_page": 302,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-317.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "33a6b019da5edd20dc7d8d6ac70b7fd7d136941af254e2fcdf153e4db086b037"
+  },
+  {
+    "pdf_page": 318,
+    "printed_page": 303,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-318.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "89def5bedd3ffcbdb40f237aa2d55473cd0b1468af65ecaf749185e54acfdbb9"
+  },
+  {
+    "pdf_page": 319,
+    "printed_page": 304,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-319.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "690c8b0700d6c44366e113c7f8603bd263d97d77427a447ebfc1bb14e4e3bf3c"
+  },
+  {
+    "pdf_page": 320,
+    "printed_page": 305,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-320.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3f281137b49b3656097433cc0398950eb037f2e61e049d3b4cf99dfe32f13829"
+  },
+  {
+    "pdf_page": 321,
+    "printed_page": 306,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-321.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a72fdf1d3df039d14c137c61b9426754a57bd13dd3c82ee2bebbf4f1fe09c892"
+  },
+  {
+    "pdf_page": 328,
+    "printed_page": 313,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-328.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cff3f7ef6bec6044e264ace7edcc8fe5886c721c0573f59fa2cc17a760dc84cd"
+  },
+  {
+    "pdf_page": 329,
+    "printed_page": 314,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-329.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0196c997527a06d809356d4f694dac130fb71f6fe02975b4e8909f0d5ab062f4"
+  },
+  {
+    "pdf_page": 330,
+    "printed_page": 315,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-330.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9fee2afe746154d9e0295dd427038dff0d1acabe383bdc49479115a1b9b1597c"
+  },
+  {
+    "pdf_page": 331,
+    "printed_page": 316,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-331.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7e1fdaf0cc8968ecd0b08e189dae00c8a0bd0ba94585caac92bbf6075edb10a7"
+  },
+  {
+    "pdf_page": 332,
+    "printed_page": 317,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-332.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9f819304ed9bdc7c819d3f01febf734d403e574858a447703292de3ef60dd8d1"
+  },
+  {
+    "pdf_page": 333,
+    "printed_page": 318,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-333.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "89ec7b1365d9a084b9e13dcf146f35c9d4edf4db3add4f782442e01e9472f463"
+  },
+  {
+    "pdf_page": 334,
+    "printed_page": 319,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-334.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0807fe38ec75c19471cda0411981290d93712dae8d20696bff17089d43562a19"
+  },
+  {
+    "pdf_page": 338,
+    "printed_page": 323,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-338.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0e8d4207fc53aa9a7b319f9dcda3d7632a6bcc022b30a2830ea3a8134205705b"
+  },
+  {
+    "pdf_page": 339,
+    "printed_page": 324,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-339.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0f59b9fe745ffe103376f7503d0ae6406ce096474129ee2e19e1af2eeaf02bf1"
+  },
+  {
+    "pdf_page": 340,
+    "printed_page": 325,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-340.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "bb6abe54bb8dec475bf930468a36343272ad291896d8291fe53647c80677d709"
+  },
+  {
+    "pdf_page": 341,
+    "printed_page": 326,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-341.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "c98df4f7be4e5128e98c3ca71524fb0f8a536d6e68e8eae0af4240beaeb27b81"
+  },
+  {
+    "pdf_page": 342,
+    "printed_page": 327,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-342.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "abdf31886a8d4156e501b05f21c0458b4183eaf4214da8d6dec789e73d885db6"
+  },
+  {
+    "pdf_page": 343,
+    "printed_page": 328,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-343.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "65cc0452ae80515b9184bd28b32423714c07bf8d684acfab121aebbf6099af84"
+  },
+  {
+    "pdf_page": 344,
+    "printed_page": 329,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-344.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "912f15b39124228d870a282aae5b9bf9fd90a4dba7062a374118d0ada42ab25a"
+  },
+  {
+    "pdf_page": 345,
+    "printed_page": 330,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-345.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "caddf49d1bfe0a574ab06103ff38c60a48c6c71c546687acad270092e0427af6"
+  },
+  {
+    "pdf_page": 346,
+    "printed_page": 331,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-346.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "fa97aefe3a9c5c88f2d617cb0067973f7cd22a91837f6ec63ae01087d54eb689"
+  },
+  {
+    "pdf_page": 347,
+    "printed_page": 332,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-347.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "13dabf680dbd5bbaa8e75d19347f3b8220a1c23f34cddde353b287b1d104bf74"
+  },
+  {
+    "pdf_page": 348,
+    "printed_page": 333,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-348.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2fc2c75302bc7a5a77079718271b208430ebba61a1c33d0e4c36b3ef898f4ce0"
+  },
+  {
+    "pdf_page": 349,
+    "printed_page": 334,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-349.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bd758e94aa8e68883f47afaa352239a62423eefa2200629ba98d3d9391b6276b"
+  },
+  {
+    "pdf_page": 350,
+    "printed_page": 335,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-350.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "842730471efe7cf293c820b96000ba5cd61c4d0b0467fceefe6f125dc4d4f303"
+  },
+  {
+    "pdf_page": 351,
+    "printed_page": 336,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-351.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f641a23475457d000d00ea643d9b8b7cf4440fbdfcf275fb2e89fec33a19fd40"
+  },
+  {
+    "pdf_page": 352,
+    "printed_page": 337,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-352.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e1b15e047414b6c2acf00102e93e71a2fb02eaef6715ba8962d909748521813c"
+  },
+  {
+    "pdf_page": 353,
+    "printed_page": 338,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-353.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "49481b11579c6e6efdb6886397c54dbf7c63296d50c8c15c869961d28c2751ac"
+  },
+  {
+    "pdf_page": 354,
+    "printed_page": 339,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-354.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1814e9a60ede285ad838bd7f120bad9865fca360733f2e67300af9dd4c865f36"
+  },
+  {
+    "pdf_page": 355,
+    "printed_page": 340,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-355.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "cc9f25bed297e203857d33ac8d4e9f1165e665f9cfb59e30e9ccdbf77a8ad0f6"
+  },
+  {
+    "pdf_page": 356,
+    "printed_page": 341,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-356.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5c34fefd382adff87c60e43c852dc1627668ec5233ee4eff81c09dd7947e7deb"
+  },
+  {
+    "pdf_page": 357,
+    "printed_page": 342,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-357.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3e0ab0e35911642195a443ddcf0ddb98e5d14f9f972fef9fcc4a9a74490962b6"
+  },
+  {
+    "pdf_page": 358,
+    "printed_page": 343,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-358.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e0bc8ec28bf93c2258df6e7e7fadaac176ec86f038f75fb8046cbb7d0a6994b9"
+  },
+  {
+    "pdf_page": 359,
+    "printed_page": 344,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-359.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f6389e170042fc681dd287cc05c96dfe09802072c951cb3028181d65d1553c86"
+  },
+  {
+    "pdf_page": 360,
+    "printed_page": 345,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-360.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a504b15e0395615b4e69165ff3e04dea3a0eb2b556c10653510f564f9ec246a0"
+  },
+  {
+    "pdf_page": 361,
+    "printed_page": 346,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-361.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "594f90268732bf13e0525ae5fc329e20733896b5029204c57ecba96481a83c8c"
+  },
+  {
+    "pdf_page": 370,
+    "printed_page": 355,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-370.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4296cb669f9762b90ef719a8cee66fcb803eaf05816706fcf36ef2edb37cb1a7"
+  },
+  {
+    "pdf_page": 371,
+    "printed_page": 356,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-371.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "9f27b3a346288855a8bc2e3be43ac347f2ae2c48476159d9d35ae5b2305dc308"
+  },
+  {
+    "pdf_page": 372,
+    "printed_page": 357,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-372.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "25a5a7f3910ce7aa99bc07540da616ec61e8771c50f42e9e909507816ea8d116"
+  },
+  {
+    "pdf_page": 373,
+    "printed_page": 358,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-373.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "185ea52518c885290b65fd36930fbfc60058e9765c2387ff0e66516707f1a786"
+  },
+  {
+    "pdf_page": 374,
+    "printed_page": 359,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-374.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6229ea796b6732a84f95d05a6f085774e346c290fe32684491a0222aba85f8c0"
+  },
+  {
+    "pdf_page": 375,
+    "printed_page": 360,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-375.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "515279f56aeb4495eb4f25ec1cc56089f1c6387e301f8c88105dd934b24c8a80"
+  },
+  {
+    "pdf_page": 376,
+    "printed_page": 361,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-376.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cf7692ebf4d6473a6a061a5008f18d90a845a1a60fd8e36c6729d0de1eab1613"
+  },
+  {
+    "pdf_page": 377,
+    "printed_page": 362,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-377.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fe67e9b650a536fc6108b685f2ecf733fedcbe9bb413ad28ebfa0e36bf42e094"
+  },
+  {
+    "pdf_page": 378,
+    "printed_page": 363,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-378.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d56e48f04032286ca8d66494ad5315a87ec72df43939f5d96d62a96270a8e5c0"
+  },
+  {
+    "pdf_page": 379,
+    "printed_page": 364,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-379.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "41deb0dcb1fe3bb6b710dcd736d491e7f2d66d45f85a054ef7afe1b9e5fc3ec8"
+  },
+  {
+    "pdf_page": 380,
+    "printed_page": 365,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-380.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "23a9f9fe2b0a19c123def18955eb836803a98c816bcd68f3a2fe4b84097ad0a8"
+  },
+  {
+    "pdf_page": 383,
+    "printed_page": 368,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-383.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "76fa9177f34a8034f8bf9cfeaec2306e8a69c057b23e75e8b8f3f1b3595d2e4e"
+  },
+  {
+    "pdf_page": 384,
+    "printed_page": 369,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-384.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e0665094c39afba9186a3173734263d97ce8aca9f5623a1ba658089f41285a3f"
+  },
+  {
+    "pdf_page": 385,
+    "printed_page": 370,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-385.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "aab16df85a6d16907972120259766093eea348105696138bf4d9cd0419a70131"
+  },
+  {
+    "pdf_page": 386,
+    "printed_page": 371,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-386.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c77a89ac2799e194d143963e817e0e9948e84b95fdebeee431c2895f5c830760"
+  },
+  {
+    "pdf_page": 387,
+    "printed_page": 372,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-387.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "55c3d45843ac57c1de7f7b422cd35c988931fcdac8505dac734d2c97fd8257ab"
+  },
+  {
+    "pdf_page": 393,
+    "printed_page": 378,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-393.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fe7892ef81ec52742fe1e0f342dd59081f76aa8bac41fcd1090f94f209e6eb6e"
+  },
+  {
+    "pdf_page": 394,
+    "printed_page": 379,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-394.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a0a0a7d828fccbf097a66540d5429d138538c11b1e5efe4512d59f725cea0a6a"
+  },
+  {
+    "pdf_page": 395,
+    "printed_page": 380,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-395.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "9ce79022b5361bfe070fae78adf0af6a0cd70f9bb360f6a52160d45a950d1dd7"
+  },
+  {
+    "pdf_page": 396,
+    "printed_page": 381,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-396.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1a759fe4ba3263604f882ae8e927bd966a622f88ccd6bd418d82dc6b89846295"
+  },
+  {
+    "pdf_page": 397,
+    "printed_page": 382,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-397.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d620362731b7155162eb59336cd4d8e94fd0527f0f34a1a0a7127a9331ec3ff5"
+  },
+  {
+    "pdf_page": 402,
+    "printed_page": 387,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-402.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "54eae5149e7c21e19d71c29fd4e713f220b567e25965caca8edec59e96885b07"
+  },
+  {
+    "pdf_page": 403,
+    "printed_page": 388,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-403.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2ded8ac8115dd35bca3fa67ff0a162303736b8d0f8eec0dd23ca586cfd0fa0e3"
+  },
+  {
+    "pdf_page": 404,
+    "printed_page": 389,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-404.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5aba5642434b55adf4f9f5a2c6ed4a029af13be3089778745963ca2f25f51069"
+  },
+  {
+    "pdf_page": 408,
+    "printed_page": 393,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-408.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9073b80b6265566365280ba8dcdd300526e3e408eee2ea90ff6696008676509a"
+  },
+  {
+    "pdf_page": 409,
+    "printed_page": 394,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-409.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fc28a010c5187ab660d02b1fbd4fca97bf72c8030b28cc2da0d117863979b381"
+  },
+  {
+    "pdf_page": 410,
+    "printed_page": 395,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-410.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3ebfa21296aa385ab96cf8e31b1d5ccfae9ece9aaeaddf676e933d9c8ef533b3"
+  },
+  {
+    "pdf_page": 411,
+    "printed_page": 396,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-411.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "045d37428f8369fba7d9285860e809bd339e66c261fe1309e8d46dfd24373314"
+  },
+  {
+    "pdf_page": 412,
+    "printed_page": 397,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-412.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5da7cda938c11463603d66133cfe023dd586e837051bcda5649ff10538ebd390"
+  },
+  {
+    "pdf_page": 414,
+    "printed_page": 399,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-414.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "efaadc4affad6f363562e5ce0092305032ad3ab91fb8bc59f92a1ed82eb003d8"
+  },
+  {
+    "pdf_page": 415,
+    "printed_page": 400,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-415.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f8ccbee6162459cc130d3f1394ec44ef1131c89ff24b1f7589da5a3865d054b5"
+  },
+  {
+    "pdf_page": 416,
+    "printed_page": 401,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-416.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "461bb45ff41db168df369748694c5159f76270206c407ad54cef72f61471c35c"
+  },
+  {
+    "pdf_page": 417,
+    "printed_page": 402,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-417.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e732b838a5ae322bfcb9c4b7b8e865a74923a7f6b089c55eec2b0941c21ee8fd"
+  },
+  {
+    "pdf_page": 418,
+    "printed_page": 403,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-418.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "279fbcd3e72c130efffe31b6606306ed14f2039613ae5e75e02071bbab4a8630"
+  },
+  {
+    "pdf_page": 445,
+    "printed_page": 430,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-445.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bd110bffff904b970afbac2a59dbbee7ec2452f5bd10133fc36bc3ff84c0b164"
+  },
+  {
+    "pdf_page": 446,
+    "printed_page": 431,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-446.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f5adb27be6a422f321b0bf36aea02753fa298213596613e35e9735e9856e5115"
+  },
+  {
+    "pdf_page": 447,
+    "printed_page": 432,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-447.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "08b1cd4553241a16003f3d57acca990b359e97120ccfac42d5b58bc99c110c95"
+  },
+  {
+    "pdf_page": 449,
+    "printed_page": 434,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-449.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d3ae0e281b5947bd98b7874b906984df6394f665b2c95a8317a7d357a8a1f173"
+  },
+  {
+    "pdf_page": 450,
+    "printed_page": 435,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-450.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "acf682b0c64554ae36be11fb6ecbb79908d43289f166d52272629850310a7f97"
+  },
+  {
+    "pdf_page": 451,
+    "printed_page": 436,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-451.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bf77a8cfb5ed56298887bbd04fde576442739f340cf14bd3e8d82775d6425fe5"
+  },
+  {
+    "pdf_page": 455,
+    "printed_page": 440,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-455.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "c4c388e8ee3dff80c54e8e47f40b981f5e5fdbec4a294a9dec9f3421ef316ab0"
+  },
+  {
+    "pdf_page": 456,
+    "printed_page": 441,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-456.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f2e2b69d6d1643bccff246612fac02108f82ca66b457c6d8c8f3fc899d2ea48e"
+  },
+  {
+    "pdf_page": 457,
+    "printed_page": 442,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-457.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1332e48b383cf4b4c4550ae350a95f3e7d4f6319b405f4a1ce7db9b04bf1d11f"
+  },
+  {
+    "pdf_page": 466,
+    "printed_page": 451,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-466.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6f028873f055b29438eab13a3a13046f3e2e620ff3d0313631967eb3fde0d00d"
+  },
+  {
+    "pdf_page": 467,
+    "printed_page": 452,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-467.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "55f6c63be7959e8208b721462adbdb6598f83cddcdc8861867d5d005194f7c46"
+  },
+  {
+    "pdf_page": 468,
+    "printed_page": 453,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-468.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2efed2dde072548b1171414347484cbf7425efd27f02e95a1405964474ce9c6b"
+  },
+  {
+    "pdf_page": 470,
+    "printed_page": 455,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-470.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2a8d2d95c02b0804d308cde16f117e52aaab627cba78da4fde8826da25681c02"
+  },
+  {
+    "pdf_page": 471,
+    "printed_page": 456,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-471.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "80e900e12beecb1249cabaf0527994435b50546e9b842238a0b1162d5f021951"
+  },
+  {
+    "pdf_page": 472,
+    "printed_page": 457,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-472.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6b656d4ab5477f4a90c4bf8d2022b89e4ba1c1098853e2b95d44ba51480b1b2d"
+  },
+  {
+    "pdf_page": 473,
+    "printed_page": 458,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-473.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "897195fa7c41be3aaa37249afeb5afefea2a0f175ca1fd0aa13b61ce51742bc7"
+  },
+  {
+    "pdf_page": 474,
+    "printed_page": 459,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-474.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8dee26281abc3c0673ca753e655f0273b5be5963e13a98435ce0c2efb19c9402"
+  },
+  {
+    "pdf_page": 475,
+    "printed_page": 460,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-475.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "88fa1c2d906a2558d252d9b38203804ea5f2dfd63b66ded3763e75d6f4bdad52"
+  },
+  {
+    "pdf_page": 476,
+    "printed_page": 461,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-476.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ab5525ef0306cbf9acd90b4f40ee802d450c32804e8019a819c2808204a19672"
+  },
+  {
+    "pdf_page": 477,
+    "printed_page": 462,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-477.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "99c8917909a7172d702085022b79e80629c54b91c625d3ef818fcd6278e813c3"
+  },
+  {
+    "pdf_page": 478,
+    "printed_page": 463,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-478.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3fd3a0733bb290603fdfa77cf07aa42a405707ed2736d98918796ec183a5d66d"
+  },
+  {
+    "pdf_page": 479,
+    "printed_page": 464,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-479.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "802edba586190b5eb03f755e4ad5634117f98f7ac199bceb60ce3239b9435f70"
+  },
+  {
+    "pdf_page": 480,
+    "printed_page": 465,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-480.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b4def15c8361919c1d8282a153d49d4b40d740bdd59b87778d71b3e6a67b01b8"
+  },
+  {
+    "pdf_page": 481,
+    "printed_page": 466,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-481.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b60d066b82c1de688b928253d85046b5bfcdcd1a36edca59eb4755440086d77f"
+  },
+  {
+    "pdf_page": 482,
+    "printed_page": 467,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-482.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c5b0bbe9792bc3cd592fc0928e866cadc60119e2750c855b44e678029545504d"
+  },
+  {
+    "pdf_page": 483,
+    "printed_page": 468,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-483.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "8aa370b40eda30dc5a6ad13d6bba140a4679a2d49d569c92c6d4462b5b95de1d"
+  },
+  {
+    "pdf_page": 484,
+    "printed_page": 469,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-484.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "41c3eabef344652dbd90d426d98350a4d763d4fd51af4a3b70afdb64983e1586"
+  },
+  {
+    "pdf_page": 485,
+    "printed_page": 470,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-485.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "468ce80a9cf8ed7b5e5c31ad52ebe2be4163b35b2c1ea1f09b7938308387af5b"
+  },
+  {
+    "pdf_page": 486,
+    "printed_page": 471,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-486.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "308f5c5ea9028428b16cdf666b98b0634967f0b799b3f4a2ac7ec575023e43a2"
+  },
+  {
+    "pdf_page": 487,
+    "printed_page": 472,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-487.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "82d61b450e6d699f9ac9ddd4b8d0c3a45dae0c840d2b378721c31a43b1f9a054"
+  },
+  {
+    "pdf_page": 488,
+    "printed_page": 473,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-488.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "47412c80aee14dc6b2670da21090a82badbb2bc37b2e78b781f3197576d727f1"
+  },
+  {
+    "pdf_page": 489,
+    "printed_page": 474,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-489.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "507aae9d4a6e0e133fe97db680ea4de5c09f0fa6c17f6a534ea4f86eb84b8fa3"
+  },
+  {
+    "pdf_page": 490,
+    "printed_page": 475,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-490.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5122d493b72978c74230d608c25117b1eb6f04faa2bc1170e5c5e5c460ee45f9"
+  },
+  {
+    "pdf_page": 491,
+    "printed_page": 476,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-491.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "72d97683e2aa46a52834e9f502f3c9efe19d287f6804ce6257bdfdd73818fe07"
+  },
+  {
+    "pdf_page": 492,
+    "printed_page": 477,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-492.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b12d2059d299c7b9e5fba93073725159f214eb91af2791c641d445c7fcf919bf"
+  },
+  {
+    "pdf_page": 493,
+    "printed_page": 478,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-493.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f942f70c23f01eb6181608837c1b3b7c6f1e8291f550ddb21ecfef1ebd7f0614"
+  },
+  {
+    "pdf_page": 494,
+    "printed_page": 479,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-494.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "124daba8ac9d9b58deacee18bcd1f371e36f97f527b7d5002ea238051bab4031"
+  },
+  {
+    "pdf_page": 495,
+    "printed_page": 480,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-495.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0c55038b84e6e93ae0429c5241d89898cf966fb7ba1ed2875cc5ee926233ca21"
+  },
+  {
+    "pdf_page": 496,
+    "printed_page": 481,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-496.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9c738f2bf3e60f81214cb32017b01dba2bdfbc71a46079c5cbc78b6f64699281"
+  },
+  {
+    "pdf_page": 497,
+    "printed_page": 482,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-497.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "54ba5df2d42cb36b74b26387306af1abe6c196c415f6d8cb2acfb20b68a23c9a"
+  },
+  {
+    "pdf_page": 498,
+    "printed_page": 483,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-498.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cfe0ed6b0e01186e1c137ba2326719edb7331532a5571389ef3b65344a7d979b"
+  },
+  {
+    "pdf_page": 499,
+    "printed_page": 484,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-499.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5a1d6124cda527b17dd756a4ea3792e3655bc05f3fd6271ffa6c09e6593a907f"
+  },
+  {
+    "pdf_page": 500,
+    "printed_page": 485,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-500.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0bff35d62757bb6b72f90f045b5e8e45456d6154f2b593beef942c01f8792ec2"
+  },
+  {
+    "pdf_page": 501,
+    "printed_page": 486,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-501.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f035c4385e6491f7568dacd94bddda3bb9cae7f3bb4f81e6eb93b6ac899a1ea8"
+  },
+  {
+    "pdf_page": 502,
+    "printed_page": 487,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-502.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3244085a80e4519431827d2363a5d37b4688e5ebb45a2e92987b60f46cac14fe"
+  },
+  {
+    "pdf_page": 503,
+    "printed_page": 488,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-503.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "76917f9b7f3a0233bb2cccc5db6d453c92b832ab2f64f58d15ae4bb200fde6f4"
+  },
+  {
+    "pdf_page": 504,
+    "printed_page": 489,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-504.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c5ae7d00e9c9eb83e14691c5159dce896ff2454a369ce3191ff3a67ddf6b8cc3"
+  },
+  {
+    "pdf_page": 505,
+    "printed_page": 490,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-505.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1bb9d7833eeb9d34a739490b1f1f8902d57d437ac4fe13a40f9301cdc1bfb7f7"
+  },
+  {
+    "pdf_page": 506,
+    "printed_page": 491,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-506.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "08a43db64cdf742531cc765a254ba6ff4b684cef604216bc9f6c053f842b7ee2"
+  },
+  {
+    "pdf_page": 507,
+    "printed_page": 492,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-507.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "296fa28aa693ad0730ddffa41c36f4d14006c473459c542bc5bbe48b6ee4bef8"
+  },
+  {
+    "pdf_page": 508,
+    "printed_page": 493,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-508.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3aa0d476471146eb8b5b255eff136a5e26c99e2fc2e7b7b9df0cd9d2d10a530c"
+  },
+  {
+    "pdf_page": 509,
+    "printed_page": 494,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-509.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "68c4c7b9442f9d95f02547f0a0e621f92ff4d85b419ebf30d560eb6b90530b75"
+  },
+  {
+    "pdf_page": 510,
+    "printed_page": 495,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-510.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b9680e273a9d36e06dacf7c65e7238fee6bb42df0d04fbc976534049953c2b4a"
+  },
+  {
+    "pdf_page": 511,
+    "printed_page": 496,
+    "roles": [
+      "exercise",
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-511.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e8066fc10deea6b0e606aee4cfa293e6ddf0842f9c858a1f70f9236cf276a8be"
+  },
+  {
+    "pdf_page": 512,
+    "printed_page": 497,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-512.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "de6f4d2ef80082a4b25c7cac69482cacd6dbb1eb211e9781002384469c79a1fc"
+  },
+  {
+    "pdf_page": 513,
+    "printed_page": 498,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-513.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3211c21dcfdf4103da8a61a44ad14b86a1a141b5b0891dbf39d1e63291e5d9b1"
+  },
+  {
+    "pdf_page": 514,
+    "printed_page": 499,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-514.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b351925f524da95fc8340a3b5fa65dd2522ca67b7e23f1078bbd1fdc27647cbf"
+  },
+  {
+    "pdf_page": 515,
+    "printed_page": 500,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-515.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b75fabf01571e2a6b8bfecd91ddb4325336ddb7664fda508b1b7cbcfe85f5a57"
+  },
+  {
+    "pdf_page": 516,
+    "printed_page": 501,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-516.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4708f4ef5452fa7df4e64bd1634a3de771057a9ec13e3c76a9c46f5e61b8f4b3"
+  },
+  {
+    "pdf_page": 519,
+    "printed_page": 504,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-519.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6170a62d05a624b6904882d7e3712914f8fd5252a7b2596c7999e2a28d66f778"
+  },
+  {
+    "pdf_page": 520,
+    "printed_page": 505,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-520.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "eec1eeb471de8e0a2e6cf2c202f1327f7af80911949122c92571f8af8483e2c5"
+  },
+  {
+    "pdf_page": 521,
+    "printed_page": 506,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-521.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a3284cdc70d7a55db86d89a9ce9544ac8eb06c3d53f45375a2e60e2d0a634f3b"
+  },
+  {
+    "pdf_page": 522,
+    "printed_page": 507,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-522.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "69e8d6b23a8f27e0d74300d8b5c0ed2d04bf91610c63aba093bf2e8d6ff545f0"
+  },
+  {
+    "pdf_page": 523,
+    "printed_page": 508,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-523.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6062a867daccd9682af0d981875dc338648a3f3d02c284d4f97836107718db36"
+  },
+  {
+    "pdf_page": 524,
+    "printed_page": 509,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-524.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1290b6cef6cbd664eb5f8748492af13549e5e1eb445ebcab7a1b62539f06e5d3"
+  },
+  {
+    "pdf_page": 525,
+    "printed_page": 510,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-525.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "4d2d129aaccf419ca8b63d36ce38e46a71a21e177059627718f3dd8cce846ad8"
+  },
+  {
+    "pdf_page": 526,
+    "printed_page": 511,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-526.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4c68be344dd00f77df8937d9498b2be0f955e489e16e422e1db54349998b85c8"
+  },
+  {
+    "pdf_page": 527,
+    "printed_page": 512,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-527.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "286fc578ebe54b6013a5c98ad59a49ab04992e8ee214bdd0b2ac858d4cc854d7"
+  },
+  {
+    "pdf_page": 528,
+    "printed_page": 513,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-528.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2852d79339ddba75b22c2a23bec5ff934d3470deea8d5ef62f65b4d07a46b139"
+  },
+  {
+    "pdf_page": 529,
+    "printed_page": 514,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-529.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "745493cb19c086c850d821020abf748c041154a6a5642192be0a0560fdaf0f80"
+  },
+  {
+    "pdf_page": 530,
+    "printed_page": 515,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-530.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3f42ef0a6aaf9f7a7f51a04eb647750ac3260ee0f7b628e0013586833136ef0e"
+  },
+  {
+    "pdf_page": 531,
+    "printed_page": 516,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-531.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "da237a63ed7ff4b57fb8568f937ac59c777a205cb6a8dcc54a4eb62a8ae291a0"
+  },
+  {
+    "pdf_page": 532,
+    "printed_page": 517,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-532.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d568e08a260c5a5950b8d57338bd0fe2c1657732e34ba1250277da636775c8f5"
+  },
+  {
+    "pdf_page": 533,
+    "printed_page": 518,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-533.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e32bf29f0cf53f86d39d8e9568b4c3c9ff40a57fcbc687b8c903301f493bdb0d"
+  },
+  {
+    "pdf_page": 534,
+    "printed_page": 519,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-534.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f127c2a4718a4bdb9001972fe38c9998db6ee27965c9c60a5deeaa08bc816f5a"
+  },
+  {
+    "pdf_page": 535,
+    "printed_page": 520,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-535.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3f8b703a548602bd40ee96083b6ff6a9c797fc2030b529b21801a12652b2f874"
+  },
+  {
+    "pdf_page": 536,
+    "printed_page": 521,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-536.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8baf593d027a579ff7d9bed7b110b715a7315de9c0e47fd6ddfa2a0e36170258"
+  },
+  {
+    "pdf_page": 537,
+    "printed_page": 522,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-537.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "c31600238510ac53dd329582e03c25099771fb5d5bec972e15c763a14a5d9394"
+  },
+  {
+    "pdf_page": 538,
+    "printed_page": 523,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-538.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0153107ac39885e91676b4c62b29d4c50eac7b4ea83f3171a41b6007b40e1a76"
+  },
+  {
+    "pdf_page": 539,
+    "printed_page": 524,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-539.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "76471a7af03de9b3ff8df960e0e00c3c91a3289e0b019442f8c459c206cd7e4a"
+  },
+  {
+    "pdf_page": 540,
+    "printed_page": 525,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-540.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ddb277152138164db85ef230a1511cdf8c10bce7a7e317c37a24ed8c53da33a3"
+  },
+  {
+    "pdf_page": 541,
+    "printed_page": 526,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-541.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "043669ea3740dd9f99b5035cd655707bd2e19a62a8c767006ea4ea54f250bc17"
+  },
+  {
+    "pdf_page": 542,
+    "printed_page": 527,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-542.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "15993bcd8850f3c94f42805264df60563890d4d39fa1f01a5b9ed9243bf2e6d3"
+  },
+  {
+    "pdf_page": 543,
+    "printed_page": 528,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-543.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d408784263d7702701374e5ed5496eb1a8a1986361055d9fb80b733bd3950a45"
+  },
+  {
+    "pdf_page": 544,
+    "printed_page": 529,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-544.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "36d3e9b206a70b0e650a48d22d4eae3093dd1f124d42f08e302c97431d8f41df"
+  },
+  {
+    "pdf_page": 545,
+    "printed_page": 530,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-545.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d94d190aa270b103e11d5f40d7e570d9a53aaa35c951c91206ffc3efd7873302"
+  },
+  {
+    "pdf_page": 546,
+    "printed_page": 531,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-546.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "fe522c9dbc4fe31b37c57ded98ea49f89130731b95da99f7b9e70316c374949f"
+  },
+  {
+    "pdf_page": 547,
+    "printed_page": 532,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-547.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "68ca0f96c4098dd19b699b3b73298dd53a462d43792835b693e551f0b5156bfe"
+  },
+  {
+    "pdf_page": 548,
+    "printed_page": 533,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-548.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "fd29056d98ec25170d63a821369d839ba5474e5b0e803902aa06416056a7fb87"
+  },
+  {
+    "pdf_page": 549,
+    "printed_page": 534,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-549.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "4f9eb43039763a2de80a8543e0671eb4b306fef2990b1c2963535b7015ad3f2e"
+  },
+  {
+    "pdf_page": 550,
+    "printed_page": 535,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-550.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "731f9a22737e28ae8e326ef0ba10c77f548a20776abf3dcf469036dc83909d59"
+  },
+  {
+    "pdf_page": 551,
+    "printed_page": 536,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-551.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "736570e203778374bcaa07ab43a09c309713f8c45d810ac53c5741e3d3f53bac"
+  },
+  {
+    "pdf_page": 552,
+    "printed_page": 537,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-552.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b89ea3e20ef3506c8392915a60bada834b455aa272520197ccaf0a761a888ed9"
+  },
+  {
+    "pdf_page": 553,
+    "printed_page": 538,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-553.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b76eb2a3950f1cc47c5438c8aea8d7072918b65834ff2fb1f012b49eee438b68"
+  },
+  {
+    "pdf_page": 554,
+    "printed_page": 539,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-554.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f31b0c6b29aa0cf4d2ed305ef2693ee68089e0f8ac94f16daf65fc45be480619"
+  },
+  {
+    "pdf_page": 555,
+    "printed_page": 540,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-555.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1956e5f8c4189576813bc48b78d90f94266c8e485cbffac7c6942c7576b4f7d5"
+  },
+  {
+    "pdf_page": 556,
+    "printed_page": 541,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-556.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "de584047d12dcbf26de98d692f2cf48453c60a115eb98f0882985240167a745b"
+  },
+  {
+    "pdf_page": 557,
+    "printed_page": 542,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-557.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "73911833e731581f6d628d174ad365eeaee43cd60651e8cc313c40c1b6fbb74a"
+  },
+  {
+    "pdf_page": 558,
+    "printed_page": 543,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-558.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "88d8032e1a7cc60e66a544adb3c9116551c2b62609b75c3a5e62347444385113"
+  },
+  {
+    "pdf_page": 559,
+    "printed_page": 544,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-559.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "74015e3b0e0c3b72349a1846356e42522f83c5461d67ee03118581b906fc95ea"
+  },
+  {
+    "pdf_page": 560,
+    "printed_page": 545,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-560.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "7a0e9172f8007a54778a99b3e612a4eae94ebabd9b6887e9e376aafa34900be1"
+  },
+  {
+    "pdf_page": 561,
+    "printed_page": 546,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-561.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "37f9e1552979dc768bbee366300bf71d2bbd821a64c8461de7ab9d7dca8e8770"
+  },
+  {
+    "pdf_page": 562,
+    "printed_page": 547,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-562.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "27f6bf6da7a22e550b96aa35564a35ed1fda4849873b9f2292c15e667d3b8472"
+  },
+  {
+    "pdf_page": 563,
+    "printed_page": 548,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-563.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "356ffe8f15f6ad1ea484998490ad0156d301c53c051565b4194e1c99db77b613"
+  },
+  {
+    "pdf_page": 564,
+    "printed_page": 549,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-564.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a4eec767f0d8b94c284018f5945f962bb7a2d6ba7dafcd1aef270bb3cce5202b"
+  },
+  {
+    "pdf_page": 565,
+    "printed_page": 550,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-565.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "81b9babf6c6f0af4352d41b2255358667078d9843fdd0fe163f4596242062255"
+  },
+  {
+    "pdf_page": 566,
+    "printed_page": 551,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-566.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5a1d61a72a444e35dee1b5ab1e7a66c5214591f0f6b7407a41de682a147305d7"
+  },
+  {
+    "pdf_page": 567,
+    "printed_page": 552,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-567.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2c7c32126f8e797b4b33d7ae94b7e779203887e3226fad8e2b589f58444e2536"
+  },
+  {
+    "pdf_page": 568,
+    "printed_page": 553,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-568.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "c6a41060026095dd973c4b5cb282921f29c12a2d6ba7d32e1cef761c54bad107"
+  },
+  {
+    "pdf_page": 569,
+    "printed_page": 554,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-569.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "16da38664a7f5ed537511b2324ba28303ccde93431a287f9a341907f173de3cc"
+  },
+  {
+    "pdf_page": 570,
+    "printed_page": 555,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-570.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3bc54ce03917d192c723a2f54ded2398f271327fa5aa4a3481b7c2ee938e7e72"
+  },
+  {
+    "pdf_page": 571,
+    "printed_page": 556,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-571.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "db0bcbbcb4c2b6254b3429850abf06aa2bb0afb81909c5f06dcdf19ea86847a2"
+  },
+  {
+    "pdf_page": 577,
+    "printed_page": 562,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-577.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "00762ffb10e9380cbd164614cb5394a1d1233cce740476732dd010f1a77028d7"
+  },
+  {
+    "pdf_page": 578,
+    "printed_page": 563,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-578.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6343eab3d15c00f82fb3b166311deaf5e7715cb01a933f1e284cfa59c9e9c38f"
+  },
+  {
+    "pdf_page": 579,
+    "printed_page": 564,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-579.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f29d1bed5086144aec72b56efb404ea3316ba36a94bd7d9ce3ed5fc72b5a31aa"
+  },
+  {
+    "pdf_page": 580,
+    "printed_page": 565,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-580.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e8c0004aaa03a4d7730275bf8872e90f09a76a9aa347ff78a9585af02ef05af3"
+  },
+  {
+    "pdf_page": 581,
+    "printed_page": 566,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-581.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7d332fe89699ebaf53433937ecfc30d6bdc31372dca94b0613896604a87b90a9"
+  },
+  {
+    "pdf_page": 582,
+    "printed_page": 567,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-582.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1ca632d75291ff190ac08d39d56fd0c4f8b4f9bd46b5072fc11231bc42649071"
+  },
+  {
+    "pdf_page": 583,
+    "printed_page": 568,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-583.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "3f98da90e70b4f187695323f5a8a9a9efedb0ecd29cd3cbb841d0edafa363cc5"
+  },
+  {
+    "pdf_page": 584,
+    "printed_page": 569,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-584.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "9960dd4f7b908b7011dec65455441a236a8e34cf39f302b67865089f5f278047"
+  },
+  {
+    "pdf_page": 585,
+    "printed_page": 570,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-585.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b6a663d131acaf36e983504df1e3262218703e062b1b170a0648a02b63d5037b"
+  },
+  {
+    "pdf_page": 586,
+    "printed_page": 571,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-586.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "feac80c272faa660f8cad2460edbb2a6262628136680fe753b41bdcc215e5a63"
+  },
+  {
+    "pdf_page": 587,
+    "printed_page": 572,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-587.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "196069614bd04497e9f601bb53b1ffb05a6db0b562e4310f26aad04e2118a07a"
+  },
+  {
+    "pdf_page": 588,
+    "printed_page": 573,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-588.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "85c8ebd2e58e96c82667a836c0f6766de3f5620cd2860a49561b30794293b181"
+  },
+  {
+    "pdf_page": 589,
+    "printed_page": 574,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-589.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f91d487abc50be0c60d6cdb41a817779931821e00ae9c374084de63243df57f7"
+  },
+  {
+    "pdf_page": 590,
+    "printed_page": 575,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-590.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "55c9e3861e27a92e10419396a633685fcad90d218c21dfff67bd37d657ce9f63"
+  },
+  {
+    "pdf_page": 591,
+    "printed_page": 576,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-591.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "b388353f028e5a9d550a179001833a15133a6f1bfba7be2d75f58a76737ce860"
+  },
+  {
+    "pdf_page": 592,
+    "printed_page": 577,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-592.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "52c003a58c011a7bf7d96c6576710fd9dd9d6f3125bd5b099d4c1fb5f9a160cb"
+  },
+  {
+    "pdf_page": 593,
+    "printed_page": 578,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-593.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7a7ffc08e4940f8b15de2047e51020e19b916b0d6d2569d421bf354087dc6994"
+  },
+  {
+    "pdf_page": 594,
+    "printed_page": 579,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-594.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f21122a0be12e8513b5eaab61ca5100733468d8afd6f5ace27f8642e986a7a3e"
+  },
+  {
+    "pdf_page": 595,
+    "printed_page": 580,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-595.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1ac567ff18e6c098d3d6efe9b470a07a055dacb80e0866046eaebdbdd2144764"
+  },
+  {
+    "pdf_page": 596,
+    "printed_page": 581,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-596.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "df6c0702319ceae99cc8a9859e95281d9a17c9a3b968be6dc49a55f04ae71097"
+  },
+  {
+    "pdf_page": 597,
+    "printed_page": 582,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-597.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "838abc4f8d85b078b8ca3a1ae11c545eb12ad295e7491c23c0d3bd96c75d9fe2"
+  },
+  {
+    "pdf_page": 598,
+    "printed_page": 583,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-598.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "f43c6a2a85dc8bf896682b0affb32811eb306df1e9bcd27b1ba7acdcf19a32ae"
+  },
+  {
+    "pdf_page": 600,
+    "printed_page": 585,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-600.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "894dbfbad49fbe3f1f097fa846fd487208ef5d0eaaf04cbc16e762b121eae90f"
+  },
+  {
+    "pdf_page": 601,
+    "printed_page": 586,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-601.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "948fd6471b8d55de83e18e2b79317103c4a7173d8193a856e3a638c2c0029a9f"
+  },
+  {
+    "pdf_page": 602,
+    "printed_page": 587,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-602.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a36cdc233d1042d41540d185b4c9a106fdeaa466b95ad29c8144bc76c81f450d"
+  },
+  {
+    "pdf_page": 603,
+    "printed_page": 588,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-603.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "599ff3ee1c62f510a9c3e719f5cf1a3d29d93e6684242f6f5fe93dd64f48fa72"
+  },
+  {
+    "pdf_page": 604,
+    "printed_page": 589,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-604.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "745d876c1e4d518cc225189491d4b4da3e130919a5ff0118cac024974f8c0a8a"
+  },
+  {
+    "pdf_page": 605,
+    "printed_page": 590,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-605.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "aa77f5ed40cd4b43d5f00ad693947be9e1508113c4600a8b78e8090d399327fb"
+  },
+  {
+    "pdf_page": 606,
+    "printed_page": 591,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-606.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "39d37422609983d1788a639708710cffab2c0c9f0ea46fadb1078ca03efdeb3a"
+  },
+  {
+    "pdf_page": 607,
+    "printed_page": 592,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-607.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "02ea135999c995f988bd372c0d00c96aff567d83c2614fb807a964cd6f25df31"
+  },
+  {
+    "pdf_page": 608,
+    "printed_page": 593,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-608.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "280094fdec1b9aca347caaf75d181f596814d482ceeef47dab313c3fdd3a935f"
+  },
+  {
+    "pdf_page": 609,
+    "printed_page": 594,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-609.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2ab51e8e86c6e439b1abe5f98e91cd126c6d4a10d57da6b309468e8073e0b1ec"
+  },
+  {
+    "pdf_page": 610,
+    "printed_page": 595,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-610.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4dd21096b22fe5e8399a07377c6645aa9fbb5e775dd0c7f94eee0301ef1f7b04"
+  },
+  {
+    "pdf_page": 611,
+    "printed_page": 596,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-611.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "ece9ca84a1935dc438c97917ce5bde6fcadb39502eede2da4a33a1b889f658ef"
+  },
+  {
+    "pdf_page": 612,
+    "printed_page": 597,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-612.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "93d845b8f361f9d7c9e5ae0193389966117fb5a5a77104e78401bbaf2741464a"
+  },
+  {
+    "pdf_page": 613,
+    "printed_page": 598,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-613.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2e1ebff3170bd6dce141f8b7594a42cb4826457dea51f4dc671245e694340d26"
+  },
+  {
+    "pdf_page": 614,
+    "printed_page": 599,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-614.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e647ecc59c62979fecf41d8d0294c21092331178c39702884f92fc5432c9cd27"
+  },
+  {
+    "pdf_page": 615,
+    "printed_page": 600,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-615.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1a3434d914ca4215517793de86fc6b8ac3266d066fb02cb43d0a6863b382f6e8"
+  },
+  {
+    "pdf_page": 616,
+    "printed_page": 601,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-616.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "3883d4d7e10c29a49e98a87103b19eaa0ef42ecfdcf9a933dacf29c6674fcfc5"
+  },
+  {
+    "pdf_page": 617,
+    "printed_page": 602,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-617.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "66d27f93ecf628bf408c959885a566ff94036d82de9882e72e138cb618b84a90"
+  },
+  {
+    "pdf_page": 618,
+    "printed_page": 603,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-618.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b24b27de1b3a38f239e0064e982f36de133c087a1d9a44711d189ea19c53f289"
+  },
+  {
+    "pdf_page": 619,
+    "printed_page": 604,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-619.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "558e9410a5e45ad889bd83ba317f9a4f7ac072837394cff040d51e3f9ae7473b"
+  },
+  {
+    "pdf_page": 620,
+    "printed_page": 605,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-620.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d052d0599d8d16342a8323000f45436b6d0663e01bb8e64d81e01754e18ab068"
+  },
+  {
+    "pdf_page": 621,
+    "printed_page": 606,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-621.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6fe571642f8c6f417da34d15d3d39109645385e70c2982b04918b41c54321f03"
+  },
+  {
+    "pdf_page": 622,
+    "printed_page": 607,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-622.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "dd126fc285a18daad9b9b83deefddf51b4f3dcb26613981b1c7bd7a09097b34a"
+  },
+  {
+    "pdf_page": 623,
+    "printed_page": 608,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-623.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d65f2c27b9d38f6e4adbe4c01749cb1a3713fcee21bbd605d63476b2b5c683d2"
+  },
+  {
+    "pdf_page": 624,
+    "printed_page": 609,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-624.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8770a76feb35293d0003692ca3211b7362b86c6ebbf64903d83db5ef7dc1fdd9"
+  },
+  {
+    "pdf_page": 625,
+    "printed_page": 610,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-625.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "14a65458333fd12b767352fbcd0c738360361d911ae245f164438bb1d3c05967"
+  },
+  {
+    "pdf_page": 626,
+    "printed_page": 611,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-626.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4e82bad9b05589c672a2bf5ea542fcf2120cf0f105ca989ff04dd38c43322dcb"
+  },
+  {
+    "pdf_page": 627,
+    "printed_page": 612,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-627.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "02a4a6113b39aaff53c7dbd6b50d5fc646596bbd1b309e6eae56d9707fdc8c90"
+  },
+  {
+    "pdf_page": 628,
+    "printed_page": 613,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-628.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "bbb2464f9cbd9e49f0760d38bdb199d2064dc175f79c1917066e1f47bda19b4c"
+  },
+  {
+    "pdf_page": 629,
+    "printed_page": 614,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-629.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7dc98e3d57be5389673839f5f5fb61f8a48f057eec948d33288cd3099d18ccbd"
+  },
+  {
+    "pdf_page": 630,
+    "printed_page": 615,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-630.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a054bd444dc1a4021f913cb4692473b383e79c0260ce340171f08d783ac3dd79"
+  },
+  {
+    "pdf_page": 631,
+    "printed_page": 616,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-631.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e7f3ef732ffa41bb0974e52303ee4e655d51837b764ac58d55843c9deafd49c9"
+  },
+  {
+    "pdf_page": 632,
+    "printed_page": 617,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-632.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "7ab348b28f7cbb52a8e85d4c7f4383b6b66b6c3ac8d08046f40237221a693b4e"
+  },
+  {
+    "pdf_page": 633,
+    "printed_page": 618,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-633.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "335a2bae35b9202ffa977bae2aed914d48b9faa486f546b5f0b13f97d1e941c3"
+  },
+  {
+    "pdf_page": 634,
+    "printed_page": 619,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-634.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "5df28449db2fecfca06572495cc688f74d1d0769a26ee238ac5baaa24a85d467"
+  },
+  {
+    "pdf_page": 635,
+    "printed_page": 620,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-635.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5f525eecc0fd641fd94f83cced3a5287a308511b2e8bb0ad5cd95c213603d5bb"
+  },
+  {
+    "pdf_page": 636,
+    "printed_page": 621,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-636.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "21a18380a84d09f764dcaecbc894a3ba831685ddd2212289b0ff9ac7825474e8"
+  },
+  {
+    "pdf_page": 637,
+    "printed_page": 622,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-637.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e53f14664045810db8c26940ca20c5bca552e40e65efa026576180be1d22b016"
+  },
+  {
+    "pdf_page": 638,
+    "printed_page": 623,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-638.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "72f857c4ede1ec501d53733f2842aa8de0b7510be6fce39b02d0fdf5a276b938"
+  },
+  {
+    "pdf_page": 639,
+    "printed_page": 624,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-639.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "9cfcf33796dd5adb07e67c71c2197613f411fdd64000e5d032ff72d102ac7a30"
+  },
+  {
+    "pdf_page": 641,
+    "printed_page": 626,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-641.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "066c03c61e0e7476d061a38dd252856b68500a34d23fd763130211fc48817182"
+  },
+  {
+    "pdf_page": 642,
+    "printed_page": 627,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-642.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4970fee8fd5750806c8d9b22978c2e85d117bb957451eb502d8af7c6c577ac62"
+  },
+  {
+    "pdf_page": 643,
+    "printed_page": 628,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-643.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bda9f0d49decccccedf7b129f1a94c4ce9a6d53b82cc97829a0fda7a26c70b8a"
+  },
+  {
+    "pdf_page": 644,
+    "printed_page": 629,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-644.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1033b8091082c2dbe8b6b1883863998c06fc7feb982ce661dc04a65a9191d060"
+  },
+  {
+    "pdf_page": 645,
+    "printed_page": 630,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-645.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "0367149fa1da03bcb49d6ba9ec8d3ef93d29524a5ebbc6f0fa9b695b74810b09"
+  },
+  {
+    "pdf_page": 646,
+    "printed_page": 631,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-646.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a30cffb806cc801329913a8c73bfad5991e65dc541692bbad19ba42f13d37916"
+  },
+  {
+    "pdf_page": 647,
+    "printed_page": 632,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-647.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "597d9c78aac710a74241ccea3e5e91c741ac53300ea2e644470f86f0fb434c45"
+  },
+  {
+    "pdf_page": 648,
+    "printed_page": 633,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-648.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6266591f070f53786f0c6e4f74d4ed4a859cc03e78053f3828dc09f876bf5419"
+  },
+  {
+    "pdf_page": 649,
+    "printed_page": 634,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-649.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "de48e46971b855e61b75aed1a8028dfb60e8d64814440f2e14e46fcf576a36e4"
+  },
+  {
+    "pdf_page": 650,
+    "printed_page": 635,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-650.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0523b0ef202c3a0e33bfd2baf495e9399702894de2d46440375ea0587f1067f8"
+  },
+  {
+    "pdf_page": 651,
+    "printed_page": 636,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-651.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "11e680065de143ad60362c061584708dd63d980f3e57fa43d3d0fb662d6b5fea"
+  },
+  {
+    "pdf_page": 652,
+    "printed_page": 637,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-652.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "68cc40c61ba1ff6ca4480470d9929dfb73a8201a02f407c5c74c8d02bf5d8b88"
+  },
+  {
+    "pdf_page": 653,
+    "printed_page": 638,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-653.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e5ffdc20d404ec8959ba845645dbef1d98131feab9b208abecaa1ea77e546d3b"
+  },
+  {
+    "pdf_page": 654,
+    "printed_page": 639,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-654.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "e646063542fc506cff98856e96fe2d851102c5b87a3508b587e72a5dd5712556"
+  },
+  {
+    "pdf_page": 655,
+    "printed_page": 640,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-655.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "7ea98299f4d08bcf692263fa224f278fd7ffbd8677172473205ffe266c2061b7"
+  },
+  {
+    "pdf_page": 656,
+    "printed_page": 641,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-656.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "41ec621ba2e6774eaafacfcbebf27e4a223668646a0b16283a4ad17ced066b22"
+  },
+  {
+    "pdf_page": 657,
+    "printed_page": 642,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-657.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "461161386aedbb53e92bf3b9ef51f9283a813de2c073717741a7362f600d7c38"
+  },
+  {
+    "pdf_page": 658,
+    "printed_page": 643,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-658.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "059bf7368ec73db3cdf1851110f6ee9f83a65595a05c57c50f4b1d998cb3a19a"
+  },
+  {
+    "pdf_page": 659,
+    "printed_page": 644,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-659.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a959b67120be45142addae483f00eead2ece76f47c16521c9bda961cce8dbd09"
+  },
+  {
+    "pdf_page": 660,
+    "printed_page": 645,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-660.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "4e44f545913489ca0727861e5ceaa6ed695d7cc1145c702624e6d60c4f162866"
+  },
+  {
+    "pdf_page": 661,
+    "printed_page": 646,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-661.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5ec1327dba186cfc60626f2d26e31eac8a287d7c98cb9f7257b042676a6bfd84"
+  },
+  {
+    "pdf_page": 662,
+    "printed_page": 647,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-662.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "fe76953ca5aad6baa209a64051970bc658ec41bfca715f3498e181873cb053eb"
+  },
+  {
+    "pdf_page": 663,
+    "printed_page": 648,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-663.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2ac0f097c3653db672c8a87cd94eac782b09b65077e2ad83bbc78c78f5105f7e"
+  },
+  {
+    "pdf_page": 664,
+    "printed_page": 649,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-664.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "59836ce92675400cc346a1ab4407d2e24d49849359a4d8ef287be7ae6df51979"
+  },
+  {
+    "pdf_page": 665,
+    "printed_page": 650,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-665.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "39d1bc9f1de5fb0f5d476860600b5b3a35536dedda9985701a77f2878183d6c4"
+  },
+  {
+    "pdf_page": 666,
+    "printed_page": 651,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-666.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6d71a8d98d2e8a8b2d63e54a5b91d0fb9ec115095ef3eeb77364bcd1fce54759"
+  },
+  {
+    "pdf_page": 672,
+    "printed_page": 657,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-672.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "20756d0aa6b32ceb5b84d2545b85097afd5be7df3dbeb9aa24d6fa08c924225c"
+  },
+  {
+    "pdf_page": 673,
+    "printed_page": 658,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-673.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "271bb257175388666aec56b8b6a1ec223f9d13deaab49f0538fa6d9335e90cf8"
+  },
+  {
+    "pdf_page": 674,
+    "printed_page": 659,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-674.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "76b7384c9a3f1219b0620f62d7308b2d07d73bdf2f15181bcaf85a079256ff7f"
+  },
+  {
+    "pdf_page": 675,
+    "printed_page": 660,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-675.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f1ed1b5b29a1f86982ea3ab5022e9d71e77f4979f3ad321c7635b12f21216320"
+  },
+  {
+    "pdf_page": 676,
+    "printed_page": 661,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-676.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "b605956eb2a825abf9e243e9903773f8fdced81ca464456100ca090a6dc4a935"
+  },
+  {
+    "pdf_page": 677,
+    "printed_page": 662,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-677.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "43c886078271f6da7feb3d9827ce89d7429490d1c1fcdf623ee83afb81377cce"
+  },
+  {
+    "pdf_page": 679,
+    "printed_page": 664,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-679.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "bb6e94a5c4013411a2ae823a86b3827940656fb2ae8d74bf7bd674ca755f01df"
+  },
+  {
+    "pdf_page": 680,
+    "printed_page": 665,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-680.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d8ecdff33eb1386ecb8dc5c0d1618fa553a3f35920c145ddeed4e71715944572"
+  },
+  {
+    "pdf_page": 681,
+    "printed_page": 666,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-681.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5b03e67713b5457ee5100ac178e39885ef8b2af715159c086d335424d0d28d57"
+  },
+  {
+    "pdf_page": 682,
+    "printed_page": 667,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-682.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "0b72d60b42efd1032758f0a17129f814c4999a354edd2166f75ea480ff66fa49"
+  },
+  {
+    "pdf_page": 683,
+    "printed_page": 668,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-683.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "994532d4eedc4f9b5064f2e6ca112d4ad953b04fcf018dbca802d45000185c3f"
+  },
+  {
+    "pdf_page": 684,
+    "printed_page": 669,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-684.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6d2cb84f1f0d246fbaa3a3f459f777655323363f05623298287118d91c32b373"
+  },
+  {
+    "pdf_page": 685,
+    "printed_page": 670,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-685.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "f344b3c307f8365882cf4f1bb580ef1b8b9c92317c1c6c07b8addf3450649698"
+  },
+  {
+    "pdf_page": 686,
+    "printed_page": 671,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-686.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "1d5d9dd73ae0be83e8013b223cba7fcd6414622a0526682546261afffc7f1227"
+  },
+  {
+    "pdf_page": 687,
+    "printed_page": 672,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-687.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "e8e35a7b01061690dec612372a345a37c5c2c10058e1ea054ee2d4628cedf02a"
+  },
+  {
+    "pdf_page": 688,
+    "printed_page": 673,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-688.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "ab87cd1838921816deb104386d0d748caa3e96f6b3686940c908cf22ae624d67"
+  },
+  {
+    "pdf_page": 689,
+    "printed_page": 674,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-689.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "6b4183cf0e52fa7816707b2821dd9fbcd546a35e726bd4ba60069a3beeaeb190"
+  },
+  {
+    "pdf_page": 690,
+    "printed_page": 675,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-690.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8573d8ca2589158ece98cf99b89b90212ee8369167a7111ea761b6af0117c78a"
+  },
+  {
+    "pdf_page": 691,
+    "printed_page": 676,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-691.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "d387857dd5cd57a9bf16118ad757c7e096e939fae9d89f55dfa286cd3ae8dfc6"
+  },
+  {
+    "pdf_page": 692,
+    "printed_page": 677,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-692.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "36ecc4e18d3acabc19eef6a018d8b438ad9ef113249fa95df550390edd257b17"
+  },
+  {
+    "pdf_page": 693,
+    "printed_page": 678,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-693.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "07e80714c2f12c4f18114c51fa80f5c427affc615e6fcef94c1a8dfe994ee251"
+  },
+  {
+    "pdf_page": 694,
+    "printed_page": 679,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-694.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "8fc352093c7aab9e2ad712af86dc561ce829bcaf4e34a31079c3dbd7986cc997"
+  },
+  {
+    "pdf_page": 697,
+    "printed_page": 682,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-697.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "1e457e3928e18f51d1aff1f7581653d3f9770a2a0ba59568fc358e211e3dcc4c"
+  },
+  {
+    "pdf_page": 698,
+    "printed_page": 683,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-698.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "22ab879c29fb65210cc442c05b677d51b504977010e96284b6e71579c8aaf572"
+  },
+  {
+    "pdf_page": 699,
+    "printed_page": 684,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-699.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2731624f94408bc7b5e5f115524592565c913a3493025352e05fa9bfa0223d35"
+  },
+  {
+    "pdf_page": 700,
+    "printed_page": 685,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-700.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "75605a49f2ee4b2a38d4087109e8da45b5e49ea63b3dc191c7658c5fa44c7815"
+  },
+  {
+    "pdf_page": 701,
+    "printed_page": 686,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-701.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "876748bc4970e4ced158c8efa7da74890632021f8a29cf602c616b73b5e5da03"
+  },
+  {
+    "pdf_page": 702,
+    "printed_page": 687,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-702.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "d15ef63a9069b3f174ff828848cac87a011086991681584969662a33ea04ec8d"
+  },
+  {
+    "pdf_page": 704,
+    "printed_page": 689,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-704.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "56a66989415760c284154a3858d8a7ecd3c59a18c60b69d7988b952baec6cef5"
+  },
+  {
+    "pdf_page": 705,
+    "printed_page": 690,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-705.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "2eca9762c83c4c0f98614bf2d2f55ed366e357f67a405a44e929c18518a466f9"
+  },
+  {
+    "pdf_page": 706,
+    "printed_page": 691,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-706.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "6a56f5f8a953fb2ef5df434b5409d30a2bb01e44826dda02e6306d069e9f4e73"
+  },
+  {
+    "pdf_page": 707,
+    "printed_page": 692,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-707.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "684af84becdc052d3ca65dc65e0aaa9d41d3a9c0a332948020c87e5f44418ada"
+  },
+  {
+    "pdf_page": 708,
+    "printed_page": 693,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-708.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "a49ac9fe6c059b54b80231d5a2296b15f4ff07e1ffb9c643f5f144603b8c27a0"
+  },
+  {
+    "pdf_page": 719,
+    "printed_page": 704,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-719.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "cc829bd9eecba45b71e10554fcdeddeb19bef7c5c626cef140ad2e02b1a2ca03"
+  },
+  {
+    "pdf_page": 720,
+    "printed_page": 705,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-720.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "2dd84f2182df4d3fc4a49633762670903fdb612168a708cf6a364cb17130e105"
+  },
+  {
+    "pdf_page": 721,
+    "printed_page": 706,
+    "roles": [
+      "body_reference"
+    ],
+    "source_image": "assets/pages/pdf-721.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "a746f5c0103874be82eabf56a24b703683a2e6648c262865fb4034be1599b3d1"
+  },
+  {
+    "pdf_page": 730,
+    "printed_page": 715,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-730.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "cbba606f585c6072ca5092d1d8fb7a39f6b01da7c057440c3d279624bbd08c11"
+  },
+  {
+    "pdf_page": 731,
+    "printed_page": 716,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-731.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "fcc53d559d83699268972347aa9f288e0e438389a90b48a342a1368180cb59e2"
+  },
+  {
+    "pdf_page": 732,
+    "printed_page": 717,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-732.jpg",
+    "width": 1968,
+    "height": 2976,
+    "sha256": "32c038ffdf5111d7eefe1c8fa6ed76911a3d7c9b06249832b7fc2115e4ebf98d"
+  },
+  {
+    "pdf_page": 733,
+    "printed_page": 718,
+    "roles": [
+      "exercise"
+    ],
+    "source_image": "assets/pages/pdf-733.jpg",
+    "width": 1980,
+    "height": 2980,
+    "sha256": "5530db2e814ca9f070de335d0fe7d76cefad6a9901d61df02cb8c3623822f0d8"
+  }
+]
