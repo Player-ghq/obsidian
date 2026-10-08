@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b581f882c15b3d1a",
+        "id": "b4622adc5e9149e2",
         "type": "tabs",
         "children": [
           {
-            "id": "d3fcca0abc1da643",
+            "id": "242b3099c01c02d2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/考研数学一/每日两题/2026-09-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-09-13"
+              "title": "New tab"
             }
           }
         ]
@@ -44,6 +30,21 @@
         "id": "3370b08dd4000a7b",
         "type": "tabs",
         "children": [
+          {
+            "id": "6698c8275356fac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
           {
             "id": "e98af7c370b13acc",
             "type": "leaf",
@@ -65,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "·",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,27 +89,13 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "6698c8275356fac2",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Codex/projects/考研数学一/每日两题/2026-09-13.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 333.8658218383789
+    "width": 290.3156204223633
   },
   "right": {
     "id": "0f3b60a6360b62e4",
@@ -124,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
+                "file": "Codex/projects/考研数学一/每日两题/2026-09-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-27-答案"
+              "title": "Backlinks"
             }
           },
           {
@@ -167,7 +154,7 @@
             }
           },
           {
-            "id": "0a910922127f01e6",
+            "id": "df50e2c3f1ac5c72",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -181,7 +168,7 @@
             }
           },
           {
-            "id": "d58023f4bca0d6f9",
+            "id": "2660bee40715f623",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,12 +178,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,44 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3fcca0abc1da643",
+  "active": "36ee5163cdd039cb",
   "lastOpenFiles": [
-    "Codex/projects/考研数学一/每日两题/2026-09-20.md",
+    "Codex/projects/C语言程序设计备考/02-题目合订本.md",
+    "Codex/projects/C语言程序设计备考/04-考纲覆盖与核验.md",
+    "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
+    "Codex/projects/数字电子技术基础备考/01-讲义合订本.md",
+    "Codex/projects/考研数学一/每日两题/2026-09-28.md",
+    "Codex/projects/数字电子技术基础备考/02-题目合订本.md",
+    "Codex/projects/数字电子技术基础备考/03-解析合订本.md",
+    "Codex/projects/考研数学一/每日两题/2026-09-27.md",
+    "Codex/projects/数字电子技术基础备考/分层训练/00-学习导航.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/F卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/F卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/E卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/E卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/D卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/D卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/C卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/C卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/B卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/B卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/A卷-题目.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/A卷-解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/02-随堂练习解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/01-知识点细分讲义.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/00-学习导航.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/基础讲义-从零到综合.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/基础练习-答案与解析.md",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练",
+    "Codex/projects/数字电子技术基础备考/归档-旧版资料",
+    "Codex/projects/数字电子技术基础备考/分层训练/练习卷",
+    "Codex/projects/数字电子技术基础备考/分层训练",
+    "Codex/projects/数字电子技术基础备考",
+    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/数字图像处理第四版-全书习题完整包.zip",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/校验结果.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/完整性核查.md",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/全书习题合订本.pdf",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/逐题索引.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/全书习题合订本.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/README.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/00-全书习题总目录.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用索引.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页706.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页705.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页704.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页693.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页692.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页691.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页690.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页689.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页687.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页686.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页685.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页684.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页683.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页682.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页679.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页678.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页677.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页676.md",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/正文引用/书页675.md",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/OCR清单.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/章节引用清单.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/正文引用定位.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/章节清单.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/题号索引.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/图像清单.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/来源清单.json",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/OCR/pdf-733.txt",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-733.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-732.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-731.jpg",
