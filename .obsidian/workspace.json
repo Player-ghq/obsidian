@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/数电大师必修/00-学习规划/42天学习计划.md",
-                "mode": "preview",
+                "file": "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "42天学习计划"
+              "title": "例题05-数字集成电路输入输出特性"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
+                "file": "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,33 +211,35 @@
   },
   "active": "50d98398c2234a0a",
   "lastOpenFiles": [
+    "Codex/projects/数电大师必修/00-学习规划/学习路线与考纲映射.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题07-组合逻辑电路设计.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题08-竞争冒险及其消除.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题09-编码器与译码器.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题10-数据选择器与数据分配器.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题11-加法器与数值比较器.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题13-触发器转换与时序约束.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题14-时序电路描述与分析.md",
+    "Codex/projects/数电大师必修/00-学习规划/入门诊断-仅题目.md",
+    "Codex/projects/数电大师必修/01-主题讲义/讲义07-组合逻辑电路设计.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题04-卡诺图与无关项.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题06-组合逻辑电路分析.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题01-数制与编码.md",
+    "Codex/projects/数电大师必修/03-阶段测验/阶段A-逻辑代数与组合电路.md",
+    "Codex/projects/数电大师必修/03-阶段测验/阶段C-全考纲综合测验.md",
+    "Codex/projects/数电大师必修/04-资料与复习/核心流程速查.md",
+    "Codex/projects/数电大师必修/04-资料与复习/学习记录与错题模板.md",
+    "Codex/projects/数电大师必修/05-原理图/R2R电流转向DAC原理图.png",
+    "Codex/projects/数电大师必修/05-原理图/权电阻DAC原理图.png",
+    "Codex/projects/数电大师必修/02-配套例题/例题16-同步时序电路设计.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题17-异步时序电路分析与设计.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题12-锁存器与触发器.md",
+    "Codex/projects/数电大师必修/02-配套例题/例题02-逻辑门与函数表达.md",
+    "Codex/projects/数电大师必修/01-主题讲义/讲义01-数制与编码.md",
+    "Codex/projects/数电大师必修/00-学习规划/42天学习计划.md",
     "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
     "Codex/projects/C语言程序设计备考/02-题目合订本.md",
-    "Codex/projects/C语言程序设计备考/04-考纲覆盖与核验.md",
-    "Codex/projects/数字电子技术基础备考/01-讲义合订本.md",
-    "Codex/projects/考研数学一/每日两题/2026-09-28.md",
-    "Codex/projects/数字电子技术基础备考/02-题目合订本.md",
-    "Codex/projects/数字电子技术基础备考/03-解析合订本.md",
-    "Codex/projects/考研数学一/每日两题/2026-09-27.md",
-    "Codex/projects/数字电子技术基础备考/分层训练/00-学习导航.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/F卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/F卷-解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/E卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/E卷-解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/D卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/D卷-解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/C卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/C卷-解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/B卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/B卷-解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/A卷-题目.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷/A卷-解析.md",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/02-随堂练习解析.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/01-知识点细分讲义.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/00-学习导航.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/基础讲义-从零到综合.md",
-    "Codex/projects/数字电子技术基础备考/归档-旧版资料/基础练习-答案与解析.md",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料",
     "Codex/projects/数字电子技术基础备考/分层训练/练习卷",
@@ -255,8 +257,6 @@
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-720.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-719.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-708.jpg",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-707.jpg",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-706.jpg",
     "Untitled.canvas"
   ]
 }
