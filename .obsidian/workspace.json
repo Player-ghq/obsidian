@@ -11,10 +11,24 @@
             "id": "c33d72e6002b6c9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/数电大师必修/04-资料与复习/学习记录与错题模板.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "学习记录与错题模板"
             }
           }
         ]
@@ -111,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Codex/projects/数电大师必修/04-资料与复习/学习记录与错题模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
