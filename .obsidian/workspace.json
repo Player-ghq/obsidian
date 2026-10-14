@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/考研数学一/每日两题/每日两题汇总.md",
+                "file": "Codex/projects/考研线性代数/练习题/特征值与二次型50题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "每日两题汇总"
+              "title": "特征值与二次型50题"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/考研数学一/每日两题/每日两题汇总.md",
+                "file": "Codex/projects/考研线性代数/练习题/特征值与二次型50题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,13 +211,16 @@
   },
   "active": "c33d72e6002b6c9d",
   "lastOpenFiles": [
-    "Codex/projects/考研数学一/README.md",
-    "Codex/projects/考研线性代数/题型与错题/错题记录模板.md",
     "Codex/projects/考研线性代数/题型与错题/题型索引.md",
+    "Codex/projects/考研线性代数/练习题/特征值与二次型50题.md",
+    "Codex/projects/考研线性代数/题型与错题/错题记录模板.md",
+    "Codex/projects/考研线性代数/练习题/特征值与二次型50题-答案解析.md",
     "Codex/projects/考研线性代数/知识点/特征值与特征向量.md",
+    "Codex/projects/考研数学一/每日两题/每日两题汇总.md",
+    "Codex/projects/考研线性代数/练习题",
+    "Codex/projects/考研数学一/README.md",
     "Codex/projects/考研线性代数/知识点/二次型.md",
     "Codex/projects/考研数学一/每日两题/2026-09-13.md",
-    "Codex/projects/考研数学一/每日两题/每日两题汇总.md",
     "Codex/projects/考研线性代数/题型与错题",
     "Codex/projects/考研线性代数/知识点",
     "Codex/projects/考研线性代数/README.md",
@@ -239,8 +242,6 @@
     "Codex/projects/数电大师必修/讲义/07-数据选择器与数据分配器.md",
     "Codex/projects/数电大师必修/讲义/06-编码器与译码器.md",
     "Codex/projects/数电大师必修/讲义/10-触发器转换与时序约束.md",
-    "Codex/projects/数电大师必修/讲义/05-竞争冒险与消除.md",
-    "Codex/projects/数电大师必修/讲义/01-逻辑函数表示与逻辑代数.md",
     "Codex/projects/数电大师必修/图示/R2R电流转向DAC原理图.png",
     "Codex/projects/数电大师必修/讲义",
     "Codex/projects/数电大师必修/图示/锁存器与触发器时序.png",
@@ -254,7 +255,6 @@
     "Codex/projects/数电大师必修/99-旧版归档/2026-10-14-优化前/06-高阶综合题",
     "Codex/projects/数电大师必修/99-旧版归档/2026-10-14-优化前/05-原理图",
     "Codex/projects/数电大师必修/99-旧版归档/2026-10-14-优化前/04-资料与复习",
-    "Codex/projects/数电大师必修/99-旧版归档/2026-10-14-优化前/03-阶段测验",
     "Codex/projects/数电大师必修/05-原理图/R2R电流转向DAC原理图.png",
     "Codex/projects/数电大师必修/05-原理图/权电阻DAC原理图.png",
     "Untitled.canvas"
