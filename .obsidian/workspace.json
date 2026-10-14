@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b4622adc5e9149e2",
+        "id": "23e8425e74e26142",
         "type": "tabs",
         "children": [
           {
-            "id": "242b3099c01c02d2",
+            "id": "50d98398c2234a0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Codex/projects/数电大师必修/00-学习规划/42天学习计划.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "42天学习计划"
             }
           }
         ]
@@ -111,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/考研数学一/每日两题/2026-09-25.md",
+                "file": "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,12 +144,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codex/projects/运动康复真题与出题系统/每日晨测/答案/2026-07-27-答案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-27-答案"
+              "title": "Outgoing links"
             }
           },
           {
@@ -177,12 +190,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36ee5163cdd039cb",
+  "active": "50d98398c2234a0a",
   "lastOpenFiles": [
+    "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
     "Codex/projects/C语言程序设计备考/02-题目合订本.md",
     "Codex/projects/C语言程序设计备考/04-考纲覆盖与核验.md",
-    "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
     "Codex/projects/数字电子技术基础备考/01-讲义合订本.md",
     "Codex/projects/考研数学一/每日两题/2026-09-28.md",
     "Codex/projects/数字电子技术基础备考/02-题目合订本.md",
