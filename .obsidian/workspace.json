@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23e8425e74e26142",
+        "id": "bab797766b83a230",
         "type": "tabs",
         "children": [
           {
-            "id": "50d98398c2234a0a",
+            "id": "c33d72e6002b6c9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "例题05-数字集成电路输入输出特性"
+              "title": "New tab"
             }
           }
         ]
@@ -125,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,36 +194,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50d98398c2234a0a",
+  "active": "c33d72e6002b6c9d",
   "lastOpenFiles": [
+    "Codex/projects/数电大师必修/04-资料与复习/资料索引与勘误.md",
+    "Codex/projects/数电大师必修/01-主题讲义/讲义04-卡诺图与无关项.md",
+    "Codex/projects/数电大师必修/01-主题讲义/讲义05-数字集成电路输入输出特性.md",
+    "Codex/projects/数电大师必修/00-学习规划/高阶训练方法与交付标准.md",
     "Codex/projects/数电大师必修/00-学习规划/学习路线与考纲映射.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题07-组合逻辑电路设计.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题08-竞争冒险及其消除.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题09-编码器与译码器.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题10-数据选择器与数据分配器.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题11-加法器与数值比较器.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题13-触发器转换与时序约束.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题14-时序电路描述与分析.md",
-    "Codex/projects/数电大师必修/00-学习规划/入门诊断-仅题目.md",
-    "Codex/projects/数电大师必修/01-主题讲义/讲义07-组合逻辑电路设计.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题04-卡诺图与无关项.md",
     "Codex/projects/数电大师必修/02-配套例题/例题05-数字集成电路输入输出特性.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题06-组合逻辑电路分析.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题01-数制与编码.md",
-    "Codex/projects/数电大师必修/03-阶段测验/阶段A-逻辑代数与组合电路.md",
-    "Codex/projects/数电大师必修/03-阶段测验/阶段C-全考纲综合测验.md",
-    "Codex/projects/数电大师必修/04-资料与复习/核心流程速查.md",
-    "Codex/projects/数电大师必修/04-资料与复习/学习记录与错题模板.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H20-循环控制与模拟输出综合设计.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H19-ADC握手与数据寄存控制.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H18-双积分转换与周期干扰.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H16-分辨率误差与参考定义联合设计.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H17-非理想SAR判决与码区间.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H15-暂停与异常恢复的周期序列发生.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H14-自恢复Johnson计数器.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H13-异步流表与无临界竞争赋码.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H12-建立保持与时钟偏斜.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H11-带使能的模60模块设计.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H10-可保持且自恢复的模13计数.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H09-状态最小化与实现代价.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H08-带暂停的重叠序列检测.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H07-接口负载与逻辑延迟联合约束.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H06-优先编码与模块级联.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H05-共用加法器求绝对差.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H04-BCD控制与故障优先.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H03-选择器变量分配优化.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H02-无冒险实现与延迟验证.md",
+    "Codex/projects/数电大师必修/06-高阶综合题/高阶H01-约束化简与双输出实现.md",
+    "Codex/projects/数电大师必修/06-高阶综合题",
     "Codex/projects/数电大师必修/05-原理图/R2R电流转向DAC原理图.png",
     "Codex/projects/数电大师必修/05-原理图/权电阻DAC原理图.png",
-    "Codex/projects/数电大师必修/02-配套例题/例题16-同步时序电路设计.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题17-异步时序电路分析与设计.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题12-锁存器与触发器.md",
-    "Codex/projects/数电大师必修/02-配套例题/例题02-逻辑门与函数表达.md",
-    "Codex/projects/数电大师必修/01-主题讲义/讲义01-数制与编码.md",
-    "Codex/projects/数电大师必修/00-学习规划/42天学习计划.md",
-    "Codex/projects/C语言程序设计备考/01-讲义合订本.md",
-    "Codex/projects/C语言程序设计备考/02-题目合订本.md",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练/练习卷",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料/分层训练",
     "Codex/projects/数字电子技术基础备考/归档-旧版资料",
@@ -248,7 +234,6 @@
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/数字图像处理第四版-全书习题完整包.zip",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/校验结果.json",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/全书习题合订本.pdf",
-    "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/来源记录/OCR清单.json",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-733.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-732.jpg",
     "Codex/projects/电子科技大学830数字图像处理备考/教材课后习题/assets/pages/pdf-731.jpg",
