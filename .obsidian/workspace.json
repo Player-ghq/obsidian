@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codex/projects/数电大师必修/讲义/10-触发器转换与时序约束.md",
+                "file": "Codex/projects/数电大师必修/讲义/09-锁存器与触发器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "10-触发器转换与时序约束"
+              "title": "09-锁存器与触发器"
             }
           }
         ]
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codex/projects/数电大师必修/讲义/10-触发器转换与时序约束.md",
+                "file": "Codex/projects/数电大师必修/讲义/09-锁存器与触发器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,9 +211,11 @@
   },
   "active": "c33d72e6002b6c9d",
   "lastOpenFiles": [
-    "Codex/projects/数电大师必修/讲义/09-锁存器与触发器.md",
+    "Codex/projects/数电大师必修/讲义/08-加法器与数值比较器.md",
     "Codex/projects/数电大师必修/讲义/07-数据选择器与数据分配器.md",
     "Codex/projects/数电大师必修/讲义/06-编码器与译码器.md",
+    "Codex/projects/数电大师必修/讲义/10-触发器转换与时序约束.md",
+    "Codex/projects/数电大师必修/讲义/09-锁存器与触发器.md",
     "Codex/projects/数电大师必修/讲义/05-竞争冒险与消除.md",
     "Codex/projects/数电大师必修/讲义/01-逻辑函数表示与逻辑代数.md",
     "Codex/projects/数电大师必修/AGENTS.md",
@@ -230,8 +232,6 @@
     "Codex/projects/数电大师必修/讲义/13-同步时序电路设计.md",
     "Codex/projects/数电大师必修/讲义/12-状态化简与状态分配.md",
     "Codex/projects/数电大师必修/讲义/11-时序电路的状态描述与分析.md",
-    "Codex/projects/数电大师必修/讲义/10-触发器转换与时序约束.md",
-    "Codex/projects/数电大师必修/讲义/08-加法器与数值比较器.md",
     "Codex/projects/数电大师必修/讲义/04-组合逻辑电路分析与设计.md",
     "Codex/projects/数电大师必修/讲义/03-数字集成电路输入输出特性.md",
     "Codex/projects/数电大师必修/讲义/02-卡诺图与无关项.md",
